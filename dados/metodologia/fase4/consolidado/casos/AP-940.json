@@ -1,0 +1,2195 @@
+{
+ "id_caso": "AP-940",
+ "lido_em": "2026-10-12",
+ "paginas_lidas": "1-72 (todas)",
+ "unidades": [
+  {
+   "id_unidade": "AP-940-R01-I01",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo decidido no banco (copiado da instrução do lote, sem busca de evidência).",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": {
+    "valor": "Sugere-se desdobrar a unidade em três (um por fato): a questão decisiva difere entre o 1º fato (concorreu) e o 2º/3º fatos (outra: prova de pagamento de empregado particular x uso de servidor que exercia o cargo; atipicidade). Aqui, por caber no máximo duas questões, a questão 1 cobre o 1º fato e a questão 2 cobre o 2º e o 3º fatos.",
+    "evidencia": "Primeiro fato: nomeação de assessora parlamentar efetivada pelo irmão do réu, sem seu conhecimento. Ausência de provas de concorrência para a infração penal. 6. Segundo e terceiro fatos: o uso de assessores parlamentares que, de fato, exerciam atribuições inerentes a seu cargo para prestar outros serviços de natureza privada. Conduta penalmente atípica.",
+    "fonte": "p. 1",
+    "confianca": "alta"
+   },
+   "voto_condutor": {
+    "valor": "Gilmar Mendes",
+    "evidencia": "por unanimidade de votos, julgar improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+    "fonte": "p. 1",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "concorreu",
+      "evidencia": "Primeiro fato: nomeação de assessora parlamentar efetivada pelo irmão do réu, sem seu conhecimento. Ausência de provas de concorrência para a infração penal.",
+      "fonte": "p. 1",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Primeiro fato: nomeação de assessora parlamentar efetivada pelo irmão do réu, sem seu conhecimento. Ausência de provas de concorrência para a infração penal.",
+      "fonte": "p. 1",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "Ausência de provas de concorrência para a infração penal.",
+      "fonte": "p. 1"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Sendo assim, no que tange à nomeação de Maria Evanir Nogueira da Silva, não vislumbro provas da existência do crime e da autoria por parte do acusado, devendo ser absolvido, com base no artigo 386, V, do Código de Processo Penal.",
+      "fonte": "p. 17",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": {
+      "valor": "autor",
+      "evidencia": "Isso porque Aparecido Vieira Lopes, irmão do réu, declarou ter sido o autor da nomeação de Maria Evanir na Assembleia Legislativa. [...] O réu nega a autoria do fato, imputando a responsabilidade ao seu irmão.",
+      "fonte": "p. 15",
+      "confianca": "media"
+     },
+     "posicoes": [
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Ante o exposto, voto pela improcedência da presente ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato",
+        "fonte": "p. 36",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "A despeito da confirmação do vínculo formal, verifico não haver provas de participação do réu em relação à nomeação de Maria Evanir",
+        "fonte": "p. 14",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "no que tange à nomeação de Maria Evanir Nogueira da Silva, não vislumbro provas da existência do crime e da autoria por parte do acusado, devendo ser absolvido, com base no artigo 386, V, do Código de Processo Penal.",
+        "fonte": "p. 17",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "1º fato (Maria Evanir). Prova: confissão do irmão (Aparecido) de ter feito a nomeação 'à revelia do deputado' (p. 15), corroborada por Evilásio; a própria PGR pediu absolvição (p. 16). Menciona de passagem 'não há indícios concretos da prática da conduta dolosa' (p. 16).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Por todas essas razões, tal como Vossa Excelência, julgo improcedente a ação penal, a fim de absolver Édio Vieira Lopes das imputações de peculato",
+        "fonte": "p. 52",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Como se nota, o quadro probatório é frágil para caracterizar participação do réu nos ilícitos apontados.",
+        "fonte": "p. 43",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "no que concerne à contratação de Maria Evanir Nogueira da Silva, não verifico provas robustas da existência do crime e de autoria, devendo o acusado, portanto, ser absolvido, com base no art. 386, V e VII, do Código de Processo Penal.",
+        "fonte": "p. 44",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Revisor; declara acompanhar o Relator 'pelas seguintes razões' (p. 37) e fundamenta. Para o 1º fato invoca art. 386, V e VII (o Relator, só V).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "ACOMPANHANDO INTEGRALMENTE o voto do Min. GILMAR MENDES (Relator), AFASTO AS PRELIMINARES e JULGO IMPROCEDENTE a Ação Penal promovida contra ÉDIO VIEIRA LOPES (AP 940) para absolvê-lo da prática de todos os crimes que lhe foram imputados",
+        "fonte": "p. 71",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Além disso, conta da autos que o responsável pela nomeação de Maria Evanir Nogueira da Silva foi o irmão do réu, Aparecido Vieira Lopes",
+        "fonte": "p. 64",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Assim, não há prova de que o réu concorreu para a infração penal, a ensejar a aplicação do art. 386, V, do Código de Processo Penal.",
+        "fonte": "p. 64",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Transcreve o voto do Relator (p. 59-61) e acrescenta análise própria (p. 64).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "André Mendonça",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "concorreu",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "sim_favorece": "acusacao"
+    },
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "Segundo e terceiro fatos: o uso de assessores parlamentares que, de fato, exerciam atribuições inerentes a seu cargo para prestar outros serviços de natureza privada. Conduta penalmente atípica. Precedentes.",
+      "fonte": "p. 1",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": "Há prova de que o servidor comissionado nomeado pelo réu foi pago pelo erário sem exercer as atribuições do cargo (uso da Administração Pública para pagar empregado particular), e não apenas usado também em serviços de natureza privada, hipótese que a Corte trata como penalmente atípica (AP 504; Inq 3.776)?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Segundo e terceiro fatos: o uso de assessores parlamentares que, de fato, exerciam atribuições inerentes a seu cargo para prestar outros serviços de natureza privada. Conduta penalmente atípica.",
+      "fonte": "p. 1",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "o uso de assessores parlamentares que, de fato, exerciam atribuições inerentes a seu cargo para prestar outros serviços de natureza privada. Conduta penalmente atípica.",
+      "fonte": "p. 1"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Portanto, em relação à nomeação de Maria José de Santana não vislumbro provas da existência do crime e da autoria por parte do acusado, devendo o réu ser absolvido, com base no artigo 386, III e VII, do Código de Processo Penal.",
+      "fonte": "p. 23",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Ante o exposto, voto pela improcedência da presente ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato",
+        "fonte": "p. 36",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Assim, o lastro probatório é insuficiente para demonstrar que a referida secretária parlamentar foi contratada para o exercício de atividades privadas, mediante contraprestação da Assembleia Legislativa de Roraima, de modo que a conduta do réu é penalmente atípica.",
+        "fonte": "p. 21",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Outrossim, em relação aos trabalhos que eram exercidos por Antonio Praxedes, reitero [...] no sentido de que é atípica a conduta de utilizar funcionário público que, de fato, exercia as atribuições inerentes a seu cargo para prestar outros serviços de natureza privada.",
+        "fonte": "p. 33",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "2º fato (Maria José): soma, como fundamento subsidiário, 'mesmo que se admitisse a alegada incompatibilidade entre o cargo ocupado e o serviço desempenhado, não se comprovou dolo na conduta' (p. 19). 3º fato (Praxedes): maioria dos depoimentos indica que era 'de fato, assessor parlamentar'; contradições levam ao in dubio pro reo (p. 33); valores pagos não identificados (p. 35). Absolvição por art. 386, III e VII (p. 23 e p. 36).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Por todas essas razões, tal como Vossa Excelência, julgo improcedente a ação penal, a fim de absolver Édio Vieira Lopes das imputações de peculato",
+        "fonte": "p. 52",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "a PGR não se desvencilhou do ônus de comprovar que a referida secretária parlamentar exerceu exclusiva atividade privada para o réu, sob as expensas da Assembleia Legislativa do Estado de Roraima, razão pela qual o réu deve ser absolvido, nos termos do art. 386, III e VII, do Código de Processo Penal.",
+        "fonte": "p. 47",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Rememoro, por oportuno, ser atípica a conduta de utilizar funcionário público que, de fato, exercia as atribuições inerentes a seu cargo para prestar outros serviços de natureza privada, nos termos do entendimento firmado na citada AP 504/DF.",
+        "fonte": "p. 51",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "2º fato: também afirma que a prova 'não comprova a existência do elemento subjetivo (dolo) do tipo penal previsto no art. 312 do CP' (p. 45). 3º fato: absolvição por art. 386, III e VII (p. 52), com in dubio pro reo (p. 51).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "ACOMPANHANDO INTEGRALMENTE o voto do Min. GILMAR MENDES (Relator), AFASTO AS PRELIMINARES e JULGO IMPROCEDENTE a Ação Penal promovida contra ÉDIO VIEIRA LOPES (AP 940) para absolvê-lo da prática de todos os crimes que lhe foram imputados",
+        "fonte": "p. 71",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "As testemunhas confirmaram que houve a efetiva prestação de serviços, em compatibilidade com 8º do Ato da Mesa nº 72, de 16/9/1997, da Câmara dos Deputados",
+        "fonte": "p. 65",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Assim, da mesma forma, é caso de absolvição do réu também quanto a este fato, com base no art. 386, III e VII, do Código de Processo Penal",
+        "fonte": "p. 67",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "2º fato: prova testemunhal 'unânime no sentido de que ela efetivamente prestou serviços ao parlamentar' (p. 65). 3º fato: fundamenta só na insuficiência de prova sobre 'a natureza do trabalho prestado por Antonino Praxedes Fernandes' e absolve 'nos termos do art. 386, VII' (p. 68), sem repetir a tese de atipicidade para esse fato.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "André Mendonça",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "tipicidade",
+     "anotacao_tipicidade": "existencia_fato",
+     "anotacoes": [],
+     "questao_outra_evidencia": {
+      "evidencia": "Assim, o lastro probatório é insuficiente para demonstrar que a referida secretária parlamentar foi contratada para o exercício de atividades privadas, mediante contraprestação da Assembleia Legislativa de Roraima, de modo que a conduta do réu é penalmente atípica.",
+      "fonte": "p. 21",
+      "confianca": "media"
+     },
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "categoria_v2",
+       "de": "outra",
+       "para": "tipicidade",
+       "regra": "G4-02",
+       "nota": ""
+      }
+     ]
+    }
+   ],
+   "precedentes": [],
+   "obs": "Votos lidos coincidem com o banco (11 x Absolve). Três ministros têm peça com fundamentação própria (Gilmar Mendes, Ricardo Lewandowski, Alexandre de Moraes); os outros oito não têm peça e foram registrados como Adesao com base na ata (p. 72), que diz 'nos termos do voto do Relator'. Lewandowski é o Revisor, embora o cabeçalho da peça diga 'Voto Vogal' (p. 37: 'O Senhor Ministro Ricardo Lewandowski (Revisor)'). Fundamentos legais da absolvição: 1º fato art. 386, V (Relator, p. 17); 2º e 3º fatos art. 386, III e VII (p. 23, p. 36). Precedentes usados só nas preliminares (HC 81.260, RE 602.527 QO-RG, QO na AP 937, Inq 2952 ED) não foram listados (R6).",
+   "status": "desdobrada",
+   "motivo_status": "G4-06: substituída por AP-940-R01-I01a, AP-940-R01-I01b",
+   "precedentes_lidos": [
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 898, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 12/04/2016",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "A jurisprudência desta Corte impõe a absolvição em caso de ausência de provas de que o réu concorreu para a infração penal, conforme se verifica:",
+     "fonte": "p. 16-17"
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 554, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, DJe de 8-6-2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "À falta de prova suficiente de que o réu concorreu para o crime, impõe-se a absolvição na forma do art. 386, V, do Código de Processo Penal.",
+     "fonte": "p. 17"
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 504, Relator(a): Min. CÁRMEN LÚCIA, Relator(a) p/ Acórdão: Min. DIAS TOFFOLI, Segunda Turma, DJe 01.08.2017",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "No julgamento da ação penal 504/DF, discutiu-se, no âmbito do direito penal se a atividade de secretário parlamentar",
+     "fonte": "p. 19 (ementa transcrita p. 20-21); reiterado p. 33"
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 1018, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 18/09/2018",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Outrossim, a jurisprudência desta Corte é no sentido de que, em caso de fragilidade de provas para condenação por peculato desvio, a improcedência da pretensão condenatória se impõe",
+     "fonte": "p. 21-22"
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "Inq 3.776, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe 04/11/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Outra não foi a conclusão a que se chegou no julgamento do Inquérito nº 3.776/TO [...] Destaque-se que a situação acima descrita é semelhante ao presente caso.",
+     "fonte": "p. 22-23; reiterado p. 33"
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "inquérito nº 2.952/RR (decisão do próprio Relator no recebimento da denúncia desta causa)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Nesse sentido, repiso a decisão do inquérito nº 2.952/RR, na qual destaquei que os detentores de cargo em comissão não estão sujeitos a um controle de frequência que exceda as demandas do gabinete em que está lotado.",
+     "fonte": "p. 32"
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator:Min. DIAS TOFFOLI, Primeira Turma, julgado em 18/11/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse contexto, cito precedentes desta Corte:",
+     "fonte": "p. 33-34"
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 528, Relator(a): Min. EDSON FACHIN, Segunda Turma, DJe 01/02/2019",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse contexto, cito precedentes desta Corte:",
+     "fonte": "p. 33-35"
+    },
+    {
+     "ministro": "Ricardo Lewandowski",
+     "tipo": "precedente_citado",
+     "referencia": "AP 504/DF, de relatoria da Ministra Cármen Lúcia, Segunda Turma",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Assinalo, a propósito, que, no julgamento da AP 504/DF, de relatoria da Ministra Cármen Lúcia, foi assentado por esta Segunda Turma existir",
+     "fonte": "p. 45 (ementa transcrita p. 46-47); reiterado p. 51"
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 528, Relator(a): EDSON FACHIN, Segunda Turma, DJe 1º/2/2019",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "O SUPREMO TRIBUNAL FEDERAL já se posicionou no sentido de que a atividade de secretário parlamentar não se limita ao desempenho de tarefas burocráticas, conforme se depreende do seguinte julgado",
+     "fonte": "p. 65-67; reiterado p. 71"
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe de 5/2/2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "sendo caso de absolvê-lo por insuficiência de provas, nos termos do art. 386, VII, do Código de Processo Penal. Nesse sentido:",
+     "fonte": "p. 68-69"
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "STF, HC 89.501/GO, Rel. Min. CELSO DE MELLO, Segunda Turma; HC 97.701/MS, Rel. Min. AYRES BRITTO, Segunda Turma; HC 88.875/AM, Rel. Min. CELSO DE MELLO, Segunda Turma",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Há a necessidade de o Estado-acusador comprovar a culpabilidade do indivíduo mediante o contraditório, que é constitucionalmente presumido inocente",
+     "fonte": "p. 69"
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "como bem destacado por esta CORTE SUPREMA, em julgamento do HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "fonte": "p. 70"
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "As provas, portanto, precisam ser incontestáveis, não se admitindo condenações com base em dúvida razoável, como destacado pelo então DECANO da SUPREMA CORTE, Min. CELSO DE MELLO",
+     "fonte": "p. 70"
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 869/AL, Segunda Turma, Rel. Min. TEORI ZAVASCKI; HC 73.338-7/RJ, Primeira Turma, Rel. Min. CELSO DE MELLO",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "o estado de dúvida obstaculiza o juízo condenatório, devendo-se sempre ressaltar o papel do processo penal como instrumento de salvaguarda das liberdades individuais, conforme bem sublinhou o Min. CELSO DE MELLO, nos Votos que proferiu na AP 869/AL",
+     "fonte": "p. 71"
+    }
+   ]
+  },
+  {
+   "id_unidade": "AP-940-R01-I01a",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo decidido no banco (copiado da instrução do lote, sem busca de evidência).",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": {
+    "valor": "desdobrada",
+    "evidencia": "G4-06: 1º fato",
+    "fonte": "gate",
+    "confianca": "alta"
+   },
+   "voto_condutor": {
+    "valor": "Gilmar Mendes",
+    "evidencia": "por unanimidade de votos, julgar improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+    "fonte": "p. 1",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "concorreu",
+      "evidencia": "Primeiro fato: nomeação de assessora parlamentar efetivada pelo irmão do réu, sem seu conhecimento. Ausência de provas de concorrência para a infração penal.",
+      "fonte": "p. 1",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "principal": {
+      "valor": "Sim",
+      "evidencia": null,
+      "fonte": "G4-06",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "Ausência de provas de concorrência para a infração penal.",
+      "fonte": "p. 1"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Sendo assim, no que tange à nomeação de Maria Evanir Nogueira da Silva, não vislumbro provas da existência do crime e da autoria por parte do acusado, devendo ser absolvido, com base no artigo 386, V, do Código de Processo Penal.",
+      "fonte": "p. 17",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": {
+      "valor": "autor",
+      "evidencia": "Isso porque Aparecido Vieira Lopes, irmão do réu, declarou ter sido o autor da nomeação de Maria Evanir na Assembleia Legislativa. [...] O réu nega a autoria do fato, imputando a responsabilidade ao seu irmão.",
+      "fonte": "p. 15",
+      "confianca": "media"
+     },
+     "posicoes": [
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Ante o exposto, voto pela improcedência da presente ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato",
+        "fonte": "p. 36",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "A despeito da confirmação do vínculo formal, verifico não haver provas de participação do réu em relação à nomeação de Maria Evanir",
+        "fonte": "p. 14",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "no que tange à nomeação de Maria Evanir Nogueira da Silva, não vislumbro provas da existência do crime e da autoria por parte do acusado, devendo ser absolvido, com base no artigo 386, V, do Código de Processo Penal.",
+        "fonte": "p. 17",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "1º fato (Maria Evanir). Prova: confissão do irmão (Aparecido) de ter feito a nomeação 'à revelia do deputado' (p. 15), corroborada por Evilásio; a própria PGR pediu absolvição (p. 16). Menciona de passagem 'não há indícios concretos da prática da conduta dolosa' (p. 16).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Por todas essas razões, tal como Vossa Excelência, julgo improcedente a ação penal, a fim de absolver Édio Vieira Lopes das imputações de peculato",
+        "fonte": "p. 52",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Como se nota, o quadro probatório é frágil para caracterizar participação do réu nos ilícitos apontados.",
+        "fonte": "p. 43",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "no que concerne à contratação de Maria Evanir Nogueira da Silva, não verifico provas robustas da existência do crime e de autoria, devendo o acusado, portanto, ser absolvido, com base no art. 386, V e VII, do Código de Processo Penal.",
+        "fonte": "p. 44",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Revisor; declara acompanhar o Relator 'pelas seguintes razões' (p. 37) e fundamenta. Para o 1º fato invoca art. 386, V e VII (o Relator, só V).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "ACOMPANHANDO INTEGRALMENTE o voto do Min. GILMAR MENDES (Relator), AFASTO AS PRELIMINARES e JULGO IMPROCEDENTE a Ação Penal promovida contra ÉDIO VIEIRA LOPES (AP 940) para absolvê-lo da prática de todos os crimes que lhe foram imputados",
+        "fonte": "p. 71",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Além disso, conta da autos que o responsável pela nomeação de Maria Evanir Nogueira da Silva foi o irmão do réu, Aparecido Vieira Lopes",
+        "fonte": "p. 64",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Assim, não há prova de que o réu concorreu para a infração penal, a ensejar a aplicação do art. 386, V, do Código de Processo Penal.",
+        "fonte": "p. 64",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Transcreve o voto do Relator (p. 59-61) e acrescenta análise própria (p. 64).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "André Mendonça",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "1º fato; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "concorreu",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "principal",
+       "de": {
+        "valor": "Sim",
+        "evidencia": "Primeiro fato: nomeação de assessora parlamentar efetivada pelo irmão do réu, sem seu conhecimento. Ausência de provas de concorrência para a infração penal.",
+        "fonte": "p. 1",
+        "confianca": "media"
+       },
+       "para": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "G4-06",
+        "confianca": "alta"
+       },
+       "regra": "G4-06",
+       "nota": "única questão da unidade desdobrada"
+      }
+     ]
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 898, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 12/04/2016",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "A jurisprudência desta Corte impõe a absolvição em caso de ausência de provas de que o réu concorreu para a infração penal, conforme se verifica:",
+     "fonte": "p. 16-17",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 554, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, DJe de 8-6-2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "À falta de prova suficiente de que o réu concorreu para o crime, impõe-se a absolvição na forma do art. 386, V, do Código de Processo Penal.",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 504, Relator(a): Min. CÁRMEN LÚCIA, Relator(a) p/ Acórdão: Min. DIAS TOFFOLI, Segunda Turma, DJe 01.08.2017",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "No julgamento da ação penal 504/DF, discutiu-se, no âmbito do direito penal se a atividade de secretário parlamentar",
+     "fonte": "p. 19 (ementa transcrita p. 20-21); reiterado p. 33",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 1018, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 18/09/2018",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Outrossim, a jurisprudência desta Corte é no sentido de que, em caso de fragilidade de provas para condenação por peculato desvio, a improcedência da pretensão condenatória se impõe",
+     "fonte": "p. 21-22",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "Inq 3.776, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe 04/11/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Outra não foi a conclusão a que se chegou no julgamento do Inquérito nº 3.776/TO [...] Destaque-se que a situação acima descrita é semelhante ao presente caso.",
+     "fonte": "p. 22-23; reiterado p. 33",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "inquérito nº 2.952/RR (decisão do próprio Relator no recebimento da denúncia desta causa)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Nesse sentido, repiso a decisão do inquérito nº 2.952/RR, na qual destaquei que os detentores de cargo em comissão não estão sujeitos a um controle de frequência que exceda as demandas do gabinete em que está lotado.",
+     "fonte": "p. 32",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator:Min. DIAS TOFFOLI, Primeira Turma, julgado em 18/11/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse contexto, cito precedentes desta Corte:",
+     "fonte": "p. 33-34",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 528, Relator(a): Min. EDSON FACHIN, Segunda Turma, DJe 01/02/2019",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse contexto, cito precedentes desta Corte:",
+     "fonte": "p. 33-35",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Ricardo Lewandowski",
+     "tipo": "precedente_citado",
+     "referencia": "AP 504/DF, de relatoria da Ministra Cármen Lúcia, Segunda Turma",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Assinalo, a propósito, que, no julgamento da AP 504/DF, de relatoria da Ministra Cármen Lúcia, foi assentado por esta Segunda Turma existir",
+     "fonte": "p. 45 (ementa transcrita p. 46-47); reiterado p. 51",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 528, Relator(a): EDSON FACHIN, Segunda Turma, DJe 1º/2/2019",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "O SUPREMO TRIBUNAL FEDERAL já se posicionou no sentido de que a atividade de secretário parlamentar não se limita ao desempenho de tarefas burocráticas, conforme se depreende do seguinte julgado",
+     "fonte": "p. 65-67; reiterado p. 71",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe de 5/2/2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "sendo caso de absolvê-lo por insuficiência de provas, nos termos do art. 386, VII, do Código de Processo Penal. Nesse sentido:",
+     "fonte": "p. 68-69",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "STF, HC 89.501/GO, Rel. Min. CELSO DE MELLO, Segunda Turma; HC 97.701/MS, Rel. Min. AYRES BRITTO, Segunda Turma; HC 88.875/AM, Rel. Min. CELSO DE MELLO, Segunda Turma",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Há a necessidade de o Estado-acusador comprovar a culpabilidade do indivíduo mediante o contraditório, que é constitucionalmente presumido inocente",
+     "fonte": "p. 69",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "como bem destacado por esta CORTE SUPREMA, em julgamento do HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "fonte": "p. 70",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "As provas, portanto, precisam ser incontestáveis, não se admitindo condenações com base em dúvida razoável, como destacado pelo então DECANO da SUPREMA CORTE, Min. CELSO DE MELLO",
+     "fonte": "p. 70",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 869/AL, Segunda Turma, Rel. Min. TEORI ZAVASCKI; HC 73.338-7/RJ, Primeira Turma, Rel. Min. CELSO DE MELLO",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "o estado de dúvida obstaculiza o juízo condenatório, devendo-se sempre ressaltar o papel do processo penal como instrumento de salvaguarda das liberdades individuais, conforme bem sublinhou o Min. CELSO DE MELLO, nos Votos que proferiu na AP 869/AL",
+     "fonte": "p. 71",
+     "na_pagina_da_evidencia": false
+    }
+   ],
+   "obs": "Votos lidos coincidem com o banco (11 x Absolve). Três ministros têm peça com fundamentação própria (Gilmar Mendes, Ricardo Lewandowski, Alexandre de Moraes); os outros oito não têm peça e foram registrados como Adesao com base na ata (p. 72), que diz 'nos termos do voto do Relator'. Lewandowski é o Revisor, embora o cabeçalho da peça diga 'Voto Vogal' (p. 37: 'O Senhor Ministro Ricardo Lewandowski (Revisor)'). Fundamentos legais da absolvição: 1º fato art. 386, V (Relator, p. 17); 2º e 3º fatos art. 386, III e VII (p. 23, p. 36). Precedentes usados só nas preliminares (HC 81.260, RE 602.527 QO-RG, QO na AP 937, Inq 2952 ED) não foram listados (R6).",
+   "status": "ativa",
+   "motivo_status": null,
+   "unidade_origem": "AP-940-R01-I01",
+   "fato": "1º fato",
+   "precedentes_lidos": [
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 898, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 12/04/2016",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "A jurisprudência desta Corte impõe a absolvição em caso de ausência de provas de que o réu concorreu para a infração penal, conforme se verifica:",
+     "fonte": "p. 16-17",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 554, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, DJe de 8-6-2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "À falta de prova suficiente de que o réu concorreu para o crime, impõe-se a absolvição na forma do art. 386, V, do Código de Processo Penal.",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 504, Relator(a): Min. CÁRMEN LÚCIA, Relator(a) p/ Acórdão: Min. DIAS TOFFOLI, Segunda Turma, DJe 01.08.2017",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "No julgamento da ação penal 504/DF, discutiu-se, no âmbito do direito penal se a atividade de secretário parlamentar",
+     "fonte": "p. 19 (ementa transcrita p. 20-21); reiterado p. 33",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 1018, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 18/09/2018",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Outrossim, a jurisprudência desta Corte é no sentido de que, em caso de fragilidade de provas para condenação por peculato desvio, a improcedência da pretensão condenatória se impõe",
+     "fonte": "p. 21-22",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "Inq 3.776, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe 04/11/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Outra não foi a conclusão a que se chegou no julgamento do Inquérito nº 3.776/TO [...] Destaque-se que a situação acima descrita é semelhante ao presente caso.",
+     "fonte": "p. 22-23; reiterado p. 33",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "inquérito nº 2.952/RR (decisão do próprio Relator no recebimento da denúncia desta causa)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Nesse sentido, repiso a decisão do inquérito nº 2.952/RR, na qual destaquei que os detentores de cargo em comissão não estão sujeitos a um controle de frequência que exceda as demandas do gabinete em que está lotado.",
+     "fonte": "p. 32",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator:Min. DIAS TOFFOLI, Primeira Turma, julgado em 18/11/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse contexto, cito precedentes desta Corte:",
+     "fonte": "p. 33-34",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 528, Relator(a): Min. EDSON FACHIN, Segunda Turma, DJe 01/02/2019",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse contexto, cito precedentes desta Corte:",
+     "fonte": "p. 33-35",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Ricardo Lewandowski",
+     "tipo": "precedente_citado",
+     "referencia": "AP 504/DF, de relatoria da Ministra Cármen Lúcia, Segunda Turma",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Assinalo, a propósito, que, no julgamento da AP 504/DF, de relatoria da Ministra Cármen Lúcia, foi assentado por esta Segunda Turma existir",
+     "fonte": "p. 45 (ementa transcrita p. 46-47); reiterado p. 51",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 528, Relator(a): EDSON FACHIN, Segunda Turma, DJe 1º/2/2019",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "O SUPREMO TRIBUNAL FEDERAL já se posicionou no sentido de que a atividade de secretário parlamentar não se limita ao desempenho de tarefas burocráticas, conforme se depreende do seguinte julgado",
+     "fonte": "p. 65-67; reiterado p. 71",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe de 5/2/2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "sendo caso de absolvê-lo por insuficiência de provas, nos termos do art. 386, VII, do Código de Processo Penal. Nesse sentido:",
+     "fonte": "p. 68-69",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "STF, HC 89.501/GO, Rel. Min. CELSO DE MELLO, Segunda Turma; HC 97.701/MS, Rel. Min. AYRES BRITTO, Segunda Turma; HC 88.875/AM, Rel. Min. CELSO DE MELLO, Segunda Turma",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Há a necessidade de o Estado-acusador comprovar a culpabilidade do indivíduo mediante o contraditório, que é constitucionalmente presumido inocente",
+     "fonte": "p. 69",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "como bem destacado por esta CORTE SUPREMA, em julgamento do HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "fonte": "p. 70",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "As provas, portanto, precisam ser incontestáveis, não se admitindo condenações com base em dúvida razoável, como destacado pelo então DECANO da SUPREMA CORTE, Min. CELSO DE MELLO",
+     "fonte": "p. 70",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 869/AL, Segunda Turma, Rel. Min. TEORI ZAVASCKI; HC 73.338-7/RJ, Primeira Turma, Rel. Min. CELSO DE MELLO",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "o estado de dúvida obstaculiza o juízo condenatório, devendo-se sempre ressaltar o papel do processo penal como instrumento de salvaguarda das liberdades individuais, conforme bem sublinhou o Min. CELSO DE MELLO, nos Votos que proferiu na AP 869/AL",
+     "fonte": "p. 71",
+     "na_pagina_da_evidencia": false
+    }
+   ]
+  },
+  {
+   "id_unidade": "AP-940-R01-I01b",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo decidido no banco (copiado da instrução do lote, sem busca de evidência).",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": {
+    "valor": "desdobrada",
+    "evidencia": "G4-06: 2º e 3º fatos",
+    "fonte": "gate",
+    "confianca": "alta"
+   },
+   "voto_condutor": {
+    "valor": "Gilmar Mendes",
+    "evidencia": "por unanimidade de votos, julgar improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+    "fonte": "p. 1",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "Segundo e terceiro fatos: o uso de assessores parlamentares que, de fato, exerciam atribuições inerentes a seu cargo para prestar outros serviços de natureza privada. Conduta penalmente atípica. Precedentes.",
+      "fonte": "p. 1",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": "Há prova de que o servidor comissionado nomeado pelo réu foi pago pelo erário sem exercer as atribuições do cargo (uso da Administração Pública para pagar empregado particular), e não apenas usado também em serviços de natureza privada, hipótese que a Corte trata como penalmente atípica (AP 504; Inq 3.776)?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": null,
+      "fonte": "G4-06",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "o uso de assessores parlamentares que, de fato, exerciam atribuições inerentes a seu cargo para prestar outros serviços de natureza privada. Conduta penalmente atípica.",
+      "fonte": "p. 1"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Portanto, em relação à nomeação de Maria José de Santana não vislumbro provas da existência do crime e da autoria por parte do acusado, devendo o réu ser absolvido, com base no artigo 386, III e VII, do Código de Processo Penal.",
+      "fonte": "p. 23",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Ante o exposto, voto pela improcedência da presente ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato",
+        "fonte": "p. 36",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Assim, o lastro probatório é insuficiente para demonstrar que a referida secretária parlamentar foi contratada para o exercício de atividades privadas, mediante contraprestação da Assembleia Legislativa de Roraima, de modo que a conduta do réu é penalmente atípica.",
+        "fonte": "p. 21",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Outrossim, em relação aos trabalhos que eram exercidos por Antonio Praxedes, reitero [...] no sentido de que é atípica a conduta de utilizar funcionário público que, de fato, exercia as atribuições inerentes a seu cargo para prestar outros serviços de natureza privada.",
+        "fonte": "p. 33",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "2º fato (Maria José): soma, como fundamento subsidiário, 'mesmo que se admitisse a alegada incompatibilidade entre o cargo ocupado e o serviço desempenhado, não se comprovou dolo na conduta' (p. 19). 3º fato (Praxedes): maioria dos depoimentos indica que era 'de fato, assessor parlamentar'; contradições levam ao in dubio pro reo (p. 33); valores pagos não identificados (p. 35). Absolvição por art. 386, III e VII (p. 23 e p. 36).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Por todas essas razões, tal como Vossa Excelência, julgo improcedente a ação penal, a fim de absolver Édio Vieira Lopes das imputações de peculato",
+        "fonte": "p. 52",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "a PGR não se desvencilhou do ônus de comprovar que a referida secretária parlamentar exerceu exclusiva atividade privada para o réu, sob as expensas da Assembleia Legislativa do Estado de Roraima, razão pela qual o réu deve ser absolvido, nos termos do art. 386, III e VII, do Código de Processo Penal.",
+        "fonte": "p. 47",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Rememoro, por oportuno, ser atípica a conduta de utilizar funcionário público que, de fato, exercia as atribuições inerentes a seu cargo para prestar outros serviços de natureza privada, nos termos do entendimento firmado na citada AP 504/DF.",
+        "fonte": "p. 51",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "2º fato: também afirma que a prova 'não comprova a existência do elemento subjetivo (dolo) do tipo penal previsto no art. 312 do CP' (p. 45). 3º fato: absolvição por art. 386, III e VII (p. 52), com in dubio pro reo (p. 51).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "ACOMPANHANDO INTEGRALMENTE o voto do Min. GILMAR MENDES (Relator), AFASTO AS PRELIMINARES e JULGO IMPROCEDENTE a Ação Penal promovida contra ÉDIO VIEIRA LOPES (AP 940) para absolvê-lo da prática de todos os crimes que lhe foram imputados",
+        "fonte": "p. 71",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "As testemunhas confirmaram que houve a efetiva prestação de serviços, em compatibilidade com 8º do Ato da Mesa nº 72, de 16/9/1997, da Câmara dos Deputados",
+        "fonte": "p. 65",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Assim, da mesma forma, é caso de absolvição do réu também quanto a este fato, com base no art. 386, III e VII, do Código de Processo Penal",
+        "fonte": "p. 67",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "2º fato: prova testemunhal 'unânime no sentido de que ela efetivamente prestou serviços ao parlamentar' (p. 65). 3º fato: fundamenta só na insuficiência de prova sobre 'a natureza do trabalho prestado por Antonino Praxedes Fernandes' e absolve 'nos termos do art. 386, VII' (p. 68), sem repetir a tese de atipicidade para esse fato.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "André Mendonça",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "p. 72",
+        "confianca": "media",
+        "inferida_de": "Gilmar Mendes (Relator) — inferência declarada: a ata registra unanimidade 'nos termos do voto do Relator'"
+       },
+       "posicao_detalhe": "2º e 3º fatos; sem texto próprio. Sem peça própria no acórdão; julgamento em sessão virtual; adesão inferida da ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "tipicidade",
+     "anotacao_tipicidade": "existencia_fato",
+     "anotacoes": [],
+     "questao_outra_evidencia": {
+      "evidencia": "Assim, o lastro probatório é insuficiente para demonstrar que a referida secretária parlamentar foi contratada para o exercício de atividades privadas, mediante contraprestação da Assembleia Legislativa de Roraima, de modo que a conduta do réu é penalmente atípica.",
+      "fonte": "p. 21",
+      "confianca": "media"
+     },
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "categoria_v2",
+       "de": "outra",
+       "para": "tipicidade",
+       "regra": "G4-02",
+       "nota": ""
+      },
+      {
+       "campo": "principal",
+       "de": {
+        "valor": "Sim",
+        "evidencia": "Segundo e terceiro fatos: o uso de assessores parlamentares que, de fato, exerciam atribuições inerentes a seu cargo para prestar outros serviços de natureza privada. Conduta penalmente atípica.",
+        "fonte": "p. 1",
+        "confianca": "media"
+       },
+       "para": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "G4-06",
+        "confianca": "alta"
+       },
+       "regra": "G4-06",
+       "nota": "única questão da unidade desdobrada"
+      }
+     ]
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 898, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 12/04/2016",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "A jurisprudência desta Corte impõe a absolvição em caso de ausência de provas de que o réu concorreu para a infração penal, conforme se verifica:",
+     "fonte": "p. 16-17",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 554, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, DJe de 8-6-2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "À falta de prova suficiente de que o réu concorreu para o crime, impõe-se a absolvição na forma do art. 386, V, do Código de Processo Penal.",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 504, Relator(a): Min. CÁRMEN LÚCIA, Relator(a) p/ Acórdão: Min. DIAS TOFFOLI, Segunda Turma, DJe 01.08.2017",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "No julgamento da ação penal 504/DF, discutiu-se, no âmbito do direito penal se a atividade de secretário parlamentar",
+     "fonte": "p. 19 (ementa transcrita p. 20-21); reiterado p. 33",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 1018, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 18/09/2018",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Outrossim, a jurisprudência desta Corte é no sentido de que, em caso de fragilidade de provas para condenação por peculato desvio, a improcedência da pretensão condenatória se impõe",
+     "fonte": "p. 21-22",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "Inq 3.776, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe 04/11/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Outra não foi a conclusão a que se chegou no julgamento do Inquérito nº 3.776/TO [...] Destaque-se que a situação acima descrita é semelhante ao presente caso.",
+     "fonte": "p. 22-23; reiterado p. 33",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "inquérito nº 2.952/RR (decisão do próprio Relator no recebimento da denúncia desta causa)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Nesse sentido, repiso a decisão do inquérito nº 2.952/RR, na qual destaquei que os detentores de cargo em comissão não estão sujeitos a um controle de frequência que exceda as demandas do gabinete em que está lotado.",
+     "fonte": "p. 32",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator:Min. DIAS TOFFOLI, Primeira Turma, julgado em 18/11/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse contexto, cito precedentes desta Corte:",
+     "fonte": "p. 33-34",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 528, Relator(a): Min. EDSON FACHIN, Segunda Turma, DJe 01/02/2019",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse contexto, cito precedentes desta Corte:",
+     "fonte": "p. 33-35",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Ricardo Lewandowski",
+     "tipo": "precedente_citado",
+     "referencia": "AP 504/DF, de relatoria da Ministra Cármen Lúcia, Segunda Turma",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Assinalo, a propósito, que, no julgamento da AP 504/DF, de relatoria da Ministra Cármen Lúcia, foi assentado por esta Segunda Turma existir",
+     "fonte": "p. 45 (ementa transcrita p. 46-47); reiterado p. 51",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 528, Relator(a): EDSON FACHIN, Segunda Turma, DJe 1º/2/2019",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "O SUPREMO TRIBUNAL FEDERAL já se posicionou no sentido de que a atividade de secretário parlamentar não se limita ao desempenho de tarefas burocráticas, conforme se depreende do seguinte julgado",
+     "fonte": "p. 65-67; reiterado p. 71",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe de 5/2/2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "sendo caso de absolvê-lo por insuficiência de provas, nos termos do art. 386, VII, do Código de Processo Penal. Nesse sentido:",
+     "fonte": "p. 68-69",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "STF, HC 89.501/GO, Rel. Min. CELSO DE MELLO, Segunda Turma; HC 97.701/MS, Rel. Min. AYRES BRITTO, Segunda Turma; HC 88.875/AM, Rel. Min. CELSO DE MELLO, Segunda Turma",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Há a necessidade de o Estado-acusador comprovar a culpabilidade do indivíduo mediante o contraditório, que é constitucionalmente presumido inocente",
+     "fonte": "p. 69",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "como bem destacado por esta CORTE SUPREMA, em julgamento do HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "fonte": "p. 70",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "As provas, portanto, precisam ser incontestáveis, não se admitindo condenações com base em dúvida razoável, como destacado pelo então DECANO da SUPREMA CORTE, Min. CELSO DE MELLO",
+     "fonte": "p. 70",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 869/AL, Segunda Turma, Rel. Min. TEORI ZAVASCKI; HC 73.338-7/RJ, Primeira Turma, Rel. Min. CELSO DE MELLO",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "o estado de dúvida obstaculiza o juízo condenatório, devendo-se sempre ressaltar o papel do processo penal como instrumento de salvaguarda das liberdades individuais, conforme bem sublinhou o Min. CELSO DE MELLO, nos Votos que proferiu na AP 869/AL",
+     "fonte": "p. 71",
+     "na_pagina_da_evidencia": false
+    }
+   ],
+   "obs": "Votos lidos coincidem com o banco (11 x Absolve). Três ministros têm peça com fundamentação própria (Gilmar Mendes, Ricardo Lewandowski, Alexandre de Moraes); os outros oito não têm peça e foram registrados como Adesao com base na ata (p. 72), que diz 'nos termos do voto do Relator'. Lewandowski é o Revisor, embora o cabeçalho da peça diga 'Voto Vogal' (p. 37: 'O Senhor Ministro Ricardo Lewandowski (Revisor)'). Fundamentos legais da absolvição: 1º fato art. 386, V (Relator, p. 17); 2º e 3º fatos art. 386, III e VII (p. 23, p. 36). Precedentes usados só nas preliminares (HC 81.260, RE 602.527 QO-RG, QO na AP 937, Inq 2952 ED) não foram listados (R6).",
+   "status": "ativa",
+   "motivo_status": null,
+   "unidade_origem": "AP-940-R01-I01",
+   "fato": "2º e 3º fatos",
+   "precedentes_lidos": [
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 898, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 12/04/2016",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "A jurisprudência desta Corte impõe a absolvição em caso de ausência de provas de que o réu concorreu para a infração penal, conforme se verifica:",
+     "fonte": "p. 16-17",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 554, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, DJe de 8-6-2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "À falta de prova suficiente de que o réu concorreu para o crime, impõe-se a absolvição na forma do art. 386, V, do Código de Processo Penal.",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 504, Relator(a): Min. CÁRMEN LÚCIA, Relator(a) p/ Acórdão: Min. DIAS TOFFOLI, Segunda Turma, DJe 01.08.2017",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "No julgamento da ação penal 504/DF, discutiu-se, no âmbito do direito penal se a atividade de secretário parlamentar",
+     "fonte": "p. 19 (ementa transcrita p. 20-21); reiterado p. 33",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 1018, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 18/09/2018",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Outrossim, a jurisprudência desta Corte é no sentido de que, em caso de fragilidade de provas para condenação por peculato desvio, a improcedência da pretensão condenatória se impõe",
+     "fonte": "p. 21-22",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "Inq 3.776, Relator(a): Min. ROSA WEBER, Primeira Turma, DJe 04/11/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Outra não foi a conclusão a que se chegou no julgamento do Inquérito nº 3.776/TO [...] Destaque-se que a situação acima descrita é semelhante ao presente caso.",
+     "fonte": "p. 22-23; reiterado p. 33",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "inquérito nº 2.952/RR (decisão do próprio Relator no recebimento da denúncia desta causa)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Nesse sentido, repiso a decisão do inquérito nº 2.952/RR, na qual destaquei que os detentores de cargo em comissão não estão sujeitos a um controle de frequência que exceda as demandas do gabinete em que está lotado.",
+     "fonte": "p. 32",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator:Min. DIAS TOFFOLI, Primeira Turma, julgado em 18/11/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse contexto, cito precedentes desta Corte:",
+     "fonte": "p. 33-34",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 528, Relator(a): Min. EDSON FACHIN, Segunda Turma, DJe 01/02/2019",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse contexto, cito precedentes desta Corte:",
+     "fonte": "p. 33-35",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Ricardo Lewandowski",
+     "tipo": "precedente_citado",
+     "referencia": "AP 504/DF, de relatoria da Ministra Cármen Lúcia, Segunda Turma",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Assinalo, a propósito, que, no julgamento da AP 504/DF, de relatoria da Ministra Cármen Lúcia, foi assentado por esta Segunda Turma existir",
+     "fonte": "p. 45 (ementa transcrita p. 46-47); reiterado p. 51",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 528, Relator(a): EDSON FACHIN, Segunda Turma, DJe 1º/2/2019",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "O SUPREMO TRIBUNAL FEDERAL já se posicionou no sentido de que a atividade de secretário parlamentar não se limita ao desempenho de tarefas burocráticas, conforme se depreende do seguinte julgado",
+     "fonte": "p. 65-67; reiterado p. 71",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe de 5/2/2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "sendo caso de absolvê-lo por insuficiência de provas, nos termos do art. 386, VII, do Código de Processo Penal. Nesse sentido:",
+     "fonte": "p. 68-69",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "STF, HC 89.501/GO, Rel. Min. CELSO DE MELLO, Segunda Turma; HC 97.701/MS, Rel. Min. AYRES BRITTO, Segunda Turma; HC 88.875/AM, Rel. Min. CELSO DE MELLO, Segunda Turma",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Há a necessidade de o Estado-acusador comprovar a culpabilidade do indivíduo mediante o contraditório, que é constitucionalmente presumido inocente",
+     "fonte": "p. 69",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "como bem destacado por esta CORTE SUPREMA, em julgamento do HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "fonte": "p. 70",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "As provas, portanto, precisam ser incontestáveis, não se admitindo condenações com base em dúvida razoável, como destacado pelo então DECANO da SUPREMA CORTE, Min. CELSO DE MELLO",
+     "fonte": "p. 70",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 869/AL, Segunda Turma, Rel. Min. TEORI ZAVASCKI; HC 73.338-7/RJ, Primeira Turma, Rel. Min. CELSO DE MELLO",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "o estado de dúvida obstaculiza o juízo condenatório, devendo-se sempre ressaltar o papel do processo penal como instrumento de salvaguarda das liberdades individuais, conforme bem sublinhou o Min. CELSO DE MELLO, nos Votos que proferiu na AP 869/AL",
+     "fonte": "p. 71",
+     "na_pagina_da_evidencia": false
+    }
+   ]
+  },
+  {
+   "id_unidade": "AP-940-R01-I02",
+   "escopo_levcovitz": {
+    "valor": "Nao",
+    "evidencia": "Escopo decidido no banco (copiado da instrução do lote, sem busca de evidência).",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": {
+    "valor": "Sugere-se excluir a unidade: o art. 9º, IV, da Lei 8.429/1992 aparece só como obiter dictum do Relator, não como imputação; não houve decisão de nenhum ministro sobre ele.",
+    "evidencia": "Como a conduta do Deputado é penalmente atípica, poderia, no máximo, ser considerada reprovável, no âmbito extrapenal, configuradora de improbidade administrativa, nos termos do art. 9º, IV, da Lei nº 8.429/1992.",
+    "fonte": "p. 22",
+    "confianca": "alta"
+   },
+   "voto_condutor": {
+    "valor": null,
+    "evidencia": null,
+    "fonte": null,
+    "confianca": null
+   },
+   "questoes": [],
+   "precedentes": [],
+   "obs": "Não é imputação formal da ação penal (a denúncia é só de peculato, art. 312, caput, CP, três vezes — p. 2 e p. 6); não há questão decisiva nem posição de ministro a registrar. A referência ao 3º fato como 'no máximo, reprovável no âmbito extrapenal' (p. 35-36) não cita o art. 9º, IV.",
+   "status": "excluida",
+   "motivo_status": "G4-21: não imputada; improbidade citada pelo relator só como obiter dictum (p. 22)",
+   "edicoes": [
+    {
+     "campo": "status",
+     "de": "ativa",
+     "para": "excluida",
+     "regra": "G4-21",
+     "nota": ""
+    }
+   ],
+   "precedentes_lidos": []
+  }
+ ],
+ "avisos": [
+  "Unidade I01 junta três fatos com questões decisivas diferentes; ver ajuste_unidade. A questão 1 (concorreu) vale só para o 1º fato; a questão 2 (outra) vale para o 2º e o 3º fatos. As duas foram marcadas principal = Sim por R5b (caso unânime), mas, na prática, cada uma é a principal do seu fato.",
+  "Dolo aparece como fundamento subsidiário e não foi registrado como questão separada (limite de duas questões): Relator no 2º fato, 'mesmo que se admitisse a alegada incompatibilidade [...] não se comprovou dolo na conduta' (p. 19); Relator no 1º fato, 'não há indícios concretos da prática da conduta dolosa' (p. 16); Lewandowski no 2º fato (p. 45). Se o desdobramento por fato for feito, o 2º fato pode ter dolo como segunda questão.",
+  "padrao_dolo_exigido ficou null nas duas questões porque nenhuma delas é 'dolo'. Para referência: o Relator cita doutrina segundo a qual, no peculato-desvio, 'é necessário o elemento subjetivo do tipo que consiste na finalidade de obter proveito próprio ou para terceiro' (p. 13), o que corresponde a 'especifico'.",
+  "A questão 2 mistura atipicidade (art. 386, III) e insuficiência de prova (art. 386, VII): o Tribunal diz que não há prova de que os servidores fossem empregados particulares pagos pelo erário e que o uso de servidor que exercia o cargo também em serviço privado é atípico. Por isso foi classificada como 'outra', não como 'dolo' nem 'concorreu'. No 3º fato, Moraes se apoia só na insuficiência de prova (art. 386, VII, p. 68).",
+  "modo_concurso = 'autor' com confiança média: o voto fala tanto em 'participação' (p. 14) quanto em 'autoria' (p. 15, p. 17); a discussão é sobre quem fez a nomeação.",
+  "O precedente Inq 2.952/RR (p. 32) é a decisão de recebimento da denúncia desta mesma causa, citada pelo Relator como sua (proprio_ministro = Sim)."
+ ],
+ "consolidado_em": "2026-10-18",
+ "base": "leitura A; decisões do gate (D-048, D-049) aplicadas por consolidar_fase4.py"
+}

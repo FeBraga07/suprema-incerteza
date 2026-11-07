@@ -1,0 +1,24 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-441|1|ementa||1|2||todos||||cabeçalhos identificam os réus só por iniciais (J. A. G. C. e W. M.); nomes completos no relatório (p4)
+AP-441|2|acordao||2|3||todos||||sessão presencial de 08/03/2012; registra vencidos distintos em duas etapas da deliberação
+AP-441|3|relatorio|Dias Toffoli|4|40|Sim|todos||||
+AP-441|4|voto|Dias Toffoli|41|66|Sim|todos|Condena|Não|sem_evidencia|Relator; dosimetria p60-66 (R01 p60-62; R02 p62-64); a dosimetria foi votada em momento separado da sessão (ver debate p80)
+AP-441|5|voto_aditamento|Dias Toffoli|67|68|Nao|todos|Condena|Não|sem_evidencia|rotulado "Aditamento ao Voto", título "ANTECIPAÇÃO AO VOTO"; sem fundamentação (cumprimentos às sustentações orais e anúncio de distribuição do voto escrito); intervenção de Celso de Mello marcada "CANCELADO"
+AP-441|6|voto|Luiz Fux|69|69|Adesao|todos|Condena|Não|sem_evidencia|Revisor; poucas linhas, declara acordo com o Relator; aparte de Dias Toffoli
+AP-441|7|voto|Cármen Lúcia|70|70|Adesao|todos|Condena|Não|sem_evidencia|uma frase
+AP-441|8|voto|Ricardo Lewandowski|71|71|Adesao|todos|Condena|Não|sem_evidencia|uma frase
+AP-441|9|voto|Ayres Britto|72|72|Sim|todos|Condena|Sim|sem_evidencia|peça curta (poucas linhas) que abre divergência, não adesão; aparte de Cezar Peluso; fundamentação complementada em apartes p74-76 (ordem 11); a ata (p84) o registra vencido quanto à tipificação e à pena, com resultado condenatório
+AP-441|10|voto|Marco Aurélio|73|76|Sim|todos|Condena|Sim|sem_evidencia|acompanha a divergência de Ayres Britto (p76); apartes de Ayres Britto p74-76
+AP-441|11|aparte|Ayres Britto|74|76|Sim|todos|Condena|Sim|sem_evidencia|apartes dentro do voto de Marco Aurélio
+AP-441|12|outro|Marco Aurélio|77|77|Sim|todos|Condena|Sim|sem_evidencia|peça rotulada "Voto - MIN. MARCO AURÉLIO" (documento distinto, nº 2138091); fragmento curto que começa com "(inaudível)"; intervenções de Celso de Mello marcadas "CANCELADO" antes e depois
+AP-441|13|voto|Cezar Peluso|78|79|Sim|todos|Absolve|Sim|sem_evidencia|Presidente
+AP-441|14|debate|Marco Aurélio;Cezar Peluso;Celso de Mello;Luiz Fux;Dias Toffoli|80|80||todos||||rotulado "Debate"; trata da ordem de votação (dosimetria votada em separado); intervenção de Celso de Mello marcada "CANCELADO"
+AP-441|15|voto|Ayres Britto|81|81|Adesao|todos|Condena|Sim|sem_evidencia|peça rotulada "Voto s/ item I" (dosimetria); adere à pena exposta por Marco Aurélio no mesmo trecho
+AP-441|16|voto|Marco Aurélio|81|81|Sim|todos|Condena|Sim|sem_evidencia|voto de dosimetria proferido dentro da peça "Voto s/ item I" de Ayres Britto
+AP-441|17|outro|Marco Aurélio|82|82|Adesao|todos|Condena|Sim|sem_evidencia|peça rotulada "Explicação"; subscreve manifestação de Celso de Mello que não consta do acórdão
+AP-441|18|outro|Ayres Britto|83|83|Adesao|todos|Condena|Sim|sem_evidencia|peça rotulada "Explicação"; adere ao mesmo ponto de p82 em poucas linhas
+AP-441|19|extrato_ata||84|84||todos||||rotulado "Decisão de Julgamento"; ata de 08/03/2012 com as duas etapas da deliberação e seus vencidos
+AP-441|20|extrato_ata|Celso de Mello|84|84|Nao|todos|Condena|Sim|sem_evidencia|voto não juntado: todas as suas intervenções no acórdão constam como "CANCELADO" (p67, p77, p80); p82 remete a manifestação dele que não está no acórdão; a ata p84 registra seu voto com tipificação e pena próprias
+AP-441|21|extrato_ata|Gilmar Mendes|84|84|Nao|todos|Condena|Não|sem_evidencia|presente (ata p84); sem peça nem intervenção no acórdão; contado na maioria
+AP-441|22|extrato_ata|Rosa Weber|84|84|Nao|todos|Condena|Não|sem_evidencia|presente (ata p84); sem peça nem intervenção no acórdão; contada na maioria
+AP-441|23|extrato_ata|Joaquim Barbosa|84|84|Nao|todos|Não votou|Não|sem_evidencia|ausente justificadamente (ata p84)

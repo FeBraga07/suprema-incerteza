@@ -1,0 +1,2279 @@
+{
+  "id_caso": "AP-307",
+  "extraido_em": "2026-10-18",
+  "fontes_lidas": [
+    "dados/corpus/texto/AP-307.txt",
+    "dados/brutos/AP-307_ata_indice_sjur157761.txt"
+  ],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Corrupção passiva (art. 317, caput, CP): exigência de ato de ofício (comissivo ou omissivo, praticado ou prometido) como elemento do tipo, e suficiência da prova da solicitação/recebimento da vantagem",
+      "evidencia": "Improcedência da acusação. [...] primeiro episódio, em virtude não apenas da inexistêneta de prova de que a alegada ajuda eleitoral decorreu de solicitaçãc feita direta ou indiretamente, pelo prímeiro [...] tambem por não haver sido apontado ato de ofício configurador de transação ou comércio com o cargo então por ele exercido.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 3,
+      "evidencia": "Crimes de corrupção passiva (art. 317, caput) atribuídos, em concurso de pessoas, ao primeiro, ao segundo e terceiro acusados",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": true,
+      "evidencia": "Plenário, 07.12.94. [...] Plenário, 09.12.94. [...] Plenário, 12.12.94. [...] Plenário, 13.12.94",
+      "fonte": "ata",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Fernando Affonso Collor de Mello",
+        "evidencia": "1º REU: FERNANDO AFFONSO COLLOR DE MELLO",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Presidente da República à época dos fatos; ex-Presidente da República à época do julgamento (renunciou ao mandato no processo de impeachment)",
+        "evidencia": "No período compreendido entre a data da posse como Presidente da República e o mês de junho de 1992, recebeu, em razão do exercício do referido cargo, vantagens indevidas [...] (p.626:) presidi o Senado Federal, no processo de \"impeachment\" instaurado contra • então Presidente da República, FERNANDO AFFONSO COLLOR DE MELLO, ao fim do qual este renunciou ao mandato",
+        "fonte": "acordao p.7",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "(Revisor, p.414) por insuficiência de provas (artigo 386, VI, do Código de Processo Penal) quanto a uma das três imputações que lhe foram feitas - a relativa à nomeação de MARCELO RIBEIRO -, e por não constituir o fato infração penal (artigo 386, III, do Código de Processo Penal), no tocante às outras duas dessas imputações - as referentes ao caso VASP e ao caso MERCEDES BENZ -, julgo improcedente a ação penal contra FERNANDO COLLOR DE MELLO | (ata) quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP",
+        "fonte": "acordao p.414",
+        "confianca": "media"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "317, caput",
+          "diploma": "Código Penal",
+          "evidencia": "FERNANDO AFFONSO COLLOR DE MELLO: arts. 317, caput, combinado com o art. 29, aplicando-se, no que couber, o art. 71;"
+        }
+      ],
+      "n_votantes": {
+        "valor": 8,
+        "evidencia": "Votou o Presidente sobre todas as matérias. Não participou das votações o Ministro Marcos Aurélio, tendo em vista a declaração de suspeição em julgamento de processos anteriores, em que figura o ex-Presidente da República Fernando Affonso Collor de Mello. Ausente, justificadamente, o Senhor Ministro Francisco Rezek.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 3,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 5,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Paulo César Cavalcante Farias",
+        "evidencia": "2° RÉU: PAULO CÉSAR CAVALCANTE FARIAS",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Particular (não funcionário público); ex-tesoureiro da campanha presidencial de 1989, denunciado como co-autor (art. 29 CP) do ex-Presidente; julgado no STF por conexão com o réu com prerrogativa de foro",
+        "evidencia": "(p.639:) o acusado PAULO CÉSAR FARIAS, pois, não sendo ele funcionário público, só poderia ser condenado por co-autoria em corrupção passiva, nos termos do art. 29 do Código Penal | (p.44:) a denúncia descreve condutas de um Presidente da República com extraneus, que havia sido tesoureiro de campanha para a eleição de Presidente da República",
+        "fonte": "acordao p.639",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "(Revisor, p.414) Pelo mesmo motivo é improcedente a ação penal quanto a PAULO CÉSAR FARIAS no tocante às imputações quanto aos crimes de corrupção passiva, razão por que também o absolvo dessas imputações. | (ata) quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP",
+        "fonte": "acordao p.414",
+        "confianca": "media"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "317, caput",
+          "diploma": "Código Penal",
+          "evidencia": "PAULO CÉSAR CAVALCANTE FARIAS: arts. 371, caput, 343, 344, 305 e 299, combinados com o art. 29 [OCR: '371' = 317; cf. ementa p.1 'Crimes de corrupção passiva (art. 317, caput) atribuídos, em concurso de pessoas, ao primeiro, ao segundo e terceiro acusados']"
+        }
+      ],
+      "n_votantes": {
+        "valor": 8,
+        "evidencia": "Votou o Presidente sobre todas as matérias. Não participou das votações o Ministro Marcos Aurélio, tendo em vista a declaração de suspeição em julgamento de processos anteriores, em que figura o ex-Presidente da República Fernando Affonso Collor de Mello. Ausente, justificadamente, o Senhor Ministro Francisco Rezek.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 3,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 5,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Cláudio Francisco Vieira",
+        "evidencia": "39 REU: CLAUDIO FRANCISCO VIEIRA",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Chefe do Gabinete Pessoal do Presidente da República à época dos fatos; julgado no STF como co-autor, por conexão com o réu com prerrogativa de foro",
+        "evidencia": "C) CLÁUDIO FRANCISCO VIEIRA: Na qualidade de Chefe do Gabinete Pessoal do Presidente da República, além de haver orientado a secretária Ana Acioli",
+        "fonte": "acordao p.10",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "(Celso de Mello, p.601) no que concerne a Cláudio Francisco Vieira - em relação a quem o próprio Ministério Público reconheceu insuficiente a prova que foi produzida -, absolvo-o, com fundamento no art. 386, VI, do Código de Processo Penal | (Revisor, p.414) imputações essas que foram abandonadas pelo Ministério Público Federal, que as omitiu em suas alegações finais, tão evidente se apresenta o seu descabimento. Absolvo-o, portanto, com base no artigo 386, III e VI, do Código de Processo Penal.",
+        "fonte": "acordao p.601",
+        "confianca": "media"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "317, caput",
+          "diploma": "Código Penal",
+          "evidencia": "CLAUDIO FRANCISCO VIEIRA: arts. 317, caput, 343, 344, 305, combinados com o art. 29, aplicando-se o art. 69;"
+        }
+      ],
+      "n_votantes": {
+        "valor": 8,
+        "evidencia": "Votou o Presidente sobre todas as matérias. Não participou das votações o Ministro Marcos Aurélio, tendo em vista a declaração de suspeição em julgamento de processos anteriores, em que figura o ex-Presidente da República Fernando Affonso Collor de Mello. Ausente, justificadamente, o Senhor Ministro Francisco Rezek.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 8,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os, quanto aos episódios relativos à VASP e à Mercedes-Benz com fundamento no art. 386, III, do Código de Processo Penal, e aos referentes a Dorival Marcelo Ribeiro com base no art. 386, VI, do CPP, vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva, nos termos dos votos que proferiram. [os vencidos condenavam apenas Collor e Paulo César Farias; cf. acordao p.639: 'No que concerne ao acusado CLÁUDIO FRANCISCO VIEIRA, relativamente ao mesmo delito de corrupção passiva, todos os votos proferidos até aqui [...] concluíram, também, pela sua absolvição']",
+        "fonte": "ata",
+        "confianca": "media"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {
+        "valor": "Moreira Alves"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "por insuficiência de provas (artigo 386, VI, do Código de Processo Penal) quanto a uma das três imputações que lhe foram feitas - a relativa à nomeação de MARCELO RIBEIRO -, e por não constituir o fato infração penal (artigo 386, III, do Código de Processo Penal), no tocante às outras duas dessas imputações - as referentes ao caso VASP e ao caso MERCEDES BENZ -, julgo improcedente a ação penal contra FERNANDO COLLOR DE MELLO",
+        "fonte": "acordao p.414",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Néri da Silveira"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Quanto às acusações referentes à nomeação de Marcelo Ribeiro e ao episódio VASP-Petrobrás - efetivamente, também eu não encontrei elementos de prova bastantes a ter-se a denúncia como procedente.",
+        "fonte": "acordao p.663",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sydney Sanches"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida, [p.637:] não há crime de corrupção passiva, [...] falta um dos elementos para sua configuração. [OCR com linhas fora de ordem]",
+        "fonte": "acordao p.636",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Octavio Gallotti"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Não considerando, pois, provada a acusação,, julgo a ação improcedente, de acordo com o8 votos dos Ministros Relator e Revisor, isto é com fundamento no inciso III do art. 386 do Código de Processo Penal, quanto aos episódios relativos à VASP e à Mercedez Benz. Quanto ao que se refere a Dorival Marcelo Ribeiro, de acordo com o sm inciso VI do mesmo dispositivo.",
+        "fonte": "acordao p.668",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sepúlveda Pertence"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "A nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes -, embora fosse a única acusação que a unanimidade do Tribunal julgaria típica, porque a vantagem recebida da Tratex teria tido por objeto um ato específico de competência privativa do Presidente da República -, submergiu afinal na inconsistência da prova colhida a respeito.",
+        "fonte": "acordao p.620",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Celso de Mello"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "peço vênia para ABSOLVER Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por falta de provas (CPP, art. 386, VI), quanto à imputação penal de corrupção passiva referente à nomeação de Marcelo Ribeiro para a Secretaria Nacional de Transportes.",
+        "fonte": "acordao p.600",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Carlos Velloso"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "(Sanches, p.636) Nos casos relacionados com os episódios \"NOMEAÇÃO DE MARCELO RIBEIRO\" para a Secretaria Nacional de Transportes e \"VASP-PETROBRÁS\", são unânimes os votos proferidos, até aqui (Ministros ILMAR GALVÃO, MOREIRA ALVES, CARLOS VELLOSO, CELSO DE MELLO, SEPÚLVEDA PERTENCE), no sentido da absolvição do ex-Presidente FERNANDO COLLOR, ainda que por razões nem sempre coincidentes.",
+        "fonte": "acordao p.636",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Marco Aurélio"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Não participou das votações o Ministro Marcos Aurélio, tendo em vista a declaração de suspeição em julgamento de processos anteriores, em que figura o ex-Presidente da República Fernando Affonso Collor de Mello.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "suspeição"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Ilmar Galvão"
+      },
+      "eh_relator": {
+        "valor": true
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Meu voto, portanto, também relativamente ao último fato apreciado, envolvendo o episódio da nomeação de Marcelo Ribeiro, é no sentido de absolver o acusado FERNANDO COLLOR da imputação relativa ao crime do art. 317, caput, do Código Penal, na forma do art. 386, VI, do CP.",
+        "fonte": "acordao p.193",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Francisco Rezek"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Ausente, justificadamente, o Senhor Ministro Francisco Rezek.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": true
+      },
+      "motivo_ausencia": {
+        "valor": "ausente"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Moreira Alves"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "por insuficiência de provas (artigo 386, VI, do Código de Processo Penal) quanto a uma das três imputações que lhe foram feitas - a relativa à nomeação de MARCELO RIBEIRO -, e por não constituir o fato infração penal (artigo 386, III, do Código de Processo Penal), no tocante às outras duas dessas imputações - as referentes ao caso VASP e ao caso MERCEDES BENZ -, julgo improcedente a ação penal contra FERNANDO COLLOR DE MELLO",
+        "fonte": "acordao p.414",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Néri da Silveira"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Quanto às acusações referentes à nomeação de Marcelo Ribeiro e ao episódio VASP-Petrobrás - efetivamente, também eu não encontrei elementos de prova bastantes a ter-se a denúncia como procedente.",
+        "fonte": "acordao p.663",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sydney Sanches"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida, [p.637:] não há crime de corrupção passiva, [...] falta um dos elementos para sua configuração. [OCR com linhas fora de ordem]",
+        "fonte": "acordao p.636",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Octavio Gallotti"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Não considerando, pois, provada a acusação,, julgo a ação improcedente, de acordo com o8 votos dos Ministros Relator e Revisor, isto é com fundamento no inciso III do art. 386 do Código de Processo Penal, quanto aos episódios relativos à VASP e à Mercedez Benz. Quanto ao que se refere a Dorival Marcelo Ribeiro, de acordo com o sm inciso VI do mesmo dispositivo.",
+        "fonte": "acordao p.668",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sepúlveda Pertence"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Quanto ao episódio VASP - PETROBRÁS, nem se chegou a estabelecer, com o mínimo de base empírica, em que teria consistido a participação pessoal do então Presidente da República nas solicitações para que se efetivasse a operação financeira proposta pela VASP. Nem efetivamente consegui, eu também, divisar, na descrição do fato, hipótese de corrupção passiva",
+        "fonte": "acordao p.620",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Celso de Mello"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "No que concerne aos episódios VASP/PETROBRÁS e MERCEDES-BENZ/Sebastião Curio, também julgo improcedente a presente ação penal, para, com fundamento no art. 386, III, do Código de Processo Penal, absolver os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias da imputação penal contra eles deduzida",
+        "fonte": "acordao p.601",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Carlos Velloso"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "(Sanches, p.636) Nos casos relacionados com os episódios \"NOMEAÇÃO DE MARCELO RIBEIRO\" para a Secretaria Nacional de Transportes e \"VASP-PETROBRÁS\", são unânimes os votos proferidos, até aqui (Ministros ILMAR GALVÃO, MOREIRA ALVES, CARLOS VELLOSO, CELSO DE MELLO, SEPÚLVEDA PERTENCE), no sentido da absolvição do ex-Presidente FERNANDO COLLOR, ainda que por razões nem sempre coincidentes.",
+        "fonte": "acordao p.636",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Marco Aurélio"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Não participou das votações o Ministro Marcos Aurélio, tendo em vista a declaração de suspeição em julgamento de processos anteriores, em que figura o ex-Presidente da República Fernando Affonso Collor de Mello.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "suspeição"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Ilmar Galvão"
+      },
+      "eh_relator": {
+        "valor": true
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida; e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+        "fonte": "acordao p.126",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Francisco Rezek"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Ausente, justificadamente, o Senhor Ministro Francisco Rezek.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": true
+      },
+      "motivo_ausencia": {
+        "valor": "ausente"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Moreira Alves"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "por insuficiência de provas (artigo 386, VI, do Código de Processo Penal) quanto a uma das três imputações que lhe foram feitas - a relativa à nomeação de MARCELO RIBEIRO -, e por não constituir o fato infração penal (artigo 386, III, do Código de Processo Penal), no tocante às outras duas dessas imputações - as referentes ao caso VASP e ao caso MERCEDES BENZ -, julgo improcedente a ação penal contra FERNANDO COLLOR DE MELLO",
+        "fonte": "acordao p.414",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Néri da Silveira"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "julgo procedente denúncia, por ter como caracterizado o crime de corrupção passiva, de referência aos fatos ligados à solicitação de vantagem indevida à empresa Mercedes Benz, para condenar, como incursos no art. 317 do Código Penal, os denunciados Fernando Collor de Mello e Paulo César Cavalcante Farias.",
+        "fonte": "acordao p.663",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": true
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sydney Sanches"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Por todas essas razões, devo admitir como não provada, também no episódio \"MERCEDES BENZ\", a prática ou simples promessa de prática, de ato de ofício (comissivo ou omissivo), por parte de FERNANDO COLLOR, em troca da indevida vantagem da ajuda financeira na campanha eleitoral de 1990. Sendo assim, igualmente quanto a esse episódio há de ser ele absolvido.",
+        "fonte": "acordao p.637",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Octavio Gallotti"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Não considerando, pois, provada a acusação,, julgo a ação improcedente, de acordo com o8 votos dos Ministros Relator e Revisor, isto é com fundamento no inciso III do art. 386 do Código de Processo Penal, quanto aos episódios relativos à VASP e à Mercedez Benz. Quanto ao que se refere a Dorival Marcelo Ribeiro, de acordo com o sm inciso VI do mesmo dispositivo.",
+        "fonte": "acordao p.668",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sepúlveda Pertence"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "subscrevendo, no mais, o voto do Sr. Ministro Carlos Velloso, peço vênia aos eminentes Ministros Relator, Revisor e Celso de Mello, para julgar procedente a ação penal contra os acusados Fernando Collor de Mello e Paulo César Cavalcanti de Farias, por infração do art. 317 do Código Penal.",
+        "fonte": "acordao p.625",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": true
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Celso de Mello"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "No que concerne aos episódios VASP/PETROBRÁS e MERCEDES-BENZ/Sebastião Curio, também julgo improcedente a presente ação penal, para, com fundamento no art. 386, III, do Código de Processo Penal, absolver os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias da imputação penal contra eles deduzida",
+        "fonte": "acordao p.601",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Carlos Velloso"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "(Pertence, p.620) Tal como o eminente Ministro Carlos Velloso, contudo, estou em que, no terceiro episódio - ainda que seja sempre diabólica a tarefa de provar a corrupção passiva na mais alta escala governamental - a prova que fez, quanto possível, é bastante para compelir à decisão condenatória. | (Néri, p.662) compreendo, de acordo com os votos dos ilustres Ministros i Carlos Velloso Sepúlveda Pertence, que, no caso concreto da acusação, referente à empresa Mercedes Benz, está caracterizado o delito do art. 317 do Código Penal. | (ata) vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "acordao p.620",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": true
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Marco Aurélio"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Não participou das votações o Ministro Marcos Aurélio, tendo em vista a declaração de suspeição em julgamento de processos anteriores, em que figura o ex-Presidente da República Fernando Affonso Collor de Mello.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "suspeição"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Ilmar Galvão"
+      },
+      "eh_relator": {
+        "valor": true
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Assim, em face não apenas da inexistência de prova de que a alegada ajuda prestada pela empresa Mercedes Benz, em favor do candidato Sebastião Curió, decorreu de solicitação que lhe tenha sido, direta ou indiretamente, dirigida pelo ex-Presidente da República;* mas também por não haver sido apontado o ato de ofício configurador de transação ou comércio com o cargo então por ele exercido, tenho por improcedente a denúncia, no ponto indicado, na forma do art. 386, inc. III, do Código de Processo Penal.",
+        "fonte": "acordao p.154",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Francisco Rezek"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Fernando Affonso Collor de Mello"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Ausente, justificadamente, o Senhor Ministro Francisco Rezek.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": true
+      },
+      "motivo_ausencia": {
+        "valor": "ausente"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Moreira Alves"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Pelo mesmo motivo é improcedente a ação penal quanto a PAULO CÉSAR FARIAS no tocante às imputações quanto aos crimes de corrupção passiva, razão por que também o absolvo dessas imputações.",
+        "fonte": "acordao p.414",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Néri da Silveira"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Quanto às acusações referentes à nomeação de Marcelo Ribeiro e ao episódio VASP-Petrobrás - efetivamente, também eu não encontrei elementos de prova bastantes a ter-se a denúncia como procedente.",
+        "fonte": "acordao p.663",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sydney Sanches"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Absolvido, que fica, por meu voto, o ex-Presidente da República, quanto ao delito de corrupção passiva, o único que ainda lhe é imputado, resta absolvido, igualmente, por via de consequência, quanto a esse crime, o acusado PAULO CÉSAR FARIAS",
+        "fonte": "acordao p.639",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Octavio Gallotti"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Não considerando, pois, provada a acusação,, julgo a ação improcedente, de acordo com o8 votos dos Ministros Relator e Revisor, isto é com fundamento no inciso III do art. 386 do Código de Processo Penal, quanto aos episódios relativos à VASP e à Mercedez Benz. Quanto ao que se refere a Dorival Marcelo Ribeiro, de acordo com o sm inciso VI do mesmo dispositivo. | (ata) Votou o Presidente sobre todas as matérias.",
+        "fonte": "acordao p.668",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sepúlveda Pertence"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "A nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes -, embora fosse a única acusação que a unanimidade do Tribunal julgaria típica, porque a vantagem recebida da Tratex teria tido por objeto um ato específico de competência privativa do Presidente da República -, submergiu afinal na inconsistência da prova colhida a respeito.",
+        "fonte": "acordao p.620",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Celso de Mello"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "peço vênia para ABSOLVER Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por falta de provas (CPP, art. 386, VI), quanto à imputação penal de corrupção passiva referente à nomeação de Marcelo Ribeiro para a Secretaria Nacional de Transportes.",
+        "fonte": "acordao p.600",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Carlos Velloso"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "(Sanches, p.636) Nos casos relacionados com os episódios \"NOMEAÇÃO DE MARCELO RIBEIRO\" para a Secretaria Nacional de Transportes e \"VASP-PETROBRÁS\", são unânimes os votos proferidos, até aqui (Ministros ILMAR GALVÃO, MOREIRA ALVES, CARLOS VELLOSO, CELSO DE MELLO, SEPÚLVEDA PERTENCE), no sentido da absolvição do ex-Presidente FERNANDO COLLOR, ainda que por razões nem sempre coincidentes.",
+        "fonte": "acordao p.636",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Marco Aurélio"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Não participou das votações o Ministro Marcos Aurélio, tendo em vista a declaração de suspeição em julgamento de processos anteriores, em que figura o ex-Presidente da República Fernando Affonso Collor de Mello.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "suspeição"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Ilmar Galvão"
+      },
+      "eh_relator": {
+        "valor": true
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "• efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+        "fonte": "acordao p.193",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Francisco Rezek"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio da nomeação de Marcelo Ribeiro para a Secretaria Nacional dos Transportes (Tratex)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Ausente, justificadamente, o Senhor Ministro Francisco Rezek.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": true
+      },
+      "motivo_ausencia": {
+        "valor": "ausente"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Moreira Alves"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Pelo mesmo motivo é improcedente a ação penal quanto a PAULO CÉSAR FARIAS no tocante às imputações quanto aos crimes de corrupção passiva, razão por que também o absolvo dessas imputações.",
+        "fonte": "acordao p.414",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Néri da Silveira"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Quanto às acusações referentes à nomeação de Marcelo Ribeiro e ao episódio VASP-Petrobrás - efetivamente, também eu não encontrei elementos de prova bastantes a ter-se a denúncia como procedente.",
+        "fonte": "acordao p.663",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sydney Sanches"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Absolvido, que fica, por meu voto, o ex-Presidente da República, quanto ao delito de corrupção passiva, o único que ainda lhe é imputado, resta absolvido, igualmente, por via de consequência, quanto a esse crime, o acusado PAULO CÉSAR FARIAS",
+        "fonte": "acordao p.639",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Octavio Gallotti"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Não considerando, pois, provada a acusação,, julgo a ação improcedente, de acordo com o8 votos dos Ministros Relator e Revisor, isto é com fundamento no inciso III do art. 386 do Código de Processo Penal, quanto aos episódios relativos à VASP e à Mercedez Benz. Quanto ao que se refere a Dorival Marcelo Ribeiro, de acordo com o sm inciso VI do mesmo dispositivo. | (ata) Votou o Presidente sobre todas as matérias.",
+        "fonte": "acordao p.668",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sepúlveda Pertence"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Quanto ao episódio VASP - PETROBRÁS, nem se chegou a estabelecer, com o mínimo de base empírica, em que teria consistido a participação pessoal do então Presidente da República nas solicitações para que se efetivasse a operação financeira proposta pela VASP. Nem efetivamente consegui, eu também, divisar, na descrição do fato, hipótese de corrupção passiva",
+        "fonte": "acordao p.620",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Celso de Mello"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "No que concerne aos episódios VASP/PETROBRÁS e MERCEDES-BENZ/Sebastião Curio, também julgo improcedente a presente ação penal, para, com fundamento no art. 386, III, do Código de Processo Penal, absolver os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias da imputação penal contra eles deduzida",
+        "fonte": "acordao p.601",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Carlos Velloso"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "(Sanches, p.636) Nos casos relacionados com os episódios \"NOMEAÇÃO DE MARCELO RIBEIRO\" para a Secretaria Nacional de Transportes e \"VASP-PETROBRÁS\", são unânimes os votos proferidos, até aqui (Ministros ILMAR GALVÃO, MOREIRA ALVES, CARLOS VELLOSO, CELSO DE MELLO, SEPÚLVEDA PERTENCE), no sentido da absolvição do ex-Presidente FERNANDO COLLOR, ainda que por razões nem sempre coincidentes.",
+        "fonte": "acordao p.636",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Marco Aurélio"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Não participou das votações o Ministro Marcos Aurélio, tendo em vista a declaração de suspeição em julgamento de processos anteriores, em que figura o ex-Presidente da República Fernando Affonso Collor de Mello.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "suspeição"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Ilmar Galvão"
+      },
+      "eh_relator": {
+        "valor": true
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "• efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+        "fonte": "acordao p.193",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Francisco Rezek"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio VASP-Petrobras (financiamento de combustível)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Ausente, justificadamente, o Senhor Ministro Francisco Rezek.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": true
+      },
+      "motivo_ausencia": {
+        "valor": "ausente"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Moreira Alves"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Pelo mesmo motivo é improcedente a ação penal quanto a PAULO CÉSAR FARIAS no tocante às imputações quanto aos crimes de corrupção passiva, razão por que também o absolvo dessas imputações.",
+        "fonte": "acordao p.414",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Néri da Silveira"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "julgo procedente denúncia, por ter como caracterizado o crime de corrupção passiva, de referência aos fatos ligados à solicitação de vantagem indevida à empresa Mercedes Benz, para condenar, como incursos no art. 317 do Código Penal, os denunciados Fernando Collor de Mello e Paulo César Cavalcante Farias.",
+        "fonte": "acordao p.663",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": true
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sydney Sanches"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Absolvido, que fica, por meu voto, o ex-Presidente da República, quanto ao delito de corrupção passiva, o único que ainda lhe é imputado, resta absolvido, igualmente, por via de consequência, quanto a esse crime, o acusado PAULO CÉSAR FARIAS",
+        "fonte": "acordao p.639",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Octavio Gallotti"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Não considerando, pois, provada a acusação,, julgo a ação improcedente, de acordo com o8 votos dos Ministros Relator e Revisor, isto é com fundamento no inciso III do art. 386 do Código de Processo Penal, quanto aos episódios relativos à VASP e à Mercedez Benz. Quanto ao que se refere a Dorival Marcelo Ribeiro, de acordo com o sm inciso VI do mesmo dispositivo. | (ata) Votou o Presidente sobre todas as matérias.",
+        "fonte": "acordao p.668",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sepúlveda Pertence"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "subscrevendo, no mais, o voto do Sr. Ministro Carlos Velloso, peço vênia aos eminentes Ministros Relator, Revisor e Celso de Mello, para julgar procedente a ação penal contra os acusados Fernando Collor de Mello e Paulo César Cavalcanti de Farias, por infração do art. 317 do Código Penal.",
+        "fonte": "acordao p.625",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": true
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Celso de Mello"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "No que concerne aos episódios VASP/PETROBRÁS e MERCEDES-BENZ/Sebastião Curio, também julgo improcedente a presente ação penal, para, com fundamento no art. 386, III, do Código de Processo Penal, absolver os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias da imputação penal contra eles deduzida",
+        "fonte": "acordao p.601",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Carlos Velloso"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "(Pertence, p.620) Tal como o eminente Ministro Carlos Velloso, contudo, estou em que, no terceiro episódio - ainda que seja sempre diabólica a tarefa de provar a corrupção passiva na mais alta escala governamental - a prova que fez, quanto possível, é bastante para compelir à decisão condenatória. | (Néri, p.662) compreendo, de acordo com os votos dos ilustres Ministros i Carlos Velloso Sepúlveda Pertence, que, no caso concreto da acusação, referente à empresa Mercedes Benz, está caracterizado o delito do art. 317 do Código Penal. | (ata) vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "acordao p.620",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": true
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Marco Aurélio"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Não participou das votações o Ministro Marcos Aurélio, tendo em vista a declaração de suspeição em julgamento de processos anteriores, em que figura o ex-Presidente da República Fernando Affonso Collor de Mello.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "suspeição"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Ilmar Galvão"
+      },
+      "eh_relator": {
+        "valor": true
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "• efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+        "fonte": "acordao p.193",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Francisco Rezek"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Paulo César Cavalcante Farias"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP) - episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Ausente, justificadamente, o Senhor Ministro Francisco Rezek.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": true
+      },
+      "motivo_ausencia": {
+        "valor": "ausente"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Moreira Alves"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Cláudio Francisco Vieira"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Igualmente é improcedente a ação penal quanto a CLÁUDIO FRANCISCO VIEIRA no concernente às imputações relativas aos crimes de corrupção passiva, imputações essas que foram abandonadas pelo Ministério Público Federal, que as omitiu em suas alegações finais, tão evidente se apresenta o seu descabimento. Absolvo-o, portanto, com base no artigo 386, III e VI, do Código de Processo Penal.",
+        "fonte": "acordao p.414",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Néri da Silveira"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Cláudio Francisco Vieira"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Também quanto ao co-réu Cláudio Vieira, meu voto põe-se de acordo con os ilustres Ministros Relator e Revisor, tendo em conta, ainda, a posição da Procuradoria-Geral da República, que, nas alegações finais e na sustentação oral, não viu elementos de provas para manter a acusação contra esse denunciado, relativamente ao crime do art. 317 do Código Penal, ora em exame.",
+        "fonte": "acordao p.663",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sydney Sanches"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Cláudio Francisco Vieira"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Voto no mesmo sentido, aduzindo, apenas, que nenhum ato de ofício, comissivo ou omissivo, desse acusado, ficou provado nos autos, que pudesse ser considerado como retribuição às vantagens indevidamente recebidas por FERNANDO COLLOR.",
+        "fonte": "acordao p.639",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Octavio Gallotti"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Cláudio Francisco Vieira"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Não considerando, pois, provada a acusação,, julgo a ação improcedente, de acordo com o8 votos dos Ministros Relator e Revisor, isto é com fundamento no inciso III do art. 386 do Código de Processo Penal, quanto aos episódios relativos à VASP e à Mercedez Benz. Quanto ao que se refere a Dorival Marcelo Ribeiro, de acordo com o sm inciso VI do mesmo dispositivo. | (ata) Votou o Presidente sobre todas as matérias. [os Ministros Relator e Revisor absolveram Cláudio Vieira; o voto do Presidente não o nomeia]",
+        "fonte": "acordao p.668",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Sepúlveda Pertence"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Cláudio Francisco Vieira"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "(Sanches, p.639) No que concerne ao acusado CLÁUDIO FRANCISCO VIEIRA, relativamente ao mesmo delito de corrupção passiva, todos os votos proferidos até aqui, levando em conta os elementos dos autos e a própria conduta da Procuradoria Geral da República, que não pediu sua condenação, concluíram, também, pela absolvição.",
+        "fonte": "acordao p.639",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Celso de Mello"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Cláudio Francisco Vieira"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Finalmente, e no que concerne a Cláudio Francisco Vieira - em relação a quem o próprio Ministério Público reconheceu insuficiente a prova que foi produzida -, absolvo-o, com fundamento no art. 386, VI, do Código de Processo Penal",
+        "fonte": "acordao p.601",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Carlos Velloso"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Cláudio Francisco Vieira"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "(Sanches, p.639) No que concerne ao acusado CLÁUDIO FRANCISCO VIEIRA, relativamente ao mesmo delito de corrupção passiva, todos os votos proferidos até aqui, levando em conta os elementos dos autos e a própria conduta da Procuradoria Geral da República, que não pediu sua condenação, concluíram, também, pela absolvição.",
+        "fonte": "acordao p.639",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Marco Aurélio"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Cláudio Francisco Vieira"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Não participou das votações o Ministro Marcos Aurélio, tendo em vista a declaração de suspeição em julgamento de processos anteriores, em que figura o ex-Presidente da República Fernando Affonso Collor de Mello.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "suspeição"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Ilmar Galvão"
+      },
+      "eh_relator": {
+        "valor": true
+      },
+      "reu": {
+        "valor": "Cláudio Francisco Vieira"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP)"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "• efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+        "fonte": "acordao p.193",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Francisco Rezek"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "reu": {
+        "valor": "Cláudio Francisco Vieira"
+      },
+      "fato": {
+        "valor": "corrupção passiva (art. 317, CP)"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Ausente, justificadamente, o Senhor Ministro Francisco Rezek.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": true
+      },
+      "motivo_ausencia": {
+        "valor": "ausente"
+      }
+    }
+  ],
+  "avisos": [
+    "SEPARAÇÃO POR FATO: para Collor e Paulo César Farias o painel de votos foi separado nos três episódios da denúncia (nomeação de Marcelo Ribeiro/Tratex; VASP-Petrobras; Mercedes-Benz/Sebastião Curió) porque os votos de três ministros mudam de um episódio para outro: Carlos Velloso, Sepúlveda Pertence e Néri da Silveira absolvem nos dois primeiros e condenam só no episódio Mercedes-Benz (Pertence p.620 e p.625; Néri p.662-663; Sanches p.636). Placar por episódio: Marcelo Ribeiro 8x0 pela absolvição; VASP 8x0 pela absolvição; Mercedes-Benz 5x3 pela absolvição. A ata do índice e os extratos dizem apenas que os vencidos 'condenavam os réus [...] por crime de corrupção passiva', sem nomear o episódio; a restrição ao episódio Mercedes-Benz vem da leitura dos votos.",
+    "PLACAR NO NÍVEL DO RÉU: para Collor e PC Farias registrei votos_condenacao=3 e votos_absolvicao=5 (o placar do episódio dividido, Mercedes-Benz); nos outros dois episódios a absolvição foi 8x0. unanime=false para ambos. Para Cláudio Vieira, 8x0 pela absolvição (unanime=true): os vencidos condenavam apenas Collor e PC Farias, e Sanches (p.639) atesta que todos os votos até então absolviam Cláudio Vieira; a ata não usa a palavra 'unanimidade' para ele, por isso confiança média no campo unanime.",
+    "CLÁUDIO VIEIRA - FATO ÚNICO: para Cláudio Vieira usei um só fato ('corrupção passiva (art. 317, CP)'), porque nenhum ministro separou seus votos por episódio. O Revisor (p.414) indica que as imputações de art. 317 contra ele diziam respeito à intermediação de vantagens (automóvel blindado, Fiat Elba, locação de veículos pela Brasil Jet) e que o MPF as abandonou nas alegações finais. A ata aplica formalmente aos três réus a mesma divisão de incisos (III para VASP e Mercedes, VI para Marcelo Ribeiro).",
+    "COMPOSIÇÃO E VOTANTES: votaram 8 ministros (Ilmar Galvão-Relator, Moreira Alves-Revisor, Carlos Velloso, Celso de Mello, Sepúlveda Pertence, Sydney Sanches, Néri da Silveira e o Presidente Octavio Gallotti - 'Votou o Presidente sobre todas as matérias'). Francisco Rezek: 'Ausente, justificadamente' nas quatro sessões (extratos p.510, p.549/672, p.673, p.756 e ata do índice). Marco Aurélio: presente às sessões segundo as listas de presença, mas 'Não participou das votações [...] tendo em vista a declaração de suspeição em julgamento de processos anteriores, em que figura o ex-Presidente da República Fernando Affonso Collor de Mello' (ata de 13.12.94; extrato p.756). Registrei Marco Aurélio com ausente=false e motivo_ausencia='suspeição', porque a ata o lista como presente; Rezek com ausente=true e motivo_ausencia='ausente'. A ata não contradiz a tabela de composição (10 em exercício; Maurício Corrêa ainda não empossado). A ata do índice grafa 'Marcos Aurélio' e 'Sepúlvera'.",
+    "ORDEM DAS SESSÕES: 07.12.94 relatório, MPF e sustentações orais; 09.12.94 preliminares sobre prova ilícita e votos do Relator e do Revisor pela absolvição no art. 317; 12.12.94 demais votos no art. 317 (Velloso, Celso, Pertence, Sanches, Néri - 'último a votar na bancada' - e o Presidente), questão de ordem e preliminar de conexão, e voto do Relator sobre arts. 305/343/344; 13.12.94 conclusão dos arts. 305/343/344 e julgamento do art. 299 e das penas.",
+    "VOTO DE CARLOS VELLOSO SOBRE O MÉRITO DO ART. 317: o voto escrito não está no acórdão; só há as 'INCIDÊNCIAS ORAIS AO VOTO (S/art. 31.7 do CP)' (p.550-554) e o debate com a defesa (p.555-557). O sentido do voto vem da ata (vencido, condenava Collor e PC por corrupção passiva), de Pertence (p.620: 'Tal como o eminente Ministro Carlos Velloso [...] no terceiro episódio [...] compelir à decisão condenatória'), de Néri (p.662) e de Sanches (p.636: Velloso entre os que absolveram em Marcelo Ribeiro e VASP; p.639: todos os votos até então absolviam Cláudio Vieira). Votos observados por referência de outros ministros, não deduzidos por D-004; confiança média.",
+    "VOTOS SOBRE PC FARIAS EM MARCELO RIBEIRO E VASP (Velloso e Pertence): os trechos de Sanches (p.636) e de Pertence (p.620) falam do ex-Presidente; estendi a absolvição a PC Farias nesses dois episódios porque ele foi denunciado como co-autor e porque a ata registra que os vencidos condenavam ambos 'por crime de corrupção passiva' sem distinção, e Pertence (p.625) e Néri (p.663) só condenam pelo episódio Mercedes-Benz. Confiança média.",
+    "VOTO DO PRESIDENTE GALLOTTI SOBRE PC FARIAS E CLÁUDIO VIEIRA: o voto (p.665-668) julga 'a ação improcedente, de acordo com o8 votos dos Ministros Relator e Revisor', sem nomear os co-réus; os votos do Relator e do Revisor absolvem os três. Confiança média para PC e Cláudio.",
+    "MOTIVO (Collor e PC Farias): classifiquei como 'atipicidade' porque, nos dois episódios VASP e Mercedes-Benz (incluindo o único episódio com placar dividido), a absolvição majoritária se funda no art. 386, III, do CPP ('não constituir o fato infração penal') pela ausência de ato de ofício, elemento do tipo do art. 317 (Revisor p.414; Celso p.601: 'esses fatos, porque destituídos de tipicidade penal, não constituem infração penal'; Gallotti p.667: 'tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício'). TENSÃO: (a) no episódio Marcelo Ribeiro o fundamento é o art. 386, VI (insuficiência de provas), o que seria 'mérito'; (b) no episódio Mercedes-Benz o Relator (p.154) e Sanches (p.637) combinam a ausência de ato de ofício com a falta de prova da solicitação, embora o dispositivo cite o inciso III. Não se trata de linguagem de 'ausência de dolo' (regra 7), e sim de ausência de elemento objetivo do tipo. Confiança média; revisão humana recomendada.",
+    "MOTIVO (Cláudio Vieira): classifiquei como 'mérito' (insuficiência de provas), porque a razão substantiva dos votos é a falta de prova e o abandono da acusação pelo MPF (Celso p.601: art. 386, VI; Néri p.663; Revisor p.414: art. 386, III e VI). A ata aplica-lhe formalmente a mesma divisão por episódio (III para VASP/Mercedes, VI para Marcelo Ribeiro). Sanches (p.639) acrescenta que nenhum ato de ofício desse acusado foi provado. Confiança média.",
+    "PRELIMINARES (não são o mérito): em 09.12.94 o Tribunal acolheu a preliminar da defesa e declarou inadmissíveis o laudo de degravação de conversa telefônica e o laudo de degravação da memória de computador, vencidos Carlos Velloso, Sepúlveda Pertence e Néri da Silveira, que só julgavam inadmissível a prova do computador; rejeitou a segunda preliminar (repercussão da prova ilícita sobre as demais), vencidos Celso de Mello e, em menor extensão, Velloso, Pertence e Néri. Em 12.12.94, por unanimidade, resolveu questão de ordem do Relator para prosseguir no exame do processo apesar da absolvição de Collor (competência sobre os co-réus por conexão) e rejeitou a preliminar de conexão objetiva de Roberto Carlos Maciel de Barros. Em 13.12.94, por unanimidade, rejeitou a preliminar de incompetência por falta de conexão quanto ao art. 299 (PC Farias, Rosinete Melanias e Marta Vasconcelos).",
+    "DEBATE SOBRE PROVA FORA DOS AUTOS (p.550-554): Velloso leu depoimento de Bernardo Cabral no processo de impeachment (Diário do Congresso Nacional), que não estava nos autos; Moreira Alves objetou que o Tribunal está 'jungido a julgar nos autos'. Velloso propôs converter o julgamento em diligência; a proposta não foi adiante (não há votação registrada sobre ela).",
+    "FORO: Collor foi julgado como ex-Presidente da República (renunciou durante o impeachment, p.626). O acórdão menciona a 'prerrogativa de foro junto ao Supremo Tribunal Federal' do ex-Presidente (p.248, na exposição da preliminar de defesa) e a competência para o 'agora ex-Presidente da República [em] razão da prerrogativa de função' (p.458, citando a defesa). Não encontrei no trecho lido a menção à Súmula 394 nem outra base explícita para a manutenção do foro depois da renúncia; não preenchi isso por conhecimento prévio. Os co-réus foram julgados no STF por conexão.",
+    "FORA DO ESCOPO - PC Farias (no banco pelo art. 317): arts. 343, 344 e 305 do CP absolvido por unanimidade, art. 386, II, CPP; art. 299 (falsificação de notas fiscais) absolvido por unanimidade, art. 386, II; art. 299 (abertura e movimentação de contas em nome de pessoas fictícias) condenado por unanimidade (art. 299 c/c arts. 71 e 69 do CP), com pena fixada por maioria em 07 anos de reclusão em regime inicial semiaberto (vencidos o Relator, que fixava 03 anos e 06 meses em regime aberto, e Pertence, que fixava 08 anos em semiaberto), mais 150 dias-multa à base de 02 salários-mínimos (ata de 13.12.94).",
+    "FORA DO ESCOPO - Cláudio Vieira (no banco pelo art. 317): arts. 343, 344 e 305 do CP absolvido por unanimidade, art. 386, III, CPP (ata de 13.12.94).",
+    "RÉUS FORA DO BANCO (sem imputação do art. 317): (1) Roberto Carlos Maciel de Barros - arts. 343, 344 e 305 CP; absolvido por unanimidade, art. 386, III, CPP. (2) Jorge Waldério Tenório Bandeira de Melo - art. 299 CP; condenado por unanimidade (art. 299 c/c art. 71) quanto às contas e cheques em nome de Flávio Maurício Ramos e Francisco Celso Ramalho Lins, pena de 01 ano e 02 meses em regime aberto e 10 dias-multa a 01 salário-mínimo; absolvido (art. 386, VI) quanto à assinatura em nome de José Carlos Bonfim. (3) Marta de Vasconcelos Soares - art. 299; absolvida por unanimidade, art. 386, VI. (4) Rosinete Silva de Carvalho Melanias - art. 299; condenada (art. 299 c/c arts. 71 e 69), pena fixada por maioria em 02 anos e 04 meses em regime aberto (vencido o Relator: 01 ano e 06 meses com sursis), mais 10 dias-multa a 1/10 do salário-mínimo. (5) Severino Nunes de Oliveira - art. 299; condenado por unanimidade (art. 299 c/c art. 71), 01 ano e 02 meses com sursis por 02 anos e 10 dias-multa a 1/30 do salário-mínimo. (6) Giovani Carlos Fernandes de Melo - art. 299; absolvido por unanimidade, art. 386, VI. A imputação de quadrilha (art. 288) foi rejeitada no recebimento da denúncia (p.248); para Collor, o Revisor (p.414) registra que a corrupção passiva foi a 'única acusação que foi recebida contra ele'.",
+    "OCR: na lista de imputações do relatório (p.6) o OCR traz 'PAULO CÉSAR CAVALCANTE FARIAS: arts. 371, caput, 343...'; pelo contexto (ementa p.1, Revisor p.329) trata-se do art. 317. O voto do Relator (p.193) diz 'na forma do art. 386, VI, do CP', provavelmente por 'CPP' (lapso no original ou no OCR; não conferi no PDF). O OCR da ementa (p.1-2) está muito fragmentado; a evidência de instituto foi tirada dela como está, com supressões marcadas por [...]. O voto de Gallotti tem ruído de OCR ('o8 votos', 'o sm inciso VI'), sem prejuízo do sentido. Não abri o PDF: as passagens decisivas estavam legíveis no texto.",
+    "METADADO DO ÍNDICE: o cabeçalho do arquivo da ata registra orgao_julgador='Segunda Turma' no índice do STF (erro de catalogação). O acórdão e os extratos dizem 'TRIBUNAL PLENO' / 'Plenário' e 'Presidência do Senhor Ministro Octavio Gallotti' com o colegiado completo; prevalece o Plenário.",
+    "CONVERGÊNCIA ATA × EXTRATOS: o texto da ata do índice coincide em substância com os extratos de ata do acórdão (p.510, p.549, p.672-673, p.752-756) e com o dispositivo do acórdão (p.3-5). Não encontrei divergência de placar.",
+    "CLASSIFICAÇÃO: não reaberta. O caso fica na modalidade 8 (art. 317), com três réus no banco."
+  ]
+}

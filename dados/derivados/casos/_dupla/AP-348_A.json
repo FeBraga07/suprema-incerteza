@@ -1,0 +1,214 @@
+{
+  "id_caso": "AP-348",
+  "extraido_em": "2026-08-08",
+  "fontes_lidas": ["dados/corpus/texto/AP-348.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Dispensa/inexigibilidade de licitação (art. 89 da Lei 8.666/93) — contratação direta de advogados",
+      "evidencia": "DISPENSA DE LICITAÇÃO NÃO CONFIGURADA. INEXIGIBILIDADE DE LICITAÇÃO CARACTERIZADA PELA NOTÓRIA ESPECIALIZAÇÃO DOS PROFISSIONAIS CONTRATADOS, COMPROVADA NOS AUTOS, ALIADA À CONFIANÇA DA ADMINISTRAÇÃO POR ELA DESFRUTADA.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, por unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU (É ) (S) LEONEL ARCÂNGELO PAVAN",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Todo o julgamento (relatório, votos e ata) está datado de 15/12/2006, sessão única do Plenário, com uma só votação de mérito registrada.",
+      "fonte": "acordao p.25",
+      "confianca": "media"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Leonel Arcângelo Pavan",
+        "evidencia": "RÉU (É ) (S) LEONEL ARCÂNGELO PAVAN",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Senador da República ao tempo do julgamento; à época dos fatos (1997), Prefeito Municipal de Balneário Camboriú",
+        "evidencia": "O Ministério Público do Estado de Santa Catarina ofereceu denúncia contra o Senador da República Leonel Arcângelo Pavan, então prefeito Municipal de Balneário Camboriú, dando-o como incurso no artigo 89 da Lei n. 8.666/93.",
+        "fonte": "acordao p.3",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "por unanimidade de votos, absolver o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "a questão resulta prejudicada pelo acolhimento da tese de legalidade do ato, do que decorre atipicidade da conduta. [...] absolvo, com fundamento no artigo 386, III do Código de processo Penal, o Senador Leonel Arcângelo Pavan da acusação do crime descrito no artigo 89 da Lei n. 8.666/93.",
+        "fonte": "acordao p.17",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não há qualquer menção a prescrição como fundamento da decisão; o réu foi absolvido por atipicidade da conduta (inexigibilidade de licitação caracterizada), não havendo condenação prévia nem extinção de punibilidade.",
+        "fonte": "acordao p.17",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "89",
+          "diploma": "Lei 8.666/1993",
+          "evidencia": "dando-o como incurso no artigo 89 da Lei n. 8.666/93."
+        }
+      ],
+      "n_votantes": {
+        "valor": 9,
+        "evidencia": "Ausentes, justificadamente, neste julgamento, os Senhores Ministros Gilmar Mendes e Carlos Britto. [...] Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso de Mello, Marco Aurélio, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau, Ricardo Lewandowski e Cármen Lúcia [+ presidência de Ellen Gracie] = 11 em exercício na sessão, menos os 2 ausentes justificados neste julgamento específico = 9 votantes.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade, absolveu o réu das imputações que lhe foram feitas.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 9,
+        "evidencia": "O Tribunal, por unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "por unanimidade de votos, absolver o réu das imputações que lhe foram feitas",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": "Eros Grau",
+      "eh_relator": true,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "O SENHOR MINISTRO Eros Grau (Relator): [...] absolvo, com fundamento no artigo 386, III do Código de processo Penal, o Senador Leonel Arcângelo Pavan da acusação do crime descrito no artigo 89 da Lei n. 8.666/93.",
+      "fonte": "acordao p.17"
+    },
+    {
+      "ministro": "Sepúlveda Pertence",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "O SENHOR MINISTRO SEPÚLVEDA PERTENCE (REVISOR) [...] Também acompanho o eminente Relator e absolvo o réu.",
+      "fonte": "acordao p.18"
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "A SENHORA MINISTRA CÁRMEN LÚCIA - Eu também, Senhora Presidente, acompanho o Relator. [...] Eu também absolvo, neste caso, o denunciado e incriminado.",
+      "fonte": "acordao p.19"
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "também acompanho o bem formulado voto do eminente Relator para absolver o réu.",
+      "fonte": "acordao p.22"
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "SENHOR MINISTRO JOAQUIM BARBOSA [...] também julgo improcedente a ação penal para absolver o réu, nos termos do voto do eminente Relator e dos que acompanharam.",
+      "fonte": "acordao p.23"
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "SENHOR MINISTRO MARCO AURÉLIO [...] Por isso, acompanho o voto do relator, julgando improcedente o pedido formulado na denúncia.",
+      "fonte": "acordao p.24"
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso de Mello, Marco Aurélio, [...] (não consta voto individual transcrito no acórdão; em exercício, presente, não listado como ausente/vencido no julgamento deste caso).",
+      "fonte": "deducao D-004"
+    },
+    {
+      "ministro": "Cezar Peluso",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presentes à sessão os Senhores Ministros [...] Cezar Peluso [...] (não consta voto individual transcrito no acórdão; em exercício, presente, não listado como ausente/vencido no julgamento deste caso).",
+      "fonte": "deducao D-004"
+    },
+    {
+      "ministro": "Ellen Gracie",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presidiu o julgamento a Senhora Ministra Ellen Gracie. [...] Presidência da Senhora Ministra Ellen Gracie. (não consta voto individual transcrito no acórdão; presidiu a sessão, decisão unânime, não listada como ausente/vencida neste julgamento).",
+      "fonte": "deducao D-004"
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "Ausentes, justificadamente",
+      "evidencia": "Ausentes, justificadamente, neste julgamento, os Senhores Ministros Gilmar Mendes e Carlos Britto.",
+      "fonte": "ata"
+    },
+    {
+      "ministro": "Carlos Britto",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "Ausentes, justificadamente",
+      "evidencia": "Ausentes, justificadamente, neste julgamento, os Senhores Ministros Gilmar Mendes e Carlos Britto.",
+      "fonte": "ata"
+    }
+  ],
+  "avisos": [
+    "Contradição aparente na própria ata: a lista 'Presentes à sessão' ao final (referente à sessão do dia como um todo, não a este processo específico) inclui nominalmente Gilmar Mendes e Carlos Britto, mas o parágrafo específico do julgamento da AP-348 registra 'Ausentes, justificadamente, neste julgamento, os Senhores Ministros Gilmar Mendes e Carlos Britto'. Segui a regra do projeto de que a nomeação explícita relativa ao julgamento do caso concreto prevalece sobre a lista geral de presença à sessão; portanto tratei os dois como ausentes neste caso.",
+    "Os votos de Ellen Gracie (Presidente da sessão), Celso de Mello e Cezar Peluso não aparecem transcritos individualmente no corpo do acórdão disponível (só os votos de Eros Grau, Sepúlveda Pertence, Cármen Lúcia, Ricardo Lewandowski, Joaquim Barbosa e Marco Aurélio foram reproduzidos). Foram deduzidos como 'absolve' via regra D-004 (em exercício, presentes à sessão, não listados como ausentes/vencidos). Não há como confirmar se seus votos foram de fato lidos oralmente ou apenas registrados como acompanhamento tácito da unanimidade — é possível que o documento de origem (OCR) tenha simplesmente omitido essas falas, ou que elas não tenham sido proferidas por serem dispensáveis diante da unanimidade já formada.",
+    "O crime imputado (art. 89, Lei 8.666/93) trata de dispensa/inexigibilidade de licitação — a denúncia foi por 'dispensa de licitação' indevida, mas o Relator reclassificou a situação fática como caso de 'inexigibilidade de licitação' (art. 24 x art. 25 da Lei 8.666/93), concluindo pela atipicidade da conduta por ausência do ilícito administrativo antecedente. Registro aqui por não caber nos campos estruturados, mas é relevante para quem for comparar 'institutos jurídicos' entre casos.",
+    "Texto de OCR bastante ruidoso em vários trechos (palavras fragmentadas, quebras de linha estranhas), especialmente no relatório (páginas 3-8) e no voto do relator (páginas 9-17). As citações usadas como evidência foram reconstituídas removendo quebras de linha do OCR, mas o conteúdo semântico das passagens-chave (resultado, motivo, ata) é claro e de alta confiança."
+  ]
+}

@@ -1,0 +1,15 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-372|1|ementa||1|2||todos||||
+AP-372|2|acordao|Dias Toffoli|2|3||todos||||assinado pelo Relator; decide 'nos termos dos votos do Relator e do Revisor'
+AP-372|3|relatorio|Dias Toffoli|4|38||todos||||transcreve peças dos autos, inclusive ementa e acórdão do HC 928 do STJ (p.9-10)
+AP-372|4|voto|Dias Toffoli|39|63|Sim|todos|Absolve|Não|lido|Relator
+AP-372|5|extrato_ata||64|64||todos||||sessão de 16/12/2010
+AP-372|6|extrato_ata|Celso de Mello|64|64|Nao|todos|Absolve|Não|lido|Revisor; acórdão (p.3) e ata (p.64) decidem 'nos termos dos votos do Relator e do Revisor', mas o voto do Revisor não consta do acórdão
+AP-372|7|extrato_ata|Cezar Peluso|64|64|Nao|todos|Absolve|Não|deduzido|presidiu o julgamento; sem peça no acórdão
+AP-372|8|extrato_ata|Marco Aurélio|64|64|Nao|todos|Absolve|Não|deduzido|presente à sessão (ata p.64); sem peça no acórdão
+AP-372|9|extrato_ata|Ellen Gracie|64|64|Nao|todos|Absolve|Não|deduzido|presente à sessão (ata p.64); sem peça no acórdão
+AP-372|10|extrato_ata|Ayres Britto|64|64|Nao|todos|Absolve|Não|deduzido|presente à sessão (ata p.64); sem peça no acórdão
+AP-372|11|extrato_ata|Joaquim Barbosa|64|64|Nao|todos|Absolve|Não|deduzido|presente à sessão (ata p.64); sem peça no acórdão
+AP-372|12|extrato_ata|Ricardo Lewandowski|64|64|Nao|todos|Absolve|Não|deduzido|presente à sessão (ata p.64); sem peça no acórdão
+AP-372|13|extrato_ata|Cármen Lúcia|64|64|Nao|todos|Absolve|Não|deduzido|presente à sessão (ata p.64); sem peça no acórdão
+AP-372|14|extrato_ata|Gilmar Mendes|64|64|Nao|todos|Não votou|Não|lido|ausente neste julgamento (ata p.64)

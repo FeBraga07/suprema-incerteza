@@ -1,0 +1,16 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-1036|1|ementa||1|1||todos||||
+AP-1036|2|acordao|Dias Toffoli|1|2||todos||||assinado pelo Relator; sessão virtual de 15 a 22/9/2023
+AP-1036|3|relatorio|Dias Toffoli|3|5||todos||||
+AP-1036|4|voto|Dias Toffoli|6|25|Sim|AP-1036-R01|Absolve|Não|lido|Relator
+AP-1036|5|voto|Rosa Weber|26|56|Sim|AP-1036-R01|Absolve|Não|lido|Revisora; cabeçalho das páginas diz 'Voto Vogal'; na p.26 remete ao relatório do Relator; p.56 traz 'Publicado sem revisão. Art. 95 do RISTF'
+AP-1036|6|extrato_ata||57|57||todos||||sessão virtual 15.9.2023 a 22.9.2023; composição nomeada na ata
+AP-1036|7|extrato_ata|Gilmar Mendes|57|57|Nao|AP-1036-R01|Absolve|Não|deduzido|sem peça no acórdão; contado na composição e na decisão unânime da ata
+AP-1036|8|extrato_ata|Cármen Lúcia|57|57|Nao|AP-1036-R01|Absolve|Não|deduzido|sem peça no acórdão; contado na composição e na decisão unânime da ata
+AP-1036|9|extrato_ata|Luiz Fux|57|57|Nao|AP-1036-R01|Absolve|Não|deduzido|sem peça no acórdão; contado na composição e na decisão unânime da ata
+AP-1036|10|extrato_ata|Roberto Barroso|57|57|Nao|AP-1036-R01|Absolve|Não|deduzido|sem peça no acórdão; contado na composição e na decisão unânime da ata
+AP-1036|11|extrato_ata|Edson Fachin|57|57|Nao|AP-1036-R01|Absolve|Não|deduzido|sem peça no acórdão; contado na composição e na decisão unânime da ata
+AP-1036|12|extrato_ata|Nunes Marques|57|57|Nao|AP-1036-R01|Absolve|Não|deduzido|sem peça no acórdão; contado na composição e na decisão unânime da ata
+AP-1036|13|extrato_ata|Alexandre de Moraes|57|57|Nao|AP-1036-R01|Não votou|Não|lido|afirmou suspeição (ata p.57; acórdão p.2); sem peça no acórdão
+AP-1036|14|extrato_ata|André Mendonça|57|57|Nao|AP-1036-R01|Absolve|Não|deduzido|sem peça no acórdão; contado na composição e na decisão unânime da ata
+AP-1036|15|extrato_ata|Cristiano Zanin|57|57|Nao|AP-1036-R01|Absolve|Não|deduzido|sem peça no acórdão; contado na composição e na decisão unânime da ata

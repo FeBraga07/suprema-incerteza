@@ -1,0 +1,22 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-447|1|ementa||1|2||todos||||
+AP-447|2|acordao||2|2||todos||||julgamento concluído em 18/02/2009; registra duas deliberações por maioria, com vencidos distintos em cada uma
+AP-447|3|relatorio|Ayres Britto|3|20|Sim|todos||||grafado "Carlos Britto"/"Carlos Ayres Britto" no texto; submetido à revisão de Joaquim Barbosa (p20)
+AP-447|4|voto|Ayres Britto|21|30|Sim|todos|Absolve|Não|sem_evidencia|Relator; sessão de 12/02/2009; voto escrito juntado com parágrafos numerados 13 a 27; em 18/02 o Relator lê trechos com numeração distinta (ver ordem 7)
+AP-447|5|extrato_ata||31|31||todos||||ata da sessão de 12/02/2009: após o voto do Relator, vista a Joaquim Barbosa; Eros Grau ausente nesta assentada
+AP-447|6|voto|Joaquim Barbosa|32|51|Sim|todos|Condena|Sim|sem_evidencia|Revisor; voto após pedido de vista, sessão de 18/02/2009; cabeçalho "VOTO-VOGAL" (OCR: "VIII-VOGAL", conferido no PDF)
+AP-447|7|confirmacao_voto|Ayres Britto|52|58|Sim|todos|Absolve|Não|sem_evidencia|sessão de 18/02/2009; Relator reitera o voto lendo trechos (parágrafos numerados 25 a 32, diferentes do voto juntado p21-30); apartes de Marco Aurélio (p52) e Joaquim Barbosa (p55)
+AP-447|8|voto|Menezes Direito|59|61|Sim|todos|Absolve|Não|sem_evidencia|cabeçalho "À revisão de apartes do Sr. Ministro Carlos Britto"; apartes de Ayres Britto p59-60
+AP-447|9|voto|Cármen Lúcia|62|63|Sim|todos|Absolve|Não|sem_evidencia|aparte de Ayres Britto p62
+AP-447|10|aparte|Ayres Britto|63|63|Sim|AP-447-R01;AP-447-R02|Absolve|Não|sem_evidencia|ao fim do voto de Cármen Lúcia, o Relator anuncia ajuste no próprio voto com fundamento distinto para R01 e para R02 ("vou deixar isso no voto"); o ajuste não aparece no voto juntado (p29-30)
+AP-447|11|voto|Ricardo Lewandowski|64|66|Sim|todos|Absolve|Não|sem_evidencia|cabeçalho "À revisão de apartes do Sr. Ministro Joaquim Barbosa"; aparte de Joaquim Barbosa p65; "Texto sem revisão" do ministro (p66)
+AP-447|12|voto|Eros Grau|67|72|Adesao|todos|Condena|Sim|sem_evidencia|voto abre com pergunta aos Ministros Relator e Revisor (p67-68), segue em debate e termina com adesão à divergência do Revisor em poucas linhas (p72); fundamentação própria mínima
+AP-447|13|debate|Eros Grau;Joaquim Barbosa;Ayres Britto;Cezar Peluso;Celso de Mello;Cármen Lúcia|67|72||todos||||debate dentro do voto de Eros Grau; Joaquim Barbosa lê peça dos autos (p69-70) e Ayres Britto lê outra (p70-71); intervenção de Cármen Lúcia p71-72
+AP-447|14|voto|Cezar Peluso|73|78|Sim|todos|Condena|Sim|sem_evidencia|cabeçalho "À revisão de apartes dos Srs. Ministros Carlos Britto (Relator), Ricardo Lewandowski, Gilmar Mendes (Presidente) e Eros Grau" (vale para p73-84); apartes de Ayres Britto p75-77; adere ao Revisor com fundamentação própria (p78)
+AP-447|15|debate|Ricardo Lewandowski;Cezar Peluso;Gilmar Mendes;Ayres Britto;Eros Grau|78|84||todos||||abre com aparte de Ricardo Lewandowski (p78-79) logo após o voto de Cezar Peluso
+AP-447|16|voto|Marco Aurélio|85|89|Sim|todos|Condena|Sim|sem_evidencia|p89: reserva-se para votar a dosimetria se prevalecer a condenação
+AP-447|17|voto|Gilmar Mendes|90|93|Sim|todos|Absolve|Não|sem_evidencia|Presidente; apartes de Marco Aurélio e Cezar Peluso p91-92; conclusão p92; p92-93 considerações posteriores à conclusão
+AP-447|18|debate|Menezes Direito;Gilmar Mendes;Marco Aurélio;Ayres Britto;Celso de Mello;Ricardo Lewandowski;Cezar Peluso|94|101||todos||||debate sobre a redação da primeira deliberação proclamada (acórdão p2, ata p102); p99-100 o Presidente enuncia vencidos em termos diferentes do acórdão e da ata; "Texto sem revisão" de Lewandowski (p101); OCR ruim nas falas de Menezes Direito
+AP-447|19|extrato_ata||102|102||todos||||ata final (18/02/2009) com as duas deliberações e os vencidos de cada uma; reproduz também a decisão de 12/02
+AP-447|20|extrato_ata|Celso de Mello|102|102|Nao|todos|Absolve|Não|sem_evidencia|sem voto próprio no acórdão; só intervenções curtas em debates (p70, p96, p99, p100); contado na ata p102 (não listado entre os vencidos)
+AP-447|21|extrato_ata|Ellen Gracie|102|102|Nao|todos|Não votou|Não|sem_evidencia|ausente justificadamente em 18/02/2009 (ata p102); estava presente em 12/02/2009 (ata p31)

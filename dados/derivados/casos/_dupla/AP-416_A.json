@@ -1,0 +1,195 @@
+{
+  "id_caso": "AP-416",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-416.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "peculato de uso (art. 1º, incisos I e II, Decreto-Lei 201/67)",
+      "evidencia": "IMPUTAÇÃO DE CRIMES PREVISTOS NOS INCISOS I E II DO ARTIGO 1º DO DECRETO-LEI 201/67. CRIMES DE PECULATO DE USO.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU(É)(S) : SÉRGIO IVAN MORAES",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Relatório, Voto, Aditamento ao Voto, Voto da Revisora e demais votos e a ata trazem todos a mesma data: '08/03/2012' / 'Plenário, 08.03.2012.'",
+      "fonte": "ata",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Sérgio Ivan Moraes",
+        "evidencia": "RÉU(É)(S) : SÉRGIO IVAN MORAES",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "ex-Prefeito Municipal de Santa Cruz do Sul (à época dos fatos); Deputado Federal (à época do julgamento)",
+        "evidencia": "o Ministério Público do Estado do Rio Grande do Sul ofereceu denúncia contra o ex-Prefeito Municipal de Santa Cruz do Sul, atualmente Deputado Federal, Sérgio Ivan Moraes",
+        "fonte": "acordao p.3",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "por unanimidade e nos termos do voto do Relator e da Revisora, em julgar improcedente a ação e absolver o réu Sérgio Ivan Moraes.",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "AUSÊNCIA DA DEMONSTRAÇÃO DO DOLO DE AGIR DO RÉU. ABSOLVIÇÃO. APLICAÇÃO DO ARTIGO 386, VII DO CPP. [...] Os delitos previstos nos incisos I e II do DL 201/67 reclamam como elemento subjetivo do tipo, o dolo, cuja ausência implica a conjuração da pretensão punitiva.",
+        "fonte": "ementa",
+        "confianca": "media"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não há qualquer menção a prescrição da pretensão punitiva neste processo; a absolvição ocorreu por ausência de prova/dolo, sem extinção de punibilidade.",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "1º, incisos I e II",
+          "diploma": "Decreto-Lei 201/67",
+          "evidencia": "imputando-lhe a prática, em tese, do crime capitulado no art. 1º, incisos I e II do Decreto-Lei nº 201/67, em razão da conduta narrada na inicial acusatória"
+        }
+      ],
+      "n_votantes": {
+        "valor": 9,
+        "evidencia": "Presidência do Senhor Ministro Cezar Peluso. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber. Ausentes, justificadamente, o Senhor Ministro Joaquim Barbosa e, neste julgamento, o Senhor Ministro Marco Aurélio.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade [...] julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 9,
+        "evidencia": "O Tribunal, por unanimidade [...] julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Cezar Peluso", "evidencia": "Presidência do Senhor Ministro Cezar Peluso.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR : MIN. LUIZ FUX", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Votou o Presidente, Ministro Cezar Peluso. [...] por unanimidade [...] absolveu o réu Sérgio Ivan Moraes.", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presidência do Senhor Ministro Cezar Peluso.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - Presidente votou", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Celso de Mello", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR : MIN. LUIZ FUX", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "O SENHOR MINISTRO CELSO DE MELLO: (CANCELADO). [texto do voto individual não preservado na transcrição, mas ministro está listado entre os 'presentes à sessão' e não entre os ausentes; decisão foi unânime]", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Marco Aurélio", "evidencia": "Ausentes, justificadamente, o Senhor Ministro Joaquim Barbosa e, neste julgamento, o Senhor Ministro Marco Aurélio.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR : MIN. LUIZ FUX", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, [...] neste julgamento, o Senhor Ministro Marco Aurélio.", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não votou, portanto não há voto vencido", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "Ausentes, justificadamente, [...] neste julgamento, o Senhor Ministro Marco Aurélio.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "ausente justificadamente neste julgamento (embora presente à sessão)", "evidencia": "Ausentes, justificadamente, o Senhor Ministro Joaquim Barbosa e, neste julgamento, o Senhor Ministro Marco Aurélio.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Gilmar Mendes", "evidencia": "O SENHOR MINISTRO GILMAR MENDES - Presidente, eu também louvo as sustentações orais [...] Acompanho o Relator.", "fonte": "acordao p.36-38", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR : MIN. LUIZ FUX", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Acompanho o Relator.", "fonte": "acordao p.38", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Gilmar Mendes [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente e votou", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ayres Britto", "evidencia": "O SENHOR MINISTRO AYRES BRITTO - [...] Eu também vou acompanhar o eminente Relator no sentido da absolvição", "fonte": "acordao p.35", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR : MIN. LUIZ FUX", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Eu também vou acompanhar o eminente Relator no sentido da absolvição [...] vou pedir vênia a Vossa Excelência para acompanhar o eminente Relator.", "fonte": "acordao p.35", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Ayres Britto [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente e votou", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Joaquim Barbosa", "evidencia": "Ausentes, justificadamente, o Senhor Ministro Joaquim Barbosa [...]", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR : MIN. LUIZ FUX", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, o Senhor Ministro Joaquim Barbosa e, neste julgamento, o Senhor Ministro Marco Aurélio.", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não votou, portanto não há voto vencido", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "Ausentes, justificadamente, o Senhor Ministro Joaquim Barbosa [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "ausência justificada (não constou entre os presentes à sessão)", "evidencia": "Ausentes, justificadamente, o Senhor Ministro Joaquim Barbosa e, neste julgamento, o Senhor Ministro Marco Aurélio.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ricardo Lewandowski", "evidencia": "O SENHOR MINISTRO RICARDO LEWANDOWSKI - [...] também absolvo o réu, com fundamento no artigo 386, inciso VII, do Código de Processo Penal.", "fonte": "acordao p.34", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR : MIN. LUIZ FUX", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "também absolvo o réu, com fundamento no artigo 386, inciso VII, do Código de Processo Penal.", "fonte": "acordao p.34", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Ricardo Lewandowski [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente e votou", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cármen Lúcia", "evidencia": "A SENHORA MINISTRA CÁRMEN LÚCIA - Também acompanho, Presidente [...] Eu também absolvo o réu.", "fonte": "acordao p.33", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR : MIN. LUIZ FUX", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Eu também absolvo o réu.", "fonte": "acordao p.33", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Cármen Lúcia [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente e votou", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Dias Toffoli", "evidencia": "Presentes à sessão os Senhores Ministros [...] Dias Toffoli [...]", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR : MIN. LUIZ FUX", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Ministro interveio apenas em aparte durante o voto de Gilmar Mendes ('E em uma época em que o celular ainda não havia sido difundido comercialmente.'), sem texto de voto individual próprio preservado; presente à sessão, não consta como ausente/impedido/suspeito, decisão unânime.", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Dias Toffoli [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Luiz Fux", "evidencia": "O SENHOR MINISTRO LUIZ FUX (RELATOR): [...] Ante o exposto, voto no sentido de que seja o réu absolvido nos termos do disposto no artigo 386, VII, do CPP.", "fonte": "acordao p.24", "confianca": "alta"},
+      "eh_relator": {"valor": true, "evidencia": "RELATOR : MIN. LUIZ FUX", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Ante o exposto, voto no sentido de que seja o réu absolvido nos termos do disposto no artigo 386, VII, do CPP.", "fonte": "acordao p.24", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Luiz Fux [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente e votou (relator)", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Rosa Weber", "evidencia": "A SENHORA MINISTRA ROSA WEBER (REVISORA) - [...] Por isso, acompanho o eminente Relator pela absolvição do acusado.", "fonte": "acordao p.30-32", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "REVISORA : MIN. ROSA WEBER (papel de revisora, distinto de relator)", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Por isso, acompanho o eminente Relator pela absolvição do acusado.", "fonte": "acordao p.32", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Rosa Weber.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministra presente e votou (revisora)", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "avisos": [
+    "Tensão com a Convenção D-018/Regra 7 deste protocolo: a ementa e o dispositivo formalmente fundamentam a absolvição no art. 386, VII do CPP (insuficiência/ausência de provas), e não nos incisos V ou VI (atipicidade/inexistência de prova do fato). Contudo, tanto a ementa quanto o corpo dos votos usam repetidamente a expressão 'ausência de dolo'/'ausência da demonstração do dolo de agir' como fundamento central. Por instrução deste protocolo (Regra 7), classifiquei motivo=atipicidade. Registro, porém, que no próprio julgamento o Ministro Ayres Britto fez questão de contestar expressamente essa leitura, afirmando: 'Eu acho que está suficientemente claro que, a partir do voto do Relator, não se está assentando aqui a atipicidade dos fatos, apenas a insuficiência de provas.' Ou seja, há uma divergência textual explícita, dentro do próprio acórdão, sobre se o fundamento é atipicidade ou apenas insuficiência probatória — recomendo tratar esse caso como candidato a revisão manual quanto ao campo 'motivo'.",
+    "No corpo do voto do Relator (parte final, antes do dispositivo) há uma aparente incongruência: '...a permitir a sua condenação como incurso nas penas dos incisos I e III do artigo 1º do Decreto-Lei 201/67' — todo o resto do acórdão (denúncia, ementa) refere-se aos incisos I e II, não I e III. Pode ser erro de digitação/OCR do documento original; mantive os incisos I e II no campo 'crimes' por serem a capitulação consistente em todo o restante do texto.",
+    "O voto do Ministro Celso de Mello aparece integralmente como '(CANCELADO)' na transcrição da ata/acordão (duas ocorrências, página 39/40), sem texto de voto individual preservado. Ele consta como presente à sessão e não como ausente/impedido/suspeito, e a decisão foi unânime; seu voto foi computado como 'absolve' por dedução (fonte: deducao D-004), mas o teor de sua manifestação (se houve) não pôde ser verificado no texto.",
+    "O Ministro Dias Toffoli não possui texto de voto individual formal registrado no acórdão — aparece apenas em um aparte durante o voto do Ministro Gilmar Mendes. Está listado como presente à sessão; seu voto foi computado como 'absolve' por dedução (fonte: deducao D-004) com base na unanimidade declarada na ata.",
+    "O Ministro Marco Aurélio consta simultaneamente como 'presente à sessão' (lista geral de presença da sessão plenária) e como 'ausente, ...neste julgamento' (i.e., ausente especificamente para o julgamento da AP 416, ainda que estivesse fisicamente na sessão para outros processos). Tratei-o como ausente para efeito deste caso específico, conforme a ata.",
+    "Composição do STF na data (08/03/2012) segundo a tabela de referência bate integralmente com a lista de presentes/ausentes da ata (11 ministros em exercício: os 9 'presentes à sessão' + o Presidente Cezar Peluso + o ausente Joaquim Barbosa) — não há divergência a registrar quanto à composição.",
+    "Réu era, à época dos fatos (1997), Prefeito Municipal de Santa Cruz do Sul/RS; à época do julgamento (2012), já era Deputado Federal, o que justificou o deslocamento de competência para o STF (foro por prerrogativa de função)."
+  ]
+}

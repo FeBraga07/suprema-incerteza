@@ -1,0 +1,759 @@
+{
+  "id_caso": "AP-375",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-9 (todas)",
+  "unidades": [
+    {
+      "id_unidade": "AP-375-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Marco Aurélio",
+        "evidencia": "\"por unanimidade, em julgar improcedente a ação penal contra réu Jackson Barreto de Lima, absolvendo-o, e, em relação co-réu Arnaldo Arcanjo da Silva, em conceder habeas corpus de ofício para trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+        "fonte": "p. 1-2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "Tal conduta não se amolda aos preceitos do art. 312 do [CP] nem tão pouco aos do inciso I, do artigo 1º do Decreto-Lei [201/67]",
+            "fonte": "p. 6",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": "Atipicidade (art. 386, III, CPP): a aplicação de verba pública em obra/finalidade diversa da contratada, revertida em favor do próprio ente público, configura a apropriação ou o desvio em proveito próprio ou alheio exigidos pelo art. 312 do CP, isto é, o fato narrado constitui infração penal? Evidência: \"Longe fica de configurar crime peculato. o emprego de verba pública em obra diversa da programada, fazendo-se ausente quer a apropriação, quer o desvio em proveito próprio ou alheio\" (p. 1); \"absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal\" (p. 8).",
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Única questão de mérito enfrentada; absolvição \"considerado o disposto no artigo 386, inciso III, do Código de Processo Penal\"",
+            "fonte": "p. 8",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Longe fica de configurar crime peculato. o emprego de verba pública em obra diversa da programada, fazendo-se ausente quer a apropriação, quer o desvio em proveito próprio ou alheio.",
+            "fonte": "p. 1"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "O denunciado JACKSON BARRETO efetuou destinação diversa da prevista no contrato firmado com a Sociedade JACUARACY CONSTRUÇÕES E SANEAMENTO LTDA, mas esta foi revertida a favor da própria municipalidade. Tal conduta não se amolda aos preceitos do art. 312",
+            "fonte": "p. 6",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "É como voto, ou seja, absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal",
+                "fonte": "p. 8",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Valho-me do que assentado pelo titular da ação penal para concluir pela absolvição do acusado Jackson Barreto",
+                "fonte": "p. 5",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "constata-se que o desvio de verbas públicas se verificou [em favor do] próprio ente público. [...] Tal conduta não se amolda aos preceitos do art. 312",
+                "fonte": "p. 6",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Fundamenta por incorporação do parecer do MPF (transcrito nas p. 5-7); a ementa (p. 1) traz a tese em redação do relator. Laudos do TCE-SE e testemunho pericial indicam \"mera irregularidade administrativa\" (p. 6).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": "Revisora (p. 3, p. 9), sem peça própria no acórdão.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Sepúlveda Pertence",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Carlos Velloso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Nelson Jobim",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "baixa",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": "Presidiu o julgamento (\"Presidiu o julgamento o Senhor Ministro Nelson Jobim\", p. 9); a ata não diz expressamente se o presidente votou; mantido como votante porque o banco o registra.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Marco Aurélio",
+          "tipo": "precedente_citado",
+          "referencia": "TJSP: RT 490/293",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "\"Quando o desvio de verba se verifica em favor do próprio ente público, com utilização diversa da prevista ... em desacordo com as determinações legais, que ocorre o emprego irregular de verba e não o peculato, delito que não pode mais ser apurado se prescrito\" (TJSP: RT 490/293).",
+          "fonte": "p. 6"
+        }
+      ],
+      "obs": "O relator fundamenta por incorporação do parecer do MPF (\"Valho-me do que assentado pelo titular da ação penal\", p. 5); a fundamentação transcrita é do Procurador-Geral, adotada como razão de decidir. Não votaram: Ayres Britto (\"Declarou suspeição [o] Ministro [Carlos] Britto\", p. 9), Celso de Mello (ausente justificadamente, p. 9) e Eros Grau (ausente \"neste julgamento\", p. 9). Voto_resultado lido coincide com o banco (Absolve)."
+    },
+    {
+      "id_unidade": "AP-375-R01-I02",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": "O art. 315 não foi imputado na denúncia (a imputação é peculato, art. 312, e a alternativa discutida no parecer é o art. 1º, I, do DL 201/67); aparece só como tipificação alternativa examinada e afastada no parecer adotado pelo relator e na ementa (p. 1, p. 6). Unidade mantida como veio do banco.",
+      "voto_condutor": {
+        "valor": "Marco Aurélio",
+        "evidencia": "\"por unanimidade, em julgar improcedente a ação penal contra réu Jackson Barreto de Lima, absolvendo-o, e, em relação co-réu Arnaldo Arcanjo da Silva, em conceder habeas corpus de ofício para trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+        "fonte": "p. 1-2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "conduta poderia caracterizar o crime descrito no artigo 315 [do] CP - Emprego irregular de verbas públicas - se a destinação fosse prevista em LEI; o que não é o caso.",
+            "fonte": "p. 6",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": "Atipicidade (art. 386, III, CPP) pelo elemento normativo do art. 315 do CP: existe lei, em sentido formal e material, prevendo a destinação da verba empregada de modo diverso? Evidência: \"A configuração do crime tipificado no artigo 315 Código penal não prescinde da existência de lei, em sentido formal e material, a prever a destinação da verba\" (p. 1).",
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Única questão que decide a tipificação alternativa pelo art. 315: \"se a destinação fosse prevista em LEI; o que não é o caso.\"",
+            "fonte": "p. 6",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "A configuração do crime tipificado no artigo 315 Código penal não prescinde da existência de lei, em sentido formal e material, a prever a destinação da verba.",
+            "fonte": "p. 1"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "conduta poderia caracterizar o crime descrito no artigo 315 [do] CP - Emprego irregular de verbas públicas - se a destinação fosse prevista em LEI; o que não é o caso.",
+            "fonte": "p. 6",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "É como voto, ou seja, absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal",
+                "fonte": "p. 8",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "EMPREGO IRREGULAR DE VERBA PÚBLICA - ARTIGO 315 DO CÓDIGO PENAL. A configuração do crime tipificado no artigo 315 Código penal não prescinde da existência de lei, em sentido formal e material, a prever a destinação da verba.",
+                "fonte": "p. 1",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "se a destinação fosse prevista em LEI; o que não é o caso.",
+                "fonte": "p. 6",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "A destinação era apenas contratual (contrato de empreitada n.º 66/88), não legal; fundamento por incorporação do parecer do MPF e reafirmado na ementa.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": "Revisora (p. 3, p. 9), sem peça própria no acórdão.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Sepúlveda Pertence",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Carlos Velloso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Nelson Jobim",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "baixa",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": "Presidiu o julgamento (\"Presidiu o julgamento o Senhor Ministro Nelson Jobim\", p. 9); a ata não diz expressamente se o presidente votou; mantido como votante porque o banco o registra.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Marco Aurélio",
+          "tipo": "precedente_citado",
+          "referencia": "TJSP: RT 490/293",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "\"Quando o desvio de verba se verifica em favor do próprio ente público, com utilização diversa da prevista ... em desacordo com as determinações legais, que ocorre o emprego irregular de verba e não o peculato, delito que não pode mais ser apurado se prescrito\" (TJSP: RT 490/293).",
+          "fonte": "p. 6"
+        }
+      ],
+      "obs": "Precedente TJSP RT 490/293 usado para enquadrar a conduta como emprego irregular de verba (art. 315) e não peculato; em seguida o art. 315 é afastado por falta de lei prevendo a destinação. Mirabete citado como doutrina (não entra em precedentes). Não votaram: Ayres Britto (suspeição), Celso de Mello e Eros Grau (ausentes), p. 9."
+    },
+    {
+      "id_unidade": "AP-375-R02-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": "O artigo imputado a Arnaldo Arcanjo da Silva não é legível no relatório (\"incursos nas penas\", p. 3, trecho corrompido pelo OCR); a denúncia é conjunta e narra o pagamento à empresa por ele representada \"com desvio [...] prejuízo de valores do patrimônio público municipal\" (p. 3). Unidade mantida como veio do banco.",
+      "voto_condutor": {
+        "valor": "Marco Aurélio",
+        "evidencia": "\"por unanimidade, em julgar improcedente a ação penal contra réu Jackson Barreto de Lima, absolvendo-o, e, em relação co-réu Arnaldo Arcanjo da Silva, em conceder habeas corpus de ofício para trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+        "fonte": "p. 1-2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "seja concedido habeas de ofício para assentar a inexistência de justa causa, presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima.",
+            "fonte": "p. 7",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": "Atipicidade estendida ao co-réu (falta de justa causa): a aplicação de verba pública em obra diversa da contratada, revertida em favor do próprio ente público, configura peculato (apropriação ou desvio em proveito próprio ou alheio), isto é, o fato narrado constitui infração penal? Mesma pergunta de AP-375-R01-I01, aqui decidida pela via do habeas corpus de ofício, \"ante a identidade de fato e a conclusão [...] sobre a absolvição de Jackson Barreto de Lima\" (p. 7).",
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima.",
+            "fonte": "p. 7",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "seja concedido habeas de ofício para assentar a inexistência de justa causa, presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima.",
+            "fonte": "p. 7"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "assentar a inexistência de justa causa, presente a atipicidade da conduta",
+            "fonte": "p. 7",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "HC de ofício / trancamento por falta de justa causa (nem Condena nem Absolve)",
+                "evidencia": "É como voto, ou seja, absolvendo Jackson Barreto de Lima, [...] e, no tocante ao co-réu, concedendo o habeas de ofício, trancando a ação penal por falta de justa causa",
+                "fonte": "p. 8",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "quando salta aos olhos o único desfecho possível de julgamento a ser implementado, ante a identidade de fato e a conclusão, nesta Corte, [...] sobre a absolvição de Jackson Barreto de Lima.",
+                "fonte": "p. 7",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima.",
+                "fonte": "p. 7",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Não absolve por vício de citação por edital: \"Pesando ao menos dúvida quanto à boa formação da relação processual, o caso não sugere a absolvição no julgamento da ação penal\" (p. 7); recusa o desmembramento por celeridade e economia processuais.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "HC de ofício / trancamento por falta de justa causa (nem Condena nem Absolve)",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": "Revisora (p. 3, p. 9), sem peça própria no acórdão.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Sepúlveda Pertence",
+              "voto_resultado": {
+                "valor": "HC de ofício / trancamento por falta de justa causa (nem Condena nem Absolve)",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Carlos Velloso",
+              "voto_resultado": {
+                "valor": "HC de ofício / trancamento por falta de justa causa (nem Condena nem Absolve)",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Nelson Jobim",
+              "voto_resultado": {
+                "valor": "HC de ofício / trancamento por falta de justa causa (nem Condena nem Absolve)",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "baixa",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": "Presidiu o julgamento (\"Presidiu o julgamento o Senhor Ministro Nelson Jobim\", p. 9); a ata não diz expressamente se o presidente votou; mantido como votante porque o banco o registra.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "HC de ofício / trancamento por falta de justa causa (nem Condena nem Absolve)",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "HC de ofício / trancamento por falta de justa causa (nem Condena nem Absolve)",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "HC de ofício / trancamento por falta de justa causa (nem Condena nem Absolve)",
+                "evidencia": "\"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Sem voto escrito; contado na unanimidade: \"Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa\"",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Posição do relator, a quem a decisão unânime adere (\"tudo nos termos do voto do relator\", p. 2).",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [],
+      "obs": "DIVERGÊNCIA COM O BANCO: o banco registra Absolve para R02 para todos os votantes, mas o texto não absolve Arnaldo: \"no tocante ao co-réu, concedendo o habeas de ofício, trancando a ação penal por falta de justa causa\" (p. 8); idem acórdão (p. 1-2) e ata (p. 9). O relator diz expressamente que \"o caso não sugere a absolvição\" por dúvida sobre a validade da citação por edital (p. 7). Não corrigido. Precedentes: a fundamentação de mérito é por remissão à de Jackson (\"tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima\", p. 7); nenhum precedente citado especificamente para R02. Não votaram: Ayres Britto (suspeição), Celso de Mello e Eros Grau (ausentes), p. 9."
+    }
+  ],
+  "avisos": [
+    "As três unidades decidem-se por atipicidade (art. 386, III, CPP: o fato não constitui infração penal), que não cabe em dolo nem em concorreu: registradas como 'outra'. Candidata a categoria nova do codebook ('o fato narrado é típico?').",
+    "R02 (Arnaldo): o desfecho é habeas corpus de ofício com trancamento da ação penal, não absolvição; voto_resultado registrado como texto fora do enum Condena/Absolve, e divergência com o banco anotada em obs.",
+    "R02: o vício de citação por edital (p. 7) determinou a via processual (HC/trancamento em vez de absolvição), não o mérito; tratado como questão processual/preliminar (R6) e não como questão decisiva.",
+    "Os sete ministros além do relator não têm peça no acórdão; registrados como Adesao pela unanimidade da ata (p. 9) e pela cláusula 'tudo nos termos do voto do relator' (p. 2). Posição inferida do relator.",
+    "Nelson Jobim presidiu o julgamento; a ata não diz se o presidente votou. Mantido como votante (confiança baixa) porque o banco o registra.",
+    "O voto do relator é quase todo transcrição do parecer do MPF; a fundamentação própria do relator está na ementa (p. 1) e nas p. 7-8. OCR muito fragmentado nas p. 3-6: transcrições com colchetes indicam palavras ausentes no texto extraído.",
+    "R01-I02: o art. 315 não consta como imputação da denúncia; é tipificação alternativa examinada e afastada (ver ajuste_unidade)."
+  ]
+}

@@ -1,0 +1,5 @@
+# Construção do banco e análise: só biblioteca padrão do Python (3.9+).
+# Scripts auxiliares:
+requests        # coleta auxiliar no portal (o portal recusa acesso fora do navegador; ver README)
+openpyxl        # leitura de planilhas de conferência
+# corpus/ocr_vision.py usa o framework Vision do macOS (pyobjc-framework-Vision, pyobjc-framework-Quartz)

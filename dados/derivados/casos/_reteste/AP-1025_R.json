@@ -1,0 +1,182 @@
+{
+  "id_caso": "AP-1025",
+  "extraido_em": "2026-09-27",
+  "fontes_lidas": ["dados/corpus/texto/AP-1025.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Ação Penal Originária",
+      "evidencia": "AÇÃO PENAL ORIGINÁRIA. EX-SENADOR DA REPÚBLICA. PRELIMINARES REJEITADAS. DEMONSTRAÇÃO INEQUÍVOCA DA MATERIALIDADE E DA AUTORIA DELITIVAS.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "Vistos, relatados e discutidos estes autos, os Ministros do SUPREMO TRIBUNAL FEDERAL, em Sessão do Plenário, sob a Presidência da Senhora Ministra ROSA WEBER, em conformidade com a certidão de julgamento, julgaram parcialmente procedente a presente ação penal para: (1) rejeitar, por unanimidade, as preliminares suscitadas e, no mérito, (2) condenar o réu Fernando Affonso Collor de Mello...",
+      "fonte": "acordao p.4-5",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 3,
+      "evidencia": "RÉU(É)(S): FERNANDO AFFONSO COLLOR DE MELLO / RÉU(É)(S): PEDRO PAULO BERGAMASCHI DE LEONI RAMOS / RÉU(É)(S): LUIS PEREIRA DUARTE DE AMORIM (cabeçalho da ementa; demais corréus tiveram a denúncia rejeitada pela 2ª Turma em 22.8.2017, e o corréu Cleverton Melo da Costa faleceu, com extinção da punibilidade declarada em 20.9.2016)",
+      "fonte": "acordao p.1;p.24",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": true,
+      "evidencia": "Sessões de julgamento em 10.5.2023, 11.5.2023, 17.5.2023, 18.5.2023, 24.5.2023, 25.5.2023 e 31.5.2023, todas registradas em Extrato de Ata sucessivos.",
+      "fonte": "ata",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Fernando Affonso Collor de Mello",
+        "evidencia": "RÉU(É)(S): FERNANDO AFFONSO COLLOR DE MELLO",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Senador da República (PTB/Alagoas) à época dos fatos (2010-2014); foro por prerrogativa de função no STF. Ao tempo do julgamento (2023) já não exercia o mandato de Senador (\"não mais exerce o cargo de Senador da República\", por razão distinta não detalhada nos trechos lidos).",
+        "evidencia": "\"...valendo-se da condição de Senador da República e em unidade de desígnios com os coacusados Pedro Paulo Bergamaschi de Leoni Ramos e Luis Pereira Duarte de Amorim, solicitou, aceitou promessa e recebeu...\"; \"...tendo presente que o réu Fernando Affonso Collor de Mello não mais exerce o cargo de Senador da República.\"",
+        "fonte": "acordao p.11;p.8",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação parcial",
+        "evidencia": "condenado pelo art. 317, caput, CP (contratos UTC Engenharia, ~R$20.000.000,00) — item (2) do dispositivo; porém absolvido, com fundamento no art. 386, VII, do CPP, do mesmo crime do art. 317 CP em relação a três outros conjuntos de fatos (contrato DVBR, contrato FTC Cards, hipotético contrato Jaraguá) — itens (5), (6) e (7) do dispositivo.",
+        "fonte": "acordao p.5-7",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "Condenação por autoria e materialidade comprovadas (\"Autoria e materialidade delitiva comprovadas em relação ao crime de corrupção passiva, resultando na CONDENAÇÃO...\"); as absolvições dos demais conjuntos de fatos sob o mesmo artigo se deram por insuficiência de provas (art. 386, VII, CPP).",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não há prescrição declarada quanto ao crime de corrupção passiva (art. 317); a prescrição da pretensão punitiva reconhecida no acórdão refere-se exclusivamente ao capítulo do art. 288 do CP (associação criminosa), fora do escopo Levcovitz.",
+        "fonte": "deducao D-004",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {"artigo": "art. 317, caput, do Código Penal", "diploma": "Código Penal", "evidencia": "condenar o réu Fernando Affonso Collor de Mello pela prática dos crimes previstos no art. 317, caput, do Código Penal (corrupção passiva), à pena de 4 (quatro) anos e 4 (quatro) meses de reclusão..."},
+        {"artigo": "art. 1º da Lei 9.613/1998", "diploma": "Lei 9.613/1998", "evidencia": "pela prática do crime previsto no art. 1º da Lei n. 9.613/98 (lavagem de dinheiro) à pena 4 (quatro) anos e 6 (seis) meses de reclusão..."},
+        {"artigo": "art. 288 do Código Penal (desclassificado de art. 2º, §§3º e 4º, II, da Lei 12.850/2013)", "diploma": "Código Penal / Lei 12.850/2013", "evidencia": "pela prática do crime previsto no art. 288 do Código Penal (associação criminosa) à pena de 2 (dois) anos de reclusão; reconhecida a extinção da punibilidade, em razão da prescrição da pretensão punitiva..."}
+      ],
+      "n_votantes": {"valor": 10, "evidencia": "Composição votante desta ação (Rosa Weber, Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça); Ricardo Lewandowski nunca aparece nas atas desta ação (ver avisos).", "fonte": "deducao D-004", "confianca": "media"},
+      "votos_condenacao": {"valor": 8, "evidencia": "Votos pela condenação (art. 317, contrato UTC Engenharia): Fachin (Relator), Moraes (Revisor/Redator), André Mendonça, Roberto Barroso, Luiz Fux, Cármen Lúcia, Dias Toffoli e Rosa Weber (Presidente) — todos acompanharam o Relator quanto às condenações, conforme sucessivas atas de 17.5, 18.5, 24.5 e 25.5.2023.", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 2, "evidencia": "\"do voto do Ministro Nunes Marques, que acompanhava o Relator na rejeição das preliminares, mas julgava improcedente a ação penal, decretando a absolvição de todos os réus em relação a todos os crimes\"; \"do voto do Ministro Gilmar Mendes, que rejeitava as preliminares e julgava totalmente improcedente a ação penal, absolvendo os réus das imputações\".", "fonte": "ata", "confianca": "alta"},
+      "unanime": {"valor": false, "evidencia": "Nunes Marques e Gilmar Mendes votaram pela absolvição total, divergindo dos demais 8 ministros votantes quanto à condenação por art. 317 (contrato UTC Engenharia).", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "nome": {
+        "valor": "Pedro Paulo Bergamaschi de Leoni Ramos",
+        "evidencia": "RÉU(É)(S): PEDRO PAULO BERGAMASCHI DE LEONI RAMOS",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Particular — amigo pessoal e operador financeiro de Fernando Collor de Mello; empresário. Não é agente público; seu processamento no STF decorre da conexão com o parlamentar réu.",
+        "evidencia": "\"concorreram para a prática dos crimes Pedro Paulo Bergamaschi de Leoni Ramos (operador financeiro, que teria sido o responsável por solicitar os 02 cartões pré-pagos...)\"; \"PEDRO PAULO BERGAMASCHI DE LEONI RAMOS como seu amigo pessoal desde a juventude\"; \"Pedro Paulo Leoni é um empresário bem sucedido, pessoa...\"",
+        "fonte": "acordao p.252",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação parcial",
+        "evidencia": "condenado pelo art. 317, caput, CP (contrato UTC Engenharia) — item (3) do dispositivo; absolvido, com fundamento no art. 386, VII, do CPP, do mesmo crime do art. 317 CP quanto aos demais conjuntos de fatos (DVBR, FTC Cards, Jaraguá) — itens (5), (6) e (7).",
+        "fonte": "acordao p.5-7",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "Condenação por autoria e materialidade comprovadas quanto ao contrato UTC Engenharia; absolvições dos demais capítulos de corrupção passiva por insuficiência de provas (art. 386, VII, CPP).",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "A prescrição reconhecida refere-se apenas ao capítulo do art. 288 CP (associação criminosa), fora do escopo Levcovitz; não há prescrição quanto ao art. 317.",
+        "fonte": "deducao D-004",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {"artigo": "art. 317, caput, do Código Penal", "diploma": "Código Penal", "evidencia": "condenar o réu Pedro Paulo Bergamaschi de Leoni Ramos pela prática do crime previsto no art. 317, caput, do Código Penal (corrupção passiva) à pena de 4 (quatro) anos e 1 (um) mês de reclusão..."},
+        {"artigo": "art. 288 do Código Penal (desclassificado de art. 2º, §4º, II, da Lei 12.850/2013)", "diploma": "Código Penal / Lei 12.850/2013", "evidencia": "pela prática do crime previsto no art. 288 do Código Penal (associação criminosa) à pena de 2 (dois) anos de reclusão; reconhecida a extinção da punibilidade..."},
+        {"artigo": "art. 1º da Lei 9.613/1998 (absolvido)", "diploma": "Lei 9.613/1998", "evidencia": "ABSOLVIÇÃO do réu PEDRO PAULO BERGAMASCHI DE LEONI RAMOS em relação aos mesmos fatos [lavagem], por insuficiência de provas (art. 387, VII, do Código de Processo Penal) [sic — a ata cita art. 386, VII, CPP]."},
+        {"artigo": "art. 90 c/c art. 84, §2º, da Lei 8.666/1993 (denúncia rejeitada em 2017, fora do julgamento de mérito)", "diploma": "Lei 8.666/1993", "evidencia": "\"...rejeitada quanto aos crimes de peculato, fraude à licitação e violação de sigilo funcional qualificado\" (2ª Turma, 22.8.2017)"}
+      ],
+      "n_votantes": {"valor": 10, "evidencia": "Mesma composição votante da ação (ver réu Fernando Collor).", "fonte": "deducao D-004", "confianca": "media"},
+      "votos_condenacao": {"valor": 8, "evidencia": "Mesmo bloco majoritário do réu Fernando Collor (Fachin, Moraes, Mendonça, Barroso, Fux, Cármen Lúcia, Toffoli, Rosa Weber) condenou Pedro Paulo pelo mesmo contrato (UTC Engenharia).", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 2, "evidencia": "Nunes Marques e Gilmar Mendes absolveram todos os réus de todos os crimes.", "fonte": "ata", "confianca": "alta"},
+      "unanime": {"valor": false, "evidencia": "Mesma divergência de 8x2 descrita para o réu Fernando Collor quanto ao capítulo do art. 317 (contrato UTC Engenharia).", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "nome": {
+        "valor": "Luis Pereira Duarte de Amorim",
+        "evidencia": "RÉU(É)(S): LUIS PEREIRA DUARTE DE AMORIM",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Particular — diretor da TV Gazeta de Alagoas Ltda. e da Gazeta de Alagoas Ltda. (empresas ligadas à família/organização de Fernando Collor); descrito na denúncia como \"testa-de-ferro\" do parlamentar. Não é agente público.",
+        "evidencia": "\"40. Luiz Pereira Duarte de Amorim é o nome do diretor da TV Gazeta cujo CPF é 332.104.974-00.\"; \"...em unidade de desígnios com seu 'testa-de-ferro' LUIS PEREIRA DUARTE DE AMORIM, diretor da TV GAZETA DE ALAGOAS LTDA...\"",
+        "fonte": "acordao p.443;p.482",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "\"ABSOLVIÇÃO do réu LUIS PEREIRA DUARTE DE AMORIM em relação aos mesmos fatos, por insuficiência de provas\"; e item (5) do dispositivo, que o absolve (com Fernando e Pedro Paulo) do crime do art. 317 CP quanto ao contrato DVBR. Não consta condenação de Luis Pereira Duarte de Amorim por nenhum capítulo do art. 317 CP em todo o dispositivo (apenas por lavagem, art. 1º da Lei 9.613/98, fora do escopo Levcovitz, e por associação criminosa, também fora do escopo).",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "\"por insuficiência de provas (art. 387, VII, do Código de Processo Penal)\" [ementa; a ata usa art. 386, VII, CPP — ver avisos].",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não se aplica ao capítulo do art. 317 (réu absolvido nesse capítulo); a prescrição do caso refere-se ao art. 288 CP, onde Luis Pereira foi condenado e beneficiado pela extinção da punibilidade — ver avisos.",
+        "fonte": "deducao D-004",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {"artigo": "art. 317 do Código Penal (absolvido)", "diploma": "Código Penal", "evidencia": "absolver os réus Fernando Affonso Collor de Mello, Pedro Paulo Bergamaschi de Leoni Ramos e Luis Pereira Duarte de Amorim [...] da prática do crime previsto no art. 317 do Código Penal, em relação aos fatos [...] contrato [...] DVBR [...]"},
+        {"artigo": "art. 1º da Lei 9.613/1998", "diploma": "Lei 9.613/1998", "evidencia": "condenar o réu Luis Pereira Duarte de Amorim pela prática do crime previsto art. 1º da Lei n. 9.613/98 à pena de 3 (três) anos de reclusão e 10 (dez) dias-multa"},
+        {"artigo": "art. 288 do Código Penal (desclassificado de art. 2º, §4º, II, da Lei 12.850/2013)", "diploma": "Código Penal / Lei 12.850/2013", "evidencia": "pela prática do crime previsto no art. 288 do Código Penal (associação criminosa) à pena de 2 (dois) anos de reclusão; reconhecida a extinção da punibilidade..."}
+      ],
+      "n_votantes": {"valor": 10, "evidencia": "Mesma composição votante da ação (ver réu Fernando Collor).", "fonte": "deducao D-004", "confianca": "media"},
+      "votos_condenacao": {"valor": 0, "evidencia": "Nenhum ministro, inclusive os do bloco majoritário condenatório dos demais réus, votou pela condenação de Luis Pereira Duarte de Amorim no capítulo do art. 317 — mesmo os votos condenatórios (Fachin, Moraes etc.) absolveram-no desse crime por insuficiência de provas.", "fonte": "deducao D-004", "confianca": "media"},
+      "votos_absolvicao": {"valor": 10, "evidencia": "Dispositivo absolve Luis Pereira do art. 317 sem qualquer ressalva de divergência nesse ponto específico (ao contrário dos itens de dano moral/perdimento, onde os vencidos são nominalmente listados).", "fonte": "acordao p.6-7", "confianca": "media"},
+      "unanime": {"valor": true, "evidencia": "Não há registro de dissenso quanto à absolvição de Luis Pereira Duarte de Amorim no capítulo do art. 317 (diferentemente dos itens de dano moral e perdimento de bens, onde os vencidos são explicitamente nomeados).", "fonte": "deducao D-004", "confianca": "media"}
+    }
+  ],
+  "votos": [
+    {"ministro": {"valor": "Edson Fachin"}, "eh_relator": {"valor": true}, "voto_resultado": {"valor": "condena", "evidencia": "O SENHOR MINISTRO EDSON FACHIN (RELATOR): [...] julgava parcialmente procedente a denúncia [...] para condenar o denunciado Fernando Affonso Collor de Mello [...]", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Alexandre de Moraes"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "evidencia": "e do voto do Ministro Alexandre de Moraes (Revisor), que acompanhava o Relator quanto às condenações", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "André Mendonça"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "evidencia": "Decisão: Após o voto do Ministro André Mendonça, que acompanhava o Relator na rejeição das preliminares, mas, quanto ao mérito, divergia em parte, para a) condenar o réu Fernando Affonso Collor de Mello [...]", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Nunes Marques"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "do voto do Ministro Nunes Marques, que acompanhava o Relator na rejeição das preliminares, mas julgava improcedente a ação penal, decretando a absolvição de todos os réus em relação a todos os crimes", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": true}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Roberto Barroso"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "evidencia": "do voto do Ministro Roberto Barroso, que acompanhava o Relator quanto às condenações, mas entendia, quanto ao delito de lavagem de capitais, que houve um único crime antecedente...", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Luiz Fux"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "evidencia": "e dos votos dos Ministros Luiz Fux e Cármen Lúcia, que acompanhavam o Relator quanto às condenações", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Cármen Lúcia"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "evidencia": "e dos votos dos Ministros Luiz Fux e Cármen Lúcia, que acompanhavam o Relator quanto às condenações", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Dias Toffoli"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "evidencia": "após o voto do Ministro Dias Toffoli, que acompanhava o Ministro Edson Fachin (Relator) no tocante às condenações por corrupção passiva (art. 317, caput, do Código Penal) e lavagem de dinheiro [...], mas, no tocante à condenação [...] por organização criminosa [...], acompanhava o Ministro André Mendonça, com a desclassificação para o crime de associação criminosa", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Gilmar Mendes"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "e do voto do Ministro Gilmar Mendes, que rejeitava as preliminares e julgava totalmente improcedente a ação penal, absolvendo os réus das imputações", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": true}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Rosa Weber"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "evidencia": "e do voto da Ministra Rosa Weber (Presidente), que rejeitava as preliminares e acompanhava o Ministro Edson Fachin (Relator) nas condenações relativas aos crimes de corrupção passiva e lavagem de dinheiro, mas dele divergia quanto à condenação relativa ao crime de organização criminosa, desclassificando-o", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ricardo Lewandowski"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "evidencia": "Nenhuma ocorrência do nome \"Lewandowski\" em qualquer Extrato de Ata desta ação (nem nas listas de \"presentes\", nem de \"ausentes\", nem votos individuais); as únicas menções ao ministro no documento são citações de precedentes de sua relatoria em outros processos.", "fonte": "deducao D-004", "confianca": "baixa"}, "vencido": {"valor": false}, "ausente": {"valor": true}, "motivo_ausencia": {"valor": "Não identificado por leitura direta — hipótese de impedimento/suspeição declarado anteriormente ao início desta ação, não repetida nas atas lidas; não há registro textual do motivo. Ver avisos."}}
+  ],
+  "avisos": [
+    "Lewandowski nunca aparece em nenhuma das 7 Extratos de Ata desta ação (10.5, 11.5, 17.5, 18.5, 24.5, 25.5 e 31.5.2023) — nem como presente, nem como ausente/impedido/suspeito com motivo registrado. Isso contraria a expectativa de composição plena de 11 ministros do prompt. Tratei-o como fora da composição votante efetiva desta ação (n_votantes=10 nos réus), mas marquei sua linha em `votos` com confiança baixa por não ter encontrado a causa da ausência no texto lido.",
+    "Há uma aparente inconsistência na ata: na sessão de 10.5.2023 consta 'Não participou, justificadamente, deste julgamento, o Ministro Gilmar Mendes', mas o mesmo ministro aparece votando (absolvendo todos os réus) na sessão de 24.5.2023. Interpretei a nota de 10.5 como referente apenas à sessão daquele dia (leitura do relatório/sustentação oral), não como afastamento do julgamento como um todo, já que ele votou depois. Da mesma forma, o Ministro Nunes Marques consta 'Ausente, justificadamente' em 10.5.2023, mas votou (absolvendo) na sessão de 18.5.2023; e o Ministro Dias Toffoli consta 'Ausente, justificadamente' nas sessões de 17.5 e 18.5.2023, mas votou (condenando) na sessão de 24.5.2023. Tratei essas notas como ausências pontuais em sessões específicas de um julgamento que se estendeu por vários dias, não como não-participação no mérito.",
+    "O placar de 8x2 (condena x absolve) para a condenação de Fernando Collor e Pedro Paulo Bergamaschi pelo art. 317 (contrato UTC Engenharia) foi reconstruído a partir das falas individuais registradas em cada ata datada (17.5, 18.5, 24.5, 25.5.2023), e não de uma frase explícita do tipo 'por maioria, vencidos os Ministros X e Y' anexada ao item (2)/(3) do dispositivo final — diferente dos itens de dano moral e perdimento de bens, onde a ata nomeia expressamente os vencidos (André Mendonça e Dias Toffoli) e o resultado da votação (maioria/unanimidade). Confiança alta quanto às falas individuais lidas, mas o dispositivo final em si não reafirma esse placar linha a linha.",
+    "Classificação Levcovitz já fechada (não reaberta): este caso entra pelo art. 317 CP (corrupção passiva). Documentando os desfechos dos capítulos fora do escopo, por réu: (a) Fernando Affonso Collor de Mello — CONDENADO por lavagem (art. 1º, Lei 9.613/98) e por associação criminosa (art. 288 CP, ex-organização criminosa da Lei 12.850/2013, desclassificada em 24-25/5/2023), com extinção da punibilidade por prescrição da pretensão punitiva quanto à associação criminosa (mais de 4 anos entre o recebimento da denúncia em 22.8.2017 e a sessão de julgamento); (b) Pedro Paulo Bergamaschi de Leoni Ramos — ABSOLVIDO de lavagem (insuficiência de provas) e CONDENADO por associação criminosa, também com extinção da punibilidade por prescrição; (c) Luis Pereira Duarte de Amorim — CONDENADO por lavagem (crime único, após reconhecimento de que os dois blocos anteriormente imputados formam continuidade delitiva) e CONDENADO por associação criminosa, também prescrita.",
+    "O art. 90 da Lei 8.666/1993 (fraude a licitação), citado na legislação do caso e mencionado na denúncia original contra Pedro Paulo Bergamaschi de Leoni Ramos, teve a denúncia REJEITADA já em 22.8.2017 pela 2ª Turma do STF (junto com peculato e violação de sigilo funcional qualificado) — não chegou a ser objeto de julgamento de mérito pelo Plenário em 2023. Registro isso porque a classificação fixa do caso (D-012, não reaberta) cita esse artigo como parte da 'legislação citada', mas por leitura direta ele nunca foi julgado nesta ação; entra apenas como registro histórico da denúncia original.",
+    "Réus com múltiplos conjuntos fáticos sob o mesmo art. 317 CP: Fernando Collor e Pedro Paulo Bergamaschi foram denunciados por quatro conjuntos de fatos de corrupção passiva (contratos UTC Engenharia, DVBR, FTC Cards e o hipotético contrato Jaraguá), tendo sido CONDENADOS apenas quanto ao conjunto UTC Engenharia e ABSOLVIDOS quanto aos outros três (art. 386, VII, CPP, insuficiência de provas). Por isso classifiquei `resultado` como 'Condenação parcial' para ambos. Luis Pereira Duarte de Amorim também foi denunciado por corrupção passiva (constava no recebimento da denúncia de 2017), mas não consta condenação sua em nenhum conjunto de fatos do art. 317 no dispositivo final — apenas absolvições —, por isso seu `resultado` (art. 317) é 'Absolvição'.",
+    "Discrepância de citação legal: a ementa (item 2, linha correspondente à absolvição de Luis Pereira) cita 'art. 387, VII, do Código de Processo Penal' como fundamento da absolvição por insuficiência de provas; porém o dispositivo do próprio acórdão (itens 5 a 11) e a ata final citam sistematicamente 'art. 386, VII, do Código de Processo Penal' para a mesma hipótese (art. 387 do CPP trata de conteúdo da sentença condenatória, não de fundamento de absolvição; art. 386, VII, é a hipótese de absolvição por insuficiência de prova). Tratei como provável erro de digitação na ementa e usei art. 386, VII, CPP como o fundamento correto, mas registrei a citação literal da ementa no campo de evidência do réu Luis Pereira.",
+    "cargo_funcao de Pedro Paulo Bergamaschi de Leoni Ramos e de Luis Pereira Duarte de Amorim: nenhum dos dois é agente público; ambos são particulares (empresário/operador financeiro e amigo pessoal, no caso de Pedro Paulo; diretor de empresas de comunicação da família Collor, no caso de Luis Pereira, chamado de 'testa-de-ferro' na denúncia). O julgamento de ambos no STF decorre da conexão processual com o parlamentar-réu, não de foro por prerrogativa de função próprio.",
+    "A 'questão de ordem' votada em 25.5.2023 (sobre se os ministros que absolveram os réus deveriam participar da votação da dosimetria da pena) teve como vencidos os Ministros Edson Fachin (Relator) e Luiz Fux, e a Ministra Cármen Lúcia não votou nessa questão específica. Isso é uma votação procedural distinta do mérito condenatório e não foi usada para preencher os campos `voto_resultado`/`vencido` do painel principal, que refletem apenas a posição de cada ministro quanto à condenação ou absolvição dos réus.",
+    "Extração cega e independente, conforme instrução do reteste de 27/09/2026 — não foram consultados a nota de classificação de 08/08/2026 além do texto fornecido no próprio prompt, nem qualquer gabarito, extração paralela ou outro arquivo em dados/derivados/ ou dados/metodologia/."
+  ]
+}

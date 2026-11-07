@@ -1,0 +1,39 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-433|1|ementa||1|1||todos||||
+AP-433|2|acordao|Dias Toffoli|1|1||todos||||assinado pelo Redator para o acórdão; datado de 11/03/2010
+AP-433|3|relatorio|Ellen Gracie|2|6||todos||||Relatora originária; sessão de 04/03/2010
+AP-433|4|voto|Ellen Gracie|7|24|Sim|todos|Condena|Sim|lido|Relatora originária
+AP-433|5|voto|Cezar Peluso|25|26|Sim|todos|Condena|Sim|lido|Revisor
+AP-433|6|voto|Dias Toffoli|27|30|Sim|todos|Absolve|Não|lido|Redator para o acórdão
+AP-433|7|voto|Cármen Lúcia|31|32|Sim|todos|Condena|Sim|lido|
+AP-433|8|voto|Ricardo Lewandowski|33|49|Sim|todos|Absolve|Não|lido|sem título 'VOTO'; apartes intercalados nas p.35-48 (linha 9); o resultado proferido na p.49 difere entre R01 e R02 e foi retificado na p.83 (linha 21); as colunas do banco correspondem ao voto retificado
+AP-433|9|debate|Cármen Lúcia;Ricardo Lewandowski;Gilmar Mendes;Marco Aurélio;Cezar Peluso;Ayres Britto|35|48|Sim|todos||||apartes dentro do voto de Ricardo Lewandowski
+AP-433|10|voto|Joaquim Barbosa|50|55|Sim|todos|Condena|Sim|lido|título da peça ilegível no OCR ('·ºI 0'); rubrica da p.50 diz 'JOAQUIM BARBOSA - (Relator)', mas a relatora é Ellen Gracie (cabeçalho p.1-2 e ata)
+AP-433|11|voto|Ayres Britto|56|57|Sim|todos|Condena|Sim|lido|
+AP-433|12|voto|Marco Aurélio|58|60|Sim|todos|Absolve|Não|lido|sem título 'VOTO'
+AP-433|13|debate|Marco Aurélio;Cezar Peluso;Ayres Britto;Ricardo Lewandowski|61|62|Sim|todos||||começa no meio de diálogo; falas de Marco Aurélio dirigidas a Celso de Mello marcadas '(inserido ante o cancelamento do aparte por Sua Excelência)'
+AP-433|14|voto|Gilmar Mendes|63|67|Sim|todos|Absolve|Não|lido|Presidente; apartes de Cezar Peluso (p.64) e Ayres Britto (p.65-66)
+AP-433|15|outro||67|68||AP-433-R02||||manifestação pela ordem do advogado Eduardo Toledo (defensor de Fernando Lúcio Giacobo, conforme ata p.100)
+AP-433|16|debate|Ellen Gracie;Cezar Peluso;Gilmar Mendes;Marco Aurélio;Ayres Britto|69|71|Sim|todos||||transcrição com grafia distinta ('O Senhor Ministro')
+AP-433|17|questao_ordem|Dias Toffoli|72|73|Sim|AP-433-R01|Absolve|Não|lido|sem título; proposta de proclamação referente ao primeiro acusado; apartes de Gilmar Mendes e Marco Aurélio; colunas do banco = voto de mérito
+AP-433|18|debate|Gilmar Mendes;Marco Aurélio;Ricardo Lewandowski;Cezar Peluso;Ellen Gracie|74|77|Sim|todos||||
+AP-433|19|questao_ordem|Ellen Gracie|78|79|Sim|todos|Condena|Sim|lido|proposta da Relatora que a ata (p.100 e p.102) registra como questão de ordem; seguem falas de Gilmar Mendes, Ayres Britto, Marco Aurélio e Cezar Peluso; colunas do banco = voto de mérito
+AP-433|20|debate|Marco Aurélio;Gilmar Mendes;Ellen Gracie;Cezar Peluso;Cármen Lúcia|80|82|Sim|todos||||
+AP-433|21|outro|Ricardo Lewandowski|83|83|Sim|todos|Absolve|Não|lido|'RETIFICAÇÃO DE VOTO' de mérito; curto (~9 linhas); substitui o resultado da p.49
+AP-433|22|debate|Gilmar Mendes;Cezar Peluso;Marco Aurélio;Ellen Gracie|84|84|Sim|todos||||
+AP-433|23|questao_ordem|Dias Toffoli|85|85|Adesao|todos|Absolve|Não|lido|'VOTO S/QUESTÃO DE ORDEM'; colunas do banco = voto de mérito
+AP-433|24|debate|Ayres Britto;Cezar Peluso;Marco Aurélio;Cármen Lúcia;Gilmar Mendes;Ricardo Lewandowski;Ellen Gracie;Dias Toffoli|86|88|Sim|todos||||
+AP-433|25|questao_ordem|Cármen Lúcia|89|89|Sim|todos|Condena|Sim|lido|'VOTO S/QUESTÃO DE ORDEM'; curto; colunas do banco = voto de mérito
+AP-433|26|debate|Ayres Britto;Ricardo Lewandowski;Gilmar Mendes;Ellen Gracie;Cezar Peluso|90|91|Sim|todos||||título 'DEBATE'
+AP-433|27|questao_ordem|Ricardo Lewandowski|92|92|Adesao|todos|Absolve|Não|lido|'VOTO S/QUESTÃO DE ORDEM'; colunas do banco = voto de mérito
+AP-433|28|questao_ordem|Joaquim Barbosa|93|93|Sim|todos|Condena|Sim|lido|sem título; curto; apartes de Marco Aurélio e Cezar Peluso; colunas do banco = voto de mérito
+AP-433|29|questao_ordem|Ayres Britto|94|94|Adesao|todos|Condena|Sim|lido|'VOTO S/QUESTÃO DE ORDEM'; só enuncia a posição; colunas do banco = voto de mérito
+AP-433|30|questao_ordem|Cezar Peluso|95|95|Sim|todos|Condena|Sim|lido|'VOTO S/QUESTÃO DE ORDEM'; colunas do banco = voto de mérito
+AP-433|31|questao_ordem|Marco Aurélio|96|96|Sim|todos|Absolve|Não|lido|sem título; curto; colunas do banco = voto de mérito
+AP-433|32|debate|Marco Aurélio;Cezar Peluso;Gilmar Mendes|97|97|Sim|todos||||fala de Marco Aurélio dirigida a Celso de Mello marcada como inserida ante o cancelamento do aparte
+AP-433|33|outro|Dias Toffoli|98|98|Adesao|todos|Absolve|Não|lido|'RETIFICAÇÃO DE VOTO S/QUESTÃO DE ORDEM'; 1 linha; colunas do banco = voto de mérito
+AP-433|34|outro|Ayres Britto|99|99|Adesao|todos|Condena|Sim|lido|'RETIFICAÇÃO DE VOTO S/QUESTÃO DE ORDEM'; 1 linha; colunas do banco = voto de mérito
+AP-433|35|extrato_ata||100|100||todos||||sessão de 04/03/2010 (Eros Grau ausente)
+AP-433|36|extrato_ata|Celso de Mello|100|100|Nao|todos|Absolve|Não|lido|voto oral não juntado ao acórdão; contado também na ata p.102; remissões de outros ministros ao seu voto nas p.63, 65, 67 e 83; apartes cancelados sinalizados nas p.61-62 e 97
+AP-433|37|voto|Eros Grau|101|101|Sim|todos|Absolve|Não|lido|sessão de 11/03/2010; curto (4 linhas), termina remetendo ao voto de Dias Toffoli
+AP-433|38|extrato_ata||102|103||todos||||sessão de 11/03/2010; repete a decisão de 04/03 e acrescenta a decisão final

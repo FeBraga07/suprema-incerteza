@@ -1,0 +1,619 @@
+{
+  "id_caso": "AP-416",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-40 (todas)",
+  "unidades": [
+    {
+      "id_unidade": "AP-416-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Luiz Fux",
+        "evidencia": "ACÓRDÃO ... por unanimidade e nos termos do voto do Relator e da Revisora, em julgar improcedente a ação e absolver o réu Sérgio Ivan Moraes. Brasília, 8 de março de 2012. LUIZ FUX - RELATOR",
+        "fonte": "p. 2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "IMPUTAÇÃO DE CRIMES PREVISTOS NOS INCISOS I E II DO ARTIGO 1º DO DECRETO-LEI 201/67. CRIMES DE PECULATO DE USO. ACUSAÇÃO DE USO INDEVIDO DE LINHA TELEFÔNICA INSTALADA NA RESIDÊNCIA DO PAI DO RÉU. AUSÊNCIA DA DEMONSTRAÇÃO DO DOLO DE AGIR DO RÉU. ABSOLVIÇÃO.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "por unanimidade e nos termos do voto do Relator e da Revisora, em julgar improcedente a ação e absolver o réu Sérgio Ivan Moraes.",
+            "fonte": "p. 2",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "se houve a intenção de se violar o erário público",
+            "fonte": "p. 18"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "7 - Aplicação do disposto no artigo 386, VII do CPP ante a ausência de provas quanto ao dolo de agir do réu. Dúvida que deve sempre favorecer o réu.",
+            "fonte": "p. 2",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "especifico",
+            "evidencia": "Resta saber, então, se o telefone instalado em 1997 na casa do pai do réu foi efetivamente usado por ele em proveito próprio e da sua família e se houve a intenção de se violar o erário público",
+            "fonte": "p. 18",
+            "confianca": "media"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "voto no sentido de que seja o réu absolvido nos termos do disposto no artigo 386, VII, do CPP.",
+                "fonte": "p. 24",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Note-se que a jurisprudência do Supremo já se firmou no sentido de que o crime de peculato de uso exige a presença do elemento subjetivo do dolo para a sua configuração.",
+                "fonte": "p. 21",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "No caso concreto, não há provas suficientes que demonstrem a conduta dolosa do réu a permitir a sua condenação como incurso nas penas dos incisos I e III do artigo 1º do Decreto-Lei 201/67. A dúvida deve sempre ser interpretada em favor do réu.",
+                "fonte": "p. 24",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Relator. Insuficiência de prova (art. 386, VII, CPP), não atipicidade. Ementa: 'O dolo de agir, in casu, consiste intenção consciente de usar o bem público para proveito particular.' (p. 2).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por isso, acompanho o eminente Relator pela absolvição do acusado.",
+                "fonte": "p. 32",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Então, parece-me muito claro que toda a questão é saber se, quando essa linha foi instalada no armazém do Senhor Willi – essa segunda linha –, se ela o foi em substituição àquele terminal ou se foi uma linha nova, como nas alegações finais sustenta o Ministério Público do Rio Grande do Sul.",
+                "fonte": "p. 32",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "E a isso, como bem expôs o eminente Relator, não preciso acrescentar nada. Com todo o respeito, não há prova, a meu juízo, que enseje um juízo condenatório.",
+                "fonte": "p. 32",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Revisora; o acórdão a coloca junto do Relator ('nos termos do voto do Relator e da Revisora'). Não menciona dolo nem autoria; remete ao Relator a resposta à sua própria pergunta ('como bem expôs o eminente Relator, não preciso acrescentar nada'), o que admite leitura alternativa como Adesao.",
+              "fundamento_proprio": "Decide por questão de materialidade do uso indevido: 'toda a questão é saber se, quando essa linha foi instalada no armazém do Senhor Willi – essa segunda linha –, se ela o foi em substituição àquele terminal ou se foi uma linha nova' (p. 32); conclui 'não há prova, a meu juízo, que enseje um juízo condenatório' (p. 32). Pergunta comparável: há prova de que o bem público foi efetivamente desviado para uso particular (e não para uso comunitário)?"
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu também absolvo o réu.",
+                "fonte": "p. 33",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Então, sem prova de que houvesse qualquer tipo de desvio, não há o que condenar, a despeito da belíssima sustentação do Procurador-Geral.",
+                "fonte": "p. 33",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "O problema aqui é que não há valor comprovado que tivesse sido desviado ou apropriado indevidamente.",
+                "fonte": "p. 33",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Abre com 'Também acompanho, Presidente' (p. 33), mas a razão declarada é a falta de prova do desvio, não dolo nem autoria; admite leitura alternativa como Adesao.",
+              "fundamento_proprio": "Decide pela ausência de prova do próprio desvio: 'sem prova de que houvesse qualquer tipo de desvio, não há o que condenar' e 'não há valor comprovado que tivesse sido desviado ou apropriado indevidamente' (p. 33). Pergunta comparável: há prova de que houve desvio ou apropriação do bem público?"
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Portanto, senhor Presidente, também absolvo o réu,",
+                "fonte": "p. 34",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O voto do Ministro-Relator e da Ministra-Relatora foram absolutamente exaurientes no sentido de demonstrar de que não há prova suficiente para a condenação.",
+                "fonte": "p. 34",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O voto do Ministro-Relator e da Ministra-Relatora foram absolutamente exaurientes no sentido de demonstrar de que não há prova suficiente para a condenação.",
+                "fonte": "p. 34",
+                "confianca": "media",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Adere ao Relator e à Revisora sem fundamentar; menciona só insuficiência de prova e o art. 386, VII, do CPP.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu também vou acompanhar o eminente Relator no sentido da absolvição",
+                "fonte": "p. 35",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O fato é que as testemunhas de acusação não me convenceram da presença das circunstâncias elementares do tipo penal, até porque o caso é complicado.",
+                "fonte": "p. 35",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Eu também vou acompanhar o eminente Relator no sentido da absolvição",
+                "fonte": "p. 35",
+                "confianca": "media",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Fala genericamente em falta de prova das 'circunstâncias elementares do tipo penal', sem separar dolo de autoria; ressalva depois que 'não se está assentando aqui a atipicidade dos fatos, apenas a insuficiência de provas' (p. 39). Admite que a instalação 'favoreceu de alguma forma o grupo político do ora acusado' (p. 35).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Acompanho o Relator.",
+                "fonte": "p. 38",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Acompanho o Relator.",
+                "fonte": "p. 38",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Acompanho o Relator.",
+                "fonte": "p. 38",
+                "confianca": "media",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Voto centrado em reflexão sobre a judicialização de querelas políticas locais e o excesso de criminalização ('a criminalização pela criminalização ... em casos tais fica um evidente exagero', p. 38); comenta que o telefone no armazém servia para 'permitir que seja utilizado pela comunidade' (p. 37). Não enfrenta dolo nem autoria.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Sem voto escrito; adesão inferida da ata ('por unanimidade e nos termos do voto do Relator e da Revisora'). O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Intervenções no texto marcadas como '(CANCELADO)' (p. 39); não há voto escrito.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Sem voto escrito; adesão inferida da ata ('por unanimidade e nos termos do voto do Relator e da Revisora'). O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Só um aparte: 'E em uma época em que o celular ainda não havia sido difundido comercialmente.' (p. 37); não há voto escrito.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes. Votou o Presidente, Ministro Cezar Peluso.",
+                "fonte": "p. 40",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Sem voto escrito; adesão inferida da ata ('por unanimidade e nos termos do voto do Relator e da Revisora'). O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Presidente; a ata registra 'Votou o Presidente, Ministro Cezar Peluso.' (p. 40); não há voto escrito.",
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "Da mesma forma, como não se trata de responsabilidade objetiva, caberia ao Ministério Público provar que as ligações referidas na denúncia foram realizadas pelo réu. O que não foi feito nos presentes autos.",
+            "fonte": "p. 20-21",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "por unanimidade e nos termos do voto do Relator e da Revisora, em julgar improcedente a ação e absolver o réu Sérgio Ivan Moraes.",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "se o telefone instalado em 1997 na casa do pai do réu foi efetivamente usado por ele em proveito próprio e da sua família",
+            "fonte": "p. 18"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "sendo certo que as ligações indevidas não podem ser imputadas diretamente ao réu ou algum familiar seu e com a sua ciência.",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "caberia ao Ministério Público provar que as ligações referidas na denúncia foram realizadas pelo réu.",
+            "fonte": "p. 20-21",
+            "confianca": "baixa"
+          },
+          "posicoes": [
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "voto no sentido de que seja o réu absolvido nos termos do disposto no artigo 386, VII, do CPP.",
+                "fonte": "p. 24",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Então, era um telefone comunitário, e não há nos autos a mais tênue prova de que essas ligações foram realizadas pelo denunciado.",
+                "fonte": "p. 27",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Ocorre que, no caso sub judice - anoto eu -, não há prova nos autos de que o acusado franqueou ao seu falecido genitor o uso gratuito de aparelho e linha telefônica comprados e instalados no estabelecimento comercial do de cujus pela municipalidade.",
+                "fonte": "p. 28",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Desenvolvida sobretudo no aditamento oral (p. 25-29). Inclui a origem do terminal: 'Não foi instalado na época em que ele era prefeito' (p. 27-28), e cita AP 447: 'não se pode presumir a responsabilidade criminal do prefeito simplesmente com apoio na indicação de terceiros' (p. 29).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por isso, acompanho o eminente Relator pela absolvição do acusado.",
+                "fonte": "p. 32",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Então, parece-me muito claro que toda a questão é saber se, quando essa linha foi instalada no armazém do Senhor Willi – essa segunda linha –, se ela o foi em substituição àquele terminal ou se foi uma linha nova, como nas alegações finais sustenta o Ministério Público do Rio Grande do Sul.",
+                "fonte": "p. 32",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "E a isso, como bem expôs o eminente Relator, não preciso acrescentar nada. Com todo o respeito, não há prova, a meu juízo, que enseje um juízo condenatório.",
+                "fonte": "p. 32",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Revisora; o acórdão a coloca junto do Relator ('nos termos do voto do Relator e da Revisora'). Não menciona dolo nem autoria; remete ao Relator a resposta à sua própria pergunta ('como bem expôs o eminente Relator, não preciso acrescentar nada'), o que admite leitura alternativa como Adesao.",
+              "fundamento_proprio": "Decide por questão de materialidade do uso indevido: 'toda a questão é saber se, quando essa linha foi instalada no armazém do Senhor Willi – essa segunda linha –, se ela o foi em substituição àquele terminal ou se foi uma linha nova' (p. 32); conclui 'não há prova, a meu juízo, que enseje um juízo condenatório' (p. 32). Pergunta comparável: há prova de que o bem público foi efetivamente desviado para uso particular (e não para uso comunitário)?"
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu também absolvo o réu.",
+                "fonte": "p. 33",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Então, sem prova de que houvesse qualquer tipo de desvio, não há o que condenar, a despeito da belíssima sustentação do Procurador-Geral.",
+                "fonte": "p. 33",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "O problema aqui é que não há valor comprovado que tivesse sido desviado ou apropriado indevidamente.",
+                "fonte": "p. 33",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Abre com 'Também acompanho, Presidente' (p. 33), mas a razão declarada é a falta de prova do desvio, não dolo nem autoria; admite leitura alternativa como Adesao.",
+              "fundamento_proprio": "Decide pela ausência de prova do próprio desvio: 'sem prova de que houvesse qualquer tipo de desvio, não há o que condenar' e 'não há valor comprovado que tivesse sido desviado ou apropriado indevidamente' (p. 33). Pergunta comparável: há prova de que houve desvio ou apropriação do bem público?"
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Portanto, senhor Presidente, também absolvo o réu,",
+                "fonte": "p. 34",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O voto do Ministro-Relator e da Ministra-Relatora foram absolutamente exaurientes no sentido de demonstrar de que não há prova suficiente para a condenação.",
+                "fonte": "p. 34",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O voto do Ministro-Relator e da Ministra-Relatora foram absolutamente exaurientes no sentido de demonstrar de que não há prova suficiente para a condenação.",
+                "fonte": "p. 34",
+                "confianca": "media",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Adere ao Relator e à Revisora sem fundamentar; menciona só insuficiência de prova e o art. 386, VII, do CPP.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu também vou acompanhar o eminente Relator no sentido da absolvição",
+                "fonte": "p. 35",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O fato é que as testemunhas de acusação não me convenceram da presença das circunstâncias elementares do tipo penal, até porque o caso é complicado.",
+                "fonte": "p. 35",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Eu também vou acompanhar o eminente Relator no sentido da absolvição",
+                "fonte": "p. 35",
+                "confianca": "media",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Fala genericamente em falta de prova das 'circunstâncias elementares do tipo penal', sem separar dolo de autoria; ressalva depois que 'não se está assentando aqui a atipicidade dos fatos, apenas a insuficiência de provas' (p. 39). Admite que a instalação 'favoreceu de alguma forma o grupo político do ora acusado' (p. 35).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Acompanho o Relator.",
+                "fonte": "p. 38",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Acompanho o Relator.",
+                "fonte": "p. 38",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Acompanho o Relator.",
+                "fonte": "p. 38",
+                "confianca": "media",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Voto centrado em reflexão sobre a judicialização de querelas políticas locais e o excesso de criminalização ('a criminalização pela criminalização ... em casos tais fica um evidente exagero', p. 38); comenta que o telefone no armazém servia para 'permitir que seja utilizado pela comunidade' (p. 37). Não enfrenta dolo nem autoria.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Sem voto escrito; adesão inferida da ata ('por unanimidade e nos termos do voto do Relator e da Revisora'). O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Intervenções no texto marcadas como '(CANCELADO)' (p. 39); não há voto escrito.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Sem voto escrito; adesão inferida da ata ('por unanimidade e nos termos do voto do Relator e da Revisora'). O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Só um aparte: 'E em uma época em que o celular ainda não havia sido difundido comercialmente.' (p. 37); não há voto escrito.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes. Votou o Presidente, Ministro Cezar Peluso.",
+                "fonte": "p. 40",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Sem voto escrito; adesão inferida da ata ('por unanimidade e nos termos do voto do Relator e da Revisora'). O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.",
+                "fonte": "p. 40",
+                "confianca": "baixa",
+                "inferida_de": "Luiz Fux"
+              },
+              "posicao_detalhe": "Presidente; a ata registra 'Votou o Presidente, Ministro Cezar Peluso.' (p. 40); não há voto escrito.",
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "AP 372 – SE. Relator Min. Dias Toffoli, DJ 04.04.2011",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Note-se que a jurisprudência do Supremo já se firmou no sentido de que o crime de peculato de uso exige a presença do elemento subjetivo do dolo para a sua configuração. Neste sentido, pode-se extrair da decisão proferida pelo Pleno desta Corte, já mencionada acima, tendo sido relator o Min. Dias Toffoli a seguinte passagem:",
+          "fonte": "p. 21"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "RHC 72830/RO – Min. Carlos Velloso – julgado 24/10/1995- Segunda Turma",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Inocorrencia, no caso, de dolo de apropriação do patrimônio público. II. - Concessão de \"habeas corpus\" de oficio para o fim de ser trancada a ação penal.",
+          "fonte": "p. 22"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "AP 527/PR – Min. Dias Toffolli – Órgão Pleno – julgado em 16/12/2010",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Ausência do elemento subjetivo do tipo. Pedido julgado improcedente, com a absolvição do réu com fundamento no art. 386, V, do Código de Processo Penal.",
+          "fonte": "p. 22"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus 71.991, da Primeira Turma, Relator Ministro Sidney Sanches",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "A nossa Suprema Corte tem inúmeros casos, citando aqui o Habeas Corpus 71.991, da Primeira Turma, Relator Ministro Sidney Sanches;",
+          "fonte": "p. 28"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "Recurso em Habeas Corpus 73.210, Segunda Turma, Relator Ministro Maurício Corrêa",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Recurso em Habeas Corpus 73.210, Segunda Turma, Relator Ministro Maurício Corrêa.",
+          "fonte": "p. 28"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus 70, Relator Ministro Velloso",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Cito ainda o Habeas Corpus 70, Relator Ministro Velloso;",
+          "fonte": "p. 28-29"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Penal 372, Relator Ministro Dias Toffoli (aditamento)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Ação Penal 372, Relator Ministro Dias Toffoli;",
+          "fonte": "p. 29"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Penal 447, da relatoria do Ministro Carlos Ayres Britto",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "assenta que não se pode presumir a responsabilidade criminal do prefeito simplesmente com apoio na indicação de terceiros, por um ouvir dizer das testemunhas, sabendo que o nosso sistema jurídico penal não admite a culpa por presunção. E era um caso exatamente idêntico a este.",
+          "fonte": "p. 29"
+        },
+        {
+          "ministro": "Gilmar Mendes",
+          "tipo": "precedente_citado",
+          "referencia": "caso que envolvia a hoje governadora do Rio Grande do Norte, Prefeita de Mossoró (sem número)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Não faz muito tempo, Ministro Britto também há de se lembrar, nós tivemos um caso aqui que envolvia a hoje governadora do Rio Grande do Norte, Prefeita de Mossoró, que fez um acordo com um supermercado para ter lá a instalação daquele empreendimento e, em contrapartida, isso é típico nesse tipo de negociação, construiria um estacionamento.",
+          "fonte": "p. 36"
+        }
+      ],
+      "obs": "O acórdão atribui a decisão 'nos termos do voto do Relator e da Revisora' (p. 2 e p. 40); quem fundamenta dolo e autoria é o Relator Luiz Fux, e a Revisora Rosa Weber fundamenta só a questão de materialidade (linha nova x substituição) e remete o resto ao Relator. Votos lidos coincidem com o banco: 9 votantes, todos Absolve; Marco Aurélio e Joaquim Barbosa ausentes ('Ausentes, justificadamente, o Senhor Ministro Joaquim Barbosa e, neste julgamento, o Senhor Ministro Marco Aurélio', p. 40), por isso fora de 'posicoes'. Celso de Mello, Dias Toffoli e Cezar Peluso não têm voto escrito; o resultado vem da ata (unanimidade)."
+    }
+  ],
+  "avisos": [
+    "R4/R5b: duas questões registradas (dolo e concorreu), ambas principal = Sim porque o caso é unânime e as duas tiveram resposta 'nao'. A ementa e a conclusão do voto escrito (p. 24) põem o peso no dolo; a autoria aparece sobretudo no aditamento oral (p. 27-28) e no item 5 da ementa ('não podem ser imputadas diretamente ao réu'). Confiança 'media' na questão concorreu.",
+    "Terceira questão candidata, não registrada pelo limite de duas (R4): materialidade do uso indevido / do desvio ('a linha era nova ou substituía a comunitária?'; 'houve desvio?'). É a razão declarada pela Revisora Rosa Weber (p. 32) e por Cármen Lúcia (p. 33), e aparece também no Relator ('a linha telefônica servia à comunidade, e não apenas ao falecido ascendente do réu', p. 28). Não cabe em dolo nem em concorreu; candidata a categoria 'outra' (materialidade) na revisão do codebook. Por isso Rosa Weber e Cármen Lúcia ficaram com enfrentou = Nao e fundamento_proprio preenchido; ambas, porém, dizem acompanhar o Relator, o que admite leitura como Adesao.",
+    "padrao_dolo_exigido = especifico com confiança média: o Relator pergunta 'se houve a intenção de se violar o erário público' (p. 18) e cita a AP 372 ('vontade livre e consciente (dolo) de lesar o Erário ... Ausência de demonstração do dolo específico', p. 21); mas a ementa define o dolo como 'intenção consciente de usar o bem público para proveito particular' (p. 2), o que é próximo do próprio tipo do inciso II, e o voto transcreve doutrina (Tito Costa / Manoel Pimentel, p. 23-24) dizendo que a distinção entre dolo genérico e específico está 'superada'.",
+    "modo_concurso = autor com confiança baixa: o voto não usa as palavras autor/partícipe; a inferência vem de 'caberia ao Ministério Público provar que as ligações referidas na denúncia foram realizadas pelo réu' (p. 20-21).",
+    "Adesões sem texto (Celso de Mello, Dias Toffoli, Cezar Peluso) inferidas só da ata ('por unanimidade e nos termos do voto do Relator e da Revisora', p. 40), confiança baixa. As intervenções de Celso de Mello constam como '(CANCELADO)' (p. 39).",
+    "Possível erro material no voto escrito do Relator: fala em 'incisos I e III do artigo 1º do Decreto-Lei 201/67' (p. 24), enquanto a denúncia e a ementa falam em incisos I e II.",
+    "Precedentes e mudanças de regra usados só nas preliminares (validação dos atos praticados por juízo incompetente e foro de ex-prefeito) não foram listados em 'precedentes', por R6: HC 101.814-PE, HC 83.006, Inq 2245/MG (p. 12-13), AP 372 e RE 289.847-GO (p. 13-16), e a declaração de inconstitucionalidade da Lei 10.628/2002 (p. 12). Citações aninhadas dentro das ementas transcritas (HC 70.671, Inq 2.646 etc.) também não foram listadas.",
+    "Ayres Britto esclarece (p. 39): 'não se está assentando aqui a atipicidade dos fatos, apenas a insuficiência de provas' — confirma que a absolvição é por prova (art. 386, VII), não por atipicidade."
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id_caso": "AP-416",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-416.txt"],
+  "metodo_validacao": "dupla extração independente (L2-b). Concordância total nos campos estruturados; ambas as extrações, de forma independente, sinalizaram e questionaram a mesma tensão no campo `motivo` — resolvida abaixo por leitura direta da fonte, não por arbitragem entre os dois agentes.",
+  "caso": {
+    "instituto_juridico": {"valor": "Peculato de uso (Decreto-Lei 201/67, art. 1º, incisos I e II)", "evidencia": "IMPUTAÇÃO DE CRIMES PREVISTOS NOS INCISOS I E II DO ARTIGO 1º DO DECRETO-LEI 201/67. CRIMES DE PECULATO DE USO.", "fonte": "ementa", "confianca": "alta"},
+    "merito_finalizado": {"valor": true, "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.", "fonte": "ata", "confianca": "alta"},
+    "n_reus": {"valor": 1, "evidencia": "RÉU(É)(S): SÉRGIO IVAN MORAES", "fonte": "acordao p.1", "confianca": "alta"},
+    "multiplas_sessoes": {"valor": false, "evidencia": "Todas as peças trazem a data única '08/03/2012'; ata registra 'Plenário, 08.03.2012'.", "fonte": "ata", "confianca": "media"},
+    "modalidade_levcovitz": {"valor": [1], "rotulos": ["Peculato (art. 312, CP, ou equivalente via DL 201/67)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-416, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"1 (equivalente ao peculato de uso)\"", "regra_aplicada": "inclusao_dl201", "fonte": "ementa", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {"valor": "Sérgio Ivan Moraes", "evidencia": "RÉU(É)(S): SÉRGIO IVAN MORAES", "fonte": "acordao p.1", "confianca": "alta"},
+      "cargo_funcao": {"valor": "ex-Prefeito Municipal de Santa Cruz do Sul/RS à época dos fatos (1996-2000); Deputado Federal à época do julgamento (fundamento do foro no STF)", "evidencia": "denúncia contra o ex-Prefeito Municipal de Santa Cruz do Sul, atualmente Deputado Federal, Sérgio Ivan Moraes", "fonte": "acordao p.3", "confianca": "alta"},
+      "resultado": {"valor": "Absolvição", "evidencia": "por unanimidade e nos termos do voto do Relator e da Revisora, em julgar improcedente a ação e absolver o réu Sérgio Ivan Moraes.", "fonte": "acordao p.2", "confianca": "alta"},
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "O SENHOR MINISTRO AYRES BRITTO — Eu acho que está suficientemente claro que, a partir do voto do Relator, não se está assentando aqui a atipicidade dos fatos, apenas a insuficiência de provas.",
+        "fonte": "acordao p.39",
+        "confianca": "alta",
+        "nota_revisao": "As duas extrações independentes aplicaram a convenção geral deste projeto (ausência de dolo → atipicidade) mas ambas, de forma independente, sinalizaram a mesma tensão. Conferido na fonte: neste caso específico, um dos ministros contestou expressamente em plenário a leitura de atipicidade, afirmando que o fundamento é apenas insuficiência de provas — o que a própria ata confirma ao citar o art. 386, VII do CPP (insuficiência de provas), não o inciso III (atipicidade). A convenção geral é um padrão default, não uma regra absoluta; aqui há declaração direta na fonte primária que a derruba. Corrigido de 'atipicidade' para 'mérito'."
+      },
+      "prescricao_pos_condenacao": {"valor": false, "evidencia": "Não há menção a prescrição referente a este réu; a única ocorrência do termo é em citação de precedente (AP-372), estranha a este processo.", "fonte": "acordao p.14", "confianca": "alta"},
+      "crimes": [{"artigo": "art. 1º, incisos I e II", "diploma": "Decreto-Lei 201/67", "evidencia": "IMPUTAÇÃO DE CRIMES PREVISTOS NOS INCISOS I E II DO ARTIGO 1º DO DECRETO-LEI 201/67."}],
+      "n_votantes": {"valor": 9, "evidencia": "Presentes: Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux, Rosa Weber + Presidente Cezar Peluso (votou); Ausentes justificadamente: Joaquim Barbosa e, neste julgamento, Marco Aurélio.", "fonte": "ata", "confianca": "alta"},
+      "votos_condenacao": {"valor": 0, "evidencia": "O Tribunal, por unanimidade [...] absolveu o réu Sérgio Ivan Moraes.", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 9, "evidencia": "O Tribunal, por unanimidade [...] absolveu o réu Sérgio Ivan Moraes.", "fonte": "ata", "confianca": "alta"},
+      "unanime": {"valor": true, "evidencia": "O Tribunal, por unanimidade e nos termos do voto do Relator e da Revisora, julgou improcedente a ação e absolveu o réu Sérgio Ivan Moraes.", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "votos": [
+    {"ministro": {"valor": "Luiz Fux"}, "eh_relator": {"valor": true}, "voto_resultado": {"valor": "absolve", "evidencia": "voto no sentido de que seja o réu absolvido nos termos do disposto no artigo 386, VII, do CPP.", "fonte": "acordao p.24", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Rosa Weber"}, "eh_relator": {"valor": false, "evidencia": "Revisora"}, "voto_resultado": {"valor": "absolve", "evidencia": "acompanho o eminente Relator pela absolvição do acusado.", "fonte": "acordao p.32", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Cármen Lúcia"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "Eu também absolvo o réu.", "fonte": "acordao p.33", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ricardo Lewandowski"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "também absolvo o réu, com fundamento no artigo 386, inciso VII, do Código de Processo Penal.", "fonte": "acordao p.34", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ayres Britto"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "vou acompanhar o eminente Relator no sentido da absolvição.", "fonte": "acordao p.35", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Gilmar Mendes"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "Acompanho o Relator.", "fonte": "acordao p.38", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Celso de Mello"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "voto individual aparece como '(CANCELADO)' na transcrição; presente, não ausente/impedido/suspeito, decisão unânime.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Dias Toffoli"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "sem seção de voto individual, só uma interjeição; presente, unanimidade declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Cezar Peluso"}, "eh_relator": {"valor": false, "evidencia": "presidiu a sessão"}, "voto_resultado": {"valor": "absolve", "evidencia": "Votou o Presidente, Ministro Cezar Peluso.", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Marco Aurélio"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, [...] neste julgamento, o Senhor Ministro Marco Aurélio.", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": true}, "motivo_ausencia": {"valor": "ausente justificadamente neste julgamento, embora presente à sessão em geral", "fonte": "ata", "confianca": "alta"}},
+    {"ministro": {"valor": "Joaquim Barbosa"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, o Senhor Ministro Joaquim Barbosa [...]", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": true}, "motivo_ausencia": {"valor": "ausência justificada", "fonte": "ata", "confianca": "alta"}}
+  ],
+  "avisos": [
+    "REVISÃO: motivo corrigido para 'mérito' — ver nota_revisao no campo. As duas extrações concordaram em todo o resto.",
+    "Regra geral deste projeto ('ausência de dolo' → atipicidade) tem exceção documentada: quando a fonte primária contém declaração explícita distinguindo os dois fundamentos (como aqui), a declaração explícita prevalece sobre a convenção default.",
+    "Marco Aurélio consta como 'presente à sessão' na lista geral, mas 'ausente, justificadamente, neste julgamento' especificamente — tratado como ausente para este caso, seguindo a ata.",
+    "Votos de Celso de Mello (marcado '(CANCELADO)' na transcrição) e Dias Toffoli (sem seção própria) foram deduzidos por D-004.",
+    "Possível erro de digitação/OCR no voto do relator ('incisos I e III' em vez de 'I e II') — mantidos os incisos I e II, consistentes com o resto do texto."
+  ]
+}

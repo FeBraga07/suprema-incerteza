@@ -1,0 +1,195 @@
+{
+  "id_caso": "AP-973",
+  "extraido_em": "2026-09-27",
+  "fontes_lidas": ["dados/corpus/texto/AP-973.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Peculato / desvio-utilização indevida de bem público municipal (uso indevido de linhas e aparelhos telefônicos)",
+      "evidencia": "utilização indevida, em proveito próprio, de bens, rendas ou serviços públicos... AP 973 - DOS CRIMES DE PECULATO (Uso de linhas telefônicas móveis) - art. 1º, inciso I, do Decreto-Lei 201/67.",
+      "fonte": "acordao p.142",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, por maioria, julgou procedente a pretensão punitiva deduzida nas APs 973 e 974, para condenar o réu André Luiz Dantas Ferreira... nos termos do voto do Ministro Nunes Marques, Redator para o acórdão, vencidos os Ministros Gilmar Mendes (Relator), Ricardo Lewandowski (Revisor), Dias Toffoli e Alexandre de Moraes. Presidência do Ministro Luiz Fux. Plenário, 29.9.2021.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU(É)(S) : ANDRÉ LUIZ DANTAS FERREIRA (único réu qualificado na capa e na ata do processo; os demais denunciados nos inquéritos de origem foram objeto de cisão subjetiva, prosseguindo nesta Corte apenas em relação a ANDRÉ MOURA — cf. voto Min. Alexandre de Moraes: 'procedeu-se... à cisão subjetiva dos processos, com o prosseguimento dos atos processuais nesta SUPREMA CORTE tão somente em relação a ANDRÉ MOURA, com o apensamento das demais Ações Penais aos autos da AP 974')",
+      "fonte": "acordao p.90",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": true,
+      "evidencia": "Sessão de 23.9.2021: 'Após a leitura do relatório e a realização das sustentações orais, o julgamento foi suspenso.' Sessão de 29.9.2021: julgamento concluído e proclamado o resultado. Sessão de 30.9.2021 (registrada como 'Debate' e 'Retificação de Ata'): discussão sobre o rito da dosimetria e sobre o empate na AP 969, sem reabertura do mérito de AP 973/974.",
+      "fonte": "ata",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "André Luiz Dantas Ferreira (conhecido como André Moura)",
+        "evidencia": "RÉU(É)(S) : ANDRÉ LUIZ DANTAS FERREIRA ... para condenar o réu André Luiz Dantas Ferreira, conhecido como deputado federal André Moura",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Ex-Prefeito de Pirambu/SE (mandatos 1997-2000 e 2001-2004); no período dos fatos da AP 973 (jan/2005 a jul/2007) não integrava a Administração municipal; posteriormente Deputado Estadual (a partir de fev/2007) e, à época do julgamento, qualificado como Deputado Federal",
+        "evidencia": "'que ocupara o referido cargo durante os mandatos de 1997 a 2000 e de 2001 a 2004' (voto Min. Lewandowski); 'ANDRÉ MOURA é denunciado por ter desviado e utilizado ilicitamente telefones móveis... no período de 1º de janeiro de 2005 a 31 de julho de 2007, quando não integravam a Administração municipal' (voto Min. Nunes Marques); 'passou a exercer as funções de Secretário de Estado e de Deputado Estadual em Sergipe' (voto Min. Alexandre de Moraes); '...conhecido como deputado federal André Moura' (ata)",
+        "fonte": "acordao p.69/121/94; ata",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação",
+        "evidencia": "julgou procedente a pretensão punitiva deduzida nas APs 973 e 974, para condenar o réu André Luiz Dantas Ferreira... nas penas do art. 1º, I e II, do Decreto-Lei n. 201/1967, c/c os arts. 29 e 71 do Código Penal, e pela prática do crime previsto no art. 288, também do Código Penal, ficando o réu condenado à pena total de 08 (oito) anos e 3 (três) meses de reclusão",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "'resulta comprovado o teor da colaboração espontânea do ex-prefeito do Município de Pirambu/SE JUAREZ BATISTA DOS SANTOS, no sentido de ANDRÉ LUIZ DANTAS FERREIRA (ANDRÉ MOURA) haver utilizado, ilicitamente, as linhas telefônicas mencionadas, cujas contas ficaram a cargo do Município' (voto Min. Nunes Marques, redator do acórdão)",
+        "fonte": "acordao p.124",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não há, na ata nem no dispositivo, extinção da punibilidade por prescrição decretada após a condenação. Houve apenas manifestação de dúvida oral do Min. Lewandowski, no debate de 30/9/2021: 'Possivelmente, a pena em abstrato, talvez, tenha já causado ou dado ensejo à prescrição e, eventualmente, a pena in concreto possa ter superado esse instituto' — trata-se de dúvida levantada em debate, sem decisão formal do colegiado nesse sentido, e não altera o resultado registrado na ata.",
+        "fonte": "acordao p.213 (debate 30/9/2021)",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "1º, I e II (c/c arts. 29 e 71 do Código Penal)",
+          "diploma": "Decreto-Lei 201/1967",
+          "evidencia": "Na AP 973, ANDRÉ MOURA é denunciado por ter desviado e utilizado ilicitamente telefones móveis – de números (79) 9982-2502, 9977-2002 e 9982-2500 –, cadastrados e pagos pelo Município de Pirambu/SE, em proveito próprio e de pessoas ligadas a ele, no período de 1º de janeiro de 2005 a 31 de julho de 2007... As despesas telefônicas indevidas e ilícitas teriam totalizado R$ 21.718,17"
+        },
+        {
+          "artigo": "288 (redação anterior à Lei 12.850/2013)",
+          "diploma": "Código Penal",
+          "resultado_inciso": "Condenação (pena de 1 ano e 6 meses de reclusão, somada à pena do DL 201/67 no total de 8 anos e 3 meses) — ATENÇÃO: este capítulo (formação de quadrilha) pertence à denúncia da AP 974 (esquema de desvio de gêneros alimentícios), não à denúncia própria da AP 973 (que, pelo relatório, envolve apenas o art. 1º, I e II, do DL 201/1967 c/c arts. 29 e 71 do CP, sem imputação de quadrilha). O dispositivo final, contudo, funde as penas de AP 973 e AP 974 numa única sentença/pena total para o mesmo réu.",
+          "evidencia": "pela prática do crime previsto no art. 288, também do Código Penal, ficando o réu condenado à pena total de 08 (oito) anos e 3 (três) meses de reclusão"
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "Presentes à sessão os Senhores Ministros Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes e Nunes Marques (9), mais a Presidência do Ministro Luiz Fux, que também votou (Voto - MIN. LUIZ FUX) = 10 votantes. Nenhuma ausência, impedimento ou suspeição registrados para o mérito.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 6,
+        "evidencia": "Votaram pela condenação: Nunes Marques (redator), Edson Fachin, Roberto Barroso, Cármen Lúcia, Luiz Fux e Rosa Weber (dedução D-004) — coerente com a fala do Min. Barroso no debate de 30/9: 'Votou-se, a maioria votou... eu votei, seis pessoas votaram.'",
+        "fonte": "ata + deducao D-004",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 4,
+        "evidencia": "vencidos os ministros Gilmar Mendes (Relator), Ricardo Lewandowski (Revisor), Dias Toffoli e Alexandre de Moraes",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "'por maioria' (não unânime); vencidos 4 dos 10 ministros",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Gilmar Mendes", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": true, "evidencia": "RELATOR : MIN. GILMAR MENDES", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "'acusado André Luis Dantas Ferreira (André Moura) de todas as imputações contidas nas referidas peças, em virtude da ausência de provas suficientes para a condenação, nos termos do art. 386, inciso VII, do CPP. É como voto.'", "fonte": "acordao p.66", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os ministros Gilmar Mendes (Relator)...", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica — ministro presente e votante", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ricardo Lewandowski", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "REVISOR : MIN. RICARDO LEWANDOWSKI", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "'eu me declaro inteiramente concorde com o voto do eminente relator. Também decreto a absolvição do réu André Luiz Dantas Ferreira, o chamado André Moura, de todas as imputações contidas nas três ações, nas Ações Penais 969, 973 e 974, com fundamento no art. 386, VII, do Código de Processo Penal.'", "fonte": "acordao p.67", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os ministros... Ricardo Lewandowski (Revisor)...", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cármen Lúcia", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "'voto no sentido de julgar procedentes os pedidos formulados nas Ações Penais ns. 974 e 973, nos termos do voto do Ministro Nunes Marques, e julgar procedente a Ação Penal n. 969, nos termos do voto do Ministro Edson Fachin.'", "fonte": "acordao p.205", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não consta na lista de vencidos da ata", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros... Cármen Lúcia...", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Dias Toffoli", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "vencidos os ministros Gilmar Mendes (Relator), Ricardo Lewandowski (Revisor), Dias Toffoli e Alexandre de Moraes", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os ministros... Dias Toffoli...", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros... Dias Toffoli...", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Luiz Fux", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "'Com a vênia do eminente Relator, acompanho a divergência inaugurada pelo Ministro Nunes Marques, para julgar procedente a acusação... Ex positis, julgo procedente a Ação Penal.'", "fonte": "acordao p.208/211", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não consta na lista de vencidos da ata", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presidência do Ministro Luiz Fux (presidiu e votou)", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Rosa Weber", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "Ministra presente à sessão, não listada entre os vencidos; nenhum registro individual de voto foi encontrado no texto — deduz-se voto com a maioria (D-004).", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "não consta na lista de vencidos da ata", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros... Rosa Weber...", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Roberto Barroso", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "'estou acompanhando a dissidência iniciada pelo Ministro Nunes Marques... Deste modo, estou julgando procedente o pedido, a acusação, nas três ações penais, na linha, como disse, do Ministro Nunes Marques, com a extensão dada pelo Ministro Edson Fachin.'", "fonte": "acordao p.159", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não consta na lista de vencidos da ata", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros... Roberto Barroso...", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Edson Fachin", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "'motivo pelo qual reconheço configurados os elementos do tipo previsto no art. 1º, inciso I, do Decreto-Lei 201/67, compreendendo que a condenação é medida imprescindível.' (AP 973 - uso de linhas telefônicas móveis)", "fonte": "acordao p.144", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não consta na lista de vencidos da ata", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros... Edson Fachin...", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Alexandre de Moraes", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "O cabeçalho do voto no texto-fonte traz '(RELATOR)' ao lado do nome de Alexandre de Moraes, o que é aparente erro/artefato do documento — o Relator do processo é o Min. Gilmar Mendes, conforme a ata.", "fonte": "acordao p.90", "confianca": "media"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "'adianto, de antemão, que acompanharei, na íntegra, o entendimento do eminente Relator, ratificado pelo Revisor... Esse quadro impõe a prolação da absolvição.'", "fonte": "acordao p.90/95", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os ministros... Alexandre de Moraes", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros... Alexandre de Moraes... (presente e votante no mérito em 29/9; esteve ausente apenas na sessão de 30/9, sobre a dosimetria: 'O Ministro Alexandre, que está ausente justificadamente... não teve oportunidade de votar na dosimetria')", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não esteve ausente para o voto de mérito; ausência justificada registrada apenas para a sessão posterior de dosimetria (30/9/2021)", "fonte": "acordao p.213", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Nunes Marques", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "REDATOR DO ACÓRDÃO : MIN. NUNES MARQUES", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "'julgo procedente a pretensão punitiva deduzida nas APs 973 e 974, para condenar o réu ANDRÉ LUIZ DANTAS FERREIRA...'", "fonte": "acordao p.126", "confianca": "alta"},
+      "vencido": {"valor": false, "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros... Nunes Marques.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "avisos": [
+    "Este documento (rotulado 'AÇÃO PENAL 973 SERGIPE' na capa e na ata) contém, na verdade, o texto integral do julgamento CONJUNTO de três ações penais distintas contra o mesmo réu (AP 969, AP 973 e AP 974), incluindo relatório, votos e debates que tratam das três ações ao mesmo tempo. Apenas as seções 'Extrato de Ata' (início e fim) são especificamente identificadas como referentes à AP 973.",
+    "A pena fixada pelo Redator do acórdão, Min. Nunes Marques, para o art. 1º, I e II, do Decreto-Lei 201/1967 (6 anos e 9 meses de reclusão) é uma pena ÚNICA, obtida pela soma/aumento por continuidade delitiva (CP art. 71) entre os fatos da AP 973 (uso indevido de linhas telefônicas) e da AP 974 (desvio de gêneros alimentícios/bebidas). Não é possível, a partir do texto, isolar qual fração dessa pena corresponde exclusivamente à conduta objeto da AP 973.",
+    "O crime do art. 288 do Código Penal (formação de quadrilha), incluído no dispositivo final e na pena total de 8 anos e 3 meses, pertence à denúncia da AP 974 (esquema de desvio de alimentos), não à denúncia própria da AP 973 (que, pelo relatório do Min. Gilmar Mendes, versa apenas sobre o art. 1º, I e II, do DL 201/1967 c/c arts. 29 e 71 do CP). Registrado aqui por integrar o mesmo dispositivo/pena do mesmo réu.",
+    "Min. Dias Toffoli é listado como 'vencido' na ata final, mas não há, em nenhum ponto do texto, um voto individual seu transcrito (escrito ou oral) — diferentemente dos demais ministros, cujos votos completos constam do acórdão. Seu resultado de voto (absolve) foi registrado com base exclusivamente na ata (fonte='ata'), não em voto próprio.",
+    "Min. Rosa Weber também não tem voto individual transcrito no texto, e não consta da lista de vencidos — seu voto (condena) foi deduzido pela regra D-004 (presente, em exercício, não vencida, não ausente/impedida/suspeita), confiança 'media'.",
+    "O cabeçalho do voto do Min. Alexandre de Moraes traz, no texto-fonte, a marcação '(RELATOR)' ao lado do seu nome — aparente erro/artefato do documento, já que o Relator do processo é o Min. Gilmar Mendes (conforme a capa e a ata). Mantido tal como no texto, sinalizado aqui.",
+    "Em sessão de 30/9/2021 (posterior à proclamação do resultado em 29/9/2021), registrada nas seções 'Debate' e 'Retificação de Ata', o Min. Ricardo Lewandowski suscitou questão de ordem alegando que (a) o empate no julgamento da AP 969 deveria favorecer o réu (improcedência), e (b) o julgamento das APs 973 e 974 não estaria formalmente concluído porque os 4 ministros vencidos no mérito não tiveram oportunidade de votar na dosimetria da pena — tendo o Min. Gilmar Mendes concordado com essas observações. A Presidência (Min. Luiz Fux) não acatou a reabertura do julgamento, mas determinou o registro das ressalvas em ata. Isso não altera o resultado de mérito já proclamado e registrado no Extrato de Ata de 29/9/2021 (condenação por maioria, 6x4), mas é um elemento relevante de possível instabilidade/insegurança processual a registrar para os fins do TCC.",
+    "No mesmo debate de 30/9/2021, o Min. Lewandowski levantou dúvida oral sobre possível prescrição da pretensão punitiva ('a pena em abstrato, talvez, tenha já causado ou dado ensejo à prescrição'), sem que isso tenha se traduzido em decisão formal de extinção de punibilidade — não afeta o campo 'resultado' nem 'motivo' registrados para o réu.",
+    "Este arquivo foi lido em modo de extração cega (reteste, 27/09/2026): nenhum outro arquivo do projeto além do prompt de instruções e do texto integral do acórdão foi consultado."
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "id_caso": "AP-426",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-426.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Decreto-Lei 201/67, art. 1º, III (desvio de verba pública) e Lei 8.666, art. 89 (dispensa/inexigibilidade indevida de licitação)",
+      "evidencia": "imputando-lhe a prática dos delitos previstos no artigo 89 da Lei nº 8.666/96 e no artigo 1º, inciso III, do Decreto-Lei n° 201/67",
+      "fonte": "acordao p.2",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "Concluo, então, pela absolvição do acusado na forma prevista no artigo 386, inciso IV, do Código de Processo Penal",
+      "fonte": "acordao p.5",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU (É) (S) CÁSSIO TANIGUCHI",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Vistos, relatados e discutidos estes autos, acordam os ministros do Supremo Tribunal Federal em absolver o réu, nos termos do voto da revisora e por unanimidade... Brasília, 18 de dezembro de 2008.",
+      "fonte": "acordao p.1",
+      "confianca": "media"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Cássio Taniguchi",
+        "evidencia": "RÉU (É) (S) CÁSSIO TANIGUCHI",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Prefeito de Curitiba (à época dos fatos)",
+        "evidencia": "denúncia contra Cássio Taniguchi, à época Prefeito de Curitiba, Estado do Paraná",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "não se colhera prova idônea de que o denunciado teria concorrido dolosamente para a prática do ato... Concluo, então, pela absolvição do acusado na forma prevista no artigo 386, inciso IV, do Código de Processo Penal",
+        "fonte": "acordao p.5",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "não houve condenação em nenhum momento do acórdão; absolvição integral fundada no art. 386, IV, do CPP",
+        "fonte": "acordao p.5",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "89",
+          "diploma": "Lei nº 8.666/96 (sic no texto; a lei de licitações vigente à época é a Lei 8.666/1993 — possível erro de OCR ou do original)",
+          "evidencia": "a prática dos delitos previstos no artigo 89 da Lei nº 8.666/96"
+        },
+        {
+          "artigo": "1º, III (citado também como 'artigo 18, inciso III' no voto do relator — possível erro de OCR)",
+          "diploma": "Decreto-Lei nº 201/67",
+          "evidencia": "no artigo 1º, inciso III, do Decreto-Lei n° 201/67 [...] infirma a prática do delito previsto no artigo 18, inciso III, do Decreto-Lei nº 201/67 - \"desviar ou aplicar, indevidamente, rendas ou verbas públicas\""
+        }
+      ],
+      "n_votantes": {
+        "valor": 11,
+        "evidencia": "Presidiu o julgamento o Senhor Ministro Gilmar Mendes... Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Cezar peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 11,
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "por unanimidade e nos termos do voto da Revisora, absolveu o réu",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": true,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": {"valor": null, "evidencia": "não consta ausência; relator votante", "fonte": "acordao p.4-5", "confianca": "alta"}
+    },
+    {
+      "ministro": "Ellen Gracie",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": {"valor": null, "evidencia": "A Sra. Ministra Ellen Gracie (Revisora) - Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.", "fonte": "acordao p.6", "confianca": "alta"}
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": {"valor": null, "evidencia": "Presidiu o julgamento o Senhor Ministro Gilmar Mendes. Plenário, 18.12.2008.", "fonte": "deducao D-004", "confianca": "media"}
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": {"valor": null, "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Cezar peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.", "fonte": "deducao D-004", "confianca": "media"}
+    },
+    {
+      "ministro": "Cezar Peluso",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": {"valor": null, "evidencia": "Presentes à sessão os Senhores Ministros ... Cezar peluso ...", "fonte": "deducao D-004", "confianca": "media"}
+    },
+    {
+      "ministro": "Ayres Britto (citado na ata como 'Carlos Britto')",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": {"valor": null, "evidencia": "Presentes à sessão os Senhores Ministros ... Carlos Britto ...", "fonte": "deducao D-004", "confianca": "media"}
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": {"valor": null, "evidencia": "Presentes à sessão os Senhores Ministros ... Joaquim Barbosa ...", "fonte": "deducao D-004", "confianca": "media"}
+    },
+    {
+      "ministro": "Eros Grau",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": {"valor": null, "evidencia": "Presentes à sessão os Senhores Ministros ... Eros Grau ...", "fonte": "deducao D-004", "confianca": "media"}
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": {"valor": null, "evidencia": "Presentes à sessão os Senhores Ministros ... Ricardo Lewandowski ...", "fonte": "deducao D-004", "confianca": "media"}
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": {"valor": null, "evidencia": "Presentes à sessão os Senhores Ministros ... Cármen Lúcia ...", "fonte": "deducao D-004", "confianca": "media"}
+    },
+    {
+      "ministro": "Menezes Direito",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": {"valor": null, "evidencia": "Presentes à sessão os Senhores Ministros ... e Menezes Direito.", "fonte": "deducao D-004", "confianca": "media"}
+    }
+  ],
+  "avisos": [
+    "Sepúlveda Pertence e Carlos Velloso não constam na ata como presentes; conforme a tabela de composição, ambos já haviam deixado o STF antes de 18/12/2008 (saídas em 2007-08-26 e 2006-11-17, respectivamente), por isso não foram incluídos em 'votos' — consistente com a regra D-004 (só ministros em exercício na data).",
+    "A denúncia cita 'Lei nº 8.666/96', mas a lei de licitações vigente à época dos fatos e do processo é a Lei 8.666/1993; mantive a citação literal do texto (evidência), possivelmente erro de OCR ou do documento original. Não corrigi por conta própria.",
+    "Há divergência de numeração do mesmo crime do DL 201/67 dentro do próprio texto: o relatório cita 'artigo 1º, inciso III' e o voto do relator cita 'artigo 18, inciso III' para o mesmo fato (desvio de verba pública). Mantive ambas as citações literais no campo 'crimes'; parece erro de OCR trocando '1º' por '18', mas não assumi qual está correta.",
+    "O réu era Prefeito de Curitiba à época dos fatos (cargo registrado em cargo_funcao, conforme regra 6), mas o processo tramitou no STF porque ele foi posteriormente eleito e diplomado deputado federal, gerando foro por prerrogativa de função à época do julgamento (2008) — trecho: 'O réu foi eleito e diplomado deputado federal, razão pela qual o processo foi encaminhado ao Supremo'.",
+    "A absolvição foi fundamentada em ausência de prova de dolo do réu (art. 386, IV, CPP) quanto a ambos os crimes imputados — não houve declaração de atipicidade da conduta nem prescrição; por isso 'motivo' foi registrado como 'mérito', não 'atipicidade' (a atipicidade foi apenas um argumento da defesa, não o fundamento do dispositivo).",
+    "O texto tem ruído de OCR considerável (palavras fragmentadas, erros como 'Jupremo' por 'Supremo', 'peluso' minúsculo); os trechos de evidência foram transcritos literalmente, inclusive os erros."
+  ]
+}

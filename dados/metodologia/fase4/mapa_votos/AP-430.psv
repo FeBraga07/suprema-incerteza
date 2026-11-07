@@ -1,0 +1,18 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-430|1|ementa||1|1||todos||||
+AP-430|2|acordao||1|1||todos||||assinado pela relatora; presidência de Cezar Peluso
+AP-430|3|relatorio|Cármen Lúcia|2|13||todos||||
+AP-430|4|voto|Cármen Lúcia|14|18|Sim|todos|Absolve|Não|lido|relatora; a maior parte da peça (p.14-18) é transcrição das alegações finais da PGR, com 3 itens próprios ao final (p.18)
+AP-430|5|voto|Menezes Direito|19|19|Sim|todos|Absolve|Não|lido|revisor
+AP-430|6|voto|Marco Aurélio|20|20|Sim|todos|Absolve|Não|lido|
+AP-430|7|voto|Ayres Britto|21|21|Adesao|todos|Absolve|Não|lido|peça intitulada VOTO (grafado "Carlos Britto"); abre com perguntas à relatora e termina em adesão; segue-se debate
+AP-430|8|debate|Ayres Britto;Cármen Lúcia;Cezar Peluso|21|22||todos|Absolve|Não|lido|valores do banco comuns aos três ministros
+AP-430|9|debate|Cármen Lúcia;Cezar Peluso;Ayres Britto;Marco Aurélio|23|24||todos|Absolve|Não|lido|valores do banco comuns aos quatro ministros
+AP-430|10|extrato_ata||25|25||todos||||decisão, ausências e lista de presentes
+AP-430|11|extrato_ata|Cezar Peluso|25|25|Nao|todos|Absolve|Não|lido|presidente do julgamento (vice-presidente); sem voto escrito; só intervenções nos debates (linhas 8-9)
+AP-430|12|extrato_ata|Ellen Gracie|25|25|Nao|todos|Absolve|Não|lido|contada na unanimidade; consta entre os presentes (p.25)
+AP-430|13|extrato_ata|Joaquim Barbosa|25|25|Nao|todos|Absolve|Não|lido|contado na unanimidade; consta entre os presentes (p.25)
+AP-430|14|extrato_ata|Ricardo Lewandowski|25|25|Nao|todos|Absolve|Não|lido|contado na unanimidade; consta entre os presentes (p.25)
+AP-430|15|extrato_ata|Eros Grau|25|25|Nao|todos|Absolve|Não|lido|contado na unanimidade; consta entre os presentes (p.25)
+AP-430|16|extrato_ata|Celso de Mello|25|25|Nao|todos|Não votou|Não|lido|ausente justificadamente (p.25); não consta entre os presentes
+AP-430|17|extrato_ata|Gilmar Mendes|25|25|Nao|todos|Não votou|Não|lido|ausente neste julgamento (p.25); presidente do Tribunal

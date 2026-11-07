@@ -1,0 +1,15 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-527|1|ementa||1|2||todos||||
+AP-527|2|acordao||2|2||todos||||assinado pelo relator; presidência de Cezar Peluso; "nos termos dos votos do Relator e do Revisor"
+AP-527|3|relatorio|Dias Toffoli|3|15||todos||||
+AP-527|4|voto|Dias Toffoli|16|24|Sim|todos|Absolve|Não|lido|relator
+AP-527|5|extrato_ata||25|25||todos||||decisão, ausência e lista de presentes
+AP-527|6|extrato_ata|Celso de Mello|25|25|Nao|todos|Absolve|Não|lido|revisor; acórdão (p.2) e ata (p.25) decidem "nos termos dos votos do Relator e do Revisor", mas o voto do revisor não está juntado ao acórdão
+AP-527|7|extrato_ata|Cezar Peluso|25|25|Nao|todos|Absolve|Não|deduzido|presidente do julgamento (p.25)
+AP-527|8|extrato_ata|Marco Aurélio|25|25|Nao|todos|Absolve|Não|deduzido|contado na unanimidade; consta entre os presentes (p.25)
+AP-527|9|extrato_ata|Ellen Gracie|25|25|Nao|todos|Absolve|Não|deduzido|contada na unanimidade; consta entre os presentes (p.25)
+AP-527|10|extrato_ata|Ayres Britto|25|25|Nao|todos|Absolve|Não|deduzido|contado na unanimidade; consta entre os presentes (p.25)
+AP-527|11|extrato_ata|Joaquim Barbosa|25|25|Nao|todos|Absolve|Não|deduzido|contado na unanimidade; consta entre os presentes (p.25)
+AP-527|12|extrato_ata|Ricardo Lewandowski|25|25|Nao|todos|Absolve|Não|deduzido|contado na unanimidade; consta entre os presentes (p.25)
+AP-527|13|extrato_ata|Cármen Lúcia|25|25|Nao|todos|Absolve|Não|deduzido|contada na unanimidade; consta entre os presentes (p.25)
+AP-527|14|extrato_ata|Gilmar Mendes|25|25|Nao|todos|Não votou|Não|lido|ausente neste julgamento, sem motivo declarado (p.25); não consta entre os presentes

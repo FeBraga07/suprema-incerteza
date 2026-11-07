@@ -1,0 +1,106 @@
+id_caso|id_unidade|unidade_origem|fato|escopo_levcovitz|status|motivo_status|voto_condutor|n_questoes_ativas|n_principais
+AP-1025|AP-1025-R01-I01|||Sim|desdobrada|G4-06: substituída por AP-1025-R01-I01a, AP-1025-R01-I01b|Edson Fachin|2|2
+AP-1025|AP-1025-R01-I01a|AP-1025-R01-I01|UTC Engenharia (quatro contratos de bases de combustíveis)|Sim|ativa||Edson Fachin|1|1
+AP-1025|AP-1025-R01-I01b|AP-1025-R01-I01|DVBR (troca de bandeira), FTC Cards (gestão de pagamentos) e armazém Jaraguá/Macaé|Sim|ativa||Edson Fachin|1|1
+AP-1025|AP-1025-R01-I02|||Nao|ativa||Edson Fachin|2|1
+AP-1025|AP-1025-R01-I03|||Nao|ativa||Alexandre de Moraes|2|1
+AP-1025|AP-1025-R02-I01|||Sim|desdobrada|G4-06: substituída por AP-1025-R02-I01a, AP-1025-R02-I01b|Edson Fachin|2|2
+AP-1025|AP-1025-R02-I01a|AP-1025-R02-I01|UTC Engenharia (quatro contratos de bases de combustíveis)|Sim|ativa||Edson Fachin|1|1
+AP-1025|AP-1025-R02-I01b|AP-1025-R02-I01|DVBR (troca de bandeira), FTC Cards (gestão de pagamentos) e armazém Jaraguá/Macaé|Sim|ativa||Edson Fachin|1|1
+AP-1025|AP-1025-R02-I02|||Nao|ativa||Edson Fachin|2|2
+AP-1025|AP-1025-R02-I03|||Nao|ativa||Alexandre de Moraes|2|1
+AP-1025|AP-1025-R02-I04|||Sim|excluida|G4-21: denúncia rejeitada no recebimento pela 2ª Turma (22/08/2017), fora do recorte||0|0
+AP-1025|AP-1025-R02-I05|||Sim|excluida|G4-21: denúncia rejeitada no recebimento pela 2ª Turma (22/08/2017), fora do recorte||0|0
+AP-1025|AP-1025-R03-I01|||Sim|desdobrada|G4-06: substituída por AP-1025-R03-I01a, AP-1025-R03-I01b|Edson Fachin|3|3
+AP-1025|AP-1025-R03-I01a|AP-1025-R03-I01|UTC Engenharia|Sim|ativa||Edson Fachin|2|2
+AP-1025|AP-1025-R03-I01b|AP-1025-R03-I01|DVBR (troca de bandeira)|Sim|ativa||Edson Fachin|1|1
+AP-1025|AP-1025-R03-I02|||Nao|ativa||Edson Fachin|2|1
+AP-1025|AP-1025-R03-I03|||Nao|ativa||Alexandre de Moraes|2|1
+AP-1032|AP-1032-R01-I01|||Sim|ativa||Edson Fachin|1|1
+AP-1032|AP-1032-R01-I02|||Nao|ativa||Edson Fachin|1|1
+AP-1032|AP-1032-R02-I01|||Sim|ativa||Edson Fachin|1|1
+AP-1032|AP-1032-R02-I02|||Nao|ativa||Edson Fachin|1|1
+AP-1036|AP-1036-R01-I01|||Sim|ativa||Dias Toffoli|1|1
+AP-307|AP-307-R01-I01a|AP-307-R01-I01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Sim|ativa||Ilmar Galvão|2|1
+AP-307|AP-307-R01-I01b|AP-307-R01-I01|episódio VASP-PETROBRÁS (financiamento de combustível)|Sim|ativa||Ilmar Galvão|2|2
+AP-307|AP-307-R01-I01c|AP-307-R01-I01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Sim|ativa||Ilmar Galvão|2|2
+AP-307|AP-307-R02-I01a|AP-307-R02-I01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Sim|ativa||Ilmar Galvão|2|1
+AP-307|AP-307-R02-I01b|AP-307-R02-I01|episódio VASP-PETROBRÁS (financiamento de combustível)|Sim|ativa||Ilmar Galvão|2|2
+AP-307|AP-307-R02-I01c|AP-307-R02-I01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Sim|ativa||Ilmar Galvão|2|2
+AP-307|AP-307-R03-I01|AP-307-R03-I01|corrupção passiva (art. 317, CP)|Sim|ativa||Ilmar Galvão|2|2
+AP-348|AP-348-R01-I01|||Sim|ativa||Eros Grau|1|1
+AP-365|AP-365-R01-I01|||Sim|ativa||Marco Aurélio|1|1
+AP-365|AP-365-R01-I02|||Sim|ativa||Marco Aurélio|2|2
+AP-365|AP-365-R02-I01|||Sim|ativa||Marco Aurélio|1|1
+AP-372|AP-372-R01-I01|||Sim|ativa||Dias Toffoli|2|2
+AP-372|AP-372-R01-I02|||Sim|fundida|G4-07: fundida em AP-372-R01-I01 (mesmo fato; todos votam igual nas duas classificações)|Dias Toffoli|2|2
+AP-372|AP-372-R02-I01|||Sim|ativa||Dias Toffoli|2|2
+AP-372|AP-372-R02-I02|||Sim|fundida|G4-07: fundida em AP-372-R02-I01 (mesmo fato; todos votam igual nas duas classificações)|Dias Toffoli|2|2
+AP-375|AP-375-R01-I01|||Sim|ativa||Marco Aurélio|1|1
+AP-375|AP-375-R01-I02|||Sim|ativa||Marco Aurélio|1|1
+AP-375|AP-375-R02-I01|||Sim|ativa||Marco Aurélio|1|1
+AP-396|AP-396-R01-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-396|AP-396-R01-I02|||Nao|ativa||Cármen Lúcia|2|1
+AP-409|AP-409-R01-I01|||Sim|ativa||Ayres Britto|2|1
+AP-416|AP-416-R01-I01|||Sim|ativa||Luiz Fux|2|2
+AP-426|AP-426-R01-I01|||Sim|ativa||Marco Aurélio|2|2
+AP-426|AP-426-R01-I02|||Sim|ativa||Marco Aurélio|2|2
+AP-430|AP-430-R01-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-430|AP-430-R01-I02|||Sim|ativa||Cármen Lúcia|2|2
+AP-432|AP-432-R01-I01|||Sim|desdobrada|G4-06: substituída por AP-432-R01-I01a, AP-432-R01-I01b|Luiz Fux|2|1
+AP-432|AP-432-R01-I01a|AP-432-R01-I01|propaganda televisiva (abril de 2000)|Sim|ativa||Luiz Fux|2|1
+AP-432|AP-432-R01-I01b|AP-432-R01-I01|boletins 'Saúde Plena' (dois fatos)|Sim|pendente_leitura|G4-06: absolvição pelo voto da Revisora, contra o voto do relator (ementa, item 13, p. 3); as leituras não transcreveram as posições por ministro neste fato|Rosa Weber|0|0
+AP-433|AP-433-R01-I01|||Sim|ativa||Dias Toffoli|2|2
+AP-433|AP-433-R02-I01|||Sim|ativa||Dias Toffoli|2|2
+AP-441|AP-441-R01-I01|||Sim|ativa||Dias Toffoli|1|1
+AP-441|AP-441-R01-I02|||Sim|ativa||Dias Toffoli|2|1
+AP-441|AP-441-R02-I01|||Sim|ativa||Dias Toffoli|1|1
+AP-441|AP-441-R02-I02|||Sim|ativa||Dias Toffoli|2|1
+AP-447|AP-447-R01-I01|||Sim|ativa||Ayres Britto|2|1
+AP-447|AP-447-R01-I02|||Sim|ativa||Ayres Britto|2|1
+AP-447|AP-447-R02-I01|||Sim|ativa||Ayres Britto|2|1
+AP-447|AP-447-R02-I02|||Sim|ativa||Ayres Britto|2|1
+AP-465|AP-465-R01-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-465|AP-465-R01-I02|||Sim|ativa||Cármen Lúcia|2|1
+AP-465|AP-465-R01-I03|||Nao|ativa||Cármen Lúcia|2|1
+AP-470|AP-470-R14-I01|||Sim|ativa||Joaquim Barbosa|2|2
+AP-470|AP-470-R15-I01|||Sim|ativa||Joaquim Barbosa|2|1
+AP-470|AP-470-R16-I01|||Sim|ativa||Joaquim Barbosa|2|1
+AP-470|AP-470-R17-I01|||Sim|ativa||Joaquim Barbosa|2|2
+AP-470|AP-470-R18-I01|||Sim|ativa||Joaquim Barbosa|2|2
+AP-470|AP-470-R19-I01|||Sim|ativa||Joaquim Barbosa|2|2
+AP-470|AP-470-R20-I01|||Sim|ativa||Joaquim Barbosa|2|2
+AP-470|AP-470-R21-I01|||Sim|ativa||Joaquim Barbosa|2|2
+AP-470|AP-470-R22-I01|||Sim|ativa||Joaquim Barbosa|2|1
+AP-470|AP-470-R23-I01|||Sim|ativa||Joaquim Barbosa|2|2
+AP-503|AP-503-R01-I01|||Sim|ativa||Celso de Mello|2|1
+AP-503|AP-503-R01-I02|||Sim|ativa||Celso de Mello|2|2
+AP-503|AP-503-R01-I03|||Sim|ativa||Celso de Mello|1|1
+AP-508|AP-508-R01-I01|||Nao|ativa||Marco Aurélio|0|0
+AP-508|AP-508-R01-I02|||Sim|ativa||Marco Aurélio|1|1
+AP-508|AP-508-R01-I03|||Sim|ativa||Marco Aurélio|0|0
+AP-508|AP-508-R01-I04|||Sim|ativa||Marco Aurélio|0|0
+AP-527|AP-527-R01-I01|||Sim|ativa||Dias Toffoli|2|2
+AP-565|AP-565-R01-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-565|AP-565-R01-I02|||Nao|ativa||Cármen Lúcia|2|1
+AP-565|AP-565-R02-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-565|AP-565-R02-I02|||Nao|ativa||Cármen Lúcia|2|1
+AP-565|AP-565-R03-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-565|AP-565-R03-I02|||Nao|ativa||Cármen Lúcia|2|1
+AP-565|AP-565-R04-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-565|AP-565-R04-I02|||Nao|ativa||Cármen Lúcia|2|1
+AP-565|AP-565-R05-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-565|AP-565-R05-I02|||Nao|ativa||Cármen Lúcia|2|1
+AP-565|AP-565-R06-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-565|AP-565-R06-I02|||Nao|ativa||Cármen Lúcia|2|1
+AP-565|AP-565-R07-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-565|AP-565-R07-I02|||Nao|ativa||Cármen Lúcia|2|1
+AP-565|AP-565-R08-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-565|AP-565-R08-I02|||Nao|ativa||Cármen Lúcia|2|1
+AP-565|AP-565-R09-I01|||Sim|ativa||Cármen Lúcia|2|2
+AP-565|AP-565-R09-I02|||Nao|ativa||Cármen Lúcia|2|1
+AP-940|AP-940-R01-I01|||Sim|desdobrada|G4-06: substituída por AP-940-R01-I01a, AP-940-R01-I01b|Gilmar Mendes|2|2
+AP-940|AP-940-R01-I01a|AP-940-R01-I01|1º fato|Sim|ativa||Gilmar Mendes|1|1
+AP-940|AP-940-R01-I01b|AP-940-R01-I01|2º e 3º fatos|Sim|ativa||Gilmar Mendes|1|1
+AP-940|AP-940-R01-I02|||Nao|excluida|G4-21: não imputada; improbidade citada pelo relator só como obiter dictum (p. 22)||0|0
+AP-973|AP-973-R01-I01|||Sim|ativa||Nunes Marques|1|1

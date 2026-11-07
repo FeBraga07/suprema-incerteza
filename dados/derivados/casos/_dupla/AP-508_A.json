@@ -1,0 +1,235 @@
+{
+  "id_caso": "AP-508",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-508.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Corrupção passiva (art. 317, CP), em concurso com associação criminosa (art. 288, CP), prevaricação (art. 319, CP) e dar causa a vantagem a adjudicatário durante execução de contrato administrativo (art. 92, Lei 8.666/1993)",
+      "evidencia": "Ação penal originária. Extinção da punibilidade do agente em razão da prescrição. Absolvição por insuficiência de provas. Presunção de inocência e in dubio pro reo.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "Vistos, relatados e discutidos estes autos, acordam os Ministros do Supremo Tribunal Federal, em Sessão Plenária, sob a presidência do Senhor Ministro Luiz Fux, na conformidade da ata de julgamento e das notas taquigráficas, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarar a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado, e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal).",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU(É)(S) : SEBASTIÃO FERREIRA DA ROCHA",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Brasília, Sessão Virtual de 25 de junho a 02 de agosto de 2021.",
+      "fonte": "acordao p.1",
+      "confianca": "media"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "SEBASTIÃO FERREIRA DA ROCHA",
+        "evidencia": "RÉU(É)(S) : SEBASTIÃO FERREIRA DA ROCHA",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Secretário de Estado da Saúde do Amapá (à época dos fatos, de 2 de janeiro de 2003 a 2 de junho de 2004); posteriormente Deputado Federal (diplomado em 14/12/2006), o que gerou o deslocamento de competência para o STF",
+        "evidencia": "Ressaltou haver o acusado, então Secretário de Estado da Saúde, ante recebimento de propina, direcionado certame relativo a reforma do hospital e excluído itens de edital [...]; Sebastião Ferreira da Rocha, no interrogatório, negou a acusação. Esclareceu que, enquanto foi Secretário de Saúde do Estado do Amapá – de 2 de janeiro de 2003 a 2 de junho de 2004 –, contratou, mediante licitação, 14 obras [...]; Em 29 de março de 2007, o processo veio ao Supremo, em virtude da diplomação do acusado, em 14 de dezembro de 2006, no cargo de deputado federal",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Extinção da punibilidade",
+        "evidencia": "por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarar a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado, e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal)",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "motivo": {
+        "valor": "prescrição",
+        "evidencia": "As penas máximas previstas para os tipos dos artigos 288 do Código Penal e 92 da Lei nº 8.666/1993 são, respectivamente, 3 e 4 anos de reclusão. O prazo prescricional de ambos os crimes é de 8 anos [...]. O último fator interruptivo da prescrição foi o recebimento da denúncia, em 15 de dezembro de 2005 [...]. Passaram-se mais de 15 anos, incidindo a prescrição, em 15 de dezembro de 2013.",
+        "fonte": "acordao p.9",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não houve condenação em nenhum capítulo antes da declaração de extinção da punibilidade; a prescrição foi reconhecida diretamente no mesmo julgamento de mérito, sem veredito condenatório prévio transitado em julgado sobre os crimes dos arts. 288 e 319 do CP e 92 da Lei 8.666/93.",
+        "fonte": "acordao p.13",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 288",
+          "diploma": "Código Penal (associação criminosa)",
+          "evidencia": "O Ministério Público Federal ajuizou ação penal contra Sebastião Ferreira da Rocha e outras pessoas, considerados os crimes dos artigos 288 (associação criminosa) [...] do Código Penal"
+        },
+        {
+          "artigo": "art. 317 (a denúncia mencionava §1º; o dispositivo final não repete o parágrafo)",
+          "diploma": "Código Penal (corrupção passiva)",
+          "evidencia": "317, § 1º (corrupção passiva) [...] do Código Penal [denúncia, p.2]; [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal) [dispositivo final, p.1]"
+        },
+        {
+          "artigo": "art. 319",
+          "diploma": "Código Penal (prevaricação)",
+          "evidencia": "319 (prevaricação) do Código Penal"
+        },
+        {
+          "artigo": "art. 92 (originalmente denunciado como art. 90, reclassificado nas alegações finais da PGR via emendatio libelli, art. 383 CPP)",
+          "diploma": "Lei nº 8.666/1993",
+          "evidencia": "Citando o artigo 383 do Código de Processo Penal, argumenta que a conduta descrita na denúncia, atinente à celebração do terceiro termo aditivo do Contrato nº 042/02 [...] amolda-se ao tipo do artigo 92 (dar vantagem a adjudicatário durante a execução de contrato) da Lei de Licitações."
+        }
+      ],
+      "n_votantes": {
+        "valor": 11,
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes e Nunes Marques.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade [...] e, quanto ao crime do artigo 317, absolveu o réu [...], nos termos do voto do Relator.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 11,
+        "evidencia": "O Tribunal, por unanimidade [...] declarou a extinção da punibilidade [...] e, quanto ao crime do artigo 317, absolveu o réu [...], nos termos do voto do Relator.",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "Decisão: O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado, e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "ata",
+      "evidencia": "Composição: Ministros Luiz Fux (Presidente) [...]; Decisão: O Tribunal, por unanimidade [...] declarou a extinção da punibilidade [...] e [...] absolveu o réu [...], nos termos do voto do Relator."
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": true,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "acordao p.13",
+      "evidencia": "Ante o quadro, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declaro a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado. Quanto ao crime do artigo 317, absolvo o réu – artigo 386, inciso VII, do Código de Processo Penal."
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "acordao p.18",
+      "evidencia": "Ante o exposto, considerada a prescrição da pretensão punitiva do Estado, voto pela extinção da punibilidade no tocante aos crimes dos arts. 288, 319 CP e do art. 92 da Lei 8.666/1993. Considerando a insuficiência de provas, voto pela absolvição do réu quanto ao delito de corrupção passiva (art. 317 do CP), nos termos do art. 386, VII, CPP."
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "ata",
+      "evidencia": "Composição: Ministros [...] Ricardo Lewandowski [...]; Decisão: O Tribunal, por unanimidade [...], nos termos do voto do Relator."
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "ata",
+      "evidencia": "Composição: Ministros [...] Cármen Lúcia [...]; Decisão: O Tribunal, por unanimidade [...], nos termos do voto do Relator."
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "ata",
+      "evidencia": "Composição: Ministros [...] Dias Toffoli [...]; Decisão: O Tribunal, por unanimidade [...], nos termos do voto do Relator."
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "ata",
+      "evidencia": "Composição: Ministros [...] Rosa Weber [...]; Decisão: O Tribunal, por unanimidade [...], nos termos do voto do Relator."
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "ata",
+      "evidencia": "Composição: Ministros [...] Roberto Barroso [...]; Decisão: O Tribunal, por unanimidade [...], nos termos do voto do Relator."
+    },
+    {
+      "ministro": "Edson Fachin",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "ata",
+      "evidencia": "Composição: Ministros [...] Edson Fachin [...]; Decisão: O Tribunal, por unanimidade [...], nos termos do voto do Relator."
+    },
+    {
+      "ministro": "Alexandre de Moraes",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "ata",
+      "evidencia": "Composição: Ministros [...] Alexandre de Moraes [...]; Decisão: O Tribunal, por unanimidade [...], nos termos do voto do Relator."
+    },
+    {
+      "ministro": "Nunes Marques",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "ata",
+      "evidencia": "Composição: Ministros [...] e Nunes Marques.; Decisão: O Tribunal, por unanimidade [...], nos termos do voto do Relator."
+    }
+  ],
+  "avisos": [
+    "RESULTADO MISTO POR CAPÍTULO — o vocabulário controlado não previu uma categoria própria para esta combinação. O dispositivo final tem dois desfechos distintos, nenhum deles condenatório: (1) para os crimes dos arts. 288 (associação criminosa) e 319 (prevaricação) do CP e 92 da Lei 8.666/93 (dar vantagem a adjudicatário), foi declarada EXTINÇÃO DA PUNIBILIDADE pela prescrição da pretensão punitiva (sem exame de mérito quanto à autoria/materialidade desses crimes); (2) para o crime de corrupção passiva (art. 317, CP) — o único crime de corrupção em sentido estrito entre os quatro, à luz de Levcovitz (2014) — houve exame de MÉRITO com ABSOLVIÇÃO por insuficiência de provas (art. 386, VII, CPP, in dubio pro reo). Optei por registrar resultado='Extinção da punibilidade' e motivo='prescrição' no campo de nível-réu porque é o desfecho que abrange a maioria dos capítulos (3 de 4) e é o primeiro mencionado na ementa e no dispositivo ('Extinção da punibilidade [...]. Absolvição por insuficiência de provas.'). Mas para fins de pesquisa sobre o padrão decisório do STF especificamente em corrupção (art. 317), o achado de mérito relevante é ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS — recomendo que este caso seja tratado com atenção especial na consolidação da base, possivelmente com um campo adicional por capítulo/crime, já que 'resultado' único por réu apaga essa distinção importante.",
+      "prescricao_pos_condenacao foi marcado como false porque não houve condenação alguma antes da extinção da punibilidade — a prescrição foi decretada no mesmo e único julgamento de mérito, sem veredito condenatório prévio.",
+    "voto_resultado foi registrado como 'absolve' para todos os 11 votantes porque o vocabulário controlado (condena/absolve/não votou) não contempla 'extingue a punibilidade'. Nenhum ministro votou pela condenação em nenhum capítulo; a rotulação 'absolve' é uma simplificação forçada pelo vocabulário e não captura que, para 3 dos 4 crimes, o fundamento foi prescrição, não juízo absolutório de mérito.",
+    "DIVERGÊNCIA COM A TABELA DE COMPOSIÇÃO FORNECIDA: a tabela de referência indica que o Ministro Marco Aurélio deixou o STF em 05/07/2021, data anterior ao encerramento desta Sessão Virtual (25/06/2021 a 02/08/2021). Ainda assim, a ata desta sessão lista explicitamente 'Marco Aurélio' na composição, e ele é o Ministro Relator, autor do voto condutor do julgamento (páginas 9-13 do acórdão). Seguindo a regra de que a ata tem precedência sobre a tabela de referência quando divergirem, mantive Marco Aurélio como votante no campo 'votos'. Uma hipótese consistente com os fatos é que ele proferiu seu voto (relatório e voto do relator) antes de deixar a Corte, dentro do período da sessão virtual, e que por isso a redação do acórdão coube a outro ministro (ver aviso seguinte).",
+    "A redação do acórdão coube ao Ministro Gilmar Mendes (Redator do Acórdão, art. 38, IV, b, do RISTF) e não ao Relator Marco Aurélio, apesar de a decisão ter sido unânime e 'nos termos do voto do Relator'. Isso é consistente com a hipótese de que Marco Aurélio deixou a Corte antes de poder formalizar/assinar a redação do acórdão, tarefa então atribuída ao Ministro Gilmar Mendes, que também atuou como Revisor.",
+    "A denúncia original foi ajuizada contra Sebastião Ferreira da Rocha 'e outras pessoas' ('O Ministério Público Federal ajuizou ação penal contra Sebastião Ferreira da Rocha e outras pessoas'), mas este acórdão (AP 508) e sua ata listam apenas um único réu (SEBASTIÃO FERREIRA DA ROCHA). Não há, no texto lido, explicação textual de desmembramento quanto aos demais corréus; presume-se que os demais tenham sido julgados em processo(s) distinto(s) não incluído(s) neste arquivo. n_reus=1 refere-se apenas ao que foi efetivamente julgado neste acórdão específico.",
+    "O crime originalmente denunciado com base no art. 90 da Lei 8.666/1993 (fraudar o caráter competitivo de licitação) foi objeto de emendatio libelli (art. 383, CPP) proposta pela PGR em alegações finais, sendo a conduta reclassificada para o art. 92 da mesma lei (dar vantagem a adjudicatário durante a execução de contrato). O dispositivo final julga o art. 92, não o art. 90.",
+    "A denúncia menciona o crime de corrupção passiva com a majorante do art. 317, §1º, do CP ('317, § 1º (corrupção passiva)'), mas tanto o voto condutor quanto o dispositivo final e a ata referem-se apenas ao 'crime do artigo 317', sem repetir o §1º — não há evidência textual de que a majorante tenha sido debatida ou mantida no julgamento final (é irrelevante ao resultado, já que houve absolvição quanto a este crime).",
+    "multiplas_sessoes=false refere-se apenas à sessão de julgamento do mérito em si (Sessão Virtual única, 25/06/2021 a 02/08/2021). O processo, no entanto, teve tramitação extremamente longa e fragmentada desde o recebimento da denúncia em 15/12/2005, incluindo julgamentos incidentais anteriores do Plenário sobre agravos em 06/02/2019 (redator Min. Edson Fachin) e em sessão virtual encerrada em 14/12/2020, além de decisão monocrática de declínio de competência em 19/10/2020. Esses são atos processuais/incidentais anteriores, não sessões de julgamento do mérito da ação penal propriamente dita, razão pela qual não alterei o valor do campo, mas registro a ressalva.",
+    "O réu foi absolvido/beneficiado por ação de improbidade administrativa distinta (processo nº 0018210-63.2008.8.03.0001, Sexta Vara de Fazenda Pública de Macapá), mas o voto do Relator explicitamente afasta qualquer repercussão dessa decisão cível no âmbito penal, com base no art. 935 do Código Civil. Não afeta a classificação do resultado penal registrado aqui."
+  ]
+}

@@ -1,0 +1,1791 @@
+{
+ "id_caso": "AP-1032",
+ "lido_em": "2026-10-12",
+ "paginas_lidas": "1-99 (todas)",
+ "unidades": [
+  {
+   "id_unidade": "AP-1032-R01-I01",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": null,
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Edson Fachin",
+    "evidencia": "por unanimidade de votos, em julgar improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+    "fonte": "p. 3",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "concorreu",
+      "evidencia": "Do excerto transcrito, constata-se que os colaboradores e a testemunha Maria de Brotas Neves divergem quanto ao momento e local da solicitação da suposta vantagem indevida por parte do denunciado Eduardo da Fonte. (...) Como visto, o conjunto probatório produzido nos autos é vacilante na missão de confirmar a versão acusatória, restando dúvidas não suplantadas pelo órgão acusatório acerca da efetiva reunião entre os denunciados e o colaborador Ricardo Ribeiro Pessoa.",
+      "fonte": "p. 48",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": null,
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Logo, não encontrados no conjunto probatório elementos de corroboração aptos a confirmar as declarações prestadas pelos colaboradores em juízo, afigura-se imperiosa a afirmação da cláusula in dubio pro reo como técnica de julgamento a ser aplicada ao caso sob análise.",
+      "fonte": "p. 51",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "o conjunto probatório produzido nos autos é vacilante na missão de confirmar a versão acusatória, restando dúvidas não suplantadas pelo órgão acusatório acerca da efetiva reunião entre os denunciados e o colaborador Ricardo Ribeiro Pessoa.",
+      "fonte": "p. 48"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+      "fonte": "p. 99",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": {
+      "valor": "autor",
+      "evidencia": "Ocorre que a solicitação de vantagem indevida por parte de Eduardo da Fonte, ação que tipifica o crime de corrupção passiva, ocorreu apenas na segunda reunião, a qual, de acordo com a proposta acusatória, foi realizada cerca de 5 (cinco) meses após a primeira",
+      "fonte": "p. 40",
+      "confianca": "media"
+     },
+     "posicoes": [
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Ante o exposto, diante da ausência de provas suficientes a embasar a tese acusatória, julgo improcedente a denúncia para absolver os acusados Eduardo da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal.",
+        "fonte": "p. 52",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Como visto, o conjunto probatório produzido nos autos é vacilante na missão de confirmar a versão acusatória, restando dúvidas não suplantadas pelo órgão acusatório acerca da efetiva reunião entre os denunciados e o colaborador Ricardo Ribeiro Pessoa.",
+        "fonte": "p. 48",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Logo, não encontrados no conjunto probatório elementos de corroboração aptos a confirmar as declarações prestadas pelos colaboradores em juízo, afigura-se imperiosa a afirmação da cláusula in dubio pro reo como técnica de julgamento a ser aplicada ao caso sob análise.",
+        "fonte": "p. 51",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": {
+        "valor": "Dúvida sobre momento e local da solicitação e sobre a reunião inaugural; agenda de Maria de Brotas Neves não corrobora a versão acusatória; declarações de colaboradores sem corroboração externa (art. 4º, § 16, Lei 12.850/2013).",
+        "evidencia": "Essa constatação não tem o condão de comprovar a inexistência do encontro entre Ricardo Ribeiro Pessoa e Eduardo da Fonte, fato que, como visto, foi afirmado pelo próprio denunciado. No entanto, considerada a falta de precisão das informações registradas, o elemento de prova apresentado pela testemunha Maria de Brotas Neves não é capaz de corroborar a versão acusatória, ao menos com a certeza que o ordenamento jurídico exige para a formação de um juízo condenatório.",
+        "fonte": "p. 49",
+        "confianca": "alta"
+       },
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Diante do exposto, ACOMPANHO O EMINENTE MINISTRO RELATOR e JULGO IMPROCEDENTE a ação penal promovida contra EDUARDO DA FONTE ALBUQUERQUE SILVA e DJALMA RODRIGUES DE SOUZA, para absolvê-los da prática dos crimes previstos no art. 317, caput, do Código Penal e art. 1º, § 4º, da Lei 9.613/98, com base no art. 386,VII, do Código de Processo Penal.",
+        "fonte": "p. 98",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Entendo assistir razão ao Min. EDSON FACHIN. A prova contida nos autos é totalmente insegura quanto à responsabilização criminal dos réus.",
+        "fonte": "p. 71",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Assim, ao menos para fins penais, o acervo probatório coligido nos presentes autos não é o bastante para condenar os réus, sendo caso de absolvê-los por insuficiência de provas, nos termos do art. 386, VII, do Código de Processo Penal.",
+        "fonte": "p. 92",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": {
+        "valor": "Divergência entre colaboradores e testemunha quanto a momento e local da solicitação atribuída a Eduardo; narrativa apoiada exclusivamente em declarações de colaboradores, sem corroboração externa.",
+        "evidencia": "fica absolutamente evidente a divergência quanto ao momento e local da solicitação da vantagem indevida pelo réu EDUARDO DA FONTE ALBUQUERQUE SILVA.",
+        "fonte": "p. 89",
+        "confianca": "alta"
+       },
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "André Mendonça",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "concorreu",
+     "anotacao_tipicidade": null,
+     "anotacoes": [
+      "prova_colaboracao"
+     ],
+     "sim_favorece": "acusacao"
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Edson Fachin",
+     "tipo": "precedente_citado",
+     "referencia": "INQ 3.705, Rel.: Min. GILMAR MENDES, Segunda Turma, DJe 15.9.2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Trago à colação os seguintes precedentes: “Inquérito. (...) 10. Nexo improvável entre a prática do ato de ofício e a vantagem. (...) 11. Denúncia rejeitada”",
+     "fonte": "p. 26",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Edson Fachin",
+     "tipo": "precedente_citado",
+     "referencia": "AP 470, Rel.: Min. JOAQUIM BARBOSA, Tribunal Pleno, DJe 22.4.2013",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Vinculação entre o pagamento da vantagem e os atos de ofício de competência do ex-Presidente da Câmara, cuja prática os réus sócios da agência de publicidade pretenderam influenciar.",
+     "fonte": "p. 26-28",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe de 5/2/2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "sendo caso de absolvê-los por insuficiência de provas, nos termos do art. 386, VII, do Código de Processo Penal. Nesse sentido: EMENTA Ação penal. (...) Prova precária de envolvimento do réu no ilícito. Incidência do in dubio pro reo e do favor rei.",
+     "fonte": "p. 92-93",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 89.501/GO, Rel. Min. CELSO DE MELLO; HC 97.701/MS, Rel. Min. AYRES BRITTO; HC 88.875/AM, Rel. Min. CELSO DE MELLO",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Há a necessidade de o Estado-acusador comprovar a culpabilidade do indivíduo mediante o contraditório, que é constitucionalmente presumido inocente (...) (STF, HC 89.501/GO, Rel. Min. CELSO DE MELLO, Segunda Turma; HC 97.701/MS, Rel. Min. AYRES BRITTO, Segunda Turma, j. 03/04/2012, DJe de 21/9/2012; HC 88.875/AM, Rel. Min. CELSO DE MELLO, Segunda Turma, j. 07/12/2010).",
+     "fonte": "p. 93",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "\"ser reconhecida a presença de prova acima de qualquer dúvida razoável. (...) A presunção de inocência, ou de não culpabilidade, é princípio cardeal no processo penal em um Estado Democrático de Direito.\"",
+     "fonte": "p. 93-94",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "\"nenhuma acusação penal se presume provada. (...)\" (AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello. Acórdão publicado no DJe de 7-11-2014).",
+     "fonte": "p. 94",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 869/AL, Segunda Turma, Rel. Min. TEORI ZAVASCKI, j. 29/9/2015; HC 73.338-7/RJ, Primeira Turma, Rel. Min. CELSO DE MELLO, j. 13/8/1996",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Com efeito, o estado de dúvida obstaculiza o juízo condenatório, (...) conforme bem sublinhou o Min. CELSO DE MELLO, nos Votos que proferiu na AP 869/AL (...) e no HC 73.338-7/RJ",
+     "fonte": "p. 94",
+     "na_pagina_da_evidencia": false
+    }
+   ],
+   "obs": "Alexandre de Moraes é o Revisor (p. 1, p. 53), mas sua peça vem rotulada 'Voto Vogal' no cabeçalho das páginas 53-98; fundamenta de forma própria, embora transcreva longamente o voto do Relator (pp. 75-89), e declara acompanhá-lo (p. 98). Os outros 9 ministros não têm peça; voto e adesão deduzidos da unanimidade 'nos termos do voto do Relator' (p. 99). voto_resultado lido no texto coincide com o banco (Absolve, 11 votantes). Competência funcional (R7): Fachin registra que a atuação conjunta é apta, 'ao menos em tese', à configuração do delito, 'considerada a vinculação funcional' de Djalma à Petrobras/Petroquisa (p. 30); não foi o ponto em que o resultado se decidiu.",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": [
+    {
+     "ministro": "Edson Fachin",
+     "tipo": "precedente_citado",
+     "referencia": "INQ 3.705, Rel.: Min. GILMAR MENDES, Segunda Turma, DJe 15.9.2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Trago à colação os seguintes precedentes: “Inquérito. (...) 10. Nexo improvável entre a prática do ato de ofício e a vantagem. (...) 11. Denúncia rejeitada”",
+     "fonte": "p. 26",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Edson Fachin",
+     "tipo": "precedente_citado",
+     "referencia": "AP 470, Rel.: Min. JOAQUIM BARBOSA, Tribunal Pleno, DJe 22.4.2013",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Vinculação entre o pagamento da vantagem e os atos de ofício de competência do ex-Presidente da Câmara, cuja prática os réus sócios da agência de publicidade pretenderam influenciar.",
+     "fonte": "p. 26-28",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe de 5/2/2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "sendo caso de absolvê-los por insuficiência de provas, nos termos do art. 386, VII, do Código de Processo Penal. Nesse sentido: EMENTA Ação penal. (...) Prova precária de envolvimento do réu no ilícito. Incidência do in dubio pro reo e do favor rei.",
+     "fonte": "p. 92-93",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 89.501/GO, Rel. Min. CELSO DE MELLO; HC 97.701/MS, Rel. Min. AYRES BRITTO; HC 88.875/AM, Rel. Min. CELSO DE MELLO",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Há a necessidade de o Estado-acusador comprovar a culpabilidade do indivíduo mediante o contraditório, que é constitucionalmente presumido inocente (...) (STF, HC 89.501/GO, Rel. Min. CELSO DE MELLO, Segunda Turma; HC 97.701/MS, Rel. Min. AYRES BRITTO, Segunda Turma, j. 03/04/2012, DJe de 21/9/2012; HC 88.875/AM, Rel. Min. CELSO DE MELLO, Segunda Turma, j. 07/12/2010).",
+     "fonte": "p. 93",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "\"ser reconhecida a presença de prova acima de qualquer dúvida razoável. (...) A presunção de inocência, ou de não culpabilidade, é princípio cardeal no processo penal em um Estado Democrático de Direito.\"",
+     "fonte": "p. 93-94",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "\"nenhuma acusação penal se presume provada. (...)\" (AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello. Acórdão publicado no DJe de 7-11-2014).",
+     "fonte": "p. 94",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 869/AL, Segunda Turma, Rel. Min. TEORI ZAVASCKI, j. 29/9/2015; HC 73.338-7/RJ, Primeira Turma, Rel. Min. CELSO DE MELLO, j. 13/8/1996",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Com efeito, o estado de dúvida obstaculiza o juízo condenatório, (...) conforme bem sublinhou o Min. CELSO DE MELLO, nos Votos que proferiu na AP 869/AL (...) e no HC 73.338-7/RJ",
+     "fonte": "p. 94",
+     "na_pagina_da_evidencia": false
+    }
+   ]
+  },
+  {
+   "id_unidade": "AP-1032-R01-I02",
+   "escopo_levcovitz": {
+    "valor": "Nao",
+    "evidencia": null,
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Edson Fachin",
+    "evidencia": "por unanimidade de votos, em julgar improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+    "fonte": "p. 3",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "ausente a comprovação da ocorrência do crime antecedente, esvazia-se a configuração do elemento normativo do tipo previsto no art. 1º, caput, da Lei 9.613/1998, dada a sua natureza acessória",
+      "fonte": "p. 52",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": "Há comprovação da ocorrência da infração penal antecedente da qual proviriam os valores supostamente ocultados ou dissimulados?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Assim, considerada a natureza acessória do crime de lavagem de dinheiro, e diante da ausência de comprovação do delito antecedente, não é possível concluir pela configuração do crime de lavagem de dinheiro posterior.",
+      "fonte": "p. 95",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "ausente a comprovação da ocorrência do crime antecedente, esvazia-se a configuração do elemento normativo do tipo previsto no art. 1º, caput, da Lei 9.613/1998, dada a sua natureza acessória",
+      "fonte": "p. 52"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+      "fonte": "p. 99",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Ante o exposto, diante da ausência de provas suficientes a embasar a tese acusatória, julgo improcedente a denúncia para absolver os acusados Eduardo da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal.",
+        "fonte": "p. 52",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "ausente a comprovação da ocorrência do crime antecedente, esvazia-se a configuração do elemento normativo do tipo previsto no art. 1º, caput, da Lei 9.613/1998, dada a sua natureza acessória",
+        "fonte": "p. 52",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "ausente a comprovação da ocorrência do crime antecedente, esvazia-se a configuração do elemento normativo do tipo previsto no art. 1º, caput, da Lei 9.613/1998, dada a sua natureza acessória, tornando inócua a aferição da potencialidade lesiva ao bem jurídico tutelado pela norma penal em comento mediante doação eleitoral oficial, o que redunda, igualmente, em juízo absolutório.",
+        "fonte": "p. 52",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": {
+        "valor": "Remete à fundamentação da corrupção passiva (crime antecedente não provado); declara inócua a questão da lesividade da doação eleitoral oficial.",
+        "evidencia": "No entanto, nos termos da fundamentação declinada no tópico anterior",
+        "fonte": "p. 51",
+        "confianca": "alta"
+       },
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Diante do exposto, ACOMPANHO O EMINENTE MINISTRO RELATOR e JULGO IMPROCEDENTE a ação penal promovida contra EDUARDO DA FONTE ALBUQUERQUE SILVA e DJALMA RODRIGUES DE SOUZA, para absolvê-los da prática dos crimes previstos no art. 317, caput, do Código Penal e art. 1º, § 4º, da Lei 9.613/98, com base no art. 386,VII, do Código de Processo Penal.",
+        "fonte": "p. 98",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Conforme ressaltado no tópico anterior, a instrução processual não comprovou a existência da infração penal da qual os valores seriam, direta ou indiretamente, provenientes, não havendo nestes autos lastro probatório para a condenação pelo delito de corrupção passiva (art. 317, caput, do Código Penal).",
+        "fonte": "p. 95",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Assim, considerada a natureza acessória do crime de lavagem de dinheiro, e diante da ausência de comprovação do delito antecedente, não é possível concluir pela configuração do crime de lavagem de dinheiro posterior.",
+        "fonte": "p. 95",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "André Mendonça",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "tipicidade",
+     "anotacao_tipicidade": "existencia_fato",
+     "anotacoes": [],
+     "questao_outra_evidencia": {
+      "evidencia": "a instrução processual não comprovou a existência da infração penal da qual os valores seriam, direta ou indiretamente, provenientes",
+      "fonte": "p. 95",
+      "confianca": "alta"
+     },
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "categoria_v2",
+       "de": "outra",
+       "para": "tipicidade",
+       "regra": "G4-02",
+       "nota": ""
+      }
+     ]
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "RHC 130738 AgR, Relator(a): CELSO DE MELLO, Segunda Turma, DJe 10/10/2017",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse sentido, também é a jurisprudência do SUPREMO TRIBUNAL FEDERAL, conforme se depreende dos seguintes julgados:",
+     "fonte": "p. 96-97",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 108715, Relator(a): MARCO AURÉLIO, Primeira Turma, DJe de 29/5/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "LAVAGEM DE DINHEIRO – LEI Nº 9.613/98 – CRIME ANTECEDENTE. A teor do disposto na Lei nº 9.613/98, há a necessidade de o valor em pecúnia envolvido na lavagem de dinheiro ter decorrido de uma das práticas delituosas nela referidas de modo exaustivo.",
+     "fonte": "p. 97",
+     "na_pagina_da_evidencia": false
+    }
+   ],
+   "obs": "Alexandre de Moraes é o Revisor (p. 1, p. 53), mas sua peça vem rotulada 'Voto Vogal' no cabeçalho das páginas 53-98; fundamenta de forma própria, embora transcreva longamente o voto do Relator (pp. 75-89), e declara acompanhá-lo (p. 98). Os outros 9 ministros não têm peça; voto e adesão deduzidos da unanimidade 'nos termos do voto do Relator' (p. 99). voto_resultado lido no texto coincide com o banco (Absolve, 11 votantes). Imputação recebida pela 2ª Turma como art. 1º, caput, V, da Lei 9.613/1998, na redação anterior à Lei 12.683/2012 (p. 20); o dispositivo de Moraes absolve do 'art. 1º, § 4º, da Lei 9.613/98' (p. 98). Fachin cita só doutrina (Badaró e Bottini, p. 52) nesta parte; doutrina não entra em precedentes.",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": [
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "RHC 130738 AgR, Relator(a): CELSO DE MELLO, Segunda Turma, DJe 10/10/2017",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse sentido, também é a jurisprudência do SUPREMO TRIBUNAL FEDERAL, conforme se depreende dos seguintes julgados:",
+     "fonte": "p. 96-97",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 108715, Relator(a): MARCO AURÉLIO, Primeira Turma, DJe de 29/5/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "LAVAGEM DE DINHEIRO – LEI Nº 9.613/98 – CRIME ANTECEDENTE. A teor do disposto na Lei nº 9.613/98, há a necessidade de o valor em pecúnia envolvido na lavagem de dinheiro ter decorrido de uma das práticas delituosas nela referidas de modo exaustivo.",
+     "fonte": "p. 97",
+     "na_pagina_da_evidencia": false
+    }
+   ]
+  },
+  {
+   "id_unidade": "AP-1032-R02-I01",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": null,
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Edson Fachin",
+    "evidencia": "por unanimidade de votos, em julgar improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+    "fonte": "p. 3",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "concorreu",
+      "evidencia": "Do excerto transcrito, constata-se que os colaboradores e a testemunha Maria de Brotas Neves divergem quanto ao momento e local da solicitação da suposta vantagem indevida por parte do denunciado Eduardo da Fonte. (...) Como visto, o conjunto probatório produzido nos autos é vacilante na missão de confirmar a versão acusatória, restando dúvidas não suplantadas pelo órgão acusatório acerca da efetiva reunião entre os denunciados e o colaborador Ricardo Ribeiro Pessoa.",
+      "fonte": "p. 48",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": null,
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Logo, não encontrados no conjunto probatório elementos de corroboração aptos a confirmar as declarações prestadas pelos colaboradores em juízo, afigura-se imperiosa a afirmação da cláusula in dubio pro reo como técnica de julgamento a ser aplicada ao caso sob análise.",
+      "fonte": "p. 51",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "o conjunto probatório produzido nos autos é vacilante na missão de confirmar a versão acusatória, restando dúvidas não suplantadas pelo órgão acusatório acerca da efetiva reunião entre os denunciados e o colaborador Ricardo Ribeiro Pessoa.",
+      "fonte": "p. 48"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+      "fonte": "p. 99",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": {
+      "valor": "nao_dito",
+      "evidencia": "Cumpre destacar que a responsabilidade penal é atribuída aos denunciados na forma do art. 29 do Código Penal, ou seja, em concurso de pessoas, razão pela qual é prescindível que ambos estivessem presentes no momento em que realizada a solicitação da vantagem indevida.",
+      "fonte": "p. 17",
+      "confianca": "media"
+     },
+     "posicoes": [
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Ante o exposto, diante da ausência de provas suficientes a embasar a tese acusatória, julgo improcedente a denúncia para absolver os acusados Eduardo da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal.",
+        "fonte": "p. 52",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Como visto, o conjunto probatório produzido nos autos é vacilante na missão de confirmar a versão acusatória, restando dúvidas não suplantadas pelo órgão acusatório acerca da efetiva reunião entre os denunciados e o colaborador Ricardo Ribeiro Pessoa.",
+        "fonte": "p. 48",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Logo, não encontrados no conjunto probatório elementos de corroboração aptos a confirmar as declarações prestadas pelos colaboradores em juízo, afigura-se imperiosa a afirmação da cláusula in dubio pro reo como técnica de julgamento a ser aplicada ao caso sob análise.",
+        "fonte": "p. 51",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": {
+        "valor": "Dúvida sobre a reunião inaugural em que Djalma teria apresentado Eduardo ao colaborador; Walmir não identifica Djalma; ligações telefônicas de Djalma com a UTC são posteriores aos fatos e não provam contato com o colaborador.",
+        "evidencia": "suas conclusões não servem como prova de que o seu interlocutor tenha sido o colaborador Ricardo Ribeiro Pessoa. Ademais, os contatos foram identificados em momento que se distancia dos fatos relevantes narrados na denúncia, remanescendo sobre a hipótese acusatória a dúvida que impede a prolação de juízo de procedência da pretensão punitiva.",
+        "fonte": "p. 50-51",
+        "confianca": "alta"
+       },
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Diante do exposto, ACOMPANHO O EMINENTE MINISTRO RELATOR e JULGO IMPROCEDENTE a ação penal promovida contra EDUARDO DA FONTE ALBUQUERQUE SILVA e DJALMA RODRIGUES DE SOUZA, para absolvê-los da prática dos crimes previstos no art. 317, caput, do Código Penal e art. 1º, § 4º, da Lei 9.613/98, com base no art. 386,VII, do Código de Processo Penal.",
+        "fonte": "p. 98",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Entendo assistir razão ao Min. EDSON FACHIN. A prova contida nos autos é totalmente insegura quanto à responsabilização criminal dos réus.",
+        "fonte": "p. 71",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Assim, ao menos para fins penais, o acervo probatório coligido nos presentes autos não é o bastante para condenar os réus, sendo caso de absolvê-los por insuficiência de provas, nos termos do art. 386, VII, do Código de Processo Penal.",
+        "fonte": "p. 92",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": {
+        "valor": "Relatório de ligações não corrobora a narrativa quanto a Djalma (contatos posteriores aos fatos); prova insuficiente.",
+        "evidencia": "Como se vê, o referido aleatório não serve para a corroboração da narrativa acusatório, pois revela que os contatos identificados entre o número telefônico utilizado pelo réu DJALMA RODRIGUES DE SOUZA e outro de propriedade da UTC Engenharia ocorreram em período posterior à afirmada solicitação e pagamento de vantagem indevida.",
+        "fonte": "p. 92",
+        "confianca": "alta"
+       },
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "André Mendonça",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "concorreu",
+     "anotacao_tipicidade": null,
+     "anotacoes": [
+      "prova_colaboracao"
+     ],
+     "sim_favorece": "acusacao"
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Edson Fachin",
+     "tipo": "precedente_citado",
+     "referencia": "INQ 3.705, Rel.: Min. GILMAR MENDES, Segunda Turma, DJe 15.9.2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Trago à colação os seguintes precedentes: “Inquérito. (...) 10. Nexo improvável entre a prática do ato de ofício e a vantagem. (...) 11. Denúncia rejeitada”",
+     "fonte": "p. 26",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Edson Fachin",
+     "tipo": "precedente_citado",
+     "referencia": "AP 470, Rel.: Min. JOAQUIM BARBOSA, Tribunal Pleno, DJe 22.4.2013",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Vinculação entre o pagamento da vantagem e os atos de ofício de competência do ex-Presidente da Câmara, cuja prática os réus sócios da agência de publicidade pretenderam influenciar.",
+     "fonte": "p. 26-28",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe de 5/2/2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "sendo caso de absolvê-los por insuficiência de provas, nos termos do art. 386, VII, do Código de Processo Penal. Nesse sentido: EMENTA Ação penal. (...) Prova precária de envolvimento do réu no ilícito. Incidência do in dubio pro reo e do favor rei.",
+     "fonte": "p. 92-93",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 89.501/GO, Rel. Min. CELSO DE MELLO; HC 97.701/MS, Rel. Min. AYRES BRITTO; HC 88.875/AM, Rel. Min. CELSO DE MELLO",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Há a necessidade de o Estado-acusador comprovar a culpabilidade do indivíduo mediante o contraditório, que é constitucionalmente presumido inocente (...) (STF, HC 89.501/GO, Rel. Min. CELSO DE MELLO, Segunda Turma; HC 97.701/MS, Rel. Min. AYRES BRITTO, Segunda Turma, j. 03/04/2012, DJe de 21/9/2012; HC 88.875/AM, Rel. Min. CELSO DE MELLO, Segunda Turma, j. 07/12/2010).",
+     "fonte": "p. 93",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "\"ser reconhecida a presença de prova acima de qualquer dúvida razoável. (...) A presunção de inocência, ou de não culpabilidade, é princípio cardeal no processo penal em um Estado Democrático de Direito.\"",
+     "fonte": "p. 93-94",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "\"nenhuma acusação penal se presume provada. (...)\" (AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello. Acórdão publicado no DJe de 7-11-2014).",
+     "fonte": "p. 94",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 869/AL, Segunda Turma, Rel. Min. TEORI ZAVASCKI, j. 29/9/2015; HC 73.338-7/RJ, Primeira Turma, Rel. Min. CELSO DE MELLO, j. 13/8/1996",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Com efeito, o estado de dúvida obstaculiza o juízo condenatório, (...) conforme bem sublinhou o Min. CELSO DE MELLO, nos Votos que proferiu na AP 869/AL (...) e no HC 73.338-7/RJ",
+     "fonte": "p. 94",
+     "na_pagina_da_evidencia": false
+    }
+   ],
+   "obs": "Alexandre de Moraes é o Revisor (p. 1, p. 53), mas sua peça vem rotulada 'Voto Vogal' no cabeçalho das páginas 53-98; fundamenta de forma própria, embora transcreva longamente o voto do Relator (pp. 75-89), e declara acompanhá-lo (p. 98). Os outros 9 ministros não têm peça; voto e adesão deduzidos da unanimidade 'nos termos do voto do Relator' (p. 99). voto_resultado lido no texto coincide com o banco (Absolve, 11 votantes). A preliminar de prescrição (só para este réu, nesta imputação) foi rejeitada por Fachin (p. 18) e Moraes (p. 66); Fachin a afasta com base na alteração do art. 110, § 1º, do CP pela Lei 12.234/2010 (p. 17) e, subsidiariamente, no recebimento até 3.9.2010 (p. 18). Por ser preliminar (R6), não entra como questão nem em precedentes. Competência funcional (R7): Fachin registra que a atuação conjunta é apta, 'ao menos em tese', à configuração do delito, 'considerada a vinculação funcional' de Djalma à Petrobras/Petroquisa (p. 30); não foi o ponto em que o resultado se decidiu.",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": [
+    {
+     "ministro": "Edson Fachin",
+     "tipo": "precedente_citado",
+     "referencia": "INQ 3.705, Rel.: Min. GILMAR MENDES, Segunda Turma, DJe 15.9.2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Trago à colação os seguintes precedentes: “Inquérito. (...) 10. Nexo improvável entre a prática do ato de ofício e a vantagem. (...) 11. Denúncia rejeitada”",
+     "fonte": "p. 26",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Edson Fachin",
+     "tipo": "precedente_citado",
+     "referencia": "AP 470, Rel.: Min. JOAQUIM BARBOSA, Tribunal Pleno, DJe 22.4.2013",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Vinculação entre o pagamento da vantagem e os atos de ofício de competência do ex-Presidente da Câmara, cuja prática os réus sócios da agência de publicidade pretenderam influenciar.",
+     "fonte": "p. 26-28",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 678, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe de 5/2/2015",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "sendo caso de absolvê-los por insuficiência de provas, nos termos do art. 386, VII, do Código de Processo Penal. Nesse sentido: EMENTA Ação penal. (...) Prova precária de envolvimento do réu no ilícito. Incidência do in dubio pro reo e do favor rei.",
+     "fonte": "p. 92-93",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 89.501/GO, Rel. Min. CELSO DE MELLO; HC 97.701/MS, Rel. Min. AYRES BRITTO; HC 88.875/AM, Rel. Min. CELSO DE MELLO",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Há a necessidade de o Estado-acusador comprovar a culpabilidade do indivíduo mediante o contraditório, que é constitucionalmente presumido inocente (...) (STF, HC 89.501/GO, Rel. Min. CELSO DE MELLO, Segunda Turma; HC 97.701/MS, Rel. Min. AYRES BRITTO, Segunda Turma, j. 03/04/2012, DJe de 21/9/2012; HC 88.875/AM, Rel. Min. CELSO DE MELLO, Segunda Turma, j. 07/12/2010).",
+     "fonte": "p. 93",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "\"ser reconhecida a presença de prova acima de qualquer dúvida razoável. (...) A presunção de inocência, ou de não culpabilidade, é princípio cardeal no processo penal em um Estado Democrático de Direito.\"",
+     "fonte": "p. 93-94",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "\"nenhuma acusação penal se presume provada. (...)\" (AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello. Acórdão publicado no DJe de 7-11-2014).",
+     "fonte": "p. 94",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 869/AL, Segunda Turma, Rel. Min. TEORI ZAVASCKI, j. 29/9/2015; HC 73.338-7/RJ, Primeira Turma, Rel. Min. CELSO DE MELLO, j. 13/8/1996",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Com efeito, o estado de dúvida obstaculiza o juízo condenatório, (...) conforme bem sublinhou o Min. CELSO DE MELLO, nos Votos que proferiu na AP 869/AL (...) e no HC 73.338-7/RJ",
+     "fonte": "p. 94",
+     "na_pagina_da_evidencia": false
+    }
+   ]
+  },
+  {
+   "id_unidade": "AP-1032-R02-I02",
+   "escopo_levcovitz": {
+    "valor": "Nao",
+    "evidencia": null,
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Edson Fachin",
+    "evidencia": "por unanimidade de votos, em julgar improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+    "fonte": "p. 3",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "ausente a comprovação da ocorrência do crime antecedente, esvazia-se a configuração do elemento normativo do tipo previsto no art. 1º, caput, da Lei 9.613/1998, dada a sua natureza acessória",
+      "fonte": "p. 52",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": "Há comprovação da ocorrência da infração penal antecedente da qual proviriam os valores supostamente ocultados ou dissimulados?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Assim, considerada a natureza acessória do crime de lavagem de dinheiro, e diante da ausência de comprovação do delito antecedente, não é possível concluir pela configuração do crime de lavagem de dinheiro posterior.",
+      "fonte": "p. 95",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "ausente a comprovação da ocorrência do crime antecedente, esvazia-se a configuração do elemento normativo do tipo previsto no art. 1º, caput, da Lei 9.613/1998, dada a sua natureza acessória",
+      "fonte": "p. 52"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+      "fonte": "p. 99",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Ante o exposto, diante da ausência de provas suficientes a embasar a tese acusatória, julgo improcedente a denúncia para absolver os acusados Eduardo da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal.",
+        "fonte": "p. 52",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "ausente a comprovação da ocorrência do crime antecedente, esvazia-se a configuração do elemento normativo do tipo previsto no art. 1º, caput, da Lei 9.613/1998, dada a sua natureza acessória",
+        "fonte": "p. 52",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "ausente a comprovação da ocorrência do crime antecedente, esvazia-se a configuração do elemento normativo do tipo previsto no art. 1º, caput, da Lei 9.613/1998, dada a sua natureza acessória, tornando inócua a aferição da potencialidade lesiva ao bem jurídico tutelado pela norma penal em comento mediante doação eleitoral oficial, o que redunda, igualmente, em juízo absolutório.",
+        "fonte": "p. 52",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": {
+        "valor": "Remete à fundamentação da corrupção passiva (crime antecedente não provado); declara inócua a questão da lesividade da doação eleitoral oficial.",
+        "evidencia": "No entanto, nos termos da fundamentação declinada no tópico anterior",
+        "fonte": "p. 51",
+        "confianca": "alta"
+       },
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Diante do exposto, ACOMPANHO O EMINENTE MINISTRO RELATOR e JULGO IMPROCEDENTE a ação penal promovida contra EDUARDO DA FONTE ALBUQUERQUE SILVA e DJALMA RODRIGUES DE SOUZA, para absolvê-los da prática dos crimes previstos no art. 317, caput, do Código Penal e art. 1º, § 4º, da Lei 9.613/98, com base no art. 386,VII, do Código de Processo Penal.",
+        "fonte": "p. 98",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Conforme ressaltado no tópico anterior, a instrução processual não comprovou a existência da infração penal da qual os valores seriam, direta ou indiretamente, provenientes, não havendo nestes autos lastro probatório para a condenação pelo delito de corrupção passiva (art. 317, caput, do Código Penal).",
+        "fonte": "p. 95",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Assim, considerada a natureza acessória do crime de lavagem de dinheiro, e diante da ausência de comprovação do delito antecedente, não é possível concluir pela configuração do crime de lavagem de dinheiro posterior.",
+        "fonte": "p. 95",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "André Mendonça",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "p. 99",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator. Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "p. 99",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Sem peça própria no acórdão; unanimidade 'nos termos do voto do Relator' (p. 99). Posição inferida da do Relator.",
+        "fonte": "p. 99",
+        "confianca": "media",
+        "inferida_de": "Edson Fachin"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "tipicidade",
+     "anotacao_tipicidade": "existencia_fato",
+     "anotacoes": [],
+     "questao_outra_evidencia": {
+      "evidencia": "a instrução processual não comprovou a existência da infração penal da qual os valores seriam, direta ou indiretamente, provenientes",
+      "fonte": "p. 95",
+      "confianca": "alta"
+     },
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "categoria_v2",
+       "de": "outra",
+       "para": "tipicidade",
+       "regra": "G4-02",
+       "nota": ""
+      }
+     ]
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "RHC 130738 AgR, Relator(a): CELSO DE MELLO, Segunda Turma, DJe 10/10/2017",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse sentido, também é a jurisprudência do SUPREMO TRIBUNAL FEDERAL, conforme se depreende dos seguintes julgados:",
+     "fonte": "p. 96-97",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 108715, Relator(a): MARCO AURÉLIO, Primeira Turma, DJe de 29/5/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "LAVAGEM DE DINHEIRO – LEI Nº 9.613/98 – CRIME ANTECEDENTE. A teor do disposto na Lei nº 9.613/98, há a necessidade de o valor em pecúnia envolvido na lavagem de dinheiro ter decorrido de uma das práticas delituosas nela referidas de modo exaustivo.",
+     "fonte": "p. 97",
+     "na_pagina_da_evidencia": false
+    }
+   ],
+   "obs": "Alexandre de Moraes é o Revisor (p. 1, p. 53), mas sua peça vem rotulada 'Voto Vogal' no cabeçalho das páginas 53-98; fundamenta de forma própria, embora transcreva longamente o voto do Relator (pp. 75-89), e declara acompanhá-lo (p. 98). Os outros 9 ministros não têm peça; voto e adesão deduzidos da unanimidade 'nos termos do voto do Relator' (p. 99). voto_resultado lido no texto coincide com o banco (Absolve, 11 votantes). Imputação recebida pela 2ª Turma como art. 1º, caput, V, da Lei 9.613/1998, na redação anterior à Lei 12.683/2012 (p. 20); o dispositivo de Moraes absolve do 'art. 1º, § 4º, da Lei 9.613/98' (p. 98). Fachin cita só doutrina (Badaró e Bottini, p. 52) nesta parte; doutrina não entra em precedentes.",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": [
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "RHC 130738 AgR, Relator(a): CELSO DE MELLO, Segunda Turma, DJe 10/10/2017",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse sentido, também é a jurisprudência do SUPREMO TRIBUNAL FEDERAL, conforme se depreende dos seguintes julgados:",
+     "fonte": "p. 96-97",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Alexandre de Moraes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 108715, Relator(a): MARCO AURÉLIO, Primeira Turma, DJe de 29/5/2014",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "LAVAGEM DE DINHEIRO – LEI Nº 9.613/98 – CRIME ANTECEDENTE. A teor do disposto na Lei nº 9.613/98, há a necessidade de o valor em pecúnia envolvido na lavagem de dinheiro ter decorrido de uma das práticas delituosas nela referidas de modo exaustivo.",
+     "fonte": "p. 97",
+     "na_pagina_da_evidencia": false
+    }
+   ]
+  }
+ ],
+ "avisos": [
+  "Corrupção passiva (I01): classifiquei como 'concorreu' porque os dois votos fundamentados centram a dúvida na efetiva participação dos réus nas reuniões em que a vantagem teria sido negociada (local, data e participantes divergentes; Walmir não identifica Djalma; ligações de Djalma posteriores aos fatos). Leitura alternativa plausível: 'outra' — 'há prova da ocorrência do pacto corrupto (nexo entre a doação eleitoral e o favorecimento na Coquepar), além das declarações de colaboradores?'. Para Eduardo, que admite ter pedido doação de campanha (p. 42), a dúvida toca também a materialidade: Fachin registra que, para Walmir, 'a solicitação de doação eleitoral por parte de Eduardo da Fonte não estava vinculada aos projetos que seriam contratados com a Coquepar' (p. 48). Por isso confiança 'media' em questao_decisiva.",
+  "Exigência de corroboração externa das declarações de colaboradores (art. 4º, § 16, Lei 12.850/2013) aparece nos dois votos como razão de decidir (Fachin p. 48 e 51; Moraes p. 90). Tratei como modo de responder à suficiência de prova (o codebook diz que suficiência de prova não é categoria), e não como segunda questão. Candidata a revisão do codebook se se repetir em outros casos de colaboração premiada.",
+  "Não há discussão de dolo em nenhum voto; padrao_dolo_exigido = null em todas as questões (não aplicável).",
+  "Lavagem (I02): questão 'outra' (prova do crime antecedente), dependente da absolvição na corrupção passiva. Fachin declara expressamente inócua a questão da lesividade da doação eleitoral oficial (p. 52), por isso não foi registrada como segunda questão.",
+  "Precedentes: registrei só os citados na fundamentação de mérito. Ficaram de fora, por estarem em preliminares (R6): Inq 4118 (recebimento da denúncia, relatoria do próprio Fachin), AP 1021 (Fux) sobre preclusão da inépcia, RHC 179474, HC 188760 AgR (relatoria de Fachin), HC 104404/HC 140.404 (Toffoli) e HC 7426 (Rezek) sobre reconhecimento fotográfico, e a Lei 12.234/2010 (mudança do art. 110, § 1º, CP) na prescrição de Djalma.",
+  "Diferença de grafia entre os votos: Fachin cita 'HC 104404, Rel. Min. DIAS TOFFOLI' (p. 23) e Moraes 'HC 140.404/RJ, Rel. Min. DIAS TOFFOLI' (p. 69) para a mesma tese; Moraes escreve '10/12/2020' (p. 90) onde Fachin escreve '10.12.2010' (p. 49) para a data de troca de gabinete. Provável erro material; não afeta o resultado.",
+  "O extrato de ata (p. 99) registra só a 'Composição', sem presentes/ausentes. A votação dos 9 ministros sem peça é deduzida da unanimidade; enfrentou_a_questao = 'Adesao' com confiança 'media'.",
+  "modo_concurso: Eduardo 'autor' (solicitação atribuída a ele, p. 40); Djalma 'nao_dito' — o voto só diz que a imputação é em concurso de pessoas (art. 29, p. 17); a denúncia transcrita fala em 'auxilio essencial' de Djalma (p. 13), mas isso é texto da acusação, não do voto."
+ ],
+ "consolidado_em": "2026-10-18",
+ "base": "leitura A; decisões do gate (D-048, D-049) aplicadas por consolidar_fase4.py"
+}

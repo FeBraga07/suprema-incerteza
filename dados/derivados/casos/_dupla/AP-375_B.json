@@ -1,0 +1,298 @@
+{
+  "id_caso": "AP-375",
+  "extraido_em": "2026-08-08",
+  "fontes_lidas": ["dados/corpus/texto/AP-375.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Peculato (art. 312, Código Penal) — com discussão incidental do art. 315, CP (emprego irregular de verba pública)",
+      "evidencia": "PECULATO - ARTIGO 312 DO CÓDIGO PENAL - VERBA PÚBLICA. (...) EMPREGO IRREGULAR DE VERBA PÚBLICA - ARTIGO 315 DO CÓDIGO PENAL.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "acordam os Ministros do Supremo Tribunal Federal, em sessão plenária, na conformidade da ata do julgamento e das notas taquigráficas, \"por unanimidade, em julgar improcedente a ação penal contra réu Jackson Barreto de Lima, absolvendo-o, e, em relação [ao] co-réu Arnaldo Arcanjo da Silva, em conceder habeas corpus de ofício para trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.\"",
+      "fonte": "acordao p.1-2",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 2,
+      "evidencia": "RÉU (É) (S): JACKSON BARRETO DE LIMA (...) RÉU (É) (S): ARNALDO ARCANJO DA SILVA",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o, [e em] relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa (...) Plenário, 27.10.2004.",
+      "fonte": "ata",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Jackson Barreto de Lima",
+        "evidencia": "RÉU (É) (S) : JACKSON BARRETO DE LIMA",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Prefeito de Aracaju à época dos fatos; Deputado Federal ao tempo do processo (fundamento do foro no STF)",
+        "evidencia": "Deputado Federal JACKSON BARRETO DE LIMA Prefeito de Aracaju, (...) Tendo em vista o exercício do cargo de Deputado Federal por JACKSON BARRETO",
+        "fonte": "acordao p.3-4",
+        "confianca": "baixa"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o (...) É como voto, ou seja, absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "diante da atipicidade da conduta narrada [na peça] acusatória o ministério público federal pugna pela aso[lvição] (...) absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal",
+        "fonte": "acordao p.6-8",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "não há menção a extinção de punibilidade por prescrição incidindo sobre Jackson Barreto de Lima; a única referência a prescrição no texto é uma citação doutrinária de precedente do TJSP sobre o art. 315 CP, e uma suspensão de prazo prescricional (art. 366 CPP) durante a fase de citação, anterior ao julgamento de mérito",
+        "fonte": "acordao p.3",
+        "confianca": "media"
+      },
+      "crimes": [
+        {
+          "artigo": "312",
+          "diploma": "Código Penal (Peculato)",
+          "evidencia": "PECULATO - ARTIGO 312 DO CÓDIGO PENAL - VERBA PÚBLICA. Longe fica de configurar crime [de] peculato[,] o emprego de verba pública em obra diversa da programada, fazendo-se ausente quer a apropriação, quer o desvio em proveito próprio ou alheio."
+        },
+        {
+          "artigo": "315",
+          "diploma": "Código Penal (Emprego irregular de verba pública) — discutido como tipificação alternativa e afastado",
+          "evidencia": "conduta poderia caracterizar o crime descrito no artigo 315 CP - Emprego irregular de verbas públicas - se a destinação fosse prevista em LEI; o que não é o caso."
+        }
+      ],
+      "n_votantes": {
+        "valor": 8,
+        "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Carlos Velloso, Marco Aurélio, Ellen Gracie, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa e Eros Grau [+ Presidente Nelson Jobim]; descontados suspeição de Britto e ausências (neste julgamento) de Celso de Mello e Eros Grau",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "por unanimidade, [...] julgou improcedente a ação penal",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 8,
+        "evidencia": "por unanimidade, [...] julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Arnaldo Arcanjo da Silva",
+        "evidencia": "RÉU (É) (S) : ARNALDO ARCANJO DA SILVA",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Representante da empresa contratada (Jacuaracy Construções e Saneamento Ltda.) — particular, não ocupava cargo/função pública",
+        "evidencia": "ARNALDO ARCANJO DA SILVA, representante JACUARACY CONSTRUÇÕES E SANEAMENTO LTDA. (...) JACKSON BARRETO DE LIMA celebrou [contrato] de empreitada n.° 66/88 com a Sociedade JACUARACY CONSTRUÇÕES E SANEAMENTO LTDA., representada [pelo] denunciado",
+        "fonte": "acordao p.3",
+        "confianca": "media"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "em relação [ao] co-réu Arnaldo Arcanjo da Silva, em conceder habeas corpus de ofício para trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "Daí preconizar que, relativamente a Arnaldo Arcanjo da Silva, seja concedido habeas [corpus] de ofício para assentar a inexistência de justa causa, presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima.",
+        "fonte": "acordao p.7",
+        "confianca": "media"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "não há condenação nem menção a prescrição incidindo sobre Arnaldo Arcanjo da Silva; o desfecho foi concessão de habeas corpus de ofício antes de qualquer juízo de mérito quanto a ele",
+        "fonte": "acordao p.7-8",
+        "confianca": "media"
+      },
+      "crimes": [
+        {
+          "artigo": "312 (inferido)",
+          "diploma": "Código Penal (Peculato) — mesma denúncia de Jackson Barreto de Lima; artigo exato imputado a Arnaldo não pôde ser confirmado literalmente por corrupção do OCR no trecho da denúncia",
+          "evidencia": "Deputado Federal JACKSON BARRETO DE LIMA Prefeito de Aracaju, ARNALDO ARCANJO DA SILVA, representante JACUARACY CONSTRUÇÕES E SANEAMENTO LTDA., incursos nas penas [trecho cortado pelo OCR] Procuradoria Geral de Justiça do Estado de Sergipe."
+        }
+      ],
+      "n_votantes": {
+        "valor": 8,
+        "evidencia": "mesma composição votante da decisão sobre Jackson Barreto de Lima — decisão única, tomada na mesma sessão e mesmo parágrafo da ata",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "por unanimidade (...) concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "votos_absolvicao": {
+        "valor": 8,
+        "evidencia": "por unanimidade (...) concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa — tratado aqui como equivalente a favorável ao réu, embora tecnicamente não seja uma absolvição de mérito (ver avisos)",
+        "fonte": "ata",
+        "confianca": "baixa"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade, (...) em relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": true,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "O SENHOR MINISTRO MARCO AURÉLIO (RELATOR) - (...) É como voto, ou seja, absolvendo Jackson Barreto de Lima (...) e, no tocante ao co-réu, concedendo o habeas de ofício, trancando a ação penal por falta de justa causa",
+      "fonte": "acordao p.8",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Ellen Gracie",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "REVISORA : MIN. ELLEN GRACIE (...) Presentes à sessão os Senhores Ministros (...) Ellen Gracie (...); decisão tomada por unanimidade, sem voto individual divergente transcrito",
+      "fonte": "deducao D-004",
+      "confianca": "media"
+    },
+    {
+      "ministro": "Nelson Jobim",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presidiu o julgamento o Senhor Ministro Nelson Jobim (...) por unanimidade",
+      "fonte": "deducao D-004",
+      "confianca": "media"
+    },
+    {
+      "ministro": "Sepúlveda Pertence",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Carlos Velloso, Marco Aurélio, Ellen Gracie, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa e Eros Grau (...) por unanimidade",
+      "fonte": "deducao D-004",
+      "confianca": "media"
+    },
+    {
+      "ministro": "Carlos Velloso",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Carlos Velloso, Marco Aurélio, Ellen Gracie, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa e Eros Grau (...) por unanimidade",
+      "fonte": "deducao D-004",
+      "confianca": "media"
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Carlos Velloso, Marco Aurélio, Ellen Gracie, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa e Eros Grau (...) por unanimidade",
+      "fonte": "deducao D-004",
+      "confianca": "media"
+    },
+    {
+      "ministro": "Cezar Peluso",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Carlos Velloso, Marco Aurélio, Ellen Gracie, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa e Eros Grau (...) por unanimidade",
+      "fonte": "deducao D-004",
+      "confianca": "media"
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Carlos Velloso, Marco Aurélio, Ellen Gracie, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa e Eros Grau (...) por unanimidade",
+      "fonte": "deducao D-004",
+      "confianca": "media"
+    },
+    {
+      "ministro": "Ayres Britto (Carlos Britto)",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "Declarou suspeição (não é ausência propriamente dita, mas afastamento do julgamento por suspeição declarada — ver avisos)",
+      "evidencia": "Declarou suspeição [...] Ministro [Carlos] Britto.",
+      "fonte": "ata",
+      "confianca": "baixa"
+    },
+    {
+      "ministro": "Eros Grau",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "Ausente, justificadamente, neste julgamento (embora listado como presente à sessão em geral)",
+      "evidencia": "Ausentes, justificadamente, [...] e, neste julgamento, [...] Senhor Ministro Eros Grau.",
+      "fonte": "ata",
+      "confianca": "media"
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "Ausente, justificadamente (da sessão como um todo)",
+      "evidencia": "Ausentes, justificadamente, [...] Senhor Ministro Celso de Mello",
+      "fonte": "ata",
+      "confianca": "media"
+    }
+  ],
+  "avisos": [
+    "OCR muito degradado ao longo de todo o documento (linhas fora de ordem, palavras cortadas, caracteres trocados). Vários trechos exigiram reconstrução de sentido; confiança marcada como média/baixa nesses pontos.",
+    "Cargo de Jackson Barreto de Lima: o texto sugere que ele era Prefeito de Aracaju à época dos fatos (contrato de empreitada n.86/88) e Deputado Federal no momento do julgamento (o que fundamenta o foro por prerrogativa de função no STF, citado explicitamente: 'Tendo em vista o exercício do cargo de Deputado Federal por JACKSON BARRETO'). A ordem exata das palavras nas linhas 95-96 do arquivo está embaralhada pelo OCR, então a atribuição 'prefeito à época / deputado no processo' é uma reconstrução, não uma citação literal contígua.",
+    "Resultado de Arnaldo Arcanjo da Silva NÃO é uma absolvição em sentido processual estrito: o STF concedeu habeas corpus DE OFÍCIO para trancar a ação penal por falta de justa causa, sem propriamente proferir sentença de mérito quanto a ele. O próprio voto do relator chega a afastar a absolvição como via para Arnaldo por causa de dúvida sobre a validade da citação ('o caso não sugere a absolvição no julgamento da ação penal'), optando pelo trancamento via habeas corpus com base na mesma atipicidade da conduta reconhecida para Jackson. Como o vocabulário controlado do formulário não tem opção para 'trancamento de ação penal via habeas corpus de ofício', registrei resultado='Absolvição' e motivo='atipicidade' como a aproximação mais próxima, mas o valor correto do ponto de vista técnico-jurídico é distinto de uma absolvição de mérito. Recomendo revisão humana deste campo especificamente.",
+    "O artigo penal exatamente imputado a Arnaldo Arcanjo da Silva na denúncia original não pôde ser confirmado literalmente no texto: a linha correspondente (entre 'incursos nas penas' e o nome da Procuradoria) foi perdida/corrompida pelo OCR. Inferi art. 312 CP (peculato) por contexto — mesma denúncia conjunta com Jackson, e a ementa do acórdão só versa sobre peculato (art. 312) e emprego irregular de verba (art. 315) — mas isso é inferência, não citação direta, por isso confiança baixa nesse campo.",
+    "O esquema de saída não tem campo dedicado para 'suspeição' (só 'ausente'/'motivo_ausencia'). Para o Ministro Carlos Britto (declarou suspeição), usei ausente=true e descrevi a suspeição em motivo_ausencia, mas isso é uma adaptação do esquema — suspeição e ausência são juridicamente distintas, conforme a própria ata as trata em frases separadas.",
+    "A distinção entre a ausência de Eros Grau ('neste julgamento', ou seja, apenas neste caso específico da sessão) e a ausência de Celso de Mello (da sessão inteira) é uma leitura baseada no contraste entre o parágrafo específico do caso AP-375 (que cita ambos como ausentes) e o parágrafo genérico final da ata da sessão plenária ('Presentes à sessão... Eros Grau'), que lista Eros Grau como presente na sessão em geral mas não Celso de Mello. Confiança média nessa reconstrução por causa do OCR.",
+    "Nenhum voto individual dos demais ministros (além do relator) foi transcrito no documento; todos os votos exceto o de Marco Aurélio foram deduzidos pela regra D-004 (ministro em exercício, não listado como ausente/suspeito/vencido, decisão unânime).",
+    "A palavra 'prescrição' aparece duas vezes no texto sem relação com o resultado do mérito: (1) como parte de uma citação doutrinária/precedente do TJSP sobre o crime do art. 315 CP ('delito que não pode mais ser apurado se prescrito'), (2) como referência à suspensão do prazo prescricional durante a fase de citação por edital (art. 366 CPP), ocorrida durante a tramitação em 1ª instância, antes da chegada ao STF. Nenhuma das duas ocorrências foi usada para preencher os campos de motivo/resultado, conforme a regra 2 do protocolo.",
+    "Total de votantes (8) foi calculado como: 11 ministros em exercício na tabela de referência em 27/10/2004 (Pertence, Celso de Mello, Velloso, Marco Aurélio, Jobim, Ellen Gracie, Gilmar Mendes, Peluso, Ayres Britto, Joaquim Barbosa, Eros Grau) menos 1 suspeito (Britto) menos 2 ausentes neste julgamento/sessão (Eros Grau, Celso de Mello) = 8. Este cálculo bate com a lista de 'Presentes à sessão' da ata (9 ministros nomeados + Presidente Jobim = 10, menos Eros Grau que estava ausente apenas para este julgamento específico = 9... na prática Jobim + Pertence + Velloso + Marco Aurélio + Ellen Gracie + Gilmar Mendes + Peluso + Joaquim Barbosa = 8). Recomendo conferência humana desta contagem dado o estado do OCR."
+  ]
+}

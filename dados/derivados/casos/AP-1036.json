@@ -1,0 +1,194 @@
+{
+  "id_caso": "AP-1036",
+  "extraido_em": "2026-08-08",
+  "fontes_lidas": ["dados/corpus/texto/AP-1036.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Corrupção passiva (art. 317, caput e § 1º, do Código Penal)",
+      "evidencia": "Trata-se de ação penal proposta pelo Ministério Público do Estado do Rio Grande do Norte contra o Deputado Estadual Ezequiel Ferreira de Souza, imputando-lhe a prática do crime previsto no art. 317, caput e § 1º, do Código Penal",
+      "fonte": "acordao p.3",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU(É)(S): EZEQUIEL FERREIRA DE SOUZA",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "acordam os Ministros do Supremo Tribunal Federal, em sessão virtual do Plenário de 15 a 22/9/23 [...] Plenário, Sessão Virtual de 15.9.2023 a 22.9.2023.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "modalidade_levcovitz": {"valor": [8, 15], "rotulos": ["Corrupção passiva (art. 317, CP)", "Corrupção ativa (art. 333, CP)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-1036, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"8 (corrupção passiva, art. 317) + 15 (corrupção ativa, art. 333)\"", "regra_aplicada": "inclusao_direta", "fonte": "ementa+ata+legislacao_citada", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Ezequiel Ferreira de Souza",
+        "evidencia": "RÉU(É)(S): EZEQUIEL FERREIRA DE SOUZA",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Deputado Estadual",
+        "evidencia": "contra o Deputado Estadual Ezequiel Ferreira de Souza, imputando-lhe a prática do crime previsto no art. 317, caput e § 1º, do Código Penal",
+        "fonte": "acordao p.3",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "considero não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual ele deve ser absolvido, nos termos do art. 386, inciso VII, do CPP.",
+        "fonte": "acordao p.25",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "Standard probatório para a condenação não atingido. Ausência de prova suficiente à condenação criminal. Sentença absolutória.",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não há nenhuma ocorrência da palavra 'prescrição' (ou variantes) em todo o texto do acórdão — não houve condenação nem discussão de prescrição para este réu.",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 317, caput e § 1º",
+          "diploma": "Código Penal",
+          "evidencia": "imputando-lhe a prática do crime previsto no art. 317, caput e § 1º, do Código Penal, consubstanciada, supostamente, no recebimento de vantagem indevida pela aprovação de projeto de lei em trâmite perante a Assembleia Legislativa Potiguar."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça e Cristiano Zanin. [...] Afirmou suspeição o Ministro Alexandre de Moraes. — 11 ministros na composição, 1 (Moraes) não votou por suspeição, restando 10 votantes.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado [...] motivo pelo qual o absolveu",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 10,
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia [...] motivo pelo qual o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator. Afirmou suspeição o Ministro Alexandre de Moraes.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Dias Toffoli", "evidencia": "RELATOR: MIN. DIAS TOFFOLI", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": true, "evidencia": "RELATOR: MIN. DIAS TOFFOLI", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "considero não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual ele deve ser absolvido, nos termos do art. 386, inciso VII, do CPP.", "fonte": "acordao p.25", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "O Tribunal, por unanimidade [...] nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": "Não consta como ausente na composição da ata.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Rosa Weber", "evidencia": "REVISORA: MIN. ROSA WEBER", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "REVISORA: MIN. ROSA WEBER", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Ante o exposto, nos termos da fundamentação, voto pela absolvição do réu EZEQUIEL FERREIRA DE SOUZA, acusado da prática de corrupção passiva (artigo 317, caput e § 1º, do Código Penal), o que faço por força do artigo 386, inciso VII, do Código de Processo Penal.", "fonte": "acordao p.56", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "O Tribunal, por unanimidade [...] nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Composição: Ministros Rosa Weber (Presidente) [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": "Não consta como ausente na composição da ata; consta como Presidente.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Gilmar Mendes", "evidencia": "Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça e Cristiano Zanin.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR: MIN. DIAS TOFFOLI (não é Gilmar Mendes)", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "deducao D-004: consta na Composição da ata, não é citado como ausente/impedido/suspeito, e a decisão foi por unanimidade nos termos do voto do Relator (absolvição)", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "O Tribunal, por unanimidade [...] nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Consta nominalmente na Composição da ata.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": "Não consta como ausente.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cármen Lúcia", "evidencia": "Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça e Cristiano Zanin.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR: MIN. DIAS TOFFOLI (não é Cármen Lúcia)", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "deducao D-004: consta na Composição da ata, não é citada como ausente/impedida/suspeita, e a decisão foi por unanimidade nos termos do voto do Relator (absolvição)", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "O Tribunal, por unanimidade [...] nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Consta nominalmente na Composição da ata.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": "Não consta como ausente.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Luiz Fux", "evidencia": "Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça e Cristiano Zanin.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR: MIN. DIAS TOFFOLI (não é Luiz Fux)", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "deducao D-004: consta na Composição da ata, não é citado como ausente/impedido/suspeito, e a decisão foi por unanimidade nos termos do voto do Relator (absolvição)", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "O Tribunal, por unanimidade [...] nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Consta nominalmente na Composição da ata.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": "Não consta como ausente.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Roberto Barroso", "evidencia": "Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça e Cristiano Zanin.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR: MIN. DIAS TOFFOLI (não é Roberto Barroso)", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "deducao D-004: consta na Composição da ata, não é citado como ausente/impedido/suspeito, e a decisão foi por unanimidade nos termos do voto do Relator (absolvição)", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "O Tribunal, por unanimidade [...] nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Consta nominalmente na Composição da ata.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": "Não consta como ausente.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Edson Fachin", "evidencia": "Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça e Cristiano Zanin.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR: MIN. DIAS TOFFOLI (não é Edson Fachin)", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "deducao D-004: consta na Composição da ata, não é citado como ausente/impedido/suspeito, e a decisão foi por unanimidade nos termos do voto do Relator (absolvição)", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "O Tribunal, por unanimidade [...] nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Consta nominalmente na Composição da ata.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": "Não consta como ausente.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Alexandre de Moraes", "evidencia": "Afirmou suspeição o Ministro Alexandre de Moraes.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR: MIN. DIAS TOFFOLI (não é Alexandre de Moraes)", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Afirmou suspeição o Ministro Alexandre de Moraes.", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Não integrou o placar de votação por ter se declarado suspeito, não havendo divergência a registrar.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "O termo usado pela ata é 'suspeição', distinto de ausência: 'Afirmou suspeição o Ministro Alexandre de Moraes.'", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "suspeição", "evidencia": "Afirmou suspeição o Ministro Alexandre de Moraes.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Nunes Marques", "evidencia": "Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça e Cristiano Zanin.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR: MIN. DIAS TOFFOLI (não é Nunes Marques)", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "deducao D-004: consta na Composição da ata, não é citado como ausente/impedido/suspeito, e a decisão foi por unanimidade nos termos do voto do Relator (absolvição)", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "O Tribunal, por unanimidade [...] nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Consta nominalmente na Composição da ata.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": "Não consta como ausente.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "André Mendonça", "evidencia": "Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça e Cristiano Zanin.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR: MIN. DIAS TOFFOLI (não é André Mendonça)", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "deducao D-004: consta na Composição da ata, não é citado como ausente/impedido/suspeito, e a decisão foi por unanimidade nos termos do voto do Relator (absolvição)", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "O Tribunal, por unanimidade [...] nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Consta nominalmente na Composição da ata.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": "Não consta como ausente.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cristiano Zanin", "evidencia": "Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça e Cristiano Zanin.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "RELATOR: MIN. DIAS TOFFOLI (não é Cristiano Zanin)", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "deducao D-004: consta na Composição da ata, não é citado como ausente/impedido/suspeito, e a decisão foi por unanimidade nos termos do voto do Relator (absolvição)", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "O Tribunal, por unanimidade [...] nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Consta nominalmente na Composição da ata.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": "Não consta como ausente.", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "avisos": [
+    "DIVERGÊNCIA TABELA x ATA: a tabela de referência do prompt lista Ricardo Lewandowski como ministro 'em exercício' em 25/09/2023 (posse 2006-03-16, sem data de saída registrada). No entanto, a 'Composição' explicitamente nomeada na ata desta sessão ('Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques, André Mendonça e Cristiano Zanin') NÃO inclui Lewandowski. Tratei a Composição nomeada na ata como fonte autoritativa da composição efetiva desta sessão (conforme a regra de precedência da ata sobre outras fontes para placar/composição) e por isso NÃO incluí Lewandowski no array 'votos' nem apliquei a dedução D-004 a ele. Isso é uma inconsistência da tabela de referência fornecida (provavelmente desatualizada quanto à data de saída de Lewandowski), não um erro de leitura da ata.",
+    "O Ministro Alexandre de Moraes 'afirmou suspeição' (termo textual da ata) — não é 'ausência' nem 'impedimento'. Como o schema de saída só oferece os campos 'ausente' (booleano) e 'motivo_ausencia' (texto livre), registrei ausente=false e motivo_ausencia='suspeição' para preservar o termo exato da ata sem forçá-lo numa categoria que não é dele.",
+    "Apenas dois votos individuais escritos aparecem no corpo do acórdão: o do Relator Ministro Dias Toffoli e o da Revisora Ministra Rosa Weber. Os demais 8 ministros votantes (Gilmar Mendes, Cármen Lúcia, Luiz Fux, Roberto Barroso, Edson Fachin, Nunes Marques, André Mendonça, Cristiano Zanin) não têm voto individual redigido no texto — o julgamento correu em sessão virtual de 15 a 22/9/2023 e a ata registra apenas o resultado unânime 'nos termos do voto do Relator'. Por isso seus votos foram todos preenchidos por dedução D-004, com confiança 'media'.",
+    "Caso de instância única quanto ao mérito nesta ação penal (não há prescrição, extinção de punibilidade ou questão processual pendente para este réu): a única controvérsia preliminar (ilicitude de prova por interceptação telefônica) foi rejeitada por preclusão pro judicato, sem afetar o mérito final, que foi decidido por insuficiência de provas (art. 386, VII, CPP).",
+    "O colaborador premiado George Anderson Olímpio da Silveira e o ex-vice-governador Iberê Ferreira de Souza são citados extensamente no relato fático, mas não figuram como réus nesta AP-1036 (apenas Ezequiel Ferreira de Souza é réu nomeado no cabeçalho e na ata)."
+  ]
+}

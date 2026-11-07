@@ -1,0 +1,180 @@
+id_unidade|indice|status|categoria|anotacao_tipicidade|anotacoes|principal|resposta_tribunal|sim_favorece|padrao_dolo_exigido|modo_concurso|pergunta_outra
+AP-1025-R01-I01|0|ativa|concorreu||prova_colaboracao|Sim|sim|acusacao||autor|
+AP-1025-R01-I01|1|ativa|concorreu||prova_colaboracao|Sim|nao|acusacao||nao_dito|
+AP-1025-R01-I01a|0|ativa|concorreu||prova_colaboracao|Sim|sim|acusacao||autor|
+AP-1025-R01-I01b|0|ativa|concorreu||prova_colaboracao|Sim|nao|acusacao||nao_dito|
+AP-1025-R01-I02|0|ativa|tipicidade|existencia_fato||Sim|sim|acusacao|||Há prova de que os valores ocultados ou dissimulados provinham da infração penal antecedente imputada (corrupção passiva)?
+AP-1025-R01-I02|1|ativa|tipicidade|enquadramento||Nao|sim|acusacao|||Os atos imputados (depósitos fracionados, mútuos fictícios) constituem ocultação autônoma em relação ao recebimento da propina, e não mero exaurimento da corrupção?
+AP-1025-R01-I03|0|ativa|tipicidade|existencia_fato||Sim|sim|acusacao|||Há prova de que os réus se associaram de forma estável e permanente para a prática de crimes?
+AP-1025-R01-I03|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Os fatos preenchem os requisitos de organização criminosa (art. 1º, § 1º, da Lei 12.850/2013: quatro ou mais pessoas, estrutura ordenada, estabilidade e hierarquia entre os núcleos) ou apenas de associação criminosa (art. 288 do CP)?
+AP-1025-R02-I01|0|ativa|concorreu||prova_colaboracao|Sim|sim|acusacao||participe|
+AP-1025-R02-I01|1|ativa|concorreu||prova_colaboracao|Sim|nao|acusacao||nao_dito|
+AP-1025-R02-I01a|0|ativa|concorreu||prova_colaboracao|Sim|sim|acusacao||participe|
+AP-1025-R02-I01b|0|ativa|concorreu||prova_colaboracao|Sim|nao|acusacao||nao_dito|
+AP-1025-R02-I02|0|ativa|tipicidade|existencia_fato||Sim|nao|acusacao|||Há prova de que os valores movimentados (operações com empresas de Alberto Youssef lastreadas em notas falsas) provinham da infração penal antecedente (corrupção no caso UTC)?
+AP-1025-R02-I02|1|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-1025-R02-I03|0|ativa|tipicidade|existencia_fato||Sim|sim|acusacao|||Há prova de que os réus se associaram de forma estável e permanente para a prática de crimes?
+AP-1025-R02-I03|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Os fatos preenchem os requisitos de organização criminosa (art. 1º, § 1º, da Lei 12.850/2013: quatro ou mais pessoas, estrutura ordenada, estabilidade e hierarquia entre os núcleos) ou apenas de associação criminosa (art. 288 do CP)?
+AP-1025-R03-I01|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-1025-R03-I01|1|ativa|dolo|||Sim|nao|acusacao|nao_dito||
+AP-1025-R03-I01|2|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-1025-R03-I01a|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-1025-R03-I01a|1|ativa|dolo|||Sim|nao|acusacao|nao_dito||
+AP-1025-R03-I01b|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-1025-R03-I02|0|ativa|tipicidade|existencia_fato||Sim|sim|acusacao|||Há prova de que os valores ocultados ou dissimulados provinham da infração penal antecedente imputada (corrupção passiva)?
+AP-1025-R03-I02|1|ativa|dolo|||Nao|sim|acusacao|nao_dito||
+AP-1025-R03-I03|0|ativa|tipicidade|existencia_fato||Sim|sim|acusacao|||Há prova de que os réus se associaram de forma estável e permanente para a prática de crimes?
+AP-1025-R03-I03|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Os fatos preenchem os requisitos de organização criminosa (art. 1º, § 1º, da Lei 12.850/2013: quatro ou mais pessoas, estrutura ordenada, estabilidade e hierarquia entre os núcleos) ou apenas de associação criminosa (art. 288 do CP)?
+AP-1032-R01-I01|0|ativa|concorreu||prova_colaboracao|Sim|nao|acusacao||autor|
+AP-1032-R01-I02|0|ativa|tipicidade|existencia_fato||Sim|nao|acusacao|||Há comprovação da ocorrência da infração penal antecedente da qual proviriam os valores supostamente ocultados ou dissimulados?
+AP-1032-R02-I01|0|ativa|concorreu||prova_colaboracao|Sim|nao|acusacao||nao_dito|
+AP-1032-R02-I02|0|ativa|tipicidade|existencia_fato||Sim|nao|acusacao|||Há comprovação da ocorrência da infração penal antecedente da qual proviriam os valores supostamente ocultados ou dissimulados?
+AP-1036-R01-I01|0|ativa|concorreu||prova_colaboracao|Sim|nao|acusacao||autor|
+AP-307-R01-I01a|0|ativa|ato_de_oficio|||Sim|nao|acusacao|||
+AP-307-R01-I01a|1|ativa|concorreu||prova_inquerito|Nao|nao|acusacao||nao_dito|
+AP-307-R01-I01b|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||
+AP-307-R01-I01b|1|ativa|ato_de_oficio|||Sim|nao|acusacao|||
+AP-307-R01-I01c|0|ativa|tipicidade|existencia_fato||Sim|nao|acusacao|||
+AP-307-R01-I01c|1|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-307-R02-I01a|0|ativa|ato_de_oficio|||Sim|nao|acusacao|||
+AP-307-R02-I01a|1|ativa|concorreu||prova_inquerito|Nao|nao|acusacao||nao_dito|
+AP-307-R02-I01b|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||
+AP-307-R02-I01b|1|ativa|ato_de_oficio|||Sim|nao|acusacao|||
+AP-307-R02-I01c|0|ativa|tipicidade|existencia_fato||Sim|nao|acusacao|||
+AP-307-R02-I01c|1|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-307-R03-I01|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-307-R03-I01|1|ativa|tipicidade|existencia_fato||Sim|nao|acusacao|||
+AP-348-R01-I01|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||A contratação direta, sem licitação, ocorreu fora das hipóteses legais de dispensa ou de inexigibilidade, configurando o ilícito administrativo que é antecedente lógico do crime do art. 89 da Lei 8.666/1993? (No caso: a notória especialização dos contratados, aliada à confiança da Administração, caracterizava inexigibilidade de licitação?)
+AP-348-R01-I01|1|excluida|dolo|||Sim|nao|acusacao|especifico||
+AP-365-R01-I01|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||Os fatos provados configuram o crime de peculato imputado, isto é, há comprovação de apropriação ou desvio de dinheiro público, ou o quadro probatório revela apenas aplicação da verba em obra diversa da contratada?
+AP-365-R01-I02|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||A aplicação de verba pública em obra diversa da contratada, sem que haja lei fixando a destinação da verba, configura o crime de emprego irregular de verbas ou rendas públicas (art. 315 do CP), ou apenas infração administrativa?
+AP-365-R01-I02|1|ativa|outra|||Sim|nao|acusacao|||O fato correspondente à tipificação alternativa proposta pela acusação (aplicação de verba diversa da estabelecida em lei) foi descrito na denúncia, de modo a poder ser apreciado pelo Tribunal?
+AP-365-R02-I01|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||Os fatos provados configuram o crime de peculato imputado, isto é, há comprovação de apropriação ou desvio de dinheiro público, ou o quadro probatório revela apenas aplicação da verba em obra diversa da contratada?
+AP-372-R01-I01|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||Houve comprovação da apropriação ou do desvio de bens ou rendas públicas em proveito próprio ou alheio (núcleo objetivo do peculato / art. 1º, I, do DL 201/67), e não mero emprego irregular em proveito da própria Administração?
+AP-372-R01-I01|1|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-372-R01-I02|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||Houve comprovação da apropriação ou do desvio de bens ou rendas públicas em proveito próprio ou alheio (núcleo objetivo do peculato / art. 1º, I, do DL 201/67), e não mero emprego irregular em proveito da própria Administração?
+AP-372-R01-I02|1|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-372-R02-I01|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||Houve comprovação da apropriação ou do desvio de bens ou rendas públicas em proveito próprio ou alheio (núcleo objetivo do peculato / art. 1º, I, do DL 201/67), e não mero emprego irregular em proveito da própria Administração?
+AP-372-R02-I01|1|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-372-R02-I02|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||Houve comprovação da apropriação ou do desvio de bens ou rendas públicas em proveito próprio ou alheio (núcleo objetivo do peculato / art. 1º, I, do DL 201/67), e não mero emprego irregular em proveito da própria Administração?
+AP-372-R02-I02|1|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-375-R01-I01|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||"Atipicidade (art. 386, III, CPP): a aplicação de verba pública em obra/finalidade diversa da contratada, revertida em favor do próprio ente público, configura a apropriação ou o desvio em proveito próprio ou alheio exigidos pelo art. 312 do CP, isto é, o fato narrado constitui infração penal? Evidência: ""Longe fica de configurar crime peculato. o emprego de verba pública em obra diversa da programada, fazendo-se ausente quer a apropriação, quer o desvio em proveito próprio ou alheio"" (p. 1); ""absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal"" (p. 8)."
+AP-375-R01-I02|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||"Atipicidade (art. 386, III, CPP) pelo elemento normativo do art. 315 do CP: existe lei, em sentido formal e material, prevendo a destinação da verba empregada de modo diverso? Evidência: ""A configuração do crime tipificado no artigo 315 Código penal não prescinde da existência de lei, em sentido formal e material, a prever a destinação da verba"" (p. 1)."
+AP-375-R02-I01|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||"Atipicidade estendida ao co-réu (falta de justa causa): a aplicação de verba pública em obra diversa da contratada, revertida em favor do próprio ente público, configura peculato (apropriação ou desvio em proveito próprio ou alheio), isto é, o fato narrado constitui infração penal? Mesma pergunta de AP-375-R01-I01, aqui decidida pela via do habeas corpus de ofício, ""ante a identidade de fato e a conclusão [...] sobre a absolvição de Jackson Barreto de Lima"" (p. 7)."
+AP-396-R01-I01|0|ativa|concorreu|||Sim|sim|acusacao||autor|
+AP-396-R01-I01|1|ativa|dolo|||Sim|sim|acusacao|nao_dito||
+AP-396-R01-I02|0|ativa|tipicidade|enquadramento||Sim|sim|acusacao|||É possível reconhecer o crime de quadrilha (crime plurissubjetivo) contra um único réu julgado em processo desmembrado, sem que haja juízo definitivo, no órgão competente, sobre a atividade criminosa dos demais supostos membros da associação?
+AP-396-R01-I02|1|ativa|tipicidade|existencia_fato||Nao|sim|acusacao|||Há prova de que o réu se associou a pelo menos outras três pessoas, em caráter estável e permanente, com a finalidade de cometer crimes?
+AP-409-R01-I01|0|ativa|concorreu|||Sim|sim|acusacao||autor|
+AP-409-R01-I01|1|ativa|dolo|||Nao|sim|acusacao|generico||
+AP-416-R01-I01|0|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-416-R01-I01|1|ativa|concorreu|||Sim|nao|acusacao||autor|
+AP-426-R01-I01|0|ativa|concorreu|||Sim|nao|acusacao||autor|
+AP-426-R01-I01|1|ativa|dolo|||Sim|nao|acusacao|nao_dito||
+AP-426-R01-I02|0|ativa|dolo|||Sim|nao|acusacao|nao_dito||
+AP-426-R01-I02|1|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-430-R01-I01|0|ativa|tipicidade|existencia_fato||Sim|nao|acusacao|||Há prova da materialidade do fato denunciado, isto é, de que houve frustração do caráter competitivo da licitação mediante ajuste prévio (direcionamento) e dano ao erário (superfaturamento/desvio)?
+AP-430-R01-I01|1|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-430-R01-I02|0|ativa|tipicidade|existencia_fato||Sim|nao|acusacao|||Há prova da materialidade do fato denunciado, isto é, de que houve frustração do caráter competitivo da licitação mediante ajuste prévio (direcionamento) e dano ao erário (superfaturamento/desvio)?
+AP-430-R01-I02|1|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-432-R01-I01|0|ativa|tipicidade|enquadramento||Sim|sim|acusacao|||A conduta de custear com recursos públicos publicidade institucional de caráter autopromocional (promoção pessoal do prefeito, art. 37, § 1º, CF) é penalmente típica como crime do art. 1º do Decreto-Lei 201/1967 (em especial o inciso II, 'utilizar-se, indevidamente, em proveito próprio ou alheio, de bens, rendas ou serviços públicos')? [tipicidade / adequação típica]
+AP-432-R01-I01|1|ativa|dolo|||Nao|sim|acusacao|nao_dito||
+AP-432-R01-I01a|0|ativa|tipicidade|enquadramento||Sim|sim|acusacao|||A conduta de custear com recursos públicos publicidade institucional de caráter autopromocional (promoção pessoal do prefeito, art. 37, § 1º, CF) é penalmente típica como crime do art. 1º do Decreto-Lei 201/1967 (em especial o inciso II, 'utilizar-se, indevidamente, em proveito próprio ou alheio, de bens, rendas ou serviços públicos')? [tipicidade / adequação típica]
+AP-432-R01-I01a|1|ativa|dolo|||Nao|sim|acusacao|nao_dito||
+AP-433-R01-I01|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||A conduta imputada (aceitação, no momento da assinatura do contrato, de pagamento em títulos em desacordo com a lei autorizativa e o edital) ocorreu 'durante a execução do contrato' e se subsume, portanto, ao tipo do art. 92 da Lei 8.666/93 (há tipicidade da conduta)?
+AP-433-R01-I01|1|ativa|dolo|||Sim||acusacao|nao_dito||
+AP-433-R02-I01|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||A conduta imputada (aceitação, no momento da assinatura do contrato, de pagamento em títulos em desacordo com a lei autorizativa e o edital) ocorreu 'durante a execução do contrato' e se subsume, portanto, ao tipo do art. 92 da Lei 8.666/93 (há tipicidade da conduta)?
+AP-433-R02-I01|1|ativa|dolo|||Sim||acusacao|nao_dito||
+AP-441-R01-I01|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||Os fatos narrados na denúncia e provados na instrução se enquadram no tipo imputado (art. 1º, II, do DL 201/67: utilizar-se indevidamente, em proveito próprio ou alheio, de bens, rendas ou serviços públicos)? [tipicidade/adequação típica da imputação original]
+AP-441-R01-I02|0|ativa|tipicidade|enquadramento||Sim|sim|acusacao|||Os fatos narrados na denúncia e provados se subsumem ao tipo do art. 1º, V, do DL 201/67 (ordenar ou efetuar despesa não autorizada por lei), sendo cabível dar-lhes essa nova definição jurídica por emendatio libelli (art. 383 do CPP)? [tipicidade/reclassificação]
+AP-441-R01-I02|1|ativa|dolo|||Nao|sim|acusacao|generico||
+AP-441-R02-I01|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||Os fatos narrados na denúncia e provados na instrução se enquadram no tipo imputado (art. 1º, II, do DL 201/67: utilizar-se indevidamente, em proveito próprio ou alheio, de bens, rendas ou serviços públicos)? [tipicidade/adequação típica da imputação original]
+AP-441-R02-I02|0|ativa|tipicidade|enquadramento||Sim|sim|acusacao|||Os fatos narrados na denúncia e provados se subsumem ao tipo do art. 1º, V, do DL 201/67 (ordenar ou efetuar despesa não autorizada por lei), sendo cabível dar-lhes essa nova definição jurídica por emendatio libelli (art. 383 do CPP)? [tipicidade/reclassificação]
+AP-441-R02-I02|1|ativa|dolo|||Nao|sim|acusacao|generico||
+AP-447-R01-I01|0|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-447-R01-I01|1|ativa|tipicidade|enquadramento||Nao||defesa|||A conduta imputada se subsume apenas ao tipo especial do art. 1º, XIV, do DL 201/67 (especialidade / conflito aparente de normas), afastando a incidência do art. 319 do CP?
+AP-447-R01-I02|0|ativa|concorreu|||Sim|nao|acusacao||autor|
+AP-447-R01-I02|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Há comprovação da materialidade do crime de negar execução a lei federal (art. 1º, XIV, DL 201/67), isto é, a conduta provada (ordem de não autuar / não lançar infrações de veículos oficiais) configura negativa de execução da lei?
+AP-447-R02-I01|0|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-447-R02-I01|1|ativa|tipicidade|enquadramento||Nao||defesa|||A conduta imputada se subsume apenas ao tipo especial do art. 1º, XIV, do DL 201/67 (especialidade / conflito aparente de normas), afastando a incidência do art. 319 do CP?
+AP-447-R02-I02|0|ativa|concorreu|||Sim|nao|acusacao||autor|
+AP-447-R02-I02|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||A conduta de quem não é Prefeito é típica, em concurso de pessoas, no crime de mão própria do art. 1º, XIV, do DL 201/67 (a coautoria depende da autoria comprovada do Prefeito)?
+AP-465-R01-I01|0|ativa|concorreu|||Sim|nao|acusacao||autor|
+AP-465-R01-I01|1|ativa|tipicidade|existencia_fato||Sim|nao|acusacao|||Há prova suficiente da materialidade (existência) do crime imputado ao réu?
+AP-465-R01-I02|0|ativa|outra|||Sim|nao|neutra|||Verificada a prescrição da pretensão punitiva pela pena em abstrato, deve o Tribunal declarar extinta a punibilidade sem examinar o mérito (ainda que o exame do mérito pudesse levar à absolvição)?
+AP-465-R01-I02|1|ativa|concorreu|||Nao|nao|acusacao||autor|
+AP-465-R01-I03|0|ativa|outra|||Sim|nao|neutra|||Verificada a prescrição da pretensão punitiva pela pena em abstrato, deve o Tribunal declarar extinta a punibilidade sem examinar o mérito (ainda que o exame do mérito pudesse levar à absolvição)?
+AP-465-R01-I03|1|ativa|concorreu|||Nao|nao|acusacao||autor|
+AP-470-R14-I01|0|ativa|ato_de_oficio|||Sim|sim|acusacao|||Há comprovação de que a vantagem foi solicitada/recebida pelo parlamentar em razão da função (nexo com atos de ofício, ainda que potenciais, inseridos em suas atribuições), sendo irrelevante a destinação alegada (dívidas de campanha / caixa dois)?
+AP-470-R14-I01|1|ativa|concorreu|||Sim|sim|acusacao||autor|
+AP-470-R15-I01|0|ativa|concorreu|||Sim|sim|acusacao||autor|
+AP-470-R15-I01|1|ativa|ato_de_oficio|||Nao|sim|acusacao|||Há comprovação de que a vantagem foi solicitada/recebida pelo parlamentar em razão da função (nexo com atos de ofício, ainda que potenciais, inseridos em suas atribuições), sendo irrelevante a destinação alegada (dívidas de campanha / caixa dois)?
+AP-470-R16-I01|0|ativa|dolo|||Sim|sim|acusacao|nao_dito||
+AP-470-R16-I01|1|ativa|concorreu|||Nao|sim|acusacao||participe|
+AP-470-R17-I01|0|ativa|ato_de_oficio|||Sim|sim|acusacao|||Há comprovação de que a vantagem foi solicitada/recebida pelo parlamentar em razão da função (nexo com atos de ofício, ainda que potenciais, inseridos em suas atribuições), sendo irrelevante a destinação alegada (dívidas de campanha / caixa dois)?
+AP-470-R17-I01|1|ativa|concorreu|||Sim|sim|acusacao||autor|
+AP-470-R18-I01|0|ativa|dolo|||Sim|sim|acusacao|generico||
+AP-470-R18-I01|1|ativa|concorreu|||Sim|sim|acusacao||participe|
+AP-470-R19-I01|0|ativa|ato_de_oficio|||Sim|sim|acusacao|||Há comprovação de que a vantagem foi solicitada/recebida pelo parlamentar em razão da função (nexo com atos de ofício, ainda que potenciais, inseridos em suas atribuições), sendo irrelevante a destinação alegada (dívidas de campanha / caixa dois)?
+AP-470-R19-I01|1|ativa|concorreu|||Sim|sim|acusacao||autor|
+AP-470-R20-I01|0|ativa|ato_de_oficio|||Sim|sim|acusacao|||Há comprovação de que a vantagem foi solicitada/recebida pelo parlamentar em razão da função (nexo com atos de ofício, ainda que potenciais, inseridos em suas atribuições), sendo irrelevante a destinação alegada (dívidas de campanha / caixa dois)?
+AP-470-R20-I01|1|ativa|concorreu|||Sim|sim|acusacao||autor|
+AP-470-R21-I01|0|ativa|ato_de_oficio|||Sim|sim|acusacao|||Há comprovação de que a vantagem foi solicitada/recebida pelo parlamentar em razão da função (nexo com atos de ofício, ainda que potenciais, inseridos em suas atribuições), sendo irrelevante a destinação alegada (dívidas de campanha / caixa dois)?
+AP-470-R21-I01|1|ativa|concorreu|||Sim|sim|acusacao||autor|
+AP-470-R22-I01|0|ativa|concorreu|||Sim|sim|acusacao||participe|
+AP-470-R22-I01|1|ativa|dolo|||Nao|sim|acusacao|nao_dito||
+AP-470-R23-I01|0|ativa|concorreu|||Sim|sim|acusacao||autor|
+AP-470-R23-I01|1|ativa|ato_de_oficio|||Sim|sim|acusacao|||Há comprovação de que a vantagem foi solicitada/recebida pelo parlamentar em razão da função (nexo com atos de ofício, ainda que potenciais, inseridos em suas atribuições), sendo irrelevante a destinação alegada (dívidas de campanha / caixa dois)?
+AP-503-R01-I01|0|ativa|tipicidade|enquadramento||Sim|sim|acusacao|||Os recursos vinculados a plano ou programa (aqui, verba de empréstimo do BID para o Programa de Transporte Urbano, remanejada por crédito suplementar) foram empregados em desacordo com os planos ou programas a que se destinavam, isto é, houve desvio de finalidade (tredestinação) na sua aplicação? (elementar do tipo do art. 1º, IV, do DL 201/67)
+AP-503-R01-I01|1|ativa|concorreu|||Nao|sim|acusacao||autor|
+AP-503-R01-I02|0|ativa|tipicidade|enquadramento||Sim|nao|defesa|||A despesa ordenada pelo réu (pagamento de precatório/acordo judicial) contava com autorização legal, isto é, havia dotação orçamentária para ela, ou foi despesa não autorizada por lei / em desacordo com as normas financeiras (elementar do art. 1º, V, do DL 201/67)?
+AP-503-R01-I02|1|ativa|tipicidade|enquadramento||Sim|nao|defesa|||Transação/acordo judicial homologado com credor de precatório, ainda que vantajoso ao erário, autoriza o pagamento fora da ordem cronológica de precatórios (afastando a ilicitude da despesa para fins do art. 1º, V, do DL 201/67)?
+AP-503-R01-I03|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||A ordem descumprida (ordem/requisição de pagamento de precatório expedida pelo Presidente do Tribunal) é 'ordem judicial' no sentido do tipo do art. 1º, XIV, do DL 201/67, isto é, decisão de conteúdo jurisdicional, de modo que a conduta é típica?
+AP-508-R01-I01|0|excluida|outra|||Sim|sim|defesa|||A pretensão punitiva estatal quanto a este crime está prescrita, decorrido o prazo do art. 109 do CP desde o último marco interruptivo (recebimento da denúncia)?
+AP-508-R01-I02|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-508-R01-I02|1|excluida|outra|||Sim|nao|acusacao|||A prova obtida por interceptação telefônica pode ser usada contra o réu quando não constam dos autos as decisões judiciais que autorizaram, prorrogaram ou compartilharam a escuta?
+AP-508-R01-I03|0|excluida|outra|||Sim|sim|defesa|||A pretensão punitiva estatal quanto a este crime está prescrita, decorrido o prazo do art. 109 do CP desde o último marco interruptivo (recebimento da denúncia)?
+AP-508-R01-I04|0|excluida|outra|||Sim|sim|defesa|||A pretensão punitiva estatal quanto a este crime está prescrita, decorrido o prazo do art. 109 do CP desde o último marco interruptivo (recebimento da denúncia)?
+AP-527-R01-I01|0|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-527-R01-I01|1|ativa|concorreu|||Sim|nao|acusacao||autor|
+AP-565-R01-I01|0|ativa|concorreu|||Sim|sim|acusacao||autor|
+AP-565-R01-I01|1|ativa|dolo|||Sim|sim|acusacao|especifico||
+AP-565-R01-I02|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||Está atendido o número mínimo de mais de três pessoas associadas exigido pelo art. 288 do Código Penal?
+AP-565-R01-I02|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Há associação estável e permanente para a prática de crimes indeterminados, distinta da mera coautoria em crimes determinados?
+AP-565-R02-I01|0|ativa|concorreu|||Sim|sim|acusacao||nao_dito|
+AP-565-R02-I01|1|ativa|dolo|||Sim|sim|acusacao|especifico||
+AP-565-R02-I02|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||Está atendido o número mínimo de mais de três pessoas associadas exigido pelo art. 288 do Código Penal?
+AP-565-R02-I02|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Há associação estável e permanente para a prática de crimes indeterminados, distinta da mera coautoria em crimes determinados?
+AP-565-R03-I01|0|ativa|concorreu|||Sim|sim|acusacao||nao_dito|
+AP-565-R03-I01|1|ativa|dolo|||Sim|sim|acusacao|especifico||
+AP-565-R03-I02|0|ativa|tipicidade|enquadramento||Sim|nao|acusacao|||Está atendido o número mínimo de mais de três pessoas associadas exigido pelo art. 288 do Código Penal?
+AP-565-R03-I02|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Há associação estável e permanente para a prática de crimes indeterminados, distinta da mera coautoria em crimes determinados?
+AP-565-R04-I01|0|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-565-R04-I01|1|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R04-I02|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R04-I02|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Há associação estável e permanente para a prática de crimes indeterminados, distinta da mera coautoria em crimes determinados?
+AP-565-R05-I01|0|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-565-R05-I01|1|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R05-I02|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R05-I02|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Há associação estável e permanente para a prática de crimes indeterminados, distinta da mera coautoria em crimes determinados?
+AP-565-R06-I01|0|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-565-R06-I01|1|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R06-I02|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R06-I02|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Há associação estável e permanente para a prática de crimes indeterminados, distinta da mera coautoria em crimes determinados?
+AP-565-R07-I01|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R07-I01|1|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-565-R07-I02|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R07-I02|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Há associação estável e permanente para a prática de crimes indeterminados, distinta da mera coautoria em crimes determinados?
+AP-565-R08-I01|0|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-565-R08-I01|1|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R08-I02|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R08-I02|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Há associação estável e permanente para a prática de crimes indeterminados, distinta da mera coautoria em crimes determinados?
+AP-565-R09-I01|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R09-I01|1|ativa|dolo|||Sim|nao|acusacao|especifico||
+AP-565-R09-I02|0|ativa|concorreu|||Sim|nao|acusacao||nao_dito|
+AP-565-R09-I02|1|ativa|tipicidade|enquadramento||Nao|nao|acusacao|||Há associação estável e permanente para a prática de crimes indeterminados, distinta da mera coautoria em crimes determinados?
+AP-940-R01-I01|0|ativa|concorreu|||Sim|nao|acusacao||autor|
+AP-940-R01-I01|1|ativa|tipicidade|existencia_fato||Sim|nao|acusacao|||Há prova de que o servidor comissionado nomeado pelo réu foi pago pelo erário sem exercer as atribuições do cargo (uso da Administração Pública para pagar empregado particular), e não apenas usado também em serviços de natureza privada, hipótese que a Corte trata como penalmente atípica (AP 504; Inq 3.776)?
+AP-940-R01-I01a|0|ativa|concorreu|||Sim|nao|acusacao||autor|
+AP-940-R01-I01b|0|ativa|tipicidade|existencia_fato||Sim|nao|acusacao|||Há prova de que o servidor comissionado nomeado pelo réu foi pago pelo erário sem exercer as atribuições do cargo (uso da Administração Pública para pagar empregado particular), e não apenas usado também em serviços de natureza privada, hipótese que a Corte trata como penalmente atípica (AP 504; Inq 3.776)?
+AP-973-R01-I01|0|ativa|concorreu||prova_inquerito|Sim|sim|acusacao||autor|

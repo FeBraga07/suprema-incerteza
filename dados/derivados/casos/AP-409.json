@@ -1,0 +1,540 @@
+{
+  "id_caso": "AP-409",
+  "extraido_em": "2026-08-08",
+  "fontes_lidas": [
+    "dados/corpus/texto/AP-409.txt"
+  ],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Crime de responsabilidade de Prefeito (art. 1º, inciso IV, do Decreto-Lei 201/1967) — desvio de finalidade de verba de convênio",
+      "evidencia": "EMENTA: AÇÃO PENAL. CRIME DE RESPONSABILIDADE DE PREFEITO (INCISO IV DO ART. 1º DO DECRETO-LEI 201/67). CONVÊNIO FIRMADO PELO MUNICÍPIO DE CAUCAIA/CE COM O MINISTÉRIO DO MEIO AMBIENTE.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "Decisão: O Tribunal, por maioria, julgou procedente a ação, condenando o réu à pena de 2 (dois) anos e 2 (dois) meses de detenção, convertida em duas penas restritivas de direito, consistente no pagamento de 50 (cinquenta) salários-mínimos e prestação de serviços à comunidade [...]",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "REU (É) (S): JOSÉ GERARDO OLIVEIRA DE ARRUDA FILHO",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "AÇÃO PENAL 409 CEARÁ [...] 13/05/2010 [cabeçalho repetido em todas as páginas do acórdão]; e no extrato de ata: 'Plenário, 13.05.2010.' Não há outra data de sessão de julgamento deste processo registrada no texto — a única outra data de sessão citada ('nosso Tribunal na Sessão de 18/02/2009') refere-se a precedente diverso (Ação Penal 447/RS), mencionado por analogia por um dos ministros.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "modalidade_levcovitz": {
+      "valor": [
+        5
+      ],
+      "rotulos": [
+        "Emprego irregular de verbas ou rendas públicas (art. 315, CP, ou equivalente via DL 201/67)"
+      ],
+      "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-409, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"5 (equivalente ao emprego irregular de verbas, art. 315)\"",
+      "regra_aplicada": "inclusao_dl201",
+      "fonte": "ementa+ata",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "José Gerardo Oliveira de Arruda Filho",
+        "evidencia": "REU (É) (S): JOSÉ GERARDO OLIVEIRA DE ARRUDA FILHO",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Prefeito (à época dos fatos — Prefeito do Município de Caucaia/CE; referido no relatório do acórdão como ex-Prefeito no momento do processo)",
+        "evidencia": "1. O acusado firmou, na qualidade de Prefeito do Município de Caucaia/CE, convênio com o Ministério do Meio Ambiente para a construção de açude público. [...] representação criminal, feita pelo Município de Caucaia/CE, contra José Gerardo de Oliveira Arruda Filho (ex-Prefeito municipal).",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação",
+        "evidencia": "O Tribunal, por maioria, julgou procedente a ação, condenando o réu à pena de 2 (dois) anos e 2 (dois) meses de detenção, convertida em duas penas restritivas de direito [...]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "MATERIALIDADE E AUTORIA COMPROVADAS. PROCEDÊNCIA DA ACUSAÇÃO. VIOLAÇÃO AO BEM JURÍDICO TUTELADO PELA NORMA INCRIMINADORA.",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "condenando o réu à pena de 2 (dois) anos e 2 (dois) meses de detenção, convertida em duas penas restritivas de direito [...] nos termos dos votos dos Ministros Ayres Britto (Relator), Joaquim Barbosa (Revisor), Eros Grau, Cármen Lúcia e Ricardo Lewandowski — o resultado vencedor e transitado não contém prescrição. A prescrição da pretensão punitiva foi decretada apenas nos votos vencidos de Marco Aurélio e Cezar Peluso, que aplicavam pena inferior a 2 anos (ver campo 'avisos').",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "1º, IV",
+          "diploma": "Decreto-Lei 201/1967",
+          "evidencia": "CRIME DE RESPONSABILIDADE DE PREFEITO (INCISO IV DO ART. 1º DO DECRETO-LEI 201/67)."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Dias Toffoli. Presidência do Senhor Ministro Cezar Peluso. [...] Ausente a Senhora Ministra Ellen Gracie, em representação do Tribunal na 10ª Conferência Bienal da International Association of Women Judges (IAWJ), em Seul, Coreia do Sul.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 7,
+        "evidencia": "nos termos dos votos dos Ministros Ayres Britto (Relator), Joaquim Barbosa (Revisor), Eros Grau, Cármen Lúcia e Ricardo Lewandowski",
+        "fonte": "ata",
+        "confianca": "alta",
+        "valor_extraido_original": 5,
+        "nota_revisao": "D-030 (19/09/2026, decisão do pesquisador): Marco Aurélio e Cezar Peluso julgaram procedente a ação com pena que gerava prescrição; pela D-018 (resultado segue o mérito) contam como votos de condenação. A ata traz as duas contagens (Cármen Lúcia: 5; Peluso ao proclamar: 7, acórdão p.97-98). Valor original da extração (5) preservado em valor_extraido_original. Gabarito manual de 08/08 já apurava 7x3."
+      },
+      "votos_absolvicao": {
+        "valor": 3,
+        "evidencia": "dos votos dos Senhores Ministros Dias Toffoli, Gilmar Mendes e Celso de Mello, que julgavam improcedente a ação, absolvendo o réu.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "O Tribunal, por maioria, julgou procedente a ação [...] contra os votos dos Ministros Marco Aurélio e Cezar Peluso [...] e dos votos dos [...] Dias Toffoli, Gilmar Mendes e Celso de Mello, que julgavam improcedente a ação, absolvendo o réu.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {
+        "valor": "Ayres Britto",
+        "evidencia": "MIN. AYRES BRITTO ... RELATOR",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "eh_relator": {
+        "valor": true,
+        "evidencia": "RELATOR : MIN. AYRES BRITTO",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "nos termos dos votos dos Ministros Ayres Britto (Relator) [...] condenando o réu à pena de 2 (dois) anos e 2 (dois) meses de detenção",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false,
+        "evidencia": "voto integrante da corrente vencedora (maioria de 5 votos que fixou a pena de 2 anos e 2 meses)",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "ausente": {
+        "valor": false,
+        "evidencia": "Presentes à sessão os Senhores Ministros [...] Ayres Britto [...]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo_ausencia": {
+        "valor": null,
+        "evidencia": "não se aplica — ministro presente e votante",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Joaquim Barbosa",
+        "evidencia": "REVISOR : MIN. JOAQUIM BARBOSA",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "REVISOR : MIN. JOAQUIM BARBOSA (função de Revisor, não de Relator)",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "nos termos dos votos dos Ministros Ayres Britto (Relator), Joaquim Barbosa (Revisor) [...]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false,
+        "evidencia": "voto integrante da corrente vencedora",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "ausente": {
+        "valor": false,
+        "evidencia": "Presentes à sessão os Senhores Ministros [...] Joaquim Barbosa [...]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo_ausencia": {
+        "valor": null,
+        "evidencia": "não se aplica",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Eros Grau",
+        "evidencia": "Eros Grau",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "não consta como relator nem revisor",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "O SENHOR MINISTRO EROS GRAU: - Senhor Presidente, se Suas Excelências a Ministra Cármen Lúcia e o Ministro Dias Toffoli me permitirem, vou pedir vênia para me antecipar a eles e acompanhar o Relator e o Revisor, inclusive, na dosimetria.",
+        "fonte": "acordao p.66",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false,
+        "evidencia": "voto integrante da corrente vencedora",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "ausente": {
+        "valor": false,
+        "evidencia": "Presentes à sessão os Senhores Ministros [...] Eros Grau [...]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo_ausencia": {
+        "valor": null,
+        "evidencia": "não se aplica",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Cármen Lúcia",
+        "evidencia": "Cármen Lúcia",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "não consta como relatora nem revisora",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "A SENHORA MINISTRA CÁRMEN LÚCIA - Senhor Presidente, vou pedir vênia ao Ministro Dias Toffoli para acompanhar o voto, porém a conclusão do Ministro Revisor traz duas diferenças em relação à dosimetria ou à fixação da pena [...]",
+        "fonte": "acordao p.72",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false,
+        "evidencia": "voto integrante da corrente vencedora",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "ausente": {
+        "valor": false,
+        "evidencia": "Presentes à sessão os Senhores Ministros [...] Cármen Lúcia [...]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo_ausencia": {
+        "valor": null,
+        "evidencia": "não se aplica",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Ricardo Lewandowski",
+        "evidencia": "Ricardo Lewandowski",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "não consta como relator nem revisor",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "estou de acordo com a condenação, acompanhando, portanto, tanto o voto do Relator quanto do Revisor.",
+        "fonte": "acordao p.73",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false,
+        "evidencia": "voto integrante da corrente vencedora",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "ausente": {
+        "valor": false,
+        "evidencia": "Presentes à sessão os Senhores Ministros [...] Lewandowski [...]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo_ausencia": {
+        "valor": null,
+        "evidencia": "não se aplica",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Marco Aurélio",
+        "evidencia": "Marco Aurélio",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "não consta como relator nem revisor",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "quanto às premissas do voto relativamente à imputação, acompanho o relator e o revisor [...] Fixo a pena em um ano e seis meses e, tendo em conta a que foi concretizada, assento a prescrição da pretensão punitiva.",
+        "fonte": "acordao p.65",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": true,
+        "evidencia": "contra os votos dos Ministros Marco Aurélio e Cezar Peluso (Presidente), que, julgando procedente a ação, aplicavam penas inferiores a 2 (dois) anos e, em consequência, decretavam a prescrição da pretensão punitiva à vista das penas em concreto",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "ausente": {
+        "valor": false,
+        "evidencia": "Presentes à sessão os Senhores Ministros [...] Marco Aurélio [...]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo_ausencia": {
+        "valor": null,
+        "evidencia": "não se aplica",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Cezar Peluso",
+        "evidencia": "Presidência do Senhor Ministro Cezar Peluso.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "Presidente da sessão, não relator nem revisor",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "voto_resultado": {
+        "valor": "condena",
+        "evidencia": "É como voto. Julgo procedente a ação e condeno o réu à pena de nove meses de detenção. E, diante dessa pena, acompanho o Ministro Marco Aurélio e decreto a prescrição, à vista da pena em concreto.",
+        "fonte": "acordao p.95",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": true,
+        "evidencia": "contra os votos dos Ministros Marco Aurélio e Cezar Peluso (Presidente), que, julgando procedente a ação, aplicavam penas inferiores a 2 (dois) anos e, em consequência, decretavam a prescrição da pretensão punitiva à vista das penas em concreto",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "ausente": {
+        "valor": false,
+        "evidencia": "Presidência do Senhor Ministro Cezar Peluso, presente e votante",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo_ausencia": {
+        "valor": null,
+        "evidencia": "não se aplica",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Dias Toffoli",
+        "evidencia": "Dias Toffoli",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "não consta como relator nem revisor",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "julgo improcedente a ação penal, Senhor Presidente, e absolvo acusado com fundamento no artigo 386, IV, do Código Penal.",
+        "fonte": "acordao p.71",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": true,
+        "evidencia": "dos votos dos Ministros Dias Toffoli, Gilmar Mendes e Celso de Mello, que julgavam improcedente a ação, absolvendo o réu",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "ausente": {
+        "valor": false,
+        "evidencia": "Presentes à sessão os Senhores Ministros [...] Dias Toffoli.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo_ausencia": {
+        "valor": null,
+        "evidencia": "não se aplica",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Gilmar Mendes",
+        "evidencia": "Gilmar Mendes",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "não consta como relator nem revisor",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Senhor Presidente, peço vênia ao Relator, ao Revisor e aos que o seguiram, para acompanhar o voto do Ministro Dias Toffoli. [...] julgo improcedente a ação, nos termos já manifestados pelo Ministro Toffoli e na linha que ele e eu já adotávamos em outro caso [...]",
+        "fonte": "acordao p.81-88",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": true,
+        "evidencia": "dos votos dos Ministros Dias Toffoli, Gilmar Mendes e Celso de Mello, que julgavam improcedente a ação, absolvendo o réu",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "ausente": {
+        "valor": false,
+        "evidencia": "Presentes à sessão os Senhores Ministros [...] Gilmar Mendes [...]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo_ausencia": {
+        "valor": null,
+        "evidencia": "não se aplica",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Celso de Mello",
+        "evidencia": "Celso de Mello",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "não consta como relator nem revisor",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "dos votos dos Ministros Dias Toffoli, Gilmar Mendes e Celso de Mello, que julgavam improcedente a ação, absolvendo o réu",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": true,
+        "evidencia": "dos votos dos Ministros Dias Toffoli, Gilmar Mendes e Celso de Mello, que julgavam improcedente a ação, absolvendo o réu",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "ausente": {
+        "valor": false,
+        "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello [...]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo_ausencia": {
+        "valor": null,
+        "evidencia": "não se aplica",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Ellen Gracie",
+        "evidencia": "Ausente a Senhora Ministra Ellen Gracie, em representação do Tribunal na 10ª Conferência Bienal da International Association of Women Judges (IAWJ), em Seul, Coreia do Sul.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "não consta como relatora nem revisora",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "voto_resultado": {
+        "valor": "não votou",
+        "evidencia": "Ausente a Senhora Ministra Ellen Gracie [...]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false,
+        "evidencia": "não participou do julgamento, não se aplica noção de vencido/vencedor",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "ausente": {
+        "valor": true,
+        "evidencia": "Ausente a Senhora Ministra Ellen Gracie, em representação do Tribunal na 10ª Conferência Bienal da International Association of Women Judges (IAWJ), em Seul, Coréia do Sul.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo_ausencia": {
+        "valor": "representação do Tribunal em evento internacional (10ª Conferência Bienal da International Association of Women Judges, em Seul, Coreia do Sul)",
+        "evidencia": "em representação Tribunal na 10ª Conferência Bienal da International Association of Women Judges IANJ, em Seul, Coréia do Sul.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "avisos": [
+    "REGRA CRÍTICA DESTE CASO (aplicação da regra 2 do prompt): a expressão 'prescrição da pretensão punitiva' aparece nos votos de Marco Aurélio e Cezar Peluso, mas eles NÃO formaram a corrente vencedora nem o resultado final. Ambos consideraram a ação PROCEDENTE (reconheceram autoria e materialidade, na linha do Relator e do Revisor), mas divergiram apenas quanto ao QUANTUM da pena (fixaram pena abaixo de 2 anos), o que, em consequência, levaria à prescrição retroativa da pretensão punitiva pela pena em concreto. Essa posição ficou vencida. O resultado que efetivamente transitou foi CONDENAÇÃO a 2 anos e 2 meses de detenção, convertida em penas restritivas de direitos, SEM prescrição. Não há, portanto, 'absolvição por prescrição' nem 'condenação seguida de prescrição' no resultado final deste caso — apenas um argumento de prescrição presente em votos vencidos sobre dosimetria da pena.",
+    "Disputa interna sobre a própria metodologia de contagem de votos: durante a sessão, os próprios ministros divergiram sobre como contar o resultado. A Ministra Cármen Lúcia afirmou 'São cinco votos pela condenação, nos termos do Relator' (contando só a corrente que prevaleceu com a pena de 2 anos e 2 meses). Já o Ministro Cezar Peluso, ao proclamar o resultado, contou de outra forma: 'O Ministro Ayres Britto condena, e não há prescrição [...] Quantos votos temos?' [...] 'Três votos de absolvição; dois votos de condenação, porém, com dois de prescrição. A corrente que ficou vencida foi sobre prescrição; condenação é maioria; são sete votos por condenação' (acordao p.97-98) — ou seja, para Peluso, 7 ministros (os 5 vencedores + ele mesmo + Marco Aurélio) concordavam quanto à CONDENAÇÃO em si, discordando apenas quanto à pena aplicada (2 votos favoráveis a pena que geraria prescrição vs. 5 contrários). O Ministro Gilmar Mendes chegou a propor um modelo alternativo de votação em duas etapas (primeiro condenação/absolvição, depois dosimetria), na linha do que teria sido preconizado pelo Ministro Celso de Mello, mas a proposta não foi adotada nesta sessão ('Vossa Excelência quer voltar atrás e retratar-se, é direito de Vossa Excelência, eu consigno e apuro o resultado diante da retratação' — Cezar Peluso, acordao p.102). Registrei votos_condenacao=5 e votos_absolvicao=3 seguindo a redação oficial da ata/acórdão (que nomeia os 5 como a corrente vencedora e trata os 2 votos de Marco Aurélio/Peluso como 'contra'), mas a leitura alternativa de 7 (condenação) x 3 (absolvição) discutida em plenário parece diretamente relevante para a tese de insegurança jurídica/instabilidade institucional do TCC — não é mudança de resultado entre casos, mas ambiguidade não resolvida sobre como agregar votos individuais em um resultado colegiado.",
+    "Não foi localizado no texto do acórdão o voto individual por extenso do Ministro Celso de Mello (apenas falas suas em apartes, marcadas como 'inserido ante o cancelamento do aparte por Sua Excelência', portanto retiradas/canceladas nas notas taquigráficas). Seu resultado de voto (absolve) é conhecido apenas pela ata oficial e por referências de outros ministros durante a sessão — daí confiança 'media' no campo voto_resultado dele, embora o resultado agregado da ata tenha confiança alta.",
+    "Cargo do réu: à época dos fatos (1997-2001) era Prefeito de Caucaia/CE; no relatório do acórdão (2010) já é chamado de 'ex-Prefeito municipal'; e, segundo aparte do Ministro Marco Aurélio durante a sessão de julgamento ('Ele hoje é Deputado Federal'), à data do julgamento (13/05/2010) o réu já exercia mandato de Deputado Federal — mencionado apenas incidentalmente na discussão sobre os efeitos da condenação (inabilitação para função), não como cargo imputado no crime.",
+    "OCR: o arquivo apresenta ruído de digitalização recorrente (ex.: 'Bxasília' por 'Brasília', 'Fribunal' por 'Tribunal', 'PELOSO' e 'GIIMAR' por 'PELUSO'/'GILMAR', 'IANJ' por 'IAWJ', quebras de linha e palavras fragmentadas). Nenhum desses erros comprometeu a identificação dos nomes/números centrais, pois todos aparecem de forma limpa e repetida em outras passagens do mesmo documento (cabeçalhos, ementa, extrato de ata).",
+    "A referência a 'nosso Tribunal na Sessão de 18/02/2009' (linha ~1081 do texto) NÃO é uma sessão anterior deste processo (AP 409); trata-se de citação, por um dos ministros, de precedente diverso (Ação Penal 447/RS) para fins de fundamentação. Confirmado que o julgamento de mérito da AP 409 ocorreu em sessão única, 13/05/2010."
+  ]
+}

@@ -1,0 +1,4 @@
+categoria|limiar|descricao
+Unânime|perc_vencedor = 100%|Todos os votantes no mesmo sentido
+Folgado|perc_vencedor >= 70%|Maioria de 70% ou mais dos votantes (ex.: 8x3 ou mais folgado, em plenário de 11)
+Apertado|perc_vencedor < 70%|Maioria abaixo de 70% dos votantes (ex.: 6x5, 7x4)

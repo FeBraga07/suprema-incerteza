@@ -1,0 +1,34 @@
+id_unidade|resultado|placar|necessarios|apoio_por_questao|apoio_uniao|r12_dispara|principais_antes|nota
+AP-1025-R01-I02|Condena|8x2|6|q0 tipicidade=8; q1 tipicidade=8|8|nao|q0|
+AP-1025-R01-I03|Condena|8x2|6|q0 tipicidade=8; q1 tipicidade=4|8|nao|q0|
+AP-1025-R02-I03|Condena|8x2|6|q0 tipicidade=8; q1 tipicidade=4|8|nao|q0|
+AP-1025-R03-I02|Condena|8x2|6|q0 tipicidade=8; q1 dolo=5|8|nao|q0|
+AP-1025-R03-I03|Condena|8x2|6|q0 tipicidade=8; q1 tipicidade=4|8|nao|q0|
+AP-307-R01-I01a|Absolve|3x5|5|q0 ato_de_oficio=5; q1 concorreu=3|5|nao|q0|
+AP-307-R02-I01a|Absolve|3x5|5|q0 ato_de_oficio=5; q1 concorreu=3|5|nao|q0|
+AP-396-R01-I02|Condena|7x1|5|q0 tipicidade=7; q1 tipicidade=7|7|nao|q0|
+AP-409-R01-I01|Condena|7x3|6|q0 concorreu=7; q1 dolo=7|7|nao|q0|
+AP-432-R01-I01a|Condena|5x3|5|q0 tipicidade=5; q1 dolo=3|5|nao|q0|
+AP-433-R01-I01|Absolve|5x6|6|q0 tipicidade=5; q1 dolo=2|6|SIM|q0|decidida no gate
+AP-433-R02-I01|Absolve|5x6|6|q0 tipicidade=5; q1 dolo=1|5|SIM|q0|decidida no gate
+AP-441-R01-I02|Condena|9x1|6|q0 tipicidade=6; q1 dolo=6|6|nao|q0|
+AP-441-R02-I02|Condena|9x1|6|q0 tipicidade=6; q1 dolo=6|6|nao|q0|
+AP-447-R01-I02|Absolve|4x6|6|q0 concorreu=6; q1 tipicidade=3|6|nao|q0|
+AP-447-R02-I02|Absolve|4x6|6|q0 concorreu=6; q1 tipicidade=6|6|nao|q0|
+AP-470-R15-I01|Condena|7x3|6|q0 concorreu=7; q1 ato_de_oficio=7|7|nao|q0|
+AP-470-R16-I01|Condena|9x1|6|q0 dolo=7; q1 concorreu=9|9|nao|q0|
+AP-470-R22-I01|Condena|7x3|6|q0 concorreu=7; q1 dolo=6|7|nao|q0|
+AP-503-R01-I01|Condena|6x1|4|q0 tipicidade=6; q1 concorreu=6|6|nao|q0|
+AP-565-R01-I02|Absolve|2x8|6|q0 tipicidade=5; q1 tipicidade=6|8|nao|q0|
+AP-565-R02-I02|Absolve|2x8|6|q0 tipicidade=5; q1 tipicidade=6|8|nao|q0|
+AP-565-R03-I02|Absolve|2x8|6|q0 tipicidade=5; q1 tipicidade=6|8|nao|q0|
+AP-565-R04-I01|Absolve|5x5|5|q0 dolo=4; q1 concorreu=5|5|nao|q0|R5, empate na separação (D-050)
+AP-565-R04-I02|Absolve|2x8|6|q0 concorreu=5; q1 tipicidade=6|8|nao|q0|
+AP-565-R05-I01|Absolve|5x5|5|q0 dolo=4; q1 concorreu=5|5|nao|q0|R5, empate na separação (D-050)
+AP-565-R05-I02|Absolve|2x8|6|q0 concorreu=5; q1 tipicidade=6|8|nao|q0|
+AP-565-R06-I01|Absolve|5x5|5|q0 dolo=4; q1 concorreu=5|5|nao|q0|R5, empate na separação (D-050)
+AP-565-R06-I02|Absolve|2x8|6|q0 concorreu=5; q1 tipicidade=6|8|nao|q0|
+AP-565-R07-I02|Absolve|2x8|6|q0 concorreu=5; q1 tipicidade=6|8|nao|q0|
+AP-565-R08-I01|Absolve|5x5|5|q0 dolo=4; q1 concorreu=5|5|nao|q0|R5, empate na separação (D-050)
+AP-565-R08-I02|Absolve|2x8|6|q0 concorreu=5; q1 tipicidade=6|8|nao|q0|
+AP-565-R09-I02|Absolve|2x8|6|q0 concorreu=5; q1 tipicidade=6|8|nao|q0|

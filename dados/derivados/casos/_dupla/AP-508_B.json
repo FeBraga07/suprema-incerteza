@@ -1,0 +1,211 @@
+{
+  "id_caso": "AP-508",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-508.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Ação Penal Originária",
+      "evidencia": "AÇÃO PENAL 508 AMAPÁ (...) Ação penal originária. Extinção da punibilidade do agente em razão da prescrição. Absolvição por insuficiência de provas. Presunção de inocência e in dubio pro reo.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado, e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU(É)(S) : SEBASTIÃO FERREIRA DA ROCHA",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Brasília, Sessão Virtual de 25 de junho a 02 de agosto de 2021.",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Sebastião Ferreira da Rocha",
+        "evidencia": "RÉU(É)(S) : SEBASTIÃO FERREIRA DA ROCHA",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Secretário de Estado da Saúde do Amapá (à época dos fatos, de 2.1.2003 a 2.6.2004); posteriormente Deputado Federal (motivo da competência originária do STF, mandato encerrado em 31.1.2015)",
+        "evidencia": "Ressaltou haver o acusado, então Secretário de Estado da Saúde, ante recebimento de propina, direcionado certame relativo a reforma do hospital (...) Em 29 de março de 2007, o processo veio ao Supremo, em virtude da diplomação do acusado, em 14 de dezembro de 2006, no cargo de deputado federal (...) tendo em conta não exercer o réu, desde 31 de janeiro de 2015, mandato de deputado federal",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Extinção da punibilidade",
+        "evidencia": "declarou a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado, e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal)",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "motivo": {
+        "valor": "prescrição",
+        "evidencia": "no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "considerada a prescrição da pretensão punitiva do Estado (não da pretensão executória) — não há, em nenhum momento do acórdão ou da ata, menção a condenação anterior deste réu; a extinção foi declarada sem exame de mérito quanto aos crimes prescritos",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "288",
+          "diploma": "Código Penal (associação criminosa)",
+          "evidencia": "considerados os crimes dos artigos 288 (associação criminosa), 317, § 1º (corrupção passiva), 319 (prevaricação) do Código Penal e 90 (...) da Lei nº 8.666/1993 — extinção da punibilidade pela prescrição, declarada por unanimidade"
+        },
+        {
+          "artigo": "317, §1º",
+          "diploma": "Código Penal (corrupção passiva)",
+          "evidencia": "317, § 1º (corrupção passiva) (...) do Código Penal — absolvido por insuficiência de provas (art. 386, VII, CPP), por unanimidade"
+        },
+        {
+          "artigo": "319",
+          "diploma": "Código Penal (prevaricação)",
+          "evidencia": "319 (prevaricação) do Código Penal — extinção da punibilidade pela prescrição, declarada por unanimidade"
+        },
+        {
+          "artigo": "92",
+          "diploma": "Lei nº 8.666/1993",
+          "evidencia": "Citando o artigo 383 do Código de Processo Penal, argumenta que a conduta descrita na denúncia (...) amolda-se ao tipo do artigo 92 (dar vantagem a adjudicatário durante a execução de contrato) da Lei de Licitações — extinção da punibilidade pela prescrição, declarada por unanimidade. NOTA: a denúncia original imputava o art. 90 da Lei 8.666/1993 ('fraudar o caráter competitivo de licitação'); a PGR requereu emendatio libelli para o art. 92 nas alegações finais, e é esse o tipo efetivamente extinto no dispositivo"
+        }
+      ],
+      "n_votantes": {
+        "valor": 11,
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes e Nunes Marques.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade (...) declarou a extinção da punibilidade (...) e (...) absolveu o réu (...) nos termos do voto do Relator — não há registro de nenhum voto pela condenação",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 11,
+        "evidencia": "O Tribunal, por unanimidade (...) declarou a extinção da punibilidade (...) e (...) absolveu o réu (...) nos termos do voto do Relator",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade (...) e, quanto ao crime do artigo 317, absolveu o réu (...), nos termos do voto do Relator.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Marco Aurélio", "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO"},
+      "eh_relator": {"valor": true, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO"},
+      "voto_resultado": {"valor": "absolve", "fonte": "acordao p.9-13", "confianca": "alta", "evidencia": "Ante o quadro, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declaro a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado. Quanto ao crime do artigo 317, absolvo o réu – artigo 386, inciso VII, do Código de Processo Penal. (registrado como 'absolve' por aproximação; não houve voto de condenação em nenhum capítulo — ver avisos sobre limitação do vocabulário)"},
+      "vencido": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "por unanimidade (...) nos termos do voto do Relator"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros Luiz Fux (Presidente), Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes e Nunes Marques."},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente e votante"}
+    },
+    {
+      "ministro": {"valor": "Gilmar Mendes", "fonte": "ata", "confianca": "alta", "evidencia": "REDATOR DO ACÓRDÃO RISTF : MIN. GILMAR MENDES / REVISOR : MIN. GILMAR MENDES"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO (Gilmar Mendes é revisor e redator do acórdão, não relator)"},
+      "voto_resultado": {"valor": "absolve", "fonte": "acordao p.14-18", "confianca": "alta", "evidencia": "Ante o exposto, considerada a prescrição da pretensão punitiva do Estado, voto pela extinção da punibilidade no tocante aos crimes dos arts. 288, 319 CP e do art. 92 da Lei 8.666/1993. Considerando a insuficiência de provas, voto pela absolvição do réu quanto ao delito de corrupção passiva (art. 317 do CP), nos termos do art. 386, VII, CPP. (registrado como 'absolve' por aproximação — ver avisos)"},
+      "vencido": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "por unanimidade (...) nos termos do voto do Relator"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros Luiz Fux (Presidente), Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes e Nunes Marques."},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente e votante"}
+    },
+    {
+      "ministro": {"valor": "Luiz Fux", "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros Luiz Fux (Presidente), Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes e Nunes Marques."},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO"},
+      "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media", "evidencia": "por unanimidade (...) nos termos do voto do Relator — não nomeado individualmente como vencido, ausente, impedido ou suspeito; deduz-se voto com a maioria unânime"},
+      "vencido": {"valor": false, "fonte": "deducao D-004", "confianca": "media", "evidencia": "não nomeado como vencido"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros Luiz Fux (Presidente) (...)"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Ricardo Lewandowski", "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Ricardo Lewandowski (...)"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO"},
+      "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media", "evidencia": "por unanimidade (...) nos termos do voto do Relator — não nomeado individualmente; deduz-se voto com a maioria unânime"},
+      "vencido": {"valor": false, "fonte": "deducao D-004", "confianca": "media", "evidencia": "não nomeado como vencido"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Ricardo Lewandowski (...)"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Cármen Lúcia", "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Cármen Lúcia (...)"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO"},
+      "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media", "evidencia": "por unanimidade (...) nos termos do voto do Relator — não nomeada individualmente; deduz-se voto com a maioria unânime"},
+      "vencido": {"valor": false, "fonte": "deducao D-004", "confianca": "media", "evidencia": "não nomeada como vencida"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Cármen Lúcia (...)"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Dias Toffoli", "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Dias Toffoli (...)"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO"},
+      "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media", "evidencia": "por unanimidade (...) nos termos do voto do Relator — não nomeado individualmente; deduz-se voto com a maioria unânime"},
+      "vencido": {"valor": false, "fonte": "deducao D-004", "confianca": "media", "evidencia": "não nomeado como vencido"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Dias Toffoli (...)"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Rosa Weber", "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Rosa Weber (...)"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO"},
+      "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media", "evidencia": "por unanimidade (...) nos termos do voto do Relator — não nomeada individualmente; deduz-se voto com a maioria unânime"},
+      "vencido": {"valor": false, "fonte": "deducao D-004", "confianca": "media", "evidencia": "não nomeada como vencida"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Rosa Weber (...)"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Roberto Barroso", "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Roberto Barroso (...)"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO"},
+      "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media", "evidencia": "por unanimidade (...) nos termos do voto do Relator — não nomeado individualmente; deduz-se voto com a maioria unânime"},
+      "vencido": {"valor": false, "fonte": "deducao D-004", "confianca": "media", "evidencia": "não nomeado como vencido"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Roberto Barroso (...)"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Edson Fachin", "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Edson Fachin (...)"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO"},
+      "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media", "evidencia": "por unanimidade (...) nos termos do voto do Relator — não nomeado individualmente; deduz-se voto com a maioria unânime"},
+      "vencido": {"valor": false, "fonte": "deducao D-004", "confianca": "media", "evidencia": "não nomeado como vencido"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Edson Fachin (...)"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Alexandre de Moraes", "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Alexandre de Moraes (...)"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO"},
+      "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media", "evidencia": "por unanimidade (...) nos termos do voto do Relator — não nomeado individualmente; deduz-se voto com a maioria unânime"},
+      "vencido": {"valor": false, "fonte": "deducao D-004", "confianca": "media", "evidencia": "não nomeado como vencido"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) Alexandre de Moraes (...)"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Nunes Marques", "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) e Nunes Marques."},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. MARCO AURÉLIO"},
+      "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media", "evidencia": "por unanimidade (...) nos termos do voto do Relator — não nomeado individualmente; deduz-se voto com a maioria unânime"},
+      "vencido": {"valor": false, "fonte": "deducao D-004", "confianca": "media", "evidencia": "não nomeado como vencido"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Composição: Ministros (...) e Nunes Marques."},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    }
+  ],
+  "avisos": [
+    "RÉU ÚNICO NESTE AP, MAS DENÚNCIA ORIGINAL ERA CONTRA MAIS PESSOAS: o relatório do voto do Relator registra 'O Ministério Público Federal ajuizou ação penal contra Sebastião Ferreira da Rocha e outras pessoas'. Apenas Sebastião consta como réu perante o STF (prerrogativa de foro por ter sido diplomado deputado federal em 14/12/2006); os demais corréus não figuram no polo passivo deste AP-508 e presumivelmente tiveram seus processos desmembrados para outra instância.",
+    "RESULTADO MISTO SEM QUALQUER CONDENAÇÃO: o dispositivo declarou extinção da punibilidade pela prescrição da pretensão punitiva (não executória) quanto aos crimes dos arts. 288, 319 do CP e 92 da Lei 8.666/93 — ou seja, sem exame de mérito quanto a esses três tipos — e absolveu o réu por insuficiência de provas (art. 386, VII, CPP) quanto ao art. 317 do CP (corrupção passiva), este sim com exame de mérito. Não houve condenação em nenhum capítulo. O vocabulário controlado (Condenação / Condenação parcial / Absolvição / Extinção da punibilidade) não contempla a combinação 'extinção + absolvição, sem condenação'. Optou-se por registrar 'resultado' = 'Extinção da punibilidade' (desfecho de 3 dos 4 tipos imputados), mas o único capítulo em que houve efetivo juízo de mérito sobre a acusação de corrupção passiva propriamente dita (art. 317 CP) foi Absolvição por insuficiência de provas/in dubio pro reo — ver campo 'crimes' para o detalhamento por artigo. Recomenda-se tratamento especial deste caso na análise de estabilidade decisória, dado que a corrupção passiva (o núcleo do caso sob a ótica de Levcovitz) não foi extinta por prescrição, mas absolvida por mérito.",
+    "RECLASSIFICAÇÃO DO CRIME DA LEI 8.666/93 (emendatio libelli): a denúncia original imputou o art. 90 da Lei 8.666/1993 ('fraudar o caráter competitivo de licitação'). Nas alegações finais, a PGR, citando o art. 383 do CPP, requereu a reclassificação para o art. 92 ('dar vantagem a adjudicatário durante a execução de contrato'), e é esse o tipo (art. 92) que consta do dispositivo do acórdão e da ata como extinto pela prescrição — não o art. 90 originalmente denunciado.",
+    "DIVERGÊNCIA COM A TABELA DE COMPOSIÇÃO FORNECIDA: o relator, Ministro Marco Aurélio, teria deixado o STF em 05/07/2021 segundo a tabela de referência — data anterior ao encerramento da sessão virtual deste julgamento (25/06 a 02/08/2021) e à data de publicação do acórdão (03/08/2021). A ata, contudo, lista explicitamente Marco Aurélio na 'Composição' da sessão de julgamento e ele proferiu voto de mérito completo, juntado ao acórdão como voto do Relator. Isso é consistente com o fato de o acórdão ter sido redigido pelo revisor, Ministro Gilmar Mendes, e não pelo relator: 'Redigirá o acórdão o Ministro Gilmar Mendes (art. 38, IV, b, do RI/STF)' — dispositivo regimental aplicável quando o relator deixa o cargo antes da lavratura do acórdão, mas cujo voto, proferido durante a sessão virtual antes de sua saída, permanece válido e é computado. Seguiu-se a ata (que tem precedência), registrando Marco Aurélio como votante e relator nesta sessão específica.",
+    "LIMITAÇÃO DO VOCABULÁRIO 'voto_resultado': as opções disponíveis (condena / absolve / não votou) não contemplam 'extingue a punibilidade por prescrição'. Como nenhum dos 11 ministros votou pela condenação em qualquer capítulo, todos os votos foram registrados como 'absolve' por aproximação nesse campo; o teor exato e distinto de cada voto (extinção quanto a 3 tipos + absolvição quanto ao art. 317) está detalhado nos campos 'resultado'/'motivo'/'crimes' do réu, não no array 'votos'.",
+    "Composição da sessão (11 ministros votantes) — Luiz Fux (Presidente), Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes e Nunes Marques — não menciona nenhum ministro ausente, impedido ou suspeito nesta sessão; corresponde exatamente aos 11 ministros em exercício esperados pela tabela de referência (excluído Celso de Mello, que já havia deixado o Tribunal em 13/10/2020, antes desta sessão).",
+    "Ação de improbidade administrativa correlata (processo nº 0018210-63.2008.8.03.0001, 6ª Vara de Fazenda Pública de Macapá) absolveu o mesmo réu na esfera cível quanto a fatos relacionados à mesma licitação do Hospital de Especialidades. O relator expressamente afastou repercussão dessa decisão cível no processo penal, com base no art. 935 do Código Civil (independência das esferas). Mencionado apenas como argumento de defesa, sem afetar o dispositivo penal.",
+    "Julgamento ocorreu em Sessão Virtual (Plenário Virtual), não em sessão presencial/por videoconferência com pauta oral: 'Brasília, Sessão Virtual de 25 de junho a 02 de agosto de 2021'. Não há elementos que indiquem julgamento fracionado em mais de uma sessão distinta para o mérito deste AP — apenas essa única sessão virtual."
+  ]
+}

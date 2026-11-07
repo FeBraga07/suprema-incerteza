@@ -1,0 +1,206 @@
+{
+  "id_caso": "AP-527",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-527.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Dispensa ou inexigibilidade de licitação fora das hipóteses previstas em lei (art. 89, caput, Lei n° 8.666/93), por duas vezes, em concurso material (art. 69, Código Penal)",
+      "evidencia": "Dispensa ou inexigibilidade de licitação fora das hipóteses previstas em lei (Art. 89, da Lei n° 8.666/93). Ausência do elemento subjetivo do tipo. Pedido julgado improcedente, com a absolvição do réu com fundamento no art. 386, V, do Código de Processo Penal.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "por unanimidade de votos, em julgar improcedente a ação e absolver o acusado, nos termos dos votos do Relator e do Revisor.",
+      "fonte": "acordao p.2",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "REU(E) (s) : LUIZ CARLOS SETIM",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. (...) Plenário, 16.12.2010.",
+      "fonte": "ata",
+      "confianca": "media"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "LUIZ CARLOS SETIM",
+        "evidencia": "REU (É ) (S): LUIZ CARLOS SETIM",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Ex-prefeito municipal de São José dos Pinhais/PR (à época dos fatos, gestões 1997/2000 e 2001/2004); atualmente (à época do julgamento) Deputado Federal",
+        "evidencia": "Ação Penal. Ex-prefeito municipal. Atualmente, deputado federal.; Luiz Carlos Setim, ex-prefeito de São José dos Pinhais/PR, atualmente no exercício do cargo de Deputado Federal",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "julgar improcedente a ação e absolver o acusado, nos termos dos votos do Relator e do Revisor.",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "Ausência do elemento subjetivo do tipo (...) Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado ao réu. Não restou demonstrada a vontade livre e conscientemente dirigida a superar a necessidade de realização da licitação.",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Ante o exposto, com fundamento no art. 386, inciso V, do Código de Processo Penal, julgo improcedente o pedido, absolvendo o réu da imputação de violação do art. 89, caput, da Lei n° 8.666/93. Não houve condenação em nenhum momento do julgamento nem qualquer menção a prescrição no acórdão, voto ou ata.",
+        "fonte": "acordao p.24",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 89, caput (por duas vezes, c/c art. 69 - concurso material)",
+          "diploma": "Lei n° 8.666/93",
+          "evidencia": "Luiz Carlos Setim, ex-prefeito de \" São José dos Pinhais/PR, atualmente no exercício do cargo de Deputado Federal, foi denunciado com base no art. 89, caput, da Lei n° 8.666/93 (por duas vezes) combinado com o art. 69 do mesmo diploma (concurso material)"
+        }
+      ],
+      "n_votantes": {
+        "valor": 9,
+        "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli. (...) Presidiu o julgamento o Senhor Ministro Cezar Peluso.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 9,
+        "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": true,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "acordao p.24",
+      "evidencia": "Ante o exposto, com fundamento no art. 386, inciso V, do Código de Processo Penal, julgo improcedente o pedido, absolvendo o réu da imputação de violação do art. 89, caput, da Lei n° 8.666/93. É o voto."
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "ata",
+      "evidencia": "MIN. CELSO DE MELLO : REVISOR (...) O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado."
+    },
+    {
+      "ministro": "Cezar Peluso",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "deducao D-004",
+      "evidencia": "Presidiu o julgamento o Senhor Ministro Cezar Peluso. (...) O Tribunal, por unanimidade (...) julgou improcedente a ação e absolveu o acusado."
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "deducao D-004",
+      "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie (...); O Tribunal, por unanimidade (...) julgou improcedente a ação e absolveu o acusado."
+    },
+    {
+      "ministro": "Ellen Gracie",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "deducao D-004",
+      "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie (...); O Tribunal, por unanimidade (...) julgou improcedente a ação e absolveu o acusado."
+    },
+    {
+      "ministro": "Ayres Britto (Carlos Britto)",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "deducao D-004",
+      "evidencia": "Presentes à sessão os Senhores Ministros (...) Ayres Britto, Joaquim Barbosa (...); O Tribunal, por unanimidade (...) julgou improcedente a ação e absolveu o acusado."
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "deducao D-004",
+      "evidencia": "Presentes à sessão os Senhores Ministros (...) Ayres Britto, Joaquim Barbosa (...); O Tribunal, por unanimidade (...) julgou improcedente a ação e absolveu o acusado."
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "deducao D-004",
+      "evidencia": "Presentes à sessão os Senhores Ministros (...) Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.; O Tribunal, por unanimidade (...) julgou improcedente a ação e absolveu o acusado."
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "deducao D-004",
+      "evidencia": "Presentes à sessão os Senhores Ministros (...) Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.; O Tribunal, por unanimidade (...) julgou improcedente a ação e absolveu o acusado."
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "ausente, neste julgamento (sem motivo declarado na ata)",
+      "fonte": "ata",
+      "evidencia": "Ausente, neste julgamento, o Senhor Ministro Gilmar Mendes."
+    }
+  ],
+  "avisos": [
+    "Data do julgamento (16/12/2010) e composição da ata: a ata lista como presentes Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli, mais o Presidente Cezar Peluso (9 votantes), com Gilmar Mendes ausente (1) — total de 10 ministros em exercício nesta data, confirmando a nota da tabela de composição de que a cadeira de Eros Grau (saído em 18/08/2010) estava vaga e Luiz Fux ainda não havia tomado posse (só em 03/03/2011). Eros Grau foi excluído da lista de votos por não estar em exercício na data do julgamento.",
+      "O campo 'motivo' foi classificado como 'atipicidade' e não 'mérito' porque a própria ementa e o voto do relator fundamentam a absolvição especificamente na 'ausência do elemento subjetivo do tipo' (dolo específico de causar prejuízo ao erário), e não em insuficiência probatória genérica sobre a materialidade/autoria dos fatos em si — embora o dispositivo do voto cite o art. 386, V, do CPP (que trata de ausência de prova de concorrência do réu para a infração), a fundamentação é claramente centrada na falta do elemento subjetivo (dolo) exigido pelo tipo do art. 89 da Lei 8.666/93. Registrado aqui para eventual reclassificação, caso o critério do trabalho prefira 'mérito' de forma mais ampla.",
+      "O 'concurso material' (art. 69, Código Penal) citado na denúncia e no voto não é, por si, um tipo penal autônomo, mas regra de aplicação de pena para o concurso de dois fatos subsumidos ao mesmo art. 89 da Lei 8.666/93; por isso não foi listado como um 'crime' à parte no array 'crimes', apenas mencionado no campo 'instituto_juridico' e na evidência do artigo.",
+      "Não há, no texto lido, nenhuma menção a sessões anteriores, adiamento de julgamento ou continuação em data distinta para esta AP-527; a decisão parece ter sido tomada em uma única sessão de 16/12/2010, mas marcada confiança 'media' por não haver uma declaração textual explícita do tipo 'sessão única' — apenas ausência de evidência em contrário.",
+      "OCR do documento apresenta ruído (ex.: 'Sipremo Tribunal Federal', 'Superemo Tribunal Federal', trechos corrompidos nos rodapés de autenticação), mas os trechos usados como evidência para os campos centrais (resultado, unanimidade, ausência de Gilmar Mendes, cargo do réu, artigo do crime) foram conferidos e são legíveis com segurança.",
+      "Nenhuma suspeição ou impedimento foi mencionada na ata para qualquer ministro; apenas a ausência de Gilmar Mendes foi registrada, sem motivo declarado no texto disponível."
+  ]
+}

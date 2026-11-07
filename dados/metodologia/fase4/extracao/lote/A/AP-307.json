@@ -1,0 +1,3258 @@
+{
+ "id_caso": "AP-307",
+ "lido_em": "2026-10-18",
+ "paginas_lidas": "1-5; 88-174, 183-195, 205-212 (voto de mérito do Relator); 329-330, 339-359, 369-379, 384-396, 403-415 (Revisor, itens 1-4); 550-554 (debate); 558-590, 596-601 (Celso de Mello); 602-625 (Pertence); 626-639 (Sanches); 640-648, 658-664 (Néri); 665-668 (Gallotti); 673 e 756 (atas); 707-720, 728-748 (Velloso). Ata limpa do índice SJUR. Não lidos: votos sobre as preliminares (65-87, 331-338, 511-548), arts. 343/344/305/299 e o restante. Leitura de 18/10/2026, modelo claude-opus-5-5.",
+ "unidades": [
+  {
+   "id_unidade": "AP-307-R01-I01a",
+   "unidade_origem": "AP-307-R01-I01",
+   "fato": "episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo Levcovitz decidido no banco (art. 317, caput, CP)",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Ilmar Galvão",
+    "evidencia": "mas também por não haver sido apontado o ato de ofício configurador de transação ou comércio com o cargo então por ele exercido, tenho por improcedente a denúncia, no ponto indicado, na forma do art. 386, inc. III, do Código de Processo Penal.",
+    "fonte": "p. 154",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "ato_de_oficio",
+      "evidencia": "A questão é saber se o tipo exige, ou não, no seu elemento subjetivo especifico, a predeterminação de ato de ofício, contraprestação da vantagem indevida, solicitada ou recebida pelo funcionário público.",
+      "fonte": "p. 602",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "A questão é saber se o tipo exige, ou não, no seu elemento subjetivo especifico, a predeterminação de ato de ofício, contraprestação da vantagem indevida, solicitada ou recebida pelo funcionário público.",
+      "fonte": "p. 602",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "A questão é saber se o tipo exige, ou não, no seu elemento subjetivo especifico, a predeterminação de ato de ofício, contraprestação da vantagem indevida, solicitada ou recebida pelo funcionário público.",
+      "fonte": "p. 602"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "mas também por não haver sido apontado o ato de ofício configurador de transação ou comércio com o cargo então por ele exercido, tenho por improcedente a denúncia, no ponto indicado, na forma do art. 386, inc. III, do Código de Processo Penal.",
+      "fonte": "p. 154",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "É que, em nenhum momento, houve sequer referência a ato de ofício, do Presidente da República, em favor da mencionada empresa ou de terceiros, que pudesse ser apontado como contrapartida da ajuda financeira solicitada ou recebida.",
+        "fonte": "p. 152",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "É que, em nenhum momento, houve sequer referência a ato de ofício, do Presidente da República, em favor da mencionada empresa ou de terceiros, que pudesse ser apontado como contrapartida da ajuda financeira solicitada ou recebida.",
+        "fonte": "p. 152",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Exige ato de ofício de competência do agente (p. 90); nenhum ato apontado na denúncia nem provado (pp. 152-154).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Como também não há qualquer prova de que a solicitação e o recebimento dessa contribuição tenham sido feitos para a prática ou omissão de ato de ofício que seria da competência de FERNANDO COLLOR.",
+        "fonte": "p. 384",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Como também não há qualquer prova de que a solicitação e o recebimento dessa contribuição tenham sido feitos para a prática ou omissão de ato de ofício que seria da competência de FERNANDO COLLOR.",
+        "fonte": "p. 384",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Rebate a tese do voto de Pertence no recebimento da denúncia (pp. 339-349); exige referência ao ato na solicitação (p. 346).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Quanto ao episódio MERCEDES-BENZ/CURIO, constatou-se que o Ministério Público em sua denúncia, ao deduzir a imputação penal pelo crime de corrupção passiva, nenhuma referência fez a qualquer ato de ofício imputável à esfera de atribuições funcionais do Presidente da República.",
+        "fonte": "p. 574",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Quanto ao episódio MERCEDES-BENZ/CURIO, constatou-se que o Ministério Público em sua denúncia, ao deduzir a imputação penal pelo crime de corrupção passiva, nenhuma referência fez a qualquer ato de ofício imputável à esfera de atribuições funcionais do Presidente da República.",
+        "fonte": "p. 574",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Exige identificação precisa de ato de ofício (p. 566); fato atípico (p. 601).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "É inegável que, entre essas duas correntes, Código brasileiro optou pela segunda, a minoritária, que não exige que a contraprestação do funcionário à vantagem cogitada seja um ato de ofício predeterminado",
+        "fonte": "p. 608",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "É inegável que, entre essas duas correntes, Código brasileiro optou pela segunda, a minoritária, que não exige que a contraprestação do funcionário à vantagem cogitada seja um ato de ofício predeterminado",
+        "fonte": "p. 608",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Reafirma o voto do Inq. 705 (pp. 602-619): basta relação entre a vantagem e a função.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "pois não ficou demonstrado que esse acusado haja praticado ou prometido praticar ato de ofício (comissivo ou omissivo) a troco da vantagem indevida.",
+        "fonte": "p. 637",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "pois não ficou demonstrado que esse acusado haja praticado ou prometido praticar ato de ofício (comissivo ou omissivo) a troco da vantagem indevida.",
+        "fonte": "p. 637",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Exige ato de ofício (p. 635); nem tratamento privilegiado à Mercedes foi insinuado (p. 637).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+        "fonte": "p. 646",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+        "fonte": "p. 646",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Fala em dispensa da 'efetiva prática' do ato e remete à demonstração de Pertence; exige solicitação 'em razão da função' (pp. 646-647).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Ato de ofício é núcleo implícito do tipo (p. 666).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "A lei penal brasileira, Cód. Penal, art. 317, ao contrário do Cód. Penal italiano, art. 318, não exige, para a configuração do crime de corrupção passiva, a identificação do ato de ofício praticado como contraprestação da vantagem econômica solicitada, oferecida ou recebida.",
+        "fonte": "p. 710",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "A lei penal brasileira, Cód. Penal, art. 317, ao contrário do Cód. Penal italiano, art. 318, não exige, para a configuração do crime de corrupção passiva, a identificação do ato de ofício praticado como contraprestação da vantagem econômica solicitada, oferecida ou recebida.",
+        "fonte": "p. 710",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Exige apenas solicitação com abuso da função (pp. 710-714).",
+       "fundamento_proprio": null
+      }
+     ]
+    },
+    {
+     "questao_decisiva": {
+      "valor": "concorreu",
+      "evidencia": "não se pode senão ter por indemonstrado que a ajuda eleitoral, para SEBASTIÃO CURIÓ e para os demais candidatos ao pleito de 1990, foi objeto de solicitação dirigida, direta ou indiretamente, pelo ex-Presidente à empresa Mercedes Benz.",
+      "fonte": "p. 151",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "principal": {
+      "valor": "Nao",
+      "evidencia": "pois não ficou demonstrado que esse acusado haja praticado ou prometido praticar ato de ofício (comissivo ou omissivo) a troco da vantagem indevida.",
+      "fonte": "p. 637",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "não há nos autos prova alguma no sentido de que a solicitação à Mercedez Benz da contribuição para a campanha de SEBASTIÃO CURIO (Cr$ 10.000.000,00) ou para a campanha em geral (Cr$ 90.200.000,00), tenha sido feita po= PAULO CESAR FARIAS em nome de FERNANDO COLLOR, como pessoa interposta deste.",
+      "fonte": "p. 384"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "não se pode senão ter por indemonstrado que a ajuda eleitoral, para SEBASTIÃO CURIÓ e para os demais candidatos ao pleito de 1990, foi objeto de solicitação dirigida, direta ou indiretamente, pelo ex-Presidente à empresa Mercedes Benz.",
+      "fonte": "p. 151",
+      "confianca": "media"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": {
+      "valor": "nao_dito",
+      "evidencia": null,
+      "fonte": null,
+      "confianca": "alta"
+     },
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "não se pode senão ter por indemonstrado que a ajuda eleitoral, para SEBASTIÃO CURIÓ e para os demais candidatos ao pleito de 1990, foi objeto de solicitação dirigida, direta ou indiretamente, pelo ex-Presidente à empresa Mercedes Benz.",
+        "fonte": "p. 151",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "não se pode senão ter por indemonstrado que a ajuda eleitoral, para SEBASTIÃO CURIÓ e para os demais candidatos ao pleito de 1990, foi objeto de solicitação dirigida, direta ou indiretamente, pelo ex-Presidente à empresa Mercedes Benz.",
+        "fonte": "p. 151",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Considera indemonstrado que a ajuda decorreu de solicitação, direta ou indireta, do ex-Presidente (pp. 143-151).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "não há nos autos prova alguma no sentido de que a solicitação à Mercedez Benz da contribuição para a campanha de SEBASTIÃO CURIO (Cr$ 10.000.000,00) ou para a campanha em geral (Cr$ 90.200.000,00), tenha sido feita po= PAULO CESAR FARIAS em nome de FERNANDO COLLOR, como pessoa interposta deste.",
+        "fonte": "p. 384",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "não há nos autos prova alguma no sentido de que a solicitação à Mercedez Benz da contribuição para a campanha de SEBASTIÃO CURIO (Cr$ 10.000.000,00) ou para a campanha em geral (Cr$ 90.200.000,00), tenha sido feita po= PAULO CESAR FARIAS em nome de FERNANDO COLLOR, como pessoa interposta deste.",
+        "fonte": "p. 384",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Nenhum diretor da Mercedes afirmou solicitação em nome de Collor; a ajuda a Curió foi pedida pelo presidente do PRN (pp. 384-388).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "a prova existente nos autos revelou-se totalmente insatisfatória para evidenciar o envolvimento desses acusados na suposta prática do crime de corrupção passiva.",
+        "fonte": "p. 589",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "a prova existente nos autos revelou-se totalmente insatisfatória para evidenciar o envolvimento desses acusados na suposta prática do crime de corrupção passiva.",
+        "fonte": "p. 589",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Argumento subsidiário: mesmo dispensado o ato de ofício, faltaria base probatória idônea (p. 577); exclui o depoimento policial de Scheuer (p. 599).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Toda essa operação é confiada pelo ex-Presidente a Paulo César Farias",
+        "fonte": "p. 621",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "Toda essa operação é confiada pelo ex-Presidente a Paulo César Farias",
+        "fonte": "p. 621",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Depoimento de Curió corroborado por indícios; PC agiu por encargo de Collor (pp. 620-624).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "pois não ficou demonstrado que esse acusado haja praticado ou prometido praticar ato de ofício (comissivo ou omissivo) a troco da vantagem indevida.",
+        "fonte": "p. 637",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "pois não ficou demonstrado que esse acusado haja praticado ou prometido praticar ato de ofício (comissivo ou omissivo) a troco da vantagem indevida.",
+        "fonte": "p. 637",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Comenta, a propósito da ameaça de PC à Mercedes, que não se sabe se houve autorização ou assentimento de Collor (p. 637), mas o fundamento do voto é a falta de ato de ofício.",
+       "fundamento_proprio": "ato_de_oficio: não demonstrado ato de ofício praticado ou prometido em troca da vantagem (p. 637)"
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "razão đo exercício da função presidencial, pelo primeiro acusado, por intermédio do segundo denunciado, em nome do chefe do governo.",
+        "fonte": "p. 663",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "razão đo exercício da função presidencial, pelo primeiro acusado, por intermédio do segundo denunciado, em nome do chefe do governo.",
+        "fonte": "p. 663",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Solicitação por intermédio de pessoa de estreita confiança do Presidente (p. 663).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "ato_de_oficio: fato atípico pela ausência de ato de ofício na denúncia (p. 667)"
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "os acusados Fernando Collor e PCFarias, atuando conjuntamente, este último de forma direta, escancarada, aquele emprestando o seu nome e permitindo que PCFarias o representasse",
+        "fonte": "p. 742",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "os acusados Fernando Collor e PCFarias, atuando conjuntamente, este último de forma direta, escancarada, aquele emprestando o seu nome e permitindo que PCFarias o representasse",
+        "fonte": "p. 742",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Solicitação indireta por interposta pessoa (p. 748).",
+       "fundamento_proprio": null
+      }
+     ]
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Ilmar Galvão",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no julgamento da admissibilidade da denúncia (Inq. 705)",
+     "sentido": "para_afastar",
+     "proprio_ministro": "Nao",
+     "evidencia": "não obstante a opinião sustentada, durante o julgamento da admissibilidade da denúncia, com o brilho e a inteligência de sempre, pelo eminente Ministro SEPÚLVEDA PERTENCE",
+     "fonte": "p. 90"
+    },
+    {
+     "ministro": "Ilmar Galvão",
+     "tipo": "precedente_citado",
+     "referencia": "acórdãos do TJSP e do TFR compilados por Alberto Silva Franco (RT 390/100, RT 374/164, RJTJSP 24/356, DJU 16.12.82)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "A corrupção passiva exige para sua configuração a prática de atos de ofício, dando ensejo ao recebimento de vantagem indevida.",
+     "fonte": "p. 98"
+    },
+    {
+     "ministro": "Moreira Alves",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no recebimento da denúncia",
+     "sentido": "para_afastar",
+     "proprio_ministro": "Nao",
+     "evidencia": "A primeira diz respeito a afirmação do ilustre Ministro no tocante à desnecessidade, em face dos termos do caput do artigo 317 do Código Penal, da exigência, para configurar-se o crime de corrupção passiva, da identificação precisa do ato de ofício oferecido ou esperado como contraprestação da vantagem indevida solicitada.",
+     "fonte": "p. 339"
+    },
+    {
+     "ministro": "Moreira Alves",
+     "tipo": "precedente_citado",
+     "referencia": "jurisprudência dos Tribunais (RF 201:297; RT 390:100, 526:356, 538:324)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "No mesmo sentido, é unissona a jurisprudência de nossos Tribunais.",
+     "fonte": "p. 344"
+    },
+    {
+     "ministro": "Celso de Mello",
+     "tipo": "precedente_citado",
+     "referencia": "RT 374/164 - RT 388/200 - RT 390/100 - RT 526/356 - RT 538/324",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "agiu na perspectiva de um ato de ofício inscrito em sua esfera de atribuições funcionais (RT 374/164 - RI 388/200 - RT 390/100 - RT 526/356 - RT 538/324).",
+     "fonte": "p. 570"
+    },
+    {
+     "ministro": "Sepúlveda Pertence",
+     "tipo": "precedente_citado",
+     "referencia": "seu próprio voto no recebimento da denúncia, Inquérito 705",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Por isso mesmo cuidei da questão, quando do recebimento da denúncia que deu origem a este processo, no Inquérito 705.",
+     "fonte": "p. 602"
+    },
+    {
+     "ministro": "Sepúlveda Pertence",
+     "tipo": "mudanca_lei",
+     "referencia": "ruptura do art. 317 do CP de 1940 com o Código Criminal do Império (art. 130), o CP de 1890 (art. 214) e a Consolidação das Leis Penais de 1932 (art. 240)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Não posso, assim, ignorar a ruptura do art. 317 do C. Penal de 1940, a um só tempo, com a quase unanimidade do direito comparado e com todos os antecedentes legislativos brasileiros",
+     "fonte": "p. 611"
+    },
+    {
+     "ministro": "Néri da Silveira",
+     "tipo": "precedente_citado",
+     "referencia": "seu próprio voto no recebimento da denúncia",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+     "fonte": "p. 646"
+    },
+    {
+     "ministro": "Carlos Velloso",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no recebimento da denúncia, Inquérito n° 705-DF",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Com propriedade, disse o Sr. Ministro Sepúlveda Pertence, no voto que proferiu quando do recebimento da denúncia - Inquérito n° 705-DF",
+     "fonte": "p. 711"
+    },
+    {
+     "ministro": "Octavio Gallotti",
+     "tipo": "precedente_citado",
+     "referencia": "doutrina e jurisprudência citadas nos votos do Relator e do Revisor",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Julgo, então, que a letra, o sistema e a lógica do Código estão a clamar contra a tipificação do crime, sem a existência e a comprovação do ato de ofício, ou pelo menos da promessa de sua prática ou omissão.",
+     "fonte": "p. 666"
+    },
+    {
+     "ministro": "Ilmar Galvão",
+     "tipo": "precedente_citado",
+     "referencia": "seu próprio voto no julgamento que recebeu parcialmente a denúncia",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Quando do julgamento em que foi parcialmente recebida denúncia, já este relator havia apontado a omissão",
+     "fonte": "p. 152"
+    }
+   ],
+   "obs": "Placar 5x3. A pergunta principal é ato_de_oficio (R5): a divisão sobre a exigência de ato de ofício coincide exatamente com o placar (Ilmar, Moreira, Celso, Sanches e Gallotti exigem; Velloso, Pertence e Néri dispensam e condenam). Na pergunta concorreu, Sanches e Gallotti não enfrentam a questão, e ela separa só 3x3 entre os que a enfrentam. Dispositivo da ata: art. 386, III, do CPP. Modo imputado na denúncia (R15): Collor teria solicitado 'através de Paulo César' (concurso de pessoas, solicitação indireta). Preliminar (R6, não é questão decisiva): a gravação da conversa de Curió foi declarada inadmissível, vencidos Velloso, Pertence e Néri, os mesmos que ficaram vencidos no mérito deste episódio. Marco Aurélio não participou das votações (suspeição) e Francisco Rezek esteve ausente (ata, p. 756); o banco os lista como 'Não votou' e eles não entram em posicoes."
+  },
+  {
+   "id_unidade": "AP-307-R01-I01b",
+   "unidade_origem": "AP-307-R01-I01",
+   "fato": "episódio VASP-PETROBRÁS (financiamento de combustível)",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo Levcovitz decidido no banco (art. 317, caput, CP)",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Ilmar Galvão",
+    "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+    "fonte": "p. 126",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "tipicidade",
+      "evidencia": "Os fatos descritos na denúncia não se enquadran, evidentemente, no tipo penal relativo à corrupção passiva.",
+      "fonte": "p. 373",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": "enquadramento",
+     "anotacoes": [],
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+      "fonte": "p. 126",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "Os fatos descritos na denúncia não se enquadran, evidentemente, no tipo penal relativo à corrupção passiva.",
+      "fonte": "p. 373"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+      "fonte": "p. 126",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+        "fonte": "p. 126",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+        "fonte": "p. 126",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Nenhuma referência, na denúncia ou nos autos, a vantagem solicitada, recebida ou prometida ao ex-Presidente (pp. 124-126).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Os fatos descritos na denúncia não se enquadran, evidentemente, no tipo penal relativo à corrupção passiva.",
+        "fonte": "p. 373",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Os fatos descritos na denúncia não se enquadran, evidentemente, no tipo penal relativo à corrupção passiva.",
+        "fonte": "p. 373",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "A solicitação descrita é de particular a servidor, sem vantagem e com servidor incompetente; acrescenta falta de prova do envolvimento de Collor (pp. 374-375).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "No que concerne ao caso VASP/PETROBRÁS, ficou claramente evidenciado nestes autos que o comportamento atribuído ao ex-Presidente Fernando Affonso Collor de Mello e a Paulo César Cavalcante Farias não se subsume à descrição normativa consubstanciada no tipo definido no art. 317 do Código Penal.",
+        "fonte": "p. 570",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "No que concerne ao caso VASP/PETROBRÁS, ficou claramente evidenciado nestes autos que o comportamento atribuído ao ex-Presidente Fernando Affonso Collor de Mello e a Paulo César Cavalcante Farias não se subsume à descrição normativa consubstanciada no tipo definido no art. 317 do Código Penal.",
+        "fonte": "p. 570",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Transcreve e adota o trecho do Revisor (pp. 571-573).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Nem efetivamente consegui, eu também, divisar, na descrição do fato, hipótese de corrupção passiva, pelo menos de corrupção passiva imputável ao Presidente da República.",
+        "fonte": "p. 620",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Nem efetivamente consegui, eu também, divisar, na descrição do fato, hipótese de corrupção passiva, pelo menos de corrupção passiva imputável ao Presidente da República.",
+        "fonte": "p. 620",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Também não vê base empírica para a participação pessoal do Presidente (p. 620).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "ato_de_oficio: falta demonstração de ato de ofício em contrapartida (pp. 636-637)"
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Limito-me, pois, relativamente a essa parte da denúncia, a acompanhar os votos que me precederam.",
+        "fonte": "p. 663",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+        "fonte": "p. 126",
+        "confianca": "baixa",
+        "inferida_de": "Ilmar Galvão (Relator), p. 126"
+       },
+       "posicao_detalhe": "Trecho próprio só diz que não encontrou prova bastante (p. 663); acompanha Relator e Revisor.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "ato_de_oficio: fato atípico pela ausência do ato de ofício na denúncia (p. 667)"
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "No ponto, ponho-me de acordo, também, com os eminentes Ministros Relator e Revisor, no gentido da não configuração, no caso, do delito de corrupção passiva, o que se deduz dos depoimentos",
+        "fonte": "p. 715",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "No ponto, ponho-me de acordo, também, com os eminentes Ministros Relator e Revisor, no gentido da não configuração, no caso, do delito de corrupção passiva, o que se deduz dos depoimentos",
+        "fonte": "p. 715",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Trecho curto: acompanha Relator e Revisor na 'não configuração' do delito, deduzida dos depoimentos (p. 715).",
+       "fundamento_proprio": null
+      }
+     ]
+    },
+    {
+     "questao_decisiva": {
+      "valor": "ato_de_oficio",
+      "evidencia": "e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+      "fonte": "p. 126",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida; e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+      "fonte": "p. 126",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+      "fonte": "p. 126"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+      "fonte": "p. 126",
+      "confianca": "media"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+        "fonte": "p. 126",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+        "fonte": "p. 126",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Como se vê, a solicitação aí descrita não é a de vantagem indevida feita pc= servidor público, direta ou indiretamente, e dirigida a= interessado para que aquele pratique ato de sua competência oj deixe de praticá-lo.",
+        "fonte": "p. 374",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Como se vê, a solicitação aí descrita não é a de vantagem indevida feita pc= servidor público, direta ou indiretamente, e dirigida a= interessado para que aquele pratique ato de sua competência oj deixe de praticá-lo.",
+        "fonte": "p. 374",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Exige que a vantagem vise ato da competência do servidor (pp. 342-349, 374).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "consideradas as razões anteriormente mencionadas pertinentes à ausência, no caso, de requisito típico essencial: a referência objetiva e concreta, na denúncia, a um específico ato funcional pertencente à esfera de competência do Presidente da República.",
+        "fonte": "p. 574",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "consideradas as razões anteriormente mencionadas pertinentes à ausência, no caso, de requisito típico essencial: a referência objetiva e concreta, na denúncia, a um específico ato funcional pertencente à esfera de competência do Presidente da República.",
+        "fonte": "p. 574",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "É inegável que, entre essas duas correntes, Código brasileiro optou pela segunda, a minoritária, que não exige que a contraprestação do funcionário à vantagem cogitada seja um ato de ofício predeterminado",
+        "fonte": "p. 608",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "É inegável que, entre essas duas correntes, Código brasileiro optou pela segunda, a minoritária, que não exige que a contraprestação do funcionário à vantagem cogitada seja um ato de ofício predeterminado",
+        "fonte": "p. 608",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Mantém a tese de que basta o nexo com a função (pp. 608, 619), mas absolve por falta de tipicidade/prova neste episódio.",
+       "fundamento_proprio": "tipicidade/concorreu: não vê hipótese de corrupção passiva nem participação pessoal do Presidente (p. 620)"
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+        "fonte": "p. 646",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+        "fonte": "p. 646",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Tese geral do voto (p. 646); absolve por insuficiência de prova (p. 663).",
+       "fundamento_proprio": "prova insuficiente (p. 663)"
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "A lei penal brasileira, Cód. Penal, art. 317, ao contrário do Cód. Penal italiano, art. 318, não exige, para a configuração do crime de corrupção passiva, a identificação do ato de ofício praticado como contraprestação da vantagem econômica solicitada, oferecida ou recebida.",
+        "fonte": "p. 710",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "A lei penal brasileira, Cód. Penal, art. 317, ao contrário do Cód. Penal italiano, art. 318, não exige, para a configuração do crime de corrupção passiva, a identificação do ato de ofício praticado como contraprestação da vantagem econômica solicitada, oferecida ou recebida.",
+        "fonte": "p. 710",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Tese geral do voto (pp. 710-714); absolve por não configuração do delito à vista dos depoimentos (p. 715).",
+       "fundamento_proprio": "tipicidade: não configuração do delito (p. 715)"
+      }
+     ]
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Ilmar Galvão",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no julgamento da admissibilidade da denúncia (Inq. 705)",
+     "sentido": "para_afastar",
+     "proprio_ministro": "Nao",
+     "evidencia": "não obstante a opinião sustentada, durante o julgamento da admissibilidade da denúncia, com o brilho e a inteligência de sempre, pelo eminente Ministro SEPÚLVEDA PERTENCE",
+     "fonte": "p. 90"
+    },
+    {
+     "ministro": "Ilmar Galvão",
+     "tipo": "precedente_citado",
+     "referencia": "acórdãos do TJSP e do TFR compilados por Alberto Silva Franco (RT 390/100, RT 374/164, RJTJSP 24/356, DJU 16.12.82)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "A corrupção passiva exige para sua configuração a prática de atos de ofício, dando ensejo ao recebimento de vantagem indevida.",
+     "fonte": "p. 98"
+    },
+    {
+     "ministro": "Moreira Alves",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no recebimento da denúncia",
+     "sentido": "para_afastar",
+     "proprio_ministro": "Nao",
+     "evidencia": "A primeira diz respeito a afirmação do ilustre Ministro no tocante à desnecessidade, em face dos termos do caput do artigo 317 do Código Penal, da exigência, para configurar-se o crime de corrupção passiva, da identificação precisa do ato de ofício oferecido ou esperado como contraprestação da vantagem indevida solicitada.",
+     "fonte": "p. 339"
+    },
+    {
+     "ministro": "Moreira Alves",
+     "tipo": "precedente_citado",
+     "referencia": "jurisprudência dos Tribunais (RF 201:297; RT 390:100, 526:356, 538:324)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "No mesmo sentido, é unissona a jurisprudência de nossos Tribunais.",
+     "fonte": "p. 344"
+    },
+    {
+     "ministro": "Celso de Mello",
+     "tipo": "precedente_citado",
+     "referencia": "RT 374/164 - RT 388/200 - RT 390/100 - RT 526/356 - RT 538/324",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "agiu na perspectiva de um ato de ofício inscrito em sua esfera de atribuições funcionais (RT 374/164 - RI 388/200 - RT 390/100 - RT 526/356 - RT 538/324).",
+     "fonte": "p. 570"
+    },
+    {
+     "ministro": "Sepúlveda Pertence",
+     "tipo": "precedente_citado",
+     "referencia": "seu próprio voto no recebimento da denúncia, Inquérito 705",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Por isso mesmo cuidei da questão, quando do recebimento da denúncia que deu origem a este processo, no Inquérito 705.",
+     "fonte": "p. 602"
+    },
+    {
+     "ministro": "Sepúlveda Pertence",
+     "tipo": "mudanca_lei",
+     "referencia": "ruptura do art. 317 do CP de 1940 com o Código Criminal do Império (art. 130), o CP de 1890 (art. 214) e a Consolidação das Leis Penais de 1932 (art. 240)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Não posso, assim, ignorar a ruptura do art. 317 do C. Penal de 1940, a um só tempo, com a quase unanimidade do direito comparado e com todos os antecedentes legislativos brasileiros",
+     "fonte": "p. 611"
+    },
+    {
+     "ministro": "Néri da Silveira",
+     "tipo": "precedente_citado",
+     "referencia": "seu próprio voto no recebimento da denúncia",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+     "fonte": "p. 646"
+    },
+    {
+     "ministro": "Carlos Velloso",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no recebimento da denúncia, Inquérito n° 705-DF",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Com propriedade, disse o Sr. Ministro Sepúlveda Pertence, no voto que proferiu quando do recebimento da denúncia - Inquérito n° 705-DF",
+     "fonte": "p. 711"
+    },
+    {
+     "ministro": "Octavio Gallotti",
+     "tipo": "precedente_citado",
+     "referencia": "doutrina e jurisprudência citadas nos votos do Relator e do Revisor",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Julgo, então, que a letra, o sistema e a lógica do Código estão a clamar contra a tipificação do crime, sem a existência e a comprovação do ato de ofício, ou pelo menos da promessa de sua prática ou omissão.",
+     "fonte": "p. 666"
+    }
+   ],
+   "obs": "Caso unânime. Pela R5b as duas perguntas são principais (resposta do tribunal 'nao' nas duas, sem divergência no resultado). Ementa (p. 2) e Relator (p. 126) dão o 'duplo motivo'. Velloso, Pertence e Néri mantêm a tese de que basta o nexo com a função (ato_de_oficio = sim), mas absolvem pela outra razão; a divergência sobre ato de ofício, portanto, não pesou no resultado. Pertence e o Revisor também negam prova do envolvimento pessoal de Collor (concorreu), terceira razão que não registrei por causa do limite de duas questões. Dispositivo da ata: art. 386, III, do CPP. Marco Aurélio não participou das votações (suspeição) e Francisco Rezek esteve ausente (ata, p. 756); o banco os lista como 'Não votou' e eles não entram em posicoes."
+  },
+  {
+   "id_unidade": "AP-307-R01-I01c",
+   "unidade_origem": "AP-307-R01-I01",
+   "fato": "episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo Levcovitz decidido no banco (art. 317, caput, CP)",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Ilmar Galvão",
+    "evidencia": "Meu voto, portanto, também relativamente ao último fato apreciado, envolvendo o episódio da nomeação de Marcelo Ribeiro, é no sentido de absolver o acusado FERNANDO COLLOR da imputação relativa ao crime do art. 317, caput, do Código Penal, na forma do art. 386, VI, do CP.",
+    "fonte": "p. 193",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "tipicidade",
+      "evidencia": "Não restou demonstrado, portanto, que a nomeação de Marcelo Ribeiro foi objeto da negociação financeira mencionada na denúncia, nem, tampouco, que de parte do ex-Presidente da República fora solicitada qualquer vantagem à empresa TRATEX, ainda que por intermédio do acusado PAULO CÉSAR FARIAS.",
+      "fonte": "p. 168",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": "existencia_fato",
+     "anotacoes": [],
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Meu voto, portanto, também relativamente ao último fato apreciado, envolvendo o episódio da nomeação de Marcelo Ribeiro, é no sentido de absolver o acusado FERNANDO COLLOR da imputação relativa ao crime do art. 317, caput, do Código Penal, na forma do art. 386, VI, do CP.",
+      "fonte": "p. 193",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "Não restou demonstrado, portanto, que a nomeação de Marcelo Ribeiro foi objeto da negociação financeira mencionada na denúncia, nem, tampouco, que de parte do ex-Presidente da República fora solicitada qualquer vantagem à empresa TRATEX, ainda que por intermédio do acusado PAULO CÉSAR FARIAS.",
+      "fonte": "p. 168"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Não restou demonstrado, portanto, que a nomeação de Marcelo Ribeiro foi objeto da negociação financeira mencionada na denúncia, nem, tampouco, que de parte do ex-Presidente da República fora solicitada qualquer vantagem à empresa TRATEX, ainda que por intermédio do acusado PAULO CÉSAR FARIAS.",
+      "fonte": "p. 168",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Não restou demonstrado, portanto, que a nomeação de Marcelo Ribeiro foi objeto da negociação financeira mencionada na denúncia, nem, tampouco, que de parte do ex-Presidente da República fora solicitada qualquer vantagem à empresa TRATEX, ainda que por intermédio do acusado PAULO CÉSAR FARIAS.",
+        "fonte": "p. 168",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Não restou demonstrado, portanto, que a nomeação de Marcelo Ribeiro foi objeto da negociação financeira mencionada na denúncia, nem, tampouco, que de parte do ex-Presidente da República fora solicitada qualquer vantagem à empresa TRATEX, ainda que por intermédio do acusado PAULO CÉSAR FARIAS.",
+        "fonte": "p. 168",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Presunção de vantagem ilícita elidida pela plausibilidade da explicação das sobras de campanha; in dubio pro reo (pp. 191-192).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Mas não há prova de que esse recebimento tenha sido feito em troca da nomeação de MARCELO RIBEIRO.",
+        "fonte": "p. 370",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Mas não há prova de que esse recebimento tenha sido feito em troca da nomeação de MARCELO RIBEIRO.",
+        "fonte": "p. 370",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Nexo entre o pagamento da TRATEX e a nomeação não provado (pp. 370-371).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "A absoluta inconsistência do suporte probatório em que se apóia a denúncia do Ministério Público referente ao episódio Marcelo Ribeiro/Tratex foi amplamente demonstrada no voto do eminente Ministro Relator",
+        "fonte": "p. 586",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "A absoluta inconsistência do suporte probatório em que se apóia a denúncia do Ministério Público referente ao episódio Marcelo Ribeiro/Tratex foi amplamente demonstrada no voto do eminente Ministro Relator",
+        "fonte": "p. 586",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Transcreve o Relator (pp. 587-589); absolve por falta de provas (p. 600).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "submergiu afinal na inconsistência da prova colhida a respeito.",
+        "fonte": "p. 620",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "submergiu afinal na inconsistência da prova colhida a respeito.",
+        "fonte": "p. 620",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Registra que seria a única imputação típica, por haver ato específico de competência presidencial (p. 620).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Formula como falta de demonstração de ato de ofício 'em contra-partida à vantagem' (pp. 636-637); trecho conjunto para VASP e Marcelo Ribeiro.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Quanto às acusações referentes à nomeação de Marcelo Ribeiro e ao episódio VASP-Petrobrás - efetivamente, também eu não encontrei elementos de prova bastantes a ter-se a denúncia como procedente.",
+        "fonte": "p. 663",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Quanto às acusações referentes à nomeação de Marcelo Ribeiro e ao episódio VASP-Petrobrás - efetivamente, também eu não encontrei elementos de prova bastantes a ter-se a denúncia como procedente.",
+        "fonte": "p. 663",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Trecho curto, conjunto para Marcelo Ribeiro e VASP; acompanha Relator e Revisor.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "que, por um lado, ressaltaram a fragilidade da imputação",
+        "fonte": "p. 667",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "que, por um lado, ressaltaram a fragilidade da imputação",
+        "fonte": "p. 667",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Adota a conclusão do Revisor sobre a credibilidade dos depoimentos (pp. 667-668).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "não é menos certo de que não há prova, nos autos, de que essa importância foi paga à EPC em razão da nomeaçtio de Marcelo Ribeiro para o cargo de Secretário Nacional de Transportes.",
+        "fonte": "p. 717",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "não é menos certo de que não há prova, nos autos, de que essa importância foi paga à EPC em razão da nomeaçtio de Marcelo Ribeiro para o cargo de Secretário Nacional de Transportes.",
+        "fonte": "p. 717",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      }
+     ]
+    }
+   ],
+   "precedentes": [],
+   "obs": "Caso unânime. Uma só questão: a existência do fato corrupto (o pagamento da TRATEX como contrapartida da nomeação). Pertence registra que o episódio seria típico, porque a nomeação é ato específico de competência presidencial (p. 620), e por isso ato_de_oficio não é questão decisiva aqui. Dispositivo da ata: art. 386, VI, do CPP (insuficiência de prova). Marco Aurélio não participou das votações (suspeição) e Francisco Rezek esteve ausente (ata, p. 756); o banco os lista como 'Não votou' e eles não entram em posicoes."
+  },
+  {
+   "id_unidade": "AP-307-R02-I01a",
+   "unidade_origem": "AP-307-R02-I01",
+   "fato": "episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo Levcovitz decidido no banco (art. 317, caput, CP)",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Ilmar Galvão",
+    "evidencia": "mas também por não haver sido apontado o ato de ofício configurador de transação ou comércio com o cargo então por ele exercido, tenho por improcedente a denúncia, no ponto indicado, na forma do art. 386, inc. III, do Código de Processo Penal.",
+    "fonte": "p. 154",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "ato_de_oficio",
+      "evidencia": "A questão é saber se o tipo exige, ou não, no seu elemento subjetivo especifico, a predeterminação de ato de ofício, contraprestação da vantagem indevida, solicitada ou recebida pelo funcionário público.",
+      "fonte": "p. 602",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "A questão é saber se o tipo exige, ou não, no seu elemento subjetivo especifico, a predeterminação de ato de ofício, contraprestação da vantagem indevida, solicitada ou recebida pelo funcionário público.",
+      "fonte": "p. 602",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "A questão é saber se o tipo exige, ou não, no seu elemento subjetivo especifico, a predeterminação de ato de ofício, contraprestação da vantagem indevida, solicitada ou recebida pelo funcionário público.",
+      "fonte": "p. 602"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "mas também por não haver sido apontado o ato de ofício configurador de transação ou comércio com o cargo então por ele exercido, tenho por improcedente a denúncia, no ponto indicado, na forma do art. 386, inc. III, do Código de Processo Penal.",
+      "fonte": "p. 154",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "É que, em nenhum momento, houve sequer referência a ato de ofício, do Presidente da República, em favor da mencionada empresa ou de terceiros, que pudesse ser apontado como contrapartida da ajuda financeira solicitada ou recebida.",
+        "fonte": "p. 152",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "É que, em nenhum momento, houve sequer referência a ato de ofício, do Presidente da República, em favor da mencionada empresa ou de terceiros, que pudesse ser apontado como contrapartida da ajuda financeira solicitada ou recebida.",
+        "fonte": "p. 152",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Exige ato de ofício de competência do agente (p. 90); nenhum ato apontado na denúncia nem provado (pp. 152-154).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Como também não há qualquer prova de que a solicitação e o recebimento dessa contribuição tenham sido feitos para a prática ou omissão de ato de ofício que seria da competência de FERNANDO COLLOR.",
+        "fonte": "p. 384",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Como também não há qualquer prova de que a solicitação e o recebimento dessa contribuição tenham sido feitos para a prática ou omissão de ato de ofício que seria da competência de FERNANDO COLLOR.",
+        "fonte": "p. 384",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Rebate a tese do voto de Pertence no recebimento da denúncia (pp. 339-349); exige referência ao ato na solicitação (p. 346).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Quanto ao episódio MERCEDES-BENZ/CURIO, constatou-se que o Ministério Público em sua denúncia, ao deduzir a imputação penal pelo crime de corrupção passiva, nenhuma referência fez a qualquer ato de ofício imputável à esfera de atribuições funcionais do Presidente da República.",
+        "fonte": "p. 574",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Quanto ao episódio MERCEDES-BENZ/CURIO, constatou-se que o Ministério Público em sua denúncia, ao deduzir a imputação penal pelo crime de corrupção passiva, nenhuma referência fez a qualquer ato de ofício imputável à esfera de atribuições funcionais do Presidente da República.",
+        "fonte": "p. 574",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Exige identificação precisa de ato de ofício (p. 566); fato atípico (p. 601).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "É inegável que, entre essas duas correntes, Código brasileiro optou pela segunda, a minoritária, que não exige que a contraprestação do funcionário à vantagem cogitada seja um ato de ofício predeterminado",
+        "fonte": "p. 608",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "É inegável que, entre essas duas correntes, Código brasileiro optou pela segunda, a minoritária, que não exige que a contraprestação do funcionário à vantagem cogitada seja um ato de ofício predeterminado",
+        "fonte": "p. 608",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Reafirma o voto do Inq. 705 (pp. 602-619): basta relação entre a vantagem e a função.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "pois não ficou demonstrado que esse acusado haja praticado ou prometido praticar ato de ofício (comissivo ou omissivo) a troco da vantagem indevida.",
+        "fonte": "p. 637",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "pois não ficou demonstrado que esse acusado haja praticado ou prometido praticar ato de ofício (comissivo ou omissivo) a troco da vantagem indevida.",
+        "fonte": "p. 637",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Exige ato de ofício (p. 635); nem tratamento privilegiado à Mercedes foi insinuado (p. 637).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+        "fonte": "p. 646",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+        "fonte": "p. 646",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Fala em dispensa da 'efetiva prática' do ato e remete à demonstração de Pertence; exige solicitação 'em razão da função' (pp. 646-647).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Ato de ofício é núcleo implícito do tipo (p. 666).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "A lei penal brasileira, Cód. Penal, art. 317, ao contrário do Cód. Penal italiano, art. 318, não exige, para a configuração do crime de corrupção passiva, a identificação do ato de ofício praticado como contraprestação da vantagem econômica solicitada, oferecida ou recebida.",
+        "fonte": "p. 710",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "A lei penal brasileira, Cód. Penal, art. 317, ao contrário do Cód. Penal italiano, art. 318, não exige, para a configuração do crime de corrupção passiva, a identificação do ato de ofício praticado como contraprestação da vantagem econômica solicitada, oferecida ou recebida.",
+        "fonte": "p. 710",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Exige apenas solicitação com abuso da função (pp. 710-714).",
+       "fundamento_proprio": null
+      }
+     ]
+    },
+    {
+     "questao_decisiva": {
+      "valor": "concorreu",
+      "evidencia": "não se pode senão ter por indemonstrado que a ajuda eleitoral, para SEBASTIÃO CURIÓ e para os demais candidatos ao pleito de 1990, foi objeto de solicitação dirigida, direta ou indiretamente, pelo ex-Presidente à empresa Mercedes Benz.",
+      "fonte": "p. 151",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "principal": {
+      "valor": "Nao",
+      "evidencia": "pois não ficou demonstrado que esse acusado haja praticado ou prometido praticar ato de ofício (comissivo ou omissivo) a troco da vantagem indevida.",
+      "fonte": "p. 637",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "não há nos autos prova alguma no sentido de que a solicitação à Mercedez Benz da contribuição para a campanha de SEBASTIÃO CURIO (Cr$ 10.000.000,00) ou para a campanha em geral (Cr$ 90.200.000,00), tenha sido feita po= PAULO CESAR FARIAS em nome de FERNANDO COLLOR, como pessoa interposta deste.",
+      "fonte": "p. 384"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "não se pode senão ter por indemonstrado que a ajuda eleitoral, para SEBASTIÃO CURIÓ e para os demais candidatos ao pleito de 1990, foi objeto de solicitação dirigida, direta ou indiretamente, pelo ex-Presidente à empresa Mercedes Benz.",
+      "fonte": "p. 151",
+      "confianca": "media"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": {
+      "valor": "nao_dito",
+      "evidencia": null,
+      "fonte": null,
+      "confianca": "alta"
+     },
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "não se pode senão ter por indemonstrado que a ajuda eleitoral, para SEBASTIÃO CURIÓ e para os demais candidatos ao pleito de 1990, foi objeto de solicitação dirigida, direta ou indiretamente, pelo ex-Presidente à empresa Mercedes Benz.",
+        "fonte": "p. 151",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "não se pode senão ter por indemonstrado que a ajuda eleitoral, para SEBASTIÃO CURIÓ e para os demais candidatos ao pleito de 1990, foi objeto de solicitação dirigida, direta ou indiretamente, pelo ex-Presidente à empresa Mercedes Benz.",
+        "fonte": "p. 151",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Considera indemonstrado que a ajuda decorreu de solicitação, direta ou indireta, do ex-Presidente (pp. 143-151).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "não há nos autos prova alguma no sentido de que a solicitação à Mercedez Benz da contribuição para a campanha de SEBASTIÃO CURIO (Cr$ 10.000.000,00) ou para a campanha em geral (Cr$ 90.200.000,00), tenha sido feita po= PAULO CESAR FARIAS em nome de FERNANDO COLLOR, como pessoa interposta deste.",
+        "fonte": "p. 384",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "não há nos autos prova alguma no sentido de que a solicitação à Mercedez Benz da contribuição para a campanha de SEBASTIÃO CURIO (Cr$ 10.000.000,00) ou para a campanha em geral (Cr$ 90.200.000,00), tenha sido feita po= PAULO CESAR FARIAS em nome de FERNANDO COLLOR, como pessoa interposta deste.",
+        "fonte": "p. 384",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Nenhum diretor da Mercedes afirmou solicitação em nome de Collor; a ajuda a Curió foi pedida pelo presidente do PRN (pp. 384-388).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "a prova existente nos autos revelou-se totalmente insatisfatória para evidenciar o envolvimento desses acusados na suposta prática do crime de corrupção passiva.",
+        "fonte": "p. 589",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "a prova existente nos autos revelou-se totalmente insatisfatória para evidenciar o envolvimento desses acusados na suposta prática do crime de corrupção passiva.",
+        "fonte": "p. 589",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Argumento subsidiário: mesmo dispensado o ato de ofício, faltaria base probatória idônea (p. 577); exclui o depoimento policial de Scheuer (p. 599).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Toda essa operação é confiada pelo ex-Presidente a Paulo César Farias",
+        "fonte": "p. 621",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "Toda essa operação é confiada pelo ex-Presidente a Paulo César Farias",
+        "fonte": "p. 621",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Depoimento de Curió corroborado por indícios; PC agiu por encargo de Collor (pp. 620-624).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "pois não ficou demonstrado que esse acusado haja praticado ou prometido praticar ato de ofício (comissivo ou omissivo) a troco da vantagem indevida.",
+        "fonte": "p. 637",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "pois não ficou demonstrado que esse acusado haja praticado ou prometido praticar ato de ofício (comissivo ou omissivo) a troco da vantagem indevida.",
+        "fonte": "p. 637",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Comenta, a propósito da ameaça de PC à Mercedes, que não se sabe se houve autorização ou assentimento de Collor (p. 637), mas o fundamento do voto é a falta de ato de ofício.",
+       "fundamento_proprio": "ato_de_oficio: não demonstrado ato de ofício praticado ou prometido em troca da vantagem (p. 637)"
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "razão đo exercício da função presidencial, pelo primeiro acusado, por intermédio do segundo denunciado, em nome do chefe do governo.",
+        "fonte": "p. 663",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "razão đo exercício da função presidencial, pelo primeiro acusado, por intermédio do segundo denunciado, em nome do chefe do governo.",
+        "fonte": "p. 663",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Solicitação por intermédio de pessoa de estreita confiança do Presidente (p. 663).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "ato_de_oficio: fato atípico pela ausência de ato de ofício na denúncia (p. 667)"
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Condena",
+        "evidencia": "vencidos os Ministros Carlos Velloso, Sepúlvera Pertence, e Néri da Silveira, que julgavam procedente a ação penal e condenavam os réus Fernando Affonso Collor de Mello e Paulo César Cavalcante Farias, por crime de corrupção passiva",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "os acusados Fernando Collor e PCFarias, atuando conjuntamente, este último de forma direta, escancarada, aquele emprestando o seu nome e permitindo que PCFarias o representasse",
+        "fonte": "p. 742",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "os acusados Fernando Collor e PCFarias, atuando conjuntamente, este último de forma direta, escancarada, aquele emprestando o seu nome e permitindo que PCFarias o representasse",
+        "fonte": "p. 742",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Solicitação indireta por interposta pessoa (p. 748).",
+       "fundamento_proprio": null
+      }
+     ]
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Ilmar Galvão",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no julgamento da admissibilidade da denúncia (Inq. 705)",
+     "sentido": "para_afastar",
+     "proprio_ministro": "Nao",
+     "evidencia": "não obstante a opinião sustentada, durante o julgamento da admissibilidade da denúncia, com o brilho e a inteligência de sempre, pelo eminente Ministro SEPÚLVEDA PERTENCE",
+     "fonte": "p. 90"
+    },
+    {
+     "ministro": "Ilmar Galvão",
+     "tipo": "precedente_citado",
+     "referencia": "acórdãos do TJSP e do TFR compilados por Alberto Silva Franco (RT 390/100, RT 374/164, RJTJSP 24/356, DJU 16.12.82)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "A corrupção passiva exige para sua configuração a prática de atos de ofício, dando ensejo ao recebimento de vantagem indevida.",
+     "fonte": "p. 98"
+    },
+    {
+     "ministro": "Moreira Alves",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no recebimento da denúncia",
+     "sentido": "para_afastar",
+     "proprio_ministro": "Nao",
+     "evidencia": "A primeira diz respeito a afirmação do ilustre Ministro no tocante à desnecessidade, em face dos termos do caput do artigo 317 do Código Penal, da exigência, para configurar-se o crime de corrupção passiva, da identificação precisa do ato de ofício oferecido ou esperado como contraprestação da vantagem indevida solicitada.",
+     "fonte": "p. 339"
+    },
+    {
+     "ministro": "Moreira Alves",
+     "tipo": "precedente_citado",
+     "referencia": "jurisprudência dos Tribunais (RF 201:297; RT 390:100, 526:356, 538:324)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "No mesmo sentido, é unissona a jurisprudência de nossos Tribunais.",
+     "fonte": "p. 344"
+    },
+    {
+     "ministro": "Celso de Mello",
+     "tipo": "precedente_citado",
+     "referencia": "RT 374/164 - RT 388/200 - RT 390/100 - RT 526/356 - RT 538/324",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "agiu na perspectiva de um ato de ofício inscrito em sua esfera de atribuições funcionais (RT 374/164 - RI 388/200 - RT 390/100 - RT 526/356 - RT 538/324).",
+     "fonte": "p. 570"
+    },
+    {
+     "ministro": "Sepúlveda Pertence",
+     "tipo": "precedente_citado",
+     "referencia": "seu próprio voto no recebimento da denúncia, Inquérito 705",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Por isso mesmo cuidei da questão, quando do recebimento da denúncia que deu origem a este processo, no Inquérito 705.",
+     "fonte": "p. 602"
+    },
+    {
+     "ministro": "Sepúlveda Pertence",
+     "tipo": "mudanca_lei",
+     "referencia": "ruptura do art. 317 do CP de 1940 com o Código Criminal do Império (art. 130), o CP de 1890 (art. 214) e a Consolidação das Leis Penais de 1932 (art. 240)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Não posso, assim, ignorar a ruptura do art. 317 do C. Penal de 1940, a um só tempo, com a quase unanimidade do direito comparado e com todos os antecedentes legislativos brasileiros",
+     "fonte": "p. 611"
+    },
+    {
+     "ministro": "Néri da Silveira",
+     "tipo": "precedente_citado",
+     "referencia": "seu próprio voto no recebimento da denúncia",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+     "fonte": "p. 646"
+    },
+    {
+     "ministro": "Carlos Velloso",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no recebimento da denúncia, Inquérito n° 705-DF",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Com propriedade, disse o Sr. Ministro Sepúlveda Pertence, no voto que proferiu quando do recebimento da denúncia - Inquérito n° 705-DF",
+     "fonte": "p. 711"
+    },
+    {
+     "ministro": "Octavio Gallotti",
+     "tipo": "precedente_citado",
+     "referencia": "doutrina e jurisprudência citadas nos votos do Relator e do Revisor",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Julgo, então, que a letra, o sistema e a lógica do Código estão a clamar contra a tipificação do crime, sem a existência e a comprovação do ato de ofício, ou pelo menos da promessa de sua prática ou omissão.",
+     "fonte": "p. 666"
+    },
+    {
+     "ministro": "Ilmar Galvão",
+     "tipo": "precedente_citado",
+     "referencia": "seu próprio voto no julgamento que recebeu parcialmente a denúncia",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Quando do julgamento em que foi parcialmente recebida denúncia, já este relator havia apontado a omissão",
+     "fonte": "p. 152"
+    }
+   ],
+   "obs": "Placar 5x3. A pergunta principal é ato_de_oficio (R5): a divisão sobre a exigência de ato de ofício coincide exatamente com o placar (Ilmar, Moreira, Celso, Sanches e Gallotti exigem; Velloso, Pertence e Néri dispensam e condenam). Na pergunta concorreu, Sanches e Gallotti não enfrentam a questão, e ela separa só 3x3 entre os que a enfrentam. Dispositivo da ata: art. 386, III, do CPP. Modo imputado na denúncia (R15): Collor teria solicitado 'através de Paulo César' (concurso de pessoas, solicitação indireta). Preliminar (R6, não é questão decisiva): a gravação da conversa de Curió foi declarada inadmissível, vencidos Velloso, Pertence e Néri, os mesmos que ficaram vencidos no mérito deste episódio. Marco Aurélio não participou das votações (suspeição) e Francisco Rezek esteve ausente (ata, p. 756); o banco os lista como 'Não votou' e eles não entram em posicoes. Para Paulo César Farias, que não é funcionário público, a absolvição decorre da de Collor, por co-autoria (Relator p. 193; Revisor p. 414; Sanches p. 639). Os votos não fazem análise própria sobre ele, e as posições repetem as da unidade de Collor no mesmo episódio."
+  },
+  {
+   "id_unidade": "AP-307-R02-I01b",
+   "unidade_origem": "AP-307-R02-I01",
+   "fato": "episódio VASP-PETROBRÁS (financiamento de combustível)",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo Levcovitz decidido no banco (art. 317, caput, CP)",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Ilmar Galvão",
+    "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+    "fonte": "p. 126",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "tipicidade",
+      "evidencia": "Os fatos descritos na denúncia não se enquadran, evidentemente, no tipo penal relativo à corrupção passiva.",
+      "fonte": "p. 373",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": "enquadramento",
+     "anotacoes": [],
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+      "fonte": "p. 126",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "Os fatos descritos na denúncia não se enquadran, evidentemente, no tipo penal relativo à corrupção passiva.",
+      "fonte": "p. 373"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+      "fonte": "p. 126",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+        "fonte": "p. 126",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+        "fonte": "p. 126",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Nenhuma referência, na denúncia ou nos autos, a vantagem solicitada, recebida ou prometida ao ex-Presidente (pp. 124-126).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Os fatos descritos na denúncia não se enquadran, evidentemente, no tipo penal relativo à corrupção passiva.",
+        "fonte": "p. 373",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Os fatos descritos na denúncia não se enquadran, evidentemente, no tipo penal relativo à corrupção passiva.",
+        "fonte": "p. 373",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "A solicitação descrita é de particular a servidor, sem vantagem e com servidor incompetente; acrescenta falta de prova do envolvimento de Collor (pp. 374-375).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "No que concerne ao caso VASP/PETROBRÁS, ficou claramente evidenciado nestes autos que o comportamento atribuído ao ex-Presidente Fernando Affonso Collor de Mello e a Paulo César Cavalcante Farias não se subsume à descrição normativa consubstanciada no tipo definido no art. 317 do Código Penal.",
+        "fonte": "p. 570",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "No que concerne ao caso VASP/PETROBRÁS, ficou claramente evidenciado nestes autos que o comportamento atribuído ao ex-Presidente Fernando Affonso Collor de Mello e a Paulo César Cavalcante Farias não se subsume à descrição normativa consubstanciada no tipo definido no art. 317 do Código Penal.",
+        "fonte": "p. 570",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Transcreve e adota o trecho do Revisor (pp. 571-573).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Nem efetivamente consegui, eu também, divisar, na descrição do fato, hipótese de corrupção passiva, pelo menos de corrupção passiva imputável ao Presidente da República.",
+        "fonte": "p. 620",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Nem efetivamente consegui, eu também, divisar, na descrição do fato, hipótese de corrupção passiva, pelo menos de corrupção passiva imputável ao Presidente da República.",
+        "fonte": "p. 620",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Também não vê base empírica para a participação pessoal do Presidente (p. 620).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "ato_de_oficio: falta demonstração de ato de ofício em contrapartida (pp. 636-637)"
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Limito-me, pois, relativamente a essa parte da denúncia, a acompanhar os votos que me precederam.",
+        "fonte": "p. 663",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida;",
+        "fonte": "p. 126",
+        "confianca": "baixa",
+        "inferida_de": "Ilmar Galvão (Relator), p. 126"
+       },
+       "posicao_detalhe": "Trecho próprio só diz que não encontrou prova bastante (p. 663); acompanha Relator e Revisor.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "ato_de_oficio: fato atípico pela ausência do ato de ofício na denúncia (p. 667)"
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "No ponto, ponho-me de acordo, também, com os eminentes Ministros Relator e Revisor, no gentido da não configuração, no caso, do delito de corrupção passiva, o que se deduz dos depoimentos",
+        "fonte": "p. 715",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "No ponto, ponho-me de acordo, também, com os eminentes Ministros Relator e Revisor, no gentido da não configuração, no caso, do delito de corrupção passiva, o que se deduz dos depoimentos",
+        "fonte": "p. 715",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Trecho curto: acompanha Relator e Revisor na 'não configuração' do delito, deduzida dos depoimentos (p. 715).",
+       "fundamento_proprio": null
+      }
+     ]
+    },
+    {
+     "questao_decisiva": {
+      "valor": "ato_de_oficio",
+      "evidencia": "e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+      "fonte": "p. 126",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Tenho, portanto, nesse passo, a acusação por improcedente (art. 386, inc. III, do CPP), pelo duplo motivo de não haver qualquer referência, quer na denúncia, quer nos autos, acerca de vantagem solicitada ou recebida pelo primeiro acusado, ou a ele prometida; e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+      "fonte": "p. 126",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+      "fonte": "p. 126"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+      "fonte": "p. 126",
+      "confianca": "media"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+        "fonte": "p. 126",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "e de não haver sido seguer apontado ato de ofício que teria sido prometido ou praticado pelo primeiro acusado, em favor da VASP ou de qualquer outro interessado.",
+        "fonte": "p. 126",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Como se vê, a solicitação aí descrita não é a de vantagem indevida feita pc= servidor público, direta ou indiretamente, e dirigida a= interessado para que aquele pratique ato de sua competência oj deixe de praticá-lo.",
+        "fonte": "p. 374",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Como se vê, a solicitação aí descrita não é a de vantagem indevida feita pc= servidor público, direta ou indiretamente, e dirigida a= interessado para que aquele pratique ato de sua competência oj deixe de praticá-lo.",
+        "fonte": "p. 374",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Exige que a vantagem vise ato da competência do servidor (pp. 342-349, 374).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "consideradas as razões anteriormente mencionadas pertinentes à ausência, no caso, de requisito típico essencial: a referência objetiva e concreta, na denúncia, a um específico ato funcional pertencente à esfera de competência do Presidente da República.",
+        "fonte": "p. 574",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "consideradas as razões anteriormente mencionadas pertinentes à ausência, no caso, de requisito típico essencial: a referência objetiva e concreta, na denúncia, a um específico ato funcional pertencente à esfera de competência do Presidente da República.",
+        "fonte": "p. 574",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "É inegável que, entre essas duas correntes, Código brasileiro optou pela segunda, a minoritária, que não exige que a contraprestação do funcionário à vantagem cogitada seja um ato de ofício predeterminado",
+        "fonte": "p. 608",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "É inegável que, entre essas duas correntes, Código brasileiro optou pela segunda, a minoritária, que não exige que a contraprestação do funcionário à vantagem cogitada seja um ato de ofício predeterminado",
+        "fonte": "p. 608",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Mantém a tese de que basta o nexo com a função (pp. 608, 619), mas absolve por falta de tipicidade/prova neste episódio.",
+       "fundamento_proprio": "tipicidade/concorreu: não vê hipótese de corrupção passiva nem participação pessoal do Presidente (p. 620)"
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+        "fonte": "p. 646",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+        "fonte": "p. 646",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Tese geral do voto (p. 646); absolve por insuficiência de prova (p. 663).",
+       "fundamento_proprio": "prova insuficiente (p. 663)"
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "dois (os episódios envolvendo, respectivamente, a VASP e a Metcedes Benz) tornam-se atípicos, pela ausência, em sua descrição, na denúncia, do ato de ofício",
+        "fonte": "p. 667",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "A lei penal brasileira, Cód. Penal, art. 317, ao contrário do Cód. Penal italiano, art. 318, não exige, para a configuração do crime de corrupção passiva, a identificação do ato de ofício praticado como contraprestação da vantagem econômica solicitada, oferecida ou recebida.",
+        "fonte": "p. 710",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "A lei penal brasileira, Cód. Penal, art. 317, ao contrário do Cód. Penal italiano, art. 318, não exige, para a configuração do crime de corrupção passiva, a identificação do ato de ofício praticado como contraprestação da vantagem econômica solicitada, oferecida ou recebida.",
+        "fonte": "p. 710",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Tese geral do voto (pp. 710-714); absolve por não configuração do delito à vista dos depoimentos (p. 715).",
+       "fundamento_proprio": "tipicidade: não configuração do delito (p. 715)"
+      }
+     ]
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Ilmar Galvão",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no julgamento da admissibilidade da denúncia (Inq. 705)",
+     "sentido": "para_afastar",
+     "proprio_ministro": "Nao",
+     "evidencia": "não obstante a opinião sustentada, durante o julgamento da admissibilidade da denúncia, com o brilho e a inteligência de sempre, pelo eminente Ministro SEPÚLVEDA PERTENCE",
+     "fonte": "p. 90"
+    },
+    {
+     "ministro": "Ilmar Galvão",
+     "tipo": "precedente_citado",
+     "referencia": "acórdãos do TJSP e do TFR compilados por Alberto Silva Franco (RT 390/100, RT 374/164, RJTJSP 24/356, DJU 16.12.82)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "A corrupção passiva exige para sua configuração a prática de atos de ofício, dando ensejo ao recebimento de vantagem indevida.",
+     "fonte": "p. 98"
+    },
+    {
+     "ministro": "Moreira Alves",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no recebimento da denúncia",
+     "sentido": "para_afastar",
+     "proprio_ministro": "Nao",
+     "evidencia": "A primeira diz respeito a afirmação do ilustre Ministro no tocante à desnecessidade, em face dos termos do caput do artigo 317 do Código Penal, da exigência, para configurar-se o crime de corrupção passiva, da identificação precisa do ato de ofício oferecido ou esperado como contraprestação da vantagem indevida solicitada.",
+     "fonte": "p. 339"
+    },
+    {
+     "ministro": "Moreira Alves",
+     "tipo": "precedente_citado",
+     "referencia": "jurisprudência dos Tribunais (RF 201:297; RT 390:100, 526:356, 538:324)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "No mesmo sentido, é unissona a jurisprudência de nossos Tribunais.",
+     "fonte": "p. 344"
+    },
+    {
+     "ministro": "Celso de Mello",
+     "tipo": "precedente_citado",
+     "referencia": "RT 374/164 - RT 388/200 - RT 390/100 - RT 526/356 - RT 538/324",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "agiu na perspectiva de um ato de ofício inscrito em sua esfera de atribuições funcionais (RT 374/164 - RI 388/200 - RT 390/100 - RT 526/356 - RT 538/324).",
+     "fonte": "p. 570"
+    },
+    {
+     "ministro": "Sepúlveda Pertence",
+     "tipo": "precedente_citado",
+     "referencia": "seu próprio voto no recebimento da denúncia, Inquérito 705",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Por isso mesmo cuidei da questão, quando do recebimento da denúncia que deu origem a este processo, no Inquérito 705.",
+     "fonte": "p. 602"
+    },
+    {
+     "ministro": "Sepúlveda Pertence",
+     "tipo": "mudanca_lei",
+     "referencia": "ruptura do art. 317 do CP de 1940 com o Código Criminal do Império (art. 130), o CP de 1890 (art. 214) e a Consolidação das Leis Penais de 1932 (art. 240)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Não posso, assim, ignorar a ruptura do art. 317 do C. Penal de 1940, a um só tempo, com a quase unanimidade do direito comparado e com todos os antecedentes legislativos brasileiros",
+     "fonte": "p. 611"
+    },
+    {
+     "ministro": "Néri da Silveira",
+     "tipo": "precedente_citado",
+     "referencia": "seu próprio voto no recebimento da denúncia",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "no \"caput\" do art. 317 do CP, não há previsão da efetiva prática de ato de ofício, como acentuei no voto proferido quando do recebimento da denúncia",
+     "fonte": "p. 646"
+    },
+    {
+     "ministro": "Carlos Velloso",
+     "tipo": "precedente_citado",
+     "referencia": "voto do Min. Sepúlveda Pertence no recebimento da denúncia, Inquérito n° 705-DF",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Com propriedade, disse o Sr. Ministro Sepúlveda Pertence, no voto que proferiu quando do recebimento da denúncia - Inquérito n° 705-DF",
+     "fonte": "p. 711"
+    },
+    {
+     "ministro": "Octavio Gallotti",
+     "tipo": "precedente_citado",
+     "referencia": "doutrina e jurisprudência citadas nos votos do Relator e do Revisor",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Julgo, então, que a letra, o sistema e a lógica do Código estão a clamar contra a tipificação do crime, sem a existência e a comprovação do ato de ofício, ou pelo menos da promessa de sua prática ou omissão.",
+     "fonte": "p. 666"
+    }
+   ],
+   "obs": "Caso unânime. Pela R5b as duas perguntas são principais (resposta do tribunal 'nao' nas duas, sem divergência no resultado). Ementa (p. 2) e Relator (p. 126) dão o 'duplo motivo'. Velloso, Pertence e Néri mantêm a tese de que basta o nexo com a função (ato_de_oficio = sim), mas absolvem pela outra razão; a divergência sobre ato de ofício, portanto, não pesou no resultado. Pertence e o Revisor também negam prova do envolvimento pessoal de Collor (concorreu), terceira razão que não registrei por causa do limite de duas questões. Dispositivo da ata: art. 386, III, do CPP. Marco Aurélio não participou das votações (suspeição) e Francisco Rezek esteve ausente (ata, p. 756); o banco os lista como 'Não votou' e eles não entram em posicoes. Para Paulo César Farias, que não é funcionário público, a absolvição decorre da de Collor, por co-autoria (Relator p. 193; Revisor p. 414; Sanches p. 639). Os votos não fazem análise própria sobre ele, e as posições repetem as da unidade de Collor no mesmo episódio."
+  },
+  {
+   "id_unidade": "AP-307-R02-I01c",
+   "unidade_origem": "AP-307-R02-I01",
+   "fato": "episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo Levcovitz decidido no banco (art. 317, caput, CP)",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Ilmar Galvão",
+    "evidencia": "Meu voto, portanto, também relativamente ao último fato apreciado, envolvendo o episódio da nomeação de Marcelo Ribeiro, é no sentido de absolver o acusado FERNANDO COLLOR da imputação relativa ao crime do art. 317, caput, do Código Penal, na forma do art. 386, VI, do CP.",
+    "fonte": "p. 193",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "tipicidade",
+      "evidencia": "Não restou demonstrado, portanto, que a nomeação de Marcelo Ribeiro foi objeto da negociação financeira mencionada na denúncia, nem, tampouco, que de parte do ex-Presidente da República fora solicitada qualquer vantagem à empresa TRATEX, ainda que por intermédio do acusado PAULO CÉSAR FARIAS.",
+      "fonte": "p. 168",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": "existencia_fato",
+     "anotacoes": [],
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Meu voto, portanto, também relativamente ao último fato apreciado, envolvendo o episódio da nomeação de Marcelo Ribeiro, é no sentido de absolver o acusado FERNANDO COLLOR da imputação relativa ao crime do art. 317, caput, do Código Penal, na forma do art. 386, VI, do CP.",
+      "fonte": "p. 193",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "Não restou demonstrado, portanto, que a nomeação de Marcelo Ribeiro foi objeto da negociação financeira mencionada na denúncia, nem, tampouco, que de parte do ex-Presidente da República fora solicitada qualquer vantagem à empresa TRATEX, ainda que por intermédio do acusado PAULO CÉSAR FARIAS.",
+      "fonte": "p. 168"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Não restou demonstrado, portanto, que a nomeação de Marcelo Ribeiro foi objeto da negociação financeira mencionada na denúncia, nem, tampouco, que de parte do ex-Presidente da República fora solicitada qualquer vantagem à empresa TRATEX, ainda que por intermédio do acusado PAULO CÉSAR FARIAS.",
+      "fonte": "p. 168",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Não restou demonstrado, portanto, que a nomeação de Marcelo Ribeiro foi objeto da negociação financeira mencionada na denúncia, nem, tampouco, que de parte do ex-Presidente da República fora solicitada qualquer vantagem à empresa TRATEX, ainda que por intermédio do acusado PAULO CÉSAR FARIAS.",
+        "fonte": "p. 168",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Não restou demonstrado, portanto, que a nomeação de Marcelo Ribeiro foi objeto da negociação financeira mencionada na denúncia, nem, tampouco, que de parte do ex-Presidente da República fora solicitada qualquer vantagem à empresa TRATEX, ainda que por intermédio do acusado PAULO CÉSAR FARIAS.",
+        "fonte": "p. 168",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Presunção de vantagem ilícita elidida pela plausibilidade da explicação das sobras de campanha; in dubio pro reo (pp. 191-192).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Mas não há prova de que esse recebimento tenha sido feito em troca da nomeação de MARCELO RIBEIRO.",
+        "fonte": "p. 370",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Mas não há prova de que esse recebimento tenha sido feito em troca da nomeação de MARCELO RIBEIRO.",
+        "fonte": "p. 370",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Nexo entre o pagamento da TRATEX e a nomeação não provado (pp. 370-371).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "A absoluta inconsistência do suporte probatório em que se apóia a denúncia do Ministério Público referente ao episódio Marcelo Ribeiro/Tratex foi amplamente demonstrada no voto do eminente Ministro Relator",
+        "fonte": "p. 586",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "A absoluta inconsistência do suporte probatório em que se apóia a denúncia do Ministério Público referente ao episódio Marcelo Ribeiro/Tratex foi amplamente demonstrada no voto do eminente Ministro Relator",
+        "fonte": "p. 586",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Transcreve o Relator (pp. 587-589); absolve por falta de provas (p. 600).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "submergiu afinal na inconsistência da prova colhida a respeito.",
+        "fonte": "p. 620",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "submergiu afinal na inconsistência da prova colhida a respeito.",
+        "fonte": "p. 620",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Registra que seria a única imputação típica, por haver ato específico de competência presidencial (p. 620).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Também o absolvo, pois entendo que demonstração da prática de ato de ofício (comissivo ou omissivo), em contra-partida à vantagem indevidamente recebida,",
+        "fonte": "p. 636",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Formula como falta de demonstração de ato de ofício 'em contra-partida à vantagem' (pp. 636-637); trecho conjunto para VASP e Marcelo Ribeiro.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Quanto às acusações referentes à nomeação de Marcelo Ribeiro e ao episódio VASP-Petrobrás - efetivamente, também eu não encontrei elementos de prova bastantes a ter-se a denúncia como procedente.",
+        "fonte": "p. 663",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Quanto às acusações referentes à nomeação de Marcelo Ribeiro e ao episódio VASP-Petrobrás - efetivamente, também eu não encontrei elementos de prova bastantes a ter-se a denúncia como procedente.",
+        "fonte": "p. 663",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Trecho curto, conjunto para Marcelo Ribeiro e VASP; acompanha Relator e Revisor.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "que, por um lado, ressaltaram a fragilidade da imputação",
+        "fonte": "p. 667",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "que, por um lado, ressaltaram a fragilidade da imputação",
+        "fonte": "p. 667",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Adota a conclusão do Revisor sobre a credibilidade dos depoimentos (pp. 667-668).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "não é menos certo de que não há prova, nos autos, de que essa importância foi paga à EPC em razão da nomeaçtio de Marcelo Ribeiro para o cargo de Secretário Nacional de Transportes.",
+        "fonte": "p. 717",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "não é menos certo de que não há prova, nos autos, de que essa importância foi paga à EPC em razão da nomeaçtio de Marcelo Ribeiro para o cargo de Secretário Nacional de Transportes.",
+        "fonte": "p. 717",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      }
+     ]
+    }
+   ],
+   "precedentes": [],
+   "obs": "Caso unânime. Uma só questão: a existência do fato corrupto (o pagamento da TRATEX como contrapartida da nomeação). Pertence registra que o episódio seria típico, porque a nomeação é ato específico de competência presidencial (p. 620), e por isso ato_de_oficio não é questão decisiva aqui. Dispositivo da ata: art. 386, VI, do CPP (insuficiência de prova). Marco Aurélio não participou das votações (suspeição) e Francisco Rezek esteve ausente (ata, p. 756); o banco os lista como 'Não votou' e eles não entram em posicoes. Para Paulo César Farias, que não é funcionário público, a absolvição decorre da de Collor, por co-autoria (Relator p. 193; Revisor p. 414; Sanches p. 639). Os votos não fazem análise própria sobre ele, e as posições repetem as da unidade de Collor no mesmo episódio."
+  },
+  {
+   "id_unidade": "AP-307-R03-I01",
+   "unidade_origem": "AP-307-R03-I01",
+   "fato": "corrupção passiva (art. 317, CP)",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo Levcovitz decidido no banco (art. 317, caput, CP)",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Ilmar Galvão",
+    "evidencia": "efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+    "fonte": "p. 193",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "concorreu",
+      "evidencia": "a denúncia só envolve os dois primeiros acusados, não aludindo a qualque= participação neles de CLAUDIO FRANCISCO VIEIRA, direta ou indiretamente.",
+      "fonte": "p. 358",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "e no que concerne a Cláudio Francisco Vieira - em relação a quem o próprio Ministério Público reconheceu insuficiente a prova que foi produzida -, absolvo-o, com fundamento no art. 386, VI, do Código de Processo Penal",
+      "fonte": "p. 601",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "a denúncia só envolve os dois primeiros acusados, não aludindo a qualque= participação neles de CLAUDIO FRANCISCO VIEIRA, direta ou indiretamente.",
+      "fonte": "p. 358"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "e no que concerne a Cláudio Francisco Vieira - em relação a quem o próprio Ministério Público reconheceu insuficiente a prova que foi produzida -, absolvo-o, com fundamento no art. 386, VI, do Código de Processo Penal",
+      "fonte": "p. 601",
+      "confianca": "media"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": {
+      "valor": "nao_dito",
+      "evidencia": null,
+      "fonte": null,
+      "confianca": "alta"
+     },
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+        "fonte": "p. 193",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+        "fonte": "p. 193",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "tipicidade (existência do fato): absolvição estendida por não demonstrados os crimes de corrupção passiva (p. 193)"
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "a denúncia só envolve os dois primeiros acusados, não aludindo a qualque= participação neles de CLAUDIO FRANCISCO VIEIRA, direta ou indiretamente.",
+        "fonte": "p. 358",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "a denúncia só envolve os dois primeiros acusados, não aludindo a qualque= participação neles de CLAUDIO FRANCISCO VIEIRA, direta ou indiretamente.",
+        "fonte": "p. 358",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "As demais imputações (blindado, Fiat Elba, locação de veículos) foram abandonadas pelo MPF e se chocam com a acusação principal (pp. 414-415).",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "e no que concerne a Cláudio Francisco Vieira - em relação a quem o próprio Ministério Público reconheceu insuficiente a prova que foi produzida -, absolvo-o, com fundamento no art. 386, VI, do Código de Processo Penal",
+        "fonte": "p. 601",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "e no que concerne a Cláudio Francisco Vieira - em relação a quem o próprio Ministério Público reconheceu insuficiente a prova que foi produzida -, absolvo-o, com fundamento no art. 386, VI, do Código de Processo Penal",
+        "fonte": "p. 601",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "subscrevendo, no mais, o voto do Sr. Ministro Carlos Velloso, peço vênia aos eminentes Ministros Relator, Revisor e Celso de Mello, para julgar procedente a ação penal contra os acusados Fernando Collor de Mello e Paulo César Cavalcanti de Farias, por infração do art. 317 do Código Penal.",
+        "fonte": "p. 625",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Anote-Be, por primeiro, que o Ministério Público Federal reconheceu inexistência • de prova dos delitos em relação ao último, Cláudio Vieira.",
+        "fonte": "p. 715",
+        "confianca": "baixa",
+        "inferida_de": "Carlos Velloso, p. 715 (Pertence subscreve seu voto, p. 625)"
+       },
+       "posicao_detalhe": "Sem texto sobre Cláudio Vieira; subscreve o voto de Carlos Velloso e só condena Collor e PC Farias.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "Voto no mesmo sentido, aduzindo, apenas, que nenhum ato de ofício, comissivo ou omissivo, desse acusado, ficou provado nos autos",
+        "fonte": "p. 639",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "Voto no mesmo sentido, aduzindo, apenas, que nenhum ato de ofício, comissivo ou omissivo, desse acusado, ficou provado nos autos",
+        "fonte": "p. 639",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Declara votar no mesmo sentido dos votos anteriores.",
+       "fundamento_proprio": "ato_de_oficio: nenhum ato de ofício desse acusado provado (p. 639)"
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Também quanto ao co-réu Cláudio Vieira, meu voto põe-se de acordo con os ilustres Ministros Relator e Revisor, tendo em conta, ainda, a posição da Procuradoria-Geral da República, que, nas alegações finais e na sustentação oral, não viu elementos de provas para manter a acusação contra esse denunciado",
+        "fonte": "p. 663",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Também quanto ao co-réu Cláudio Vieira, meu voto põe-se de acordo con os ilustres Ministros Relator e Revisor, tendo em conta, ainda, a posição da Procuradoria-Geral da República, que, nas alegações finais e na sustentação oral, não viu elementos de provas para manter a acusação contra esse denunciado",
+        "fonte": "p. 663",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Apoia-se na posição da PGR, que não viu prova contra o réu.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Não considerando, pois, provada a acusação,, julgo a ação improcedente, de acordo com o8 votos dos Ministros Relator e Revisor",
+        "fonte": "p. 668",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "a denúncia só envolve os dois primeiros acusados, não aludindo a qualque= participação neles de CLAUDIO FRANCISCO VIEIRA, direta ou indiretamente.",
+        "fonte": "p. 358",
+        "confianca": "baixa",
+        "inferida_de": "Moreira Alves (Revisor), p. 358"
+       },
+       "posicao_detalhe": "Não nomeia Cláudio Vieira; dispositivo remete aos votos do Relator e do Revisor.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Anote-Be, por primeiro, que o Ministério Público Federal reconheceu inexistência • de prova dos delitos em relação ao último, Cláudio Vieira.",
+        "fonte": "p. 715",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Anote-Be, por primeiro, que o Ministério Público Federal reconheceu inexistência • de prova dos delitos em relação ao último, Cláudio Vieira.",
+        "fonte": "p. 715",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Trecho curto: registra que o MPF reconheceu a inexistência de prova e acompanha Relator e Revisor.",
+       "fundamento_proprio": null
+      }
+     ]
+    },
+    {
+     "questao_decisiva": {
+      "valor": "tipicidade",
+      "evidencia": "efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+      "fonte": "p. 193",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "sim_favorece": "acusacao",
+     "anotacao_tipicidade": "existencia_fato",
+     "anotacoes": [],
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+      "fonte": "p. 193",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+      "fonte": "p. 193"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+      "fonte": "p. 193",
+      "confianca": "media"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Ilmar Galvão",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+        "fonte": "p. 193",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+        "fonte": "p. 193",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Moreira Alves",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Absolvo-o, portanto, com base no artigo 386, III e VI, do Código de Processo Penal.",
+        "fonte": "p. 414",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Absolvo-o, portanto, com base no artigo 386, III e VI, do Código de Processo Penal.",
+        "fonte": "p. 414",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Inclui o inciso III do art. 386 (fato não constitui infração) ao lado do VI.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "e no que concerne a Cláudio Francisco Vieira - em relação a quem o próprio Ministério Público reconheceu insuficiente a prova que foi produzida -, absolvo-o, com fundamento no art. 386, VI, do Código de Processo Penal",
+        "fonte": "p. 601",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "e no que concerne a Cláudio Francisco Vieira - em relação a quem o próprio Ministério Público reconheceu insuficiente a prova que foi produzida -, absolvo-o, com fundamento no art. 386, VI, do Código de Processo Penal",
+        "fonte": "p. 601",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "concorreu: prova insuficiente em relação ao réu, reconhecida pelo MPF (p. 601)"
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "subscrevendo, no mais, o voto do Sr. Ministro Carlos Velloso, peço vênia aos eminentes Ministros Relator, Revisor e Celso de Mello, para julgar procedente a ação penal contra os acusados Fernando Collor de Mello e Paulo César Cavalcanti de Farias, por infração do art. 317 do Código Penal.",
+        "fonte": "p. 625",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+        "fonte": "p. 193",
+        "confianca": "baixa",
+        "inferida_de": "Ilmar Galvão (Relator), p. 193"
+       },
+       "posicao_detalhe": "Sem texto sobre Cláudio Vieira.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Sydney Sanches",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "Voto no mesmo sentido, aduzindo, apenas, que nenhum ato de ofício, comissivo ou omissivo, desse acusado, ficou provado nos autos",
+        "fonte": "p. 639",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "Voto no mesmo sentido, aduzindo, apenas, que nenhum ato de ofício, comissivo ou omissivo, desse acusado, ficou provado nos autos",
+        "fonte": "p. 639",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "ato_de_oficio: nenhum ato de ofício desse acusado provado (p. 639)"
+      },
+      {
+       "ministro": "Néri da Silveira",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "Também quanto ao co-réu Cláudio Vieira, meu voto põe-se de acordo con os ilustres Ministros Relator e Revisor, tendo em conta, ainda, a posição da Procuradoria-Geral da República, que, nas alegações finais e na sustentação oral, não viu elementos de provas para manter a acusação contra esse denunciado",
+        "fonte": "p. 663",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "Também quanto ao co-réu Cláudio Vieira, meu voto põe-se de acordo con os ilustres Ministros Relator e Revisor, tendo em conta, ainda, a posição da Procuradoria-Geral da República, que, nas alegações finais e na sustentação oral, não viu elementos de provas para manter a acusação contra esse denunciado",
+        "fonte": "p. 663",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "concorreu: falta de prova contra o réu, segundo a PGR (p. 663)"
+      },
+      {
+       "ministro": "Octavio Gallotti",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Não considerando, pois, provada a acusação,, julgo a ação improcedente, de acordo com o8 votos dos Ministros Relator e Revisor",
+        "fonte": "p. 668",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "efeito da decisão é de ser estendido aos acusados PAULO CÉSAR FARIAS e CLÁUDIO VIEIRA, denunciados por co-autoria. Realmente, indemonstrada que restou a prática dos crimes de corrupção passiva, nada resta que, a esse respeito, contra eles pudesse remanescer.",
+        "fonte": "p. 193",
+        "confianca": "baixa",
+        "inferida_de": "Ilmar Galvão (Relator), p. 193"
+       },
+       "posicao_detalhe": "Não nomeia Cláudio Vieira.",
+       "fundamento_proprio": null
+      },
+      {
+       "ministro": "Carlos Velloso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Prosseguindo-se no julgamento, o tribunal julgou improcedente a denúncia contra os réus Fernando Affonso Collor de Mello, Paulo César Cavalcante Farias e Cláudio Francisco Vieira e absolveu-os",
+        "fonte": "p. 673 (extrato de ata de 12.12.94; texto limpo em brutos/AP-307_ata_indice_sjur157761.txt)",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "Anote-Be, por primeiro, que o Ministério Público Federal reconheceu inexistência • de prova dos delitos em relação ao último, Cláudio Vieira.",
+        "fonte": "p. 715",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "Anote-Be, por primeiro, que o Ministério Público Federal reconheceu inexistência • de prova dos delitos em relação ao último, Cláudio Vieira.",
+        "fonte": "p. 715",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "concorreu: MPF reconheceu inexistência de prova quanto ao réu (p. 715)"
+      }
+     ]
+    }
+   ],
+   "precedentes": [],
+   "obs": "Caso unânime. Pela R5b as duas perguntas são principais (resposta 'nao' nas duas, sem divergência). Os fundamentos se dividem: Relator, pela inexistência do crime principal (extensão, p. 193); Revisor, Celso, Velloso e Néri, pela falta de prova da participação do réu, com o MPF tendo abandonado a acusação nas alegações finais; Sanches, pela falta de ato de ofício do acusado. Pela ata, nenhum dos vencidos condenou Cláudio Vieira (p. 673). O dispositivo da ata não indica inciso para este réu; Celso diz 386, VI, e o Revisor diz 386, III e VI. Modo imputado (R15): co-autoria em corrupção passiva, como intermediário de vantagens a Collor (p. 101). Marco Aurélio não participou das votações (suspeição) e Francisco Rezek esteve ausente (ata, p. 756); o banco os lista como 'Não votou' e eles não entram em posicoes."
+  }
+ ],
+ "avisos": [
+  "Banco e ata conferem: Velloso, Pertence e Néri condenam Collor e PC Farias só no episódio Mercedes-Benz; todos os votantes absolvem nos demais episódios e Cláudio Vieira. Nenhum conflito pela R17.",
+  "No episódio Mercedes, a divergência é jurídica: se o caput do art. 317 exige ato de ofício determinado. Pertence (p. 602) a formula expressamente como a questão do julgamento. Celso (p. 577) acrescenta, como argumento subsidiário, que mesmo sem essa exigência faltaria prova, e Relator e Revisor também negam a prova da solicitação em nome de Collor. Daí a segunda pergunta (concorreu), que registrei como não principal.",
+  "Unidades de Paulo César Farias: nenhum voto analisa o réu em separado. A absolvição é tratada como consequência da de Collor, e para os vencidos a condenação é conjunta. Repliquei as posições da unidade de Collor.",
+  "Cláudio Vieira (R03): fundamentos heterogêneos e votos curtos. Pertence e Gallotti não o nomeiam e foram registrados como Adesao (confiança baixa). Sanches funda-se na falta de ato de ofício do acusado, categoria que ficou fora das duas questões da unidade e está em fundamento_proprio.",
+  "A categoria do episódio VASP é discutível: o Relator nega haver 'vantagem' solicitada ou recebida (leitura possível como existencia_fato), o Revisor diz que os fatos descritos não se enquadram no tipo (enquadramento). Registrei enquadramento.",
+  "Marcelo Ribeiro: registrei como tipicidade/existencia_fato (o pagamento como contrapartida da nomeação existiu?). Uma leitura alternativa é concorreu (Collor teria solicitado a vantagem?), porque o Relator e o Revisor também a mencionam (pp. 168, 370).",
+  "padrao_dolo_exigido ficou null em todas as questões: nenhuma é de dolo, e não houve evidência a transcrever. Pertence fala em 'elemento subjetivo especifico' (p. 602) a propósito do ato de ofício, mas não discute dolo do réu.",
+  "Néri da Silveira (p. 646) fala em dispensa da 'efetiva prática' do ato de ofício, formulação menos precisa que a de Pertence (predeterminação), à qual ele remete. Registrei 'sim' com confiança média.",
+  "Debate das pp. 550-554: Velloso usou um depoimento de Bernardo Cabral no processo de impeachment que não estava nos autos, e Moreira Alves objetou. Não altera as categorias, mas mostra disputa sobre a base probatória do episódio Mercedes.",
+  "O OCR fragmenta linhas. As transcrições foram conferidas por busca no texto de cada página e mantêm os erros do OCR (ex.: 'seguer', 'qualque=', 'nomeaçtio')."
+ ]
+}

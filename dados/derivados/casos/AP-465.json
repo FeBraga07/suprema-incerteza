@@ -1,0 +1,64 @@
+{
+  "id_caso": "AP-465",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-465.txt"],
+  "metodo_validacao": "dupla extração independente (L2-b). Divergência factual real sobre o voto do Revisor (Dias Toffoli) — resolvida por leitura direta da fonte (não por arbitragem). Demais campos concordam entre AP-465_A.json e AP-465_B.json.",
+  "caso": {
+    "instituto_juridico": {"valor": "Peculato (art. 312, CP), corrupção passiva (art. 317, CP) e falsidade ideológica (art. 299, CP)", "evidencia": "DENÚNCIA. CRIMES DE PECULATO, CORRUPÇÃO PASSIVA E FALSIDADE IDEOLÓGICA.", "fonte": "ementa", "confianca": "alta"},
+    "merito_finalizado": {"valor": true, "evidencia": "O Tribunal, por unanimidade, rejeitou as preliminares. No mérito, o Tribunal julgou improcedente a ação penal para absolver o réu com base no art. 386, inciso VII, do CPP, nos termos do voto da Relatora", "fonte": "ata", "confianca": "alta"},
+    "n_reus": {"valor": 1, "evidencia": "RÉU(É)(S): FERNANDO AFFONSO COLLOR DE MELLO — denúncia original era contra ele e mais 7 pessoas; desmembramento manteve só ele no STF (foro por prerrogativa)", "fonte": "acordao p.13", "confianca": "alta"},
+    "multiplas_sessoes": {"valor": false, "evidencia": "Todas as datas do inteiro teor referem-se a 24/04/2014; sem pedido de vista ou continuação.", "fonte": "ata", "confianca": "media"},
+    "modalidade_levcovitz": {"valor": [1, 8], "rotulos": ["Peculato (art. 312, CP, ou equivalente via DL 201/67)", "Corrupção passiva (art. 317, CP)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-465, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"1 (peculato) + 8 (corrupção passiva, art. 317)\"", "regra_aplicada": "inclusao_direta", "fonte": "ementa+ata", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {"valor": "Fernando Affonso Collor de Mello", "evidencia": "RÉU(É)(S): FERNANDO AFFONSO COLLOR DE MELLO", "fonte": "ementa", "confianca": "alta"},
+      "cargo_funcao": {"valor": "Presidente da República à época dos fatos (1991-1992); Senador da República à época do julgamento", "evidencia": "ex-Presidente da República Fernando Affonso Collor de Mello, atualmente exercendo o cargo de senador da República", "fonte": "acordao p.65", "confianca": "alta"},
+      "resultado": {"valor": "Absolvição", "evidencia": "julgar improcedente a ação penal para absolver o réu com base no art. 386, inc. VII, do CPP, nos termos do voto da Relatora", "fonte": "ata", "confianca": "alta"},
+      "motivo": {"valor": "mérito", "evidencia": "Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados.", "fonte": "ementa", "confianca": "alta"},
+      "prescricao_pos_condenacao": {"valor": false, "evidencia": "Não houve condenação; o resultado vencedor foi absolvição por insuficiência de provas quanto aos três crimes. Uma minoria (4, não 3 — ver nota_revisao) preferia reconhecer prescrição pré-mérito para 2 dos 3 crimes, mas essa não foi a posição vencedora.", "fonte": "ata", "confianca": "alta"},
+      "crimes": [
+        {"artigo": "art. 312, caput", "diploma": "Código Penal (peculato)", "evidencia": "desvio de dinheiro público em favor dos denunciados publicitários, conduta tipificada no art. 312, caput, CP"},
+        {"artigo": "art. 317", "diploma": "Código Penal (corrupção passiva)", "evidencia": "recebeu, indireta e reiteradamente, vantagem indevida, conduta tipificada no art. 317 CP"},
+        {"artigo": "art. 299", "diploma": "Código Penal (falsidade ideológica)", "evidencia": "abertura de contas correntes e falsificações de cheques, conduta tipificada no art. 299 CP"}
+      ],
+      "n_votantes": {"valor": 8, "evidencia": "Presentes: Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux, Rosa Weber, Teori Zavascki, Roberto Barroso + Presidente Joaquim Barbosa; Ausentes justificadamente: Celso de Mello, Marco Aurélio, Gilmar Mendes.", "fonte": "ata", "confianca": "alta"},
+      "votos_condenacao": {"valor": 0, "evidencia": "nenhum dos 8 votou por condenar em qualquer dos 3 crimes", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 8, "evidencia": "todos os 8 concluíram por não condenar (absolvição integral pela maioria; para 4 deles, absolvição do peculato + extinção pré-mérito dos outros dois crimes)", "fonte": "ata", "confianca": "media"},
+      "unanime": {"valor": false, "evidencia": "vencidos, em parte, o Ministro Ricardo Lewandowski [...] e os Ministros Teori Zavascki, Rosa Weber e Joaquim Barbosa (Presidente) — e, por leitura do voto escrito, também o Ministro Dias Toffoli (ver nota_revisao)", "fonte": "ata + acordao p.113 (voto do Revisor)", "confianca": "alta"}
+    }
+  ],
+  "votos": [
+    {"ministro": {"valor": "Cármen Lúcia"}, "eh_relator": {"valor": true}, "voto_resultado": {"valor": "absolve", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false, "evidencia": "voto vencedor, seguido pela maioria quanto aos 3 crimes"}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {
+      "ministro": {"valor": "Dias Toffoli"},
+      "eh_relator": {"valor": false, "evidencia": "Revisor"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal. [...] Por essa razão, relativamente ao crime de peculato (art. 312 do Código Penal), julgo improcedente a denúncia e absolvo o réu.", "fonte": "acordao p.113,142", "confianca": "alta"},
+      "vencido": {
+        "valor": true,
+        "evidencia": "O voto escrito do Revisor (acordao p.113) reconhece prescrição pré-mérito para falsidade ideológica e corrupção passiva, e só absolve por insuficiência de provas quanto ao peculato — posição substancialmente idêntica à de Teori Zavascki, Rosa Weber e Joaquim Barbosa, que a ata lista como 'vencidos, em parte'. A ata NÃO inclui Dias Toffoli nessa lista.",
+        "fonte": "acordao p.113",
+        "confianca": "alta",
+        "nota_revisao": "CORREÇÃO: a extração B citou a frase final do voto do Revisor ('julgo improcedente a denúncia e absolvo o réu [...] nos termos do art. 386, inc. VII') sem o qualificador 'relativamente ao crime de peculato' que a precede no texto — isso fazia parecer que Toffoli absolveu quanto aos 3 crimes, igual à Relatora. Conferido a fonte diretamente: o voto completo (p.113) mostra que ele primeiro reconhece prescrição para 2 dos 3 crimes (extinção pré-mérito, D-018 não se aplica pois não houve condenação prévia), e só then examina o mérito do peculato remanescente. Isso é, na prática, a mesma posição de Teori/Rosa Weber/Barbosa. A ata não o lista como 'vencido em parte' — é uma divergência real entre o voto escrito (fonte primária) e o resumo oficial da ata, registrada como achado, não escondida. Fonte: extração A identificou isso corretamente; extração B não."
+      },
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    },
+    {"ministro": {"valor": "Roberto Barroso"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.", "fonte": "acordao p.143", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Luiz Fux"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "eu acompanho integralmente o voto da Relatora.", "fonte": "acordao p.163", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ricardo Lewandowski"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "eu, a rigor, absolveria com fundamento no artigo 386, V do CPP", "fonte": "acordao p.164", "confianca": "alta"}, "vencido": {"valor": true, "evidencia": "vencido quanto ao fundamento legal (V, não VII), mesmo resultado prático"}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Teori Zavascki"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "quanto ao peculato acompanho a Relatora; quanto aos outros dois, extinção da punibilidade pela prescrição.", "fonte": "acordao p.159", "confianca": "alta"}, "vencido": {"valor": true}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Rosa Weber"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "é como voto, com a divergência quanto à prescrição, e com a Relatora quanto ao delito remanescente.", "fonte": "acordao p.161", "confianca": "alta"}, "vencido": {"valor": true}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Joaquim Barbosa"}, "eh_relator": {"valor": false, "evidencia": "Presidente"}, "voto_resultado": {"valor": "absolve", "evidencia": "acompanho a Relatora [...] por insuficiência de prova [peculato]; [...] acompanho o Ministro Teori [prescrição para os outros 2]", "fonte": "acordao p.166-167", "confianca": "alta"}, "vencido": {"valor": true}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Celso de Mello"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": true}, "motivo_ausencia": {"valor": "ausência justificada, motivo não especificado", "fonte": "ata", "confianca": "media"}},
+    {"ministro": {"valor": "Marco Aurélio"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": true}, "motivo_ausencia": {"valor": "ausência justificada, motivo não especificado", "fonte": "ata", "confianca": "media"}},
+    {"ministro": {"valor": "Gilmar Mendes"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": true}, "motivo_ausencia": {"valor": "ausência justificada, motivo não especificado", "fonte": "ata", "confianca": "media"}}
+  ],
+  "avisos": [
+    "ACHADO RELEVANTE PARA O TEMA DO TCC (instabilidade/inconsistência de registro): o voto escrito do Revisor Dias Toffoli, reproduzido no acórdão, diverge da maioria nos mesmos termos que Teori Zavascki, Rosa Weber e Joaquim Barbosa (reconhece prescrição pré-mérito para falsidade ideológica e corrupção passiva; só examina o mérito do peculato) — mas a ata não o lista entre os 'vencidos, em parte'. É uma divergência real e documentada entre o voto individual (fonte primária) e o resumo oficial da ata (a fonte que este projeto trata como autoritativa para placar). Optei por registrar o voto de Toffoli como 'vencido=true' com base na leitura direta do voto escrito, e por documentar a omissão da ata como achado — não escondê-la nem presumir que a ata está certa por definição.",
+    "Divergência 'vencidos em parte' tem duas naturezas: (a) Lewandowski — só o fundamento legal (art. 386 V vs VII), mesmo resultado prático; (b) Teori/Rosa Weber/Barbosa/Toffoli — tratamento processual: prescrição pré-mérito para 2 dos 3 crimes, mérito só para o peculato.",
+    "prescricao_pos_condenacao=false para o resultado vencedor (sem condenação prévia). A tese minoritária de prescrição também era pré-mérito, não pós-condenação — D-018 não se aplica a nenhuma das duas correntes.",
+    "Réu era 1 dos 8 denunciados originais; os outros 7 corréus tiveram processo desmembrado para 1ª instância — sem dado de resultado deles neste acórdão.",
+    "Composição (8 presentes + 3 ausentes = 11) confere integralmente com a tabela de referência para 24/04/2014 — nenhuma divergência de composição."
+  ]
+}

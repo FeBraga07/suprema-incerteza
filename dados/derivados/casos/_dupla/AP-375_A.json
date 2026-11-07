@@ -1,0 +1,257 @@
+{
+  "id_caso": "AP-375",
+  "extraido_em": "2026-08-08",
+  "fontes_lidas": ["dados/corpus/texto/AP-375.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Peculato (art. 312, CP) — discutido também art. 315 CP (emprego irregular de verba pública) como tipo alternativo, afastado por ausência de lei específica",
+      "evidencia": "PECULATO - ARTIGO 312 DO CÓDIGO PENAL - VERBA PÚBLICA. Longe fica de configurar crime peculato. o emprego de verba pública em obra diversa da programada, fazendo-se ausente quer a apropriação, quer o desvio em proveito próprio ou alheio. EMPREGO IRREGULAR DE VERBA PÚBLICA - ARTIGO 315 DO CÓDIGO PENAL. A configuração do crime tipificado no artigo 315 Código penal não prescinde da existência de lei, em sentido formal e material, a prever a destinação da verba.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "acordam os Ministros do Supremo Tribunal Federal, em sessão plenária, na conformidade da ata do julgamento e das notas taquigráficas, \"por unanimidade, em julgar improcedente a ação penal contra réu Jackson Barreto de Lima, absolvendo-o, e, em relação [ao] co-réu Arnaldo Arcanjo da Silva, em conceder habeas corpus de ofício para trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.\"",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 2,
+      "evidencia": "RÉU (É) (S) : JACKSON BARRETO DE LIMA ... RÉU (É) (S) ... ARNALDO ARCANJO DA SILVA",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Brasília, 27 de outubro de 2004. ... Plenário, 27.10.2004.",
+      "fonte": "ata",
+      "confianca": "media"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Jackson Barreto de Lima",
+        "evidencia": "RÉU (É) (S) : JACKSON BARRETO DE LIMA",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Deputado Federal (à época do julgamento, o que determinou o foro no STF); há também referência a 'Prefeito de Aracaju' no relatório, aparentemente relativa à época dos fatos (contrato de 1988)",
+        "evidencia": "Tendo em vista o exercício do cargo de Deputado Federal por JACKSON BARRETO ... Tribunal de Justiça Sergipano, dando cumprimento ao disposto na alínea \"b\" inciso I do artigo [102] ... encaminhou os presentes autos ... essa Colenda Corte Suprema; e no relatório: \"Deputado Federal JACKSON BARRETO DE LIMA Prefeito de Aracaju, ... ARNALDO ARCANJO DA SILVA, representante JACUARACY CONSTRUÇÕES E SANEAMENTO LTDA.\"",
+        "fonte": "acordao p.3-4",
+        "confianca": "media"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "É como voto, ou seja, absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal",
+        "fonte": "acordao p.8",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "da atipicidade da conduta narrada [na peça] acusatória o ministério público federal pugna pela aso[lvição] do... Deputado Federal JACKSON BARRETO DE LIMA, ex vi do artigo 386, inciso III, do CPP",
+        "fonte": "acordao p.6-7",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não houve condenação; o réu foi absolvido com base no art. 386, III, do CPP (fato não constitui infração penal)",
+        "fonte": "acordao p.8",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "312",
+          "diploma": "Código Penal (peculato)",
+          "evidencia": "PECULATO - ARTIGO 312 DO CÓDIGO PENAL - VERBA PÚBLICA."
+        }
+      ],
+      "n_votantes": {
+        "valor": 8,
+        "evidencia": "Composição em exercício em 27/10/2004 conforme tabela de referência (11 ministros) menos: Celso de Mello (ausente da sessão), Eros Grau (ausente neste julgamento) e Carlos/Ayres Britto (suspeição) = 8 votantes (Nelson Jobim, Sepúlveda Pertence, Carlos Velloso, Marco Aurélio, Ellen Gracie, Gilmar Mendes, Cezar Peluso, Joaquim Barbosa)",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "por unanimidade, em julgar improcedente a ação penal contra réu Jackson Barreto de Lima, absolvendo-o",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 8,
+        "evidencia": "por unanimidade, em julgar improcedente a ação penal contra réu Jackson Barreto de Lima, absolvendo-o",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Arnaldo Arcanjo da Silva",
+        "evidencia": "RÉU (É) (S) : ARNALDO ARCANJO DA SILVA",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Representante da sociedade Jacuaracy Construções e Saneamento Ltda. (empreiteiro/contratado, sem cargo público identificado no texto)",
+        "evidencia": "ARNALDO ARCANJO DA SILVA, representante JACUARACY CONSTRUÇÕES E SANEAMENTO LTDA.",
+        "fonte": "acordao p.3",
+        "confianca": "media"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "em relação ao co-réu Arnaldo Arcanjo da Silva, em conceder habeas corpus de ofício para trancar a ação penal por falta de justa causa",
+        "fonte": "acordao p.1",
+        "confianca": "baixa"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "preconizar que, relativamente a Arnaldo Arcanjo da Silva, seja concedido habeas de ofício para assentar a inexistência de justa causa, presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima",
+        "fonte": "acordao p.7",
+        "confianca": "media"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não houve condenação; a ação penal foi trancada por falta de justa causa via habeas corpus de ofício",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "312",
+          "diploma": "Código Penal (peculato) — inferido do mesmo enquadramento da ação penal conjunta; o texto lido não repete o artigo especificamente para este réu",
+          "evidencia": "AÇÃO PENAL 375-2 SERGIPE ... RÉU (É) (S): ARNALDO ARCANJO DA SILVA [mesma ação penal e ementa de peculato do art. 312 CP aplicada a Jackson]"
+        }
+      ],
+      "n_votantes": {
+        "valor": 8,
+        "evidencia": "Mesma votação única e unânime que decidiu também quanto a Jackson Barreto de Lima (ver justificativa acima)",
+        "fonte": "deducao D-004",
+        "confianca": "baixa"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade, ... em relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 8,
+        "evidencia": "O Tribunal, por unanimidade, ... concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa",
+        "fonte": "ata",
+        "confianca": "baixa"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade, ... em relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Marco Aurélio", "evidencia": "RELATOR : MIN. MARCO AURÉLIO", "fonte": "acordao p.1", "confianca": "alta"},
+      "eh_relator": {"valor": true, "evidencia": "RELATOR : MIN. MARCO AURÉLIO", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "É como voto, ou seja, absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal, e, no tocante ao co-réu, concedendo o habeas de ofício, trancando a ação penal por falta de justa causa", "fonte": "acordao p.8", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "não consta na lista de ausentes/suspeitos da ata", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ellen Gracie", "evidencia": "REVISORA : MIN. ELLEN GRACIE", "fonte": "acordao p.3", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "REVISORA : MIN. ELLEN GRACIE", "fonte": "acordao p.3", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "não há voto individual transcrito da revisora; deduzido pela unanimidade declarada e por não constar como ausente/suspeita/vencida", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "não consta na lista de ausentes da ata", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Sepúlveda Pertence", "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Carlos Velloso, Marco Aurélio, Ellen Gracie, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa e Eros Grau.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não é relator nem revisor", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, não consta como ausente/suspeito/vencido; deduzido voto com a maioria", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "listado entre os presentes à sessão", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Carlos Velloso", "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Carlos Velloso, ...", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não é relator nem revisor", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, não consta como ausente/suspeito/vencido; deduzido voto com a maioria", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "listado entre os presentes à sessão", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Nelson Jobim", "evidencia": "Presidiu o julgamento o Senhor Ministro Nelson Jobim. ... Presidência do Senhor Ministro Nelson Jobim.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "presidiu o julgamento; assinou o acórdão como Presidente", "fonte": "acordao p.2", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "presidiu a sessão, não consta como ausente/suspeito/vencido; deduzido voto com a maioria", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "presidiu o julgamento", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Gilmar Mendes", "evidencia": "Presentes à sessão os Senhores Ministros ... Gilmar Mendes ...", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não é relator nem revisor", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, não consta como ausente/suspeito/vencido; deduzido voto com a maioria", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "listado entre os presentes à sessão", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cezar Peluso", "evidencia": "Presentes à sessão os Senhores Ministros ... Cezar Peluso ...", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não é relator nem revisor", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, não consta como ausente/suspeito/vencido; deduzido voto com a maioria", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "listado entre os presentes à sessão", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Joaquim Barbosa", "evidencia": "Presentes à sessão os Senhores Ministros ... Joaquim Barbosa ...", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não é relator nem revisor", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, não consta como ausente/suspeito/vencido; deduzido voto com a maioria", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "listado entre os presentes à sessão", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ayres Britto (Carlos Britto)", "evidencia": "Declarou suspeição Ministro Britto. justificadamente, ... Presentes à sessão os Senhores Ministros ... Carlos Britto ...", "fonte": "ata", "confianca": "media"},
+      "eh_relator": {"valor": false, "evidencia": "não é relator nem revisor", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Declarou suspeição Ministro Britto. justificadamente,", "fonte": "ata", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "não votou; não se aplica vencido", "fonte": "ata", "confianca": "media"},
+      "ausente": {"valor": false, "evidencia": "consta como presente à sessão; a razão de não votar foi suspeição declarada, não ausência — ver aviso sobre limitação do esquema", "fonte": "ata", "confianca": "media"},
+      "motivo_ausencia": {"valor": "suspeição (declarada, justificadamente) — não é ausência propriamente dita, ver avisos", "evidencia": "Declarou suspeição Ministro Britto. justificadamente,", "fonte": "ata", "confianca": "media"}
+    },
+    {
+      "ministro": {"valor": "Eros Grau", "evidencia": "Ausentes, ... neste julgamento, Senhor Ministro Eros Grau.", "fonte": "ata", "confianca": "media"},
+      "eh_relator": {"valor": false, "evidencia": "não é relator nem revisor", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, ... neste julgamento, Senhor Ministro Eros Grau.", "fonte": "ata", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "não votou; não se aplica vencido", "fonte": "ata", "confianca": "media"},
+      "ausente": {"valor": true, "evidencia": "Ausentes, ... neste julgamento, Senhor Ministro Eros Grau.", "fonte": "ata", "confianca": "media"},
+      "motivo_ausencia": {"valor": "ausente neste julgamento especificamente (constava como presente à sessão em geral, mas ausente para este caso)", "evidencia": "Ausentes, ... e, neste julgamento, Senhor Ministro Eros Grau.", "fonte": "ata", "confianca": "media"}
+    },
+    {
+      "ministro": {"valor": "Celso de Mello", "evidencia": "Ausentes, justificadamente, ... Senhor Ministro Celso de Mello", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não é relator nem revisor", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, ... Senhor Ministro Celso de Mello", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não votou; não se aplica vencido", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "Ausentes, justificadamente, ... Senhor Ministro Celso de Mello", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "ausente, justificadamente (da sessão como um todo)", "evidencia": "Ausentes, justificadamente, ... Senhor Ministro Celso de Mello", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "avisos": [
+    "OCR do trecho final da ata (linhas ~474-490) está com ordem de palavras/linhas embaralhada. Reconstrução interpretativa: 'Declarou suspeição, justificadamente, o Senhor Ministro [Carlos/Ayres] Britto. Ausentes, justificadamente, o Senhor Ministro Celso de Mello e, neste julgamento, o Senhor Ministro Eros Grau.' Essa leitura foi usada para popular os campos de voto; recomenda-se conferência humana contra o PDF original antes de uso definitivo.",
+    "O resultado do réu Arnaldo Arcanjo da Silva não é uma 'absolvição' de mérito no sentido processual estrito: o STF concedeu HABEAS CORPUS DE OFÍCIO para TRANCAR a ação penal por falta de justa causa (fundamentado na mesma atipicidade da conduta reconhecida quanto a Jackson Barreto de Lima), sem julgamento formal do mérito quanto a ele especificamente. Como o vocabulário controlado de 'resultado' não tem opção para 'trancamento de ação penal via HC de ofício', foi registrado como 'Absolvição' por ser o valor mais próximo em substância (reconhecimento de que o fato não constitui crime), mas com confiança baixa — sinalizar para possível criação de categoria própria ou reclassificação humana.",
+    "n_votantes=8 foi obtido por dedução cruzando a tabela de composição fornecida (11 ministros em exercício em 27/10/2004: Sepúlveda Pertence, Celso de Mello, Carlos Velloso, Marco Aurélio, Nelson Jobim, Ellen Gracie, Gilmar Mendes, Cezar Peluso, Ayres Britto, Joaquim Barbosa, Eros Grau) com a lista nominal da própria ata (Presentes à sessão: 9 nomes + Presidente Jobim = 10; menos Celso de Mello ausente = confirma os 10; dos 10, subtraindo suspeição de Britto e ausência de Eros Grau neste julgamento, restam 8 votantes efetivos no caso). A tabela e a ata se confirmam mutuamente, o que aumenta a confiança nessa contagem, mas o valor em si depende da reconstrução do trecho de OCR mencionado acima.",
+    "Não foi encontrado no texto lido o artigo penal imputado especificamente a Arnaldo Arcanjo da Silva; foi inferido como o mesmo art. 312 CP (peculato) por se tratar da mesma ação penal e ementa. Marcar confiança baixa nesse campo.",
+    "cargo_funcao de Jackson Barreto de Lima aparece de forma ambígua no OCR: é chamado de 'Deputado Federal' (cargo que gerou o foro por prerrogativa de função no STF) e também, na abertura do relatório, associado a 'Prefeito de Aracaju' — provavelmente o cargo exercido à época dos fatos (contrato de 1988), enquanto o de Deputado Federal é o cargo à época do julgamento. O texto não deixa isso inteiramente claro devido a quebras de OCR.",
+    "Não há indicação explícita de dosimetria ou de sessão adicional; o caso parece ter sido decidido em sessão única (27/10/2004), com o mérito e a concessão do HC de ofício deliberados conjuntamente e por unanimidade."
+  ]
+}

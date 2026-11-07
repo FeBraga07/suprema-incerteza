@@ -1,0 +1,49 @@
+{
+  "id_caso": "AP-426",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-426.txt"],
+  "metodo_validacao": "dupla extração independente (L2-b) — concordância total nos campos estruturados entre AP-426_A.json e AP-426_B.json, preservados em dados/derivados/casos/_dupla/",
+  "caso": {
+    "instituto_juridico": {"valor": "Decreto-Lei 201/67, art. 1º, III (desvio de verba pública) e Lei 8.666/93, art. 89 (dispensa/inexigibilidade indevida de licitação)", "evidencia": "imputando-lhe a prática dos delitos previstos no artigo 89 da Lei nº 8.666/96 e no artigo 1º, inciso III, do Decreto-Lei n° 201/67", "fonte": "acordao p.2", "confianca": "alta"},
+    "merito_finalizado": {"valor": true, "evidencia": "Concluo, então, pela absolvição do acusado na forma prevista no artigo 386, inciso IV, do Código de Processo Penal", "fonte": "acordao p.5", "confianca": "alta"},
+    "n_reus": {"valor": 1, "evidencia": "RÉU (É) (S) CÁSSIO TANIGUCHI", "fonte": "acordao p.1", "confianca": "alta"},
+    "multiplas_sessoes": {"valor": false, "evidencia": "Brasília, 18 de dezembro de 2008. Presidiu o julgamento o Senhor Ministro Gilmar Mendes. Plenário, 18.12.2008.", "fonte": "ata", "confianca": "media"},
+    "modalidade_levcovitz": {"valor": [5], "rotulos": ["Emprego irregular de verbas ou rendas públicas (art. 315, CP, ou equivalente via DL 201/67)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-426, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"5 (equivalente ao emprego irregular de verbas, art. 315)\"", "regra_aplicada": "inclusao_dl201", "fonte": "legislacao_citada", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {"valor": "Cássio Taniguchi", "evidencia": "RÉU (É) (S) CÁSSIO TANIGUCHI", "fonte": "acordao p.1", "confianca": "alta"},
+      "cargo_funcao": {"valor": "Prefeito de Curitiba à época dos fatos; posteriormente eleito e diplomado Deputado Federal (fundamento do foro no STF)", "evidencia": "denúncia contra Cássio Taniguchi, à época Prefeito de Curitiba, Estado do Paraná [...] O réu foi eleito e diplomado deputado federal, razão pela qual o processo foi encaminhado ao Supremo", "fonte": "acordao p.2", "confianca": "alta"},
+      "resultado": {"valor": "Absolvição", "evidencia": "O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.", "fonte": "ata", "confianca": "alta"},
+      "motivo": {"valor": "mérito", "evidencia": "não se colhera prova idônea de que o denunciado teria concorrido dolosamente para a prática do ato [...] Concluo, então, pela absolvição do acusado na forma prevista no artigo 386, inciso IV, do Código de Processo Penal", "fonte": "acordao p.5", "confianca": "alta"},
+      "prescricao_pos_condenacao": {"valor": false, "evidencia": "não houve condenação em nenhum momento do acórdão; absolvição integral fundada no art. 386, IV, do CPP, sem menção a prescrição", "fonte": "acordao p.5", "confianca": "alta"},
+      "crimes": [
+        {"artigo": "89", "diploma": "Lei nº 8.666/1993 (grafada no texto como '8.666/96' — provável erro de OCR/original)", "evidencia": "a prática dos delitos previstos no artigo 89 da Lei nº 8.666/96"},
+        {"artigo": "1º, III (citado também como 'artigo 18, III' no voto do relator — provável erro de OCR trocando '1º' por '18')", "diploma": "Decreto-Lei nº 201/1967", "evidencia": "no artigo 1º, inciso III, do Decreto-Lei n° 201/67"}
+      ],
+      "n_votantes": {"valor": 11, "evidencia": "Presidiu o julgamento o Senhor Ministro Gilmar Mendes. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.", "fonte": "ata", "confianca": "alta"},
+      "votos_condenacao": {"valor": 0, "evidencia": "O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 11, "evidencia": "O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.", "fonte": "ata", "confianca": "alta"},
+      "unanime": {"valor": true, "evidencia": "por unanimidade e nos termos do voto da Revisora, absolveu o réu", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "votos": [
+    {"ministro": {"valor": "Marco Aurélio"}, "eh_relator": {"valor": true}, "voto_resultado": {"valor": "absolve", "evidencia": "Concluo, então, pela absolvição do acusado na forma prevista no artigo 386, inciso IV, do Código de Processo Penal", "fonte": "acordao p.5", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ellen Gracie"}, "eh_relator": {"valor": false, "evidencia": "Revisora"}, "voto_resultado": {"valor": "absolve", "evidencia": "eu revisei os autos e concordo integralmente com o voto do eminente Relator.", "fonte": "acordao p.6", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Gilmar Mendes"}, "eh_relator": {"valor": false, "evidencia": "presidiu a sessão"}, "voto_resultado": {"valor": "absolve", "evidencia": "presidiu o julgamento; unanimidade declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Celso de Mello"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, unanimidade declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Cezar Peluso"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, unanimidade declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ayres Britto (Carlos Britto)"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, unanimidade declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Joaquim Barbosa"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, unanimidade declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Eros Grau"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, unanimidade declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ricardo Lewandowski"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, unanimidade declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Cármen Lúcia"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, unanimidade declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Menezes Direito"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "presente à sessão, unanimidade declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}}
+  ],
+  "avisos": [
+    "Dupla extração concorde em todos os campos estruturados (resultado, motivo, n_votantes=11, unanimidade). Nenhuma divergência a escalar.",
+    "Réu Cássio Taniguchi é o mesmo da AP-430 (também absolvido, unânime, por falta de provas) — processos distintos, sobre fatos distintos, mesmo ex-prefeito de Curitiba. Confirmado por leitura direta, não é erro de extração.",
+    "Duas inconsistências de grafia no texto-fonte, mantidas literais e não corrigidas: 'Lei nº 8.666/96' (deveria ser 1993) e 'artigo 18, III' do DL 201/67 no voto do relator (a denúncia cita 'artigo 1º, III' para o mesmo fato — provável troca de OCR).",
+    "Sepúlveda Pertence e Carlos Velloso, apesar de constarem em versões antigas de tabelas de composição, já haviam deixado o STF antes desta data (2007 e 2006) — corretamente excluídos por ambas as extrações."
+  ]
+}

@@ -1,0 +1,86 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-565|1|ementa||1|3|NA|todos|NA|NA|NA|ementa p1-3; mesmo documento do acórdão
+AP-565|2|acordao||3|6|NA|todos|NA|NA|NA|
+AP-565|3|voto|Cármen Lúcia|7|13|Sim|todos|NA|NA|NA|rótulo PDF: Questão de Ordem; voto da relatora na 1ª questão de ordem, suscitada pelos réus R02-R09; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|4|relatorio|Cármen Lúcia|14|44|Sim|todos|NA|NA|NA|
+AP-565|5|questao_ordem|Marco Aurélio;Joaquim Barbosa|45|47|Sim|todos|NA|NA|NA|rótulo PDF: Esclarecimento; Marco Aurélio suscita questão de ordem, com fala de Joaquim Barbosa p47; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|6|outro|Cármen Lúcia|48|50|Sim|todos|NA|NA|NA|rótulo PDF: Antecipação ao Voto (07/08/2013); precede o voto escrito da relatora
+AP-565|7|questao_ordem|Marco Aurélio;Cármen Lúcia|51|51|Sim|todos|NA|NA|NA|rótulo PDF: Questão de Ordem; 2ª questão de ordem, suscitada por Marco Aurélio; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|8|voto|Cármen Lúcia|52|52|Sim|todos|NA|NA|NA|Voto s/ Questão de Ordem (2ª QO); curto, poucas linhas; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|9|voto|Roberto Barroso|53|53|Adesao|todos|NA|NA|NA|Voto s/ Questão de Ordem (2ª QO); peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|10|voto|Ricardo Lewandowski|54|54|Adesao|todos|NA|NA|NA|Voto s/ Questão de Ordem (2ª QO); acompanha Marco Aurélio; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|11|debate|Roberto Barroso;Marco Aurélio;Joaquim Barbosa;Cármen Lúcia|55|55|Sim|todos|NA|NA|NA|rótulo PDF: Explicação; curto (4 falas); peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|12|voto|Rosa Weber|56|56|Adesao|todos|NA|NA|NA|Voto s/ Questão de Ordem (2ª QO); peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|13|voto|Dias Toffoli|57|57|Sim|todos|NA|NA|NA|Voto s/ Questão de Ordem (2ª QO); um parágrafo; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|14|voto|Celso de Mello|58|58|Adesao|todos|NA|NA|NA|Voto s/ Questão de Ordem (2ª QO); uma frase com remissão à Súmula 704; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|15|voto|Dias Toffoli|59|59|Sim|todos|NA|NA|NA|Voto s/ 2ª Preliminar; curto; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|16|voto|Marco Aurélio|60|60|Sim|todos|NA|NA|NA|Voto s/ 2ª Preliminar; curto; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|17|voto|Celso de Mello|61|62|Sim|todos|NA|NA|NA|Voto s/ 2ª Preliminar; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|18|voto|Gilmar Mendes|63|63|Sim|todos|NA|NA|NA|Voto s/ 2ª Preliminar; inclui fala de Celso de Mello p63; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|19|voto|Roberto Barroso|64|64|Sim|todos|NA|NA|NA|Voto s/ 2ª Preliminar; curto; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|20|voto|Dias Toffoli|65|65|Adesao|todos|NA|NA|NA|Voto s/ 3ª Preliminar; inclui fala de Cármen Lúcia; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|21|voto|Dias Toffoli|66|66|Adesao|todos|NA|NA|NA|Voto s/ 5ª Preliminar; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|22|voto|Cármen Lúcia|67|111|Sim|todos|NA|NA|NA|voto escrito da relatora, parte das preliminares: 1ª p67-78 (arguida por R01); 2ª p78-94; 3ª p94-102; 4ª p102-105; 5ª p105-109; prejudicial de mérito (prescrição) p109-111; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|23|voto|Cármen Lúcia|111|138|Sim|todos|varia|Não|sem_evidencia|voto escrito da relatora, seção 'Do crime do art. 90' até antes das seções 'Da autoria' (§§44-59); sem trecho por réu; banco: R01-R03 Condena; R04-R09 Absolve; vencido Não em todos
+AP-565|24|voto|Cármen Lúcia|138|148|Sim|AP-565-R01|Condena|Não|sem_evidencia|seção 'Da autoria em relação ao Réu Ivo Narciso Cassol' (§§60-78)
+AP-565|25|voto|Cármen Lúcia|148|152|Sim|AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|seção 'Da autoria em relação aos Réus Salomão da Silveira e Erodi...' (§§79-86)
+AP-565|26|voto|Cármen Lúcia|152|159|Sim|AP-565-R04;AP-565-R05;AP-565-R06;AP-565-R07;AP-565-R08;AP-565-R09|Absolve|Não|sem_evidencia|seção 'Da autoria em relação aos Réus Aníbal... Ilva' (§§87-99); os seis réus tratados em conjunto
+AP-565|27|voto|Cármen Lúcia|159|163|Sim|todos|NA|NA|NA|seção 'Do crime do art. 288' (§§100-105); trecho do art. 288 CP; 3_votos.psv não tem linhas para o art. 288
+AP-565|28|voto|Cármen Lúcia|163|163|Sim|todos|varia|Não|sem_evidencia|dispositivo do voto (§106), art. 90 e art. 288; banco: R01-R03 Condena; R04-R09 Absolve; vencido Não em todos
+AP-565|29|voto|Cármen Lúcia|163|170|Sim|AP-565-R01|Condena|Não|sem_evidencia|dosimetria 'Do Réu Ivo Narciso Cassol'
+AP-565|30|voto|Cármen Lúcia|170|174|Sim|AP-565-R02|Condena|Não|sem_evidencia|dosimetria 'Do Réu Salomão da Silveira'
+AP-565|31|voto|Cármen Lúcia|174|178|Sim|AP-565-R03|Condena|Não|sem_evidencia|dosimetria 'Do Réu Erodi Antonio Matt'
+AP-565|32|voto|Cármen Lúcia|178|181|Sim|AP-565-R01|Condena|Não|sem_evidencia|'Das disposições gerais': perda do mandato eletivo de R01
+AP-565|33|voto|Cármen Lúcia|181|182|Sim|AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|'Das disposições gerais': perda de cargo ou função de R02 e R03
+AP-565|34|voto|Cármen Lúcia|182|183|Sim|AP-565-R01;AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|'Das disposições gerais': indenização; fim do voto escrito da relatora
+AP-565|35|debate|Joaquim Barbosa;Dias Toffoli;Marco Aurélio;Cármen Lúcia|184|186|Sim|todos|NA|NA|NA|condução da sessão de 07/08/2013 (suspensão); sem voto
+AP-565|36|extrato_ata||187|188|NA|todos|NA|NA|NA|ata de 07/08/2013: QOs, preliminares, voto de mérito da relatora; impedimento de Luiz Fux p188
+AP-565|37|relatorio|Dias Toffoli|189|191|Sim|todos|NA|NA|NA|relatório do revisor dentro do documento 'Voto do(a) Revisor(a)' (termina em 'É o relatório', p191)
+AP-565|38|voto|Dias Toffoli|191|201|Sim|todos|NA|NA|NA|voto escrito do revisor (08/08/2013), itens (i)-(v) das preliminares; peça pré-mérito; 3_votos.psv só registra o mérito do art. 90
+AP-565|39|voto|Dias Toffoli|201|205|Sim|todos|varia|varia|sem_evidencia|seção 'a) Crime de fraude à licitação (art. 90)', trecho inicial antes da análise por réu; banco: R01-R03 Condena (vencido Não); R04;R05;R06;R08 Condena (vencido Sim); R07;R09 Absolve (vencido Não)
+AP-565|40|voto|Dias Toffoli|205|205|Sim|AP-565-R07;AP-565-R09|Absolve|Não|sem_evidencia|parágrafo que trata só de R07 e R09
+AP-565|41|voto|Dias Toffoli|205|213|Sim|AP-565-R01|Condena|Não|sem_evidencia|trecho sobre R01; p211-212 inclui passagem sobre R04;R05;R06;R08 (sócios-administradores) e p212 menção a R02;R03
+AP-565|42|voto|Dias Toffoli|213|214|Sim|AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|membros da comissão de licitação; transcreve declarações de R02 (p213) e R03 (p214)
+AP-565|43|voto|Dias Toffoli|215|216|Sim|AP-565-R04;AP-565-R05;AP-565-R06;AP-565-R08|Condena|Sim|sem_evidencia|p215-216 R06, R08 e R04 nomeados; fecho da seção a) p216 condena os agentes sem nomear
+AP-565|44|voto|Dias Toffoli|216|220|Sim|todos|NA|NA|NA|seção 'b) Crime de formação de quadrilha'; trecho do art. 288 CP; 3_votos.psv não tem linhas para o art. 288
+AP-565|45|voto|Dias Toffoli|220|223|Sim|AP-565-R01|Condena|Não|sem_evidencia|dosimetria: abertura p220 e '1) Ivo Narciso Cassol' p221-223
+AP-565|46|voto|Dias Toffoli|223|226|Sim|AP-565-R02|Condena|Não|sem_evidencia|dosimetria '2) Salomão da Silveira'
+AP-565|47|voto|Dias Toffoli|226|229|Sim|AP-565-R03|Condena|Não|sem_evidencia|dosimetria '3) Erodi Antonio Matt'
+AP-565|48|voto|Dias Toffoli|229|231|Sim|todos|varia|varia|sem_evidencia|dispositivo do revisor; p230-231 declara prejudicado o dispositivo para R04;R05;R06;R08 por já referir o empate: redação posterior à votação; banco: R01-R03 Condena (vencido Não); R04;R05;R06;R08 Condena (vencido Sim); R07;R09 Absolve (vencido Não)
+AP-565|49|aparte|Cármen Lúcia|232|232|Sim|AP-565-R04;AP-565-R05;AP-565-R06;AP-565-R07;AP-565-R08;AP-565-R09|Absolve|Não|sem_evidencia|rótulo PDF: Explicação; aparte da relatora durante a leitura do voto do revisor, com fala de Dias Toffoli; refere empresas licitantes e sócios sem nomear réus
+AP-565|50|outro|Celso de Mello;Cármen Lúcia|233|233|Sim|todos|NA|NA|NA|rótulo PDF: Esclarecimento; pergunta de Celso de Mello e resposta da relatora; trecho do art. 288 CP; 3_votos.psv não tem linhas para o art. 288
+AP-565|51|voto|Roberto Barroso|234|235|Sim|todos|varia|varia|sem_evidencia|art. 90 p234 (adere ao revisor quanto aos sócios-administradores); art. 288 p234-235; inclui fala de Dias Toffoli p235; banco: R01-R03 Condena (vencido Não); R04;R05;R06;R08 Condena (vencido Sim); R07;R09 Absolve (vencido Não)
+AP-565|52|voto|Teori Zavascki|236|237|Sim|todos|varia|Não|sem_evidencia|art. 90 p236; art. 288 p236-237; banco: R01-R03 Condena; R04-R09 Absolve; vencido Não em todos
+AP-565|53|voto|Rosa Weber|238|238|Sim|todos|varia|Não|sem_evidencia|adere à relatora, com um parágrafo próprio sobre a condenação dos 3 réus; banco: R01-R03 Condena; R04-R09 Absolve; vencido Não em todos
+AP-565|54|outro|Roberto Barroso|239|239|Sim|todos|varia|varia|sem_evidencia|rótulo PDF: Esclarecimento; curto; distingue réus com e sem posição de administração sem nomeá-los; banco: R01-R03 Condena (vencido Não); R04;R05;R06;R08 Condena (vencido Sim); R07;R09 Absolve (vencido Não)
+AP-565|55|voto|Gilmar Mendes|240|240|Sim|todos|varia|Não|sem_evidencia|curto; art. 90 e art. 288 na mesma página; banco: R01-R03 Condena; R04-R09 Absolve; vencido Não em todos
+AP-565|56|voto|Marco Aurélio|241|244|Sim|todos|varia|varia|sem_evidencia|inclui aparte de Dias Toffoli p241-243; art. 90 p241-244 (réus-empresários p243-244); art. 288 p244; banco: R01-R03 Condena (vencido Não); R04;R05;R06;R08 Condena (vencido Sim); R07;R09 Absolve (vencido Não)
+AP-565|57|voto|Celso de Mello|245|246|Sim|todos|varia|Não|sem_evidencia|art. 90: só adesão integral à relatora (p245); texto próprio p245-246 refere-se ao art. 288; inclui falas de Marco Aurélio; banco: R01-R03 Condena; R04-R09 Absolve; vencido Não em todos
+AP-565|58|voto|Ricardo Lewandowski|247|249|Sim|todos|varia|varia|sem_evidencia|art. 90 p247-249 (inclusão dos titulares das empresas p248-249); art. 288 p249; banco: R01-R03 Condena (vencido Não); R04;R05;R06;R08 Condena (vencido Sim); R07;R09 Absolve (vencido Não)
+AP-565|59|voto|Joaquim Barbosa|250|251|Sim|AP-565-R04;AP-565-R05;AP-565-R06;AP-565-R07;AP-565-R08;AP-565-R09|varia|varia|sem_evidencia|descrição das cinco empresas e seus sócios (R09, R08, R06, R07, R05, R04); banco: R04;R05;R06;R08 Condena (vencido Sim); R07;R09 Absolve (vencido Não)
+AP-565|60|voto|Joaquim Barbosa|252|252|Sim|AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|trecho sobre presidente e vice-presidente da comissão de licitação
+AP-565|61|voto|Joaquim Barbosa|252|254|Sim|AP-565-R01|Condena|Não|sem_evidencia|trecho sobre R01 (p252-254)
+AP-565|62|voto|Joaquim Barbosa|254|255|Sim|todos|NA|NA|NA|trecho do art. 288; trecho do art. 288 CP; 3_votos.psv não tem linhas para o art. 288
+AP-565|63|voto|Joaquim Barbosa|255|255|Sim|todos|varia|varia|sem_evidencia|DIVERGE: p255 o dispositivo escrito condena os nove réus pelo art. 90 e pelo art. 288, incluídos R07 e R09; o banco registra Absolve para R07 e R09 (a ata p314 registra absolvição unânime de R07 e R09); banco: R01-R03 Condena (vencido Não); R04;R05;R06;R08 Condena (vencido Sim); R07;R09 Absolve (vencido Não)
+AP-565|64|debate|Marco Aurélio;Celso de Mello;Joaquim Barbosa;Ricardo Lewandowski;Cármen Lúcia;Roberto Barroso;Dias Toffoli|256|262|Sim|todos|NA|NA|NA|debate de mérito do art. 90 após o voto do Presidente; centrado nos réus-empresários sem nomeá-los; ver linhas de voto de cada ministro
+AP-565|65|confirmacao_voto|Teori Zavascki|263|264|Sim|todos|varia|Não|sem_evidencia|com falas de Joaquim Barbosa e Roberto Barroso; p264 registro de que todos já votaram; banco: R01-R03 Condena; R04-R09 Absolve; vencido Não em todos
+AP-565|66|outro|Marco Aurélio;Celso de Mello|265|265|Sim|AP-565-R04;AP-565-R05;AP-565-R06;AP-565-R08|NA|NA|NA|rótulo PDF: Esclarecimento; sobre o empate (ata p314: vencido Marco Aurélio quanto ao art. 21, IX, a, do RISTF); posição processual fora do banco
+AP-565|67|debate|Marco Aurélio;Celso de Mello;Joaquim Barbosa;Cármen Lúcia;Dias Toffoli;Rosa Weber|266|267|Sim|AP-565-R01;AP-565-R02;AP-565-R03|NA|NA|NA|sobre perda do mandato (R01) e penas-base de R02 e R03 (p267); p267 marca continuação da leitura do voto s/ dosimetria da relatora
+AP-565|68|outro|Cármen Lúcia|268|268|Sim|AP-565-R01;AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|rótulo PDF: Retificação de Voto (s/ dosimetria); com falas de Dias Toffoli e Celso de Mello
+AP-565|69|voto|Roberto Barroso|269|270|Sim|AP-565-R01;AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|Voto s/ Dosimetria; R01 p269, R02 p269, R03 p270
+AP-565|70|voto|Teori Zavascki|271|286|Sim|AP-565-R01;AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|Voto s/ Dosimetria; p271-285 com intervenções extensas de Dias Toffoli, Joaquim Barbosa, Marco Aurélio, Ricardo Lewandowski, Celso de Mello, Cármen Lúcia, Roberto Barroso e Gilmar Mendes; perda do cargo/mandato p285-286
+AP-565|71|voto_aditamento|Roberto Barroso|287|288|Sim|AP-565-R01|Condena|Não|sem_evidencia|Aditamento ao Voto (s/ dosimetria) sobre perda do mandato; com falas de Joaquim Barbosa
+AP-565|72|voto_aditamento|Teori Zavascki|289|290|Sim|AP-565-R01|Condena|Não|sem_evidencia|Aditamento ao Voto (s/ dosimetria) sobre perda do mandato; p290 inclui fala de Cármen Lúcia
+AP-565|73|debate|Dias Toffoli;Joaquim Barbosa;Celso de Mello;Teori Zavascki;Roberto Barroso;Marco Aurélio;Cármen Lúcia|291|293|Sim|AP-565-R01|NA|NA|NA|Debate (s/ dosimetria) sobre perda do mandato
+AP-565|74|voto|Rosa Weber|294|296|Sim|AP-565-R01;AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|Voto s/ Dosimetria; perda do mandato p294
+AP-565|75|voto|Ricardo Lewandowski|297|298|Sim|AP-565-R01;AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|Voto s/ Dosimetria
+AP-565|76|voto|Gilmar Mendes|299|304|Sim|AP-565-R01;AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|Voto s/ Dosimetria; p299-304 majoritariamente sobre perda do mandato (R01)
+AP-565|77|voto|Marco Aurélio|305|305|Sim|AP-565-R01|Condena|Não|sem_evidencia|Voto s/ Dosimetria: pena de R01; inclui fala de Cármen Lúcia
+AP-565|78|voto|Marco Aurélio|306|306|Sim|AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|Voto s/ Dosimetria: penas de R02 e R03
+AP-565|79|voto|Marco Aurélio|306|307|Sim|AP-565-R01|Condena|Não|sem_evidencia|Voto s/ Dosimetria: perda do mandato
+AP-565|80|voto_aditamento|Ricardo Lewandowski|308|308|Sim|AP-565-R01|Condena|Não|sem_evidencia|Aditamento ao Voto s/ Dosimetria sobre perda do mandato; com fala de Roberto Barroso
+AP-565|81|voto|Celso de Mello|309|309|Sim|AP-565-R01;AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|Voto s/ Dosimetria; perda do mandato p309
+AP-565|82|voto|Joaquim Barbosa|310|311|Sim|AP-565-R01;AP-565-R02;AP-565-R03|Condena|Não|sem_evidencia|Voto s/ Dosimetria; adesão à relatora na dosimetria, com falas de Cármen Lúcia; anuncia transcrição do voto da AP 470 sobre perda do mandato que não está no acórdão
+AP-565|83|outro|Marco Aurélio|312|312|Sim|todos|NA|NA|NA|rótulo PDF: Explicação; curto (1 frase); abrangência por réu não explicitada; ata p315 registra Marco Aurélio vencido quanto à interrupção da prescrição
+AP-565|84|extrato_ata||313|315|NA|todos|NA|NA|NA|ata de 08/08/2013 (repete a de 07/08 p313-314 e acrescenta a decisão final p314-315); placar do empate de R04;R05;R06;R08 p314
+AP-565|85|extrato_ata|Luiz Fux|315|315|Nao|todos|Não votou|Não|sem_evidencia|impedido, presente à sessão; impedimento também registrado p188 e p314; sem peça no acórdão

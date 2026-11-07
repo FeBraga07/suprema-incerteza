@@ -1,0 +1,76 @@
+# MANIFESTO DOS ACÓRDÃOS — 24 casos de corrupção do universo final
+# Corpus completo em 08/08/2026: 24/24 PDFs baixados e convertidos em texto.
+#
+# ── COMO OS PDFs FORAM OBTIDOS ────────────────────────────────────────────────
+# URL: https://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP={doctp}&docID={docid}
+#
+# ⚠️ DUAS ROTAS. A errada devolve HTTP 200 com 63 bytes:
+#    "<HTML> Não foi possível acessar a peça do processo. </HTML>" — falha silenciosa.
+#      docTP=AC → acervo antigo   (índice traz obterInteiroTeor.asp?numero=N&classe=AP)
+#      docTP=TP → acervo eletrônico (índice traz obterInteiroTeor.asp?idDocumento=X)
+#    O discriminador autoritativo é o formato do inteiro_teor_url no índice.
+#
+# curl recebe HTTP 202 com corpo vazio em TODO o domínio do STF, dentro e fora de
+# sandbox. Só a partir de sessão de browser real. Script: baixar_acordaos.js
+#
+# ── COMO O TEXTO FOI EXTRAÍDO ─────────────────────────────────────────────────
+#   text_based  → pdftotext (Poppler), extração direta com marcador de página
+#   image_based → OCR nativo do macOS (framework Vision, pt-BR), corpus/ocr_vision.py
+#                 ~0,5s por página, local, sem custo de API
+#
+# ⚠️ CORREÇÃO EM 08/08/2026 (D-017, revoga a leitura de D-016 sobre o índice).
+#    O pdf-inspector 0.2.6, usado originalmente para os 13 casos text_based,
+#    devolveu SÓ os rótulos de navegação do PDF (bookmarks: "Relatório", "Voto -
+#    MIN. X", "Página N de M") para 12 dos 13 casos — nenhum parágrafo de corpo.
+#    Só a AP-503 saiu íntegra. O piloto L1 (AP-1036, AP-432) travou nisso.
+#    Reextraído com pdftotext (Poppler, já instalado, sem LLM, sem OCR). Os novos
+#    chars_texto agora BATEM com chars_indice (±5%) — o índice nunca esteve
+#    inflado; o "770.653 vs 18.169.270" que D-016 registrou comparava o índice
+#    contra um artefato corrompido, não contra o PDF real. Ver DECISOES.md D-017.
+#    Cópia dos 12 arquivos corrompidos preservada fora do repositório, à parte.
+#
+# tipo: text_based | image_based (classificação original do pdf-inspector — mantida
+#       como rótulo de proveniência; não afeta mais o método de extração dos 12
+#       casos corrigidos, todos agora via pdftotext)
+# chars_texto: tamanho do arquivo em corpus/texto/{id_caso}.txt (corrigido em 08/08/2026 para os 12 casos abaixo)
+# chars_indice: o que o campo inteiro_teor_texto do índice reportava (para comparação)
+#
+# ── ACRÉSCIMO EM 18/10/2026 (D-051) ──────────────────────────────────────────
+# AP-307 entra como 25º caso (complemento do censo: Plenário catalogado como Turma no índice).
+# docID obtido pelo redirecionamento de portal.stf.jus.br/jurisprudencia/obterInteiroTeor.asp?numero=307&classe=AP
+# (formato numero=N → AC); PDF baixado pelo navegador (fetch same-origin em redir.stf.jus.br), md5 8af976a44d33020733f3c2cfeb5d560f.
+# Digitalizado sem camada de texto (pdftotext devolve só rótulos): OCR com ocr_vision.py, escala 2.0, 756 páginas em ~7 min.
+# O registro do índice não traz inteiro_teor_texto (chars_indice = 0).
+#
+id_caso|julgamento|doctp|docid|tipo|paginas|mb_pdf|chars_texto|chars_indice
+AP-307|1994-12-13|AC|324295|image_based|756|7.3|1169619|0
+AP-375|2004-10-27|AC|324305|image_based|9|0.3|11970|0
+AP-365|2006-03-30|AC|324304|image_based|16|0.6|27547|0
+AP-348|2006-12-15|AC|474586|image_based|25|0.7|33823|0
+AP-430|2008-08-07|AC|550425|image_based|25|0.7|40139|0
+AP-426|2008-12-18|AC|575801|image_based|7|0.2|8775|0
+AP-447|2009-02-18|AC|594599|image_based|102|3.5|136968|0
+AP-433|2010-03-11|AC|611494|image_based|103|2.3|131173|1136
+AP-409|2010-05-13|AC|612756|image_based|109|2.6|152598|0
+AP-503|2010-05-20|AC|629986|text_based|103|1.6|175445|172468
+AP-396|2010-10-28|AC|622288|image_based|152|4.8|312531|1186
+AP-372|2010-12-16|AC|621403|image_based|64|2.1|135669|0
+AP-527|2010-12-16|AC|621404|image_based|25|0.9|55784|0
+AP-441|2012-03-08|TP|2156185|text_based|84|1.4|167221|164876
+AP-416|2012-03-08|TP|2187217|text_based|40|1.1|80743|79629
+AP-470|2012-12-17|TP|3678648|text_based|8405|108.4|18437130|18169270
+AP-565|2013-08-08|TP|5931475|text_based|315|5.0|643630|634286
+AP-432|2013-10-10|TP|7081118|text_based|110|2.8|211720|208525
+AP-465|2014-04-24|TP|7065801|text_based|171|1.9|379974|374949
+AP-508|2021-08-03|TP|757691311|text_based|19|0.5|37099|36573
+AP-973|2021-09-29|TP|759914006|text_based|225|2.6|469487|462843
+AP-940|2022-04-04|TP|760134371|text_based|72|0.9|151742|149732
+AP-1032|2022-04-22|TP|760902735|text_based|99|0.9|211375|208611
+AP-1025|2023-05-31|TP|770952853|text_based|885|9.0|1976085|1949616
+AP-1036|2023-09-25|TP|772196537|text_based|57|0.8|124724|123134
+#
+# ── TOTAIS (corrigidos em 08/08/2026, ver D-017) ───────────────────────────────
+# 24 casos | 11.222 páginas | 156 MB de PDF | 24.113.352 chars (~6,0M tokens)
+# Sem a AP-470: 5.676.222 chars (~1,42M tokens) — média de ~247k chars por caso
+# 13 text_based (2.817 págs, todos via pdftotext) · 11 image_based (637 págs, OCR)
+# Com a AP-307 (18/10/2026, D-051): 25 casos | 11.978 páginas | ~163 MB de PDF | 25.282.971 chars · 12 image_based (1.393 págs, OCR)

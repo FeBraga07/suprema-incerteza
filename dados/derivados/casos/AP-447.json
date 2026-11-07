@@ -1,0 +1,247 @@
+{
+  "id_caso": "AP-447",
+  "extraido_em": "2026-08-08",
+  "fontes_lidas": ["dados/corpus/texto/AP-447.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Prevaricação (art. 319 do CP) e Crime de Responsabilidade de Prefeito (art. 1º, XIV, do Decreto-Lei nº 201/67)",
+      "evidencia": "EMENTA: AÇÃO PENAL. CRIME DE PREVARICAÇÃO (ART. 319 DO CP) E DE RESPONSABILIDADE DE PREFEITO (ART. 1º DO DECRETO-LEI N° 201/67).",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio. Votou o Presidente, Ministro Gilmar Mendes.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 2,
+      "evidencia": "RÉU (É) (S): SÉRGIO IVAN MORAES ... RÉU (É) (S): MARIA NELI GROFF DA SILVA",
+      "fonte": "acordao p.3",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": true,
+      "evidencia": "Após o voto do Senhor Ministro Carlos Britto (Relator), absolvendo os réus, pediu vista dos autos o Senhor Ministro Joaquim Barbosa. (...) Plenário, 12.02.2009. [continuação em] AÇÃO PENAL 447-3 RIO GRANDE DO SUL TRIBUNAL PLENO 18/02/2009",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "modalidade_levcovitz": {"valor": [10, 19], "rotulos": ["Prevaricação (art. 319, CP)", "Improbidade administrativa (Lei 8.429/92)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-447, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"10 (prevaricação, art. 319) + 19 (improbidade, Lei 8.429/92 arts. 9º e 11)\"", "regra_aplicada": "inclusao_direta", "fonte": "ementa+legislacao_citada", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Sérgio Ivan Moraes",
+        "evidencia": "RÉU (É) (S): SÉRGIO IVAN MORAES",
+        "fonte": "acordao p.3",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Prefeito Municipal de Santa Cruz do Sul/RS (à época dos fatos); Deputado Federal (à época do julgamento)",
+        "evidencia": "Ministério Público do Estado do Rio Grande do Sul ofereceu denúncia contra Sérgio Ivan Moraes (atualmente Deputado Federal) (...) prevalecendo-se da função de Prefeito Municipal",
+        "fonte": "acordao p.3",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "acordam em absolver os réus, o que fazem nos termos do voto do Relator, vencidos os Ministros Joaquim Barbosa (revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "Motivo pelo qual absolvo, por falta de provas, os acusados Sérgio Ivan Moraes e Maria Neli Groff da Silva, [nos] termos do inciso VII do artigo 386 do Código de Processo Penal. (...) O SENHOR MINISTRO CARLOS BRITTO (RELATOR) - (...) eu absolvo o Prefeito por falta de prova, mas a Secretária por atipicidade da conduta",
+        "fonte": "acordao p.29-30, 63",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não há qualquer menção a prescrição no acórdão; a absolvição decorreu de falta de provas (art. 386, VII, CPP), sem extinção de punibilidade.",
+        "fonte": "acordao p.29-30",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {"artigo": "319", "diploma": "Código Penal (prevaricação)", "evidencia": "AÇÃO PENAL. CRIME DE PREVARICAÇÃO (ART. 319 DO CP)"},
+        {"artigo": "1º, XIV", "diploma": "Decreto-Lei nº 201/1967 (crime de responsabilidade de Prefeito)", "evidencia": "E DE RESPONSABILIDADE DE PREFEITO (ART. 1º DO DECRETO-LEI N° 201/67)"}
+      ],
+      "n_votantes": {"valor": 10, "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Menezes Direito. (...) Votou o Presidente, Ministro Gilmar Mendes. Ausente, justificadamente, a Senhora Ministra Ellen Gracie.", "fonte": "ata", "confianca": "alta"},
+      "votos_condenacao": {"valor": 4, "evidencia": "vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 6, "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus [10 votantes - 4 vencidos = 6 pela absolvição]", "fonte": "ata", "confianca": "alta"},
+      "unanime": {"valor": false, "evidencia": "vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "nome": {
+        "valor": "Maria Neli Groff da Silva",
+        "evidencia": "RÉU (É) (S): MARIA NELI GROFF DA SILVA",
+        "fonte": "acordao p.3",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Secretária Municipal de Transportes e Serviços Públicos de Santa Cruz do Sul/RS",
+        "evidencia": "a denunciada Maria Neli Groff da Silva, Secretária Municipal de Transporte e Serviços Públicos",
+        "fonte": "acordao p.4",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "acordam em absolver os réus, o que fazem nos termos do voto do Relator, vencidos os Ministros Joaquim Barbosa (revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "O SENHOR MINISTRO CARLOS BRITTO (RELATOR) - Senhor Presidente, eu só queria deixar claro o seguinte: eu absolvo o Prefeito por falta de prova, mas a Secretária por atipicidade da conduta - eu vou deixar isso no voto. (...) também não será possível a incriminação da Secretária, por ausência de tipicidade.",
+        "fonte": "acordao p.63, p.50",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não há qualquer menção a prescrição; absolvição por atipicidade da conduta (crime de mão própria sem autoria comprovada do Prefeito).",
+        "fonte": "acordao p.50",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {"artigo": "319, c/c art. 29, caput", "diploma": "Código Penal (prevaricação em concurso de pessoas)", "evidencia": "os denunciados Sérgio Ivan Moraes e Maria Neli Groff da Silva incorreram nas sanções do art. 319, combinado com o art. 29, caput, ambos do Código Penal"},
+        {"artigo": "1º, XIV, c/c art. 29, caput, CP", "diploma": "Decreto-Lei nº 201/1967 (crime de responsabilidade, imputado via concurso de pessoas)", "evidencia": "e do art. 1º, inc. XIV, do DI 201/67, c/c o art. 29, caput, do Código Penal"}
+      ],
+      "n_votantes": {"valor": 10, "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Menezes Direito. (...) Votou o Presidente, Ministro Gilmar Mendes. Ausente, justificadamente, a Senhora Ministra Ellen Gracie.", "fonte": "ata", "confianca": "alta"},
+      "votos_condenacao": {"valor": 4, "evidencia": "voto pela condenação de Sergio Ivan Moraes e Maria Neli Groff da Silva nas penas previstas para o crime definido no art. [1º], XIV, do Decreto-lei n° 201/1967 (voto do Ministro Joaquim Barbosa, seguido por Eros Grau, Cezar Peluso e Marco Aurélio)", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 6, "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus [10 votantes - 4 vencidos = 6 pela absolvição]", "fonte": "ata", "confianca": "alta"},
+      "unanime": {"valor": false, "evidencia": "vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "votos": [
+    {
+      "ministro": "Carlos Ayres Britto",
+      "eh_relator": true,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "O SENHOR MINISTRO CARLOS AYRES BRITTO (Relator) (...) absolvo, por falta de provas, os acusados Sérgio Ivan Moraes e Maria Neli Groff da Silva",
+      "fonte": "acordao p.29-30",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "voto pela condenação de Sergio Ivan Moraes e Maria Neli Groff da Silva nas penas previstas para o crime definido no art. [1º], XIV, do Decreto-lei n° 201/1967. É como voto.",
+      "fonte": "acordao p.72 (voto do Revisor)",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Menezes Direito",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "peço vênia ao eminente Ministro Joaquim Barbosa e acompanhar o voto do eminente Ministro Relator igualmente na sua conclusão, quanto à absolvição de ambos os réus desta ação.",
+      "fonte": "acordao p.82",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "não vejo provas suficientes, tal como posto no inciso VI do artigo 386 do Código de Processo Penal, para uma condenação, razão pela qual acompanho, com as vênias do Ministro Joaquim Barbosa, o voto do Ministro-Relator",
+      "fonte": "acordao p.83-84",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "peço vênia, em que pese o brilhante voto do eminente Ministro Joaquim Barbosa (...) para acompanhar o Relator em todos os seus aspectos, não apenas para descaracterizar o crime de prevaricação, como também assentar que não há provas suficientes para incriminar o prefeito",
+      "fonte": "acordao p.86-87",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Eros Grau",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Vou pedir vênia ao Ministro Carlos Brito e, no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+      "fonte": "acordao p.72",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Cezar Peluso",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "eu também vou pedir vênia ao eminente Relator e aos votos que o seguiram para acompanhar o eminente Revisor.",
+      "fonte": "acordao p.73",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Peço vênia ao relator e aos demais ministros que o acompanharam para assentar que está configurado o crime e demonstrada a culpa (...) demonstrada, pelos depoimentos colhidos em Juízo, a culpa do próprio Prefeito. Também assento que o artigo 29 do Código Penal (...) é aplicável",
+      "fonte": "acordao p.85-89",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presente à sessão de 18.02.2009 (não listado entre os vencidos no mérito); não foi localizada, no texto disponível, declaração explícita de seu voto de mérito — apenas intervenções sobre a validade/precariedade da gravação ambiental.",
+      "fonte": "deducao D-004",
+      "confianca": "media"
+    },
+    {
+      "ministro": "Ellen Gracie",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "Ausente, justificadamente",
+      "evidencia": "Votou o Presidente, Ministro Gilmar Mendes. Ausente, justificadamente, a Senhora Ministra Ellen Gracie.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Gilmar Mendes (Presidente)",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Portanto, há uma série de questões que realmente precisam ser consideradas. Por isso, acompanho também o eminente Relator.",
+      "fonte": "acordao p.113",
+      "confianca": "alta"
+    }
+  ],
+  "avisos": [
+    "Julgamento ocorreu em duas sessões: 12/02/2009 (voto do Relator seguido de pedido de vista do Ministro Joaquim Barbosa; Eros Grau ausente justificadamente nessa data) e 18/02/2009 (conclusão do julgamento, votação final). A ata de 18/02/2009 é a fonte usada para o placar final e para a lista de presentes/ausentes.",
+    "Há DUAS votações distintas na sessão de 18/02/2009, com listas de vencidos DIFERENTES, e não devem ser confundidas: (1) questão preliminar da licitude da gravação ambiental — vencidos os Ministros Menezes Direito e Marco Aurélio; (2) mérito (absolvição dos réus) — vencidos os Ministros Joaquim Barbosa, Eros Grau, Cezar Peluso e Marco Aurélio. Apenas a segunda foi usada para o campo 'votos_condenacao/votos_absolvicao/unanime' e para o array 'votos' (voto_resultado condena/absolve).",
+    "O Relator explicitou fundamentos DIFERENTES de absolvição para os dois réus, embora o resultado formal (absolvição) seja idêntico: Sérgio Ivan Moraes (Prefeito) absolvido por falta de provas (art. 386, VII, CPP); Maria Neli Groff da Silva (Secretária) absolvida por atipicidade da conduta, já que o crime do art. 1º, XIV, do DL 201/67 é de mão própria e, não comprovada a autoria do Prefeito, não subsiste a coautoria dela.",
+    "Quanto ao crime de prevaricação (art. 319 CP), o julgamento parece ter sido unânime pela absolvição — inclusive os quatro Ministros vencidos no resultado final concordaram em afastar a prevaricação (ex.: Marco Aurélio: 'afasto a prevaricação, mas o faço pela especialidade... Decreto-Lei n° 201/67'; Cármen Lúcia: 'Quanto à prevaricação, estamos todos de acordo'). A divergência dos vencidos foi especificamente quanto ao crime de responsabilidade (art. 1º, XIV, DL 201/67). Como o formato de saída não permite placar por crime dentro do objeto 'reus', os campos de votação registrados refletem o placar final consolidado (absolvição dos réus), não um placar separado por tipo penal.",
+    "Voto do Ministro Celso de Mello sobre o MÉRITO (condenação/absolvição) não foi localizado de forma explícita no texto lido — apenas comentários sobre a validade e precariedade da prova (gravação ambiental). Ele consta na lista de 'Presentes à sessão' e não está entre os vencidos, o que sustenta a dedução D-004 (votou com a maioria, absolvendo). Confiança média nesse voto específico.",
+    "OCR do documento apresenta ruídos relevantes (nomes truncados como 'Trilunal', 'Jupremo', 'RELAIORIO'; trechos com colchetes indicando incerteza, ex.: '[definido]', '[Enoir]'). Trechos citados como evidência foram conferidos contra o contexto, mas pequenas variações grafêmicas podem persistir.",
+    "Réu Sérgio Ivan Moraes foi diplomado Deputado Federal em 19/12/2006, no curso do processo, o que motivou a remessa dos autos ao STF por prerrogativa de foro (art. 53, §1º, CF/88); no período dos fatos (2003-2004) ele era Prefeito Municipal de Santa Cruz do Sul/RS.",
+    "VALIDAÇÃO CONTRA GABARITO_VALIDACAO.md (08/08/2026, comparado após a extração cega): bate exatamente. Vencidos = Joaquim Barbosa, Eros Grau, Cezar Peluso, Marco Aurélio (gabarito: idêntico, era o valor que corrigia o erro (e) da coleta antiga — tokens espúrios da questão preliminar de licitude da gravação). n_votantes=10 (gabarito: 10, Ellen Gracie ausente). votos_condenacao/absolvicao=4/6 (gabarito: 4/6). Extração nova evitou os dois erros documentados sem qualquer contato com o gabarito."
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id_caso": "AP-508",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-508.txt"],
+  "metodo_validacao": "dupla extração independente (L2-b). Concordância total em fatos e placar; ambas defaultaram resultado='Extinção da punibilidade' no nível do réu, mas ambas sinalizaram — de forma independente — que essa escolha apaga o desfecho do único crime realmente relevante para a pesquisa (corrupção passiva). Resolvido abaixo; QUESTÃO METODOLÓGICA NOVA, levar ao Felipe.",
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Corrupção passiva (art. 317, CP) em concurso com associação criminosa (art. 288, CP), prevaricação (art. 319, CP) e dar vantagem a adjudicatário (art. 92, Lei 8.666/93)",
+      "evidencia": "Ação penal originária. Extinção da punibilidade do agente em razão da prescrição. Absolvição por insuficiência de provas. Presunção de inocência e in dubio pro reo.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {"valor": true, "evidencia": "por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarar a extinção da punibilidade [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do CPP)", "fonte": "ata", "confianca": "alta"},
+    "n_reus": {"valor": 1, "evidencia": "RÉU(É)(S): SEBASTIÃO FERREIRA DA ROCHA — denúncia original era contra ele 'e outras pessoas', mas só ele consta deste acórdão (foro por prerrogativa de função)", "fonte": "ata", "confianca": "alta"},
+    "multiplas_sessoes": {"valor": false, "evidencia": "Sessão Virtual única, 25/06/2021 a 02/08/2021.", "fonte": "acordao p.1", "confianca": "alta"},
+    "modalidade_levcovitz": {"valor": [8, 10, 18], "rotulos": ["Corrupção passiva (art. 317, CP)", "Prevaricação (art. 319, CP)", "Crimes previstos na Lei 8.666/93 (licitações)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-508, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"8 (corrupção passiva, art. 317) + 10 (prevaricação, art. 319) + 18 (Lei 8.666/93, art. 92)\"", "regra_aplicada": "inclusao_direta", "fonte": "ata", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {"valor": "Sebastião Ferreira da Rocha", "evidencia": "RÉU(É)(S): SEBASTIÃO FERREIRA DA ROCHA", "fonte": "ata", "confianca": "alta"},
+      "cargo_funcao": {"valor": "Secretário de Estado da Saúde do Amapá à época dos fatos (2003-2004); Deputado Federal entre a diplomação (14/12/2006) e 31/01/2015 (fundamento do foro no STF)", "evidencia": "então Secretário de Estado da Saúde, ante recebimento de propina, direcionado certame relativo a reforma do hospital [...] o processo veio ao Supremo, em virtude da diplomação do acusado [...] no cargo de deputado federal", "fonte": "acordao p.2", "confianca": "alta"},
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "quanto ao crime do artigo 317 [corrupção passiva], absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal)",
+        "fonte": "ata",
+        "confianca": "alta",
+        "nota_revisao": "Caso com 4 crimes imputados na mesma ação penal, só um deles (art. 317, corrupção passiva) dentro do escopo de Levcovitz (2014) usado por este projeto. Os outros três (art. 288 associação criminosa — expressamente excluído por CLAUDE.md §2; art. 319 prevaricação; art. 92 Lei 8.666/93) prescreveram ANTES de qualquer exame de mérito (prescrição da pretensão punitiva, não executória) — 'Extinção da punibilidade' é o valor tecnicamente correto para ESSES três, dentro da própria D-018. Já o art. 317 foi julgado no mérito e absolvido por insuficiência de provas. Como a unidade de análise deste projeto é o padrão decisório em CASOS DE CORRUPÇÃO, e o que qualifica este caso para o universo é especificamente o art. 317, o campo `resultado` do réu foi preenchido com o desfecho desse crime (Absolvição), não com o desfecho agregado dos 4 capítulos. As duas extrações independentes convergiram nesse mesmo diagnóstico, embora tenham defaultado para 'Extinção da punibilidade' no campo-resumo. TRATA-SE DE PADRÃO NOVO NO CORPUS — recomendo confirmação do Felipe sobre se esta é a regra a seguir para futuros casos com a mesma estrutura (réu com crimes mistos, só um deles no escopo de Levcovitz)."
+      },
+      "motivo": {"valor": "mérito", "evidencia": "absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal) [...] Considerando a insuficiência de provas, voto pela absolvição do réu quanto ao delito de corrupção passiva (art. 317 do CP)", "fonte": "acordao p.18", "confianca": "alta"},
+      "prescricao_pos_condenacao": {"valor": false, "evidencia": "Não houve condenação em nenhum capítulo. Quanto ao art. 317 (o relevante para este projeto), a absolvição foi por insuficiência de provas, não por prescrição.", "fonte": "ata", "confianca": "alta"},
+      "crimes": [
+        {"artigo": "288", "diploma": "Código Penal (associação criminosa — fora do escopo de Levcovitz por CLAUDE.md §2)", "evidencia": "no que concerne às infrações dos artigos 288 [...] declarou a extinção da punibilidade, considerada a prescrição", "resultado_inciso": "Extinção da punibilidade por prescrição, antes de exame de mérito, unânime"},
+        {"artigo": "317, §1º (crime relevante para este projeto)", "diploma": "Código Penal (corrupção passiva)", "evidencia": "quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do CPP)", "resultado_inciso": "Absolvição por insuficiência de provas, com exame de mérito, unânime"},
+        {"artigo": "319", "diploma": "Código Penal (prevaricação)", "evidencia": "no que concerne às infrações dos artigos [...] 319 do Código Penal [...] declarou a extinção da punibilidade, considerada a prescrição", "resultado_inciso": "Extinção da punibilidade por prescrição, antes de exame de mérito, unânime"},
+        {"artigo": "92 (originalmente denunciado como art. 90, reclassificado por emendatio libelli)", "diploma": "Lei nº 8.666/1993", "evidencia": "e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, considerada a prescrição", "resultado_inciso": "Extinção da punibilidade por prescrição, antes de exame de mérito, unânime"}
+      ],
+      "n_votantes": {"valor": 11, "evidencia": "Composição: Luiz Fux (Presidente), Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes e Nunes Marques.", "fonte": "ata", "confianca": "alta"},
+      "votos_condenacao": {"valor": 0, "evidencia": "nenhum voto de condenação em qualquer capítulo", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 11, "evidencia": "unanimidade quanto ao art. 317 (absolvição) e quanto aos demais (extinção)", "fonte": "ata", "confianca": "media"},
+      "unanime": {"valor": true, "evidencia": "O Tribunal, por unanimidade [...], nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "votos": [
+    {"ministro": {"valor": "Marco Aurélio"}, "eh_relator": {"valor": true}, "voto_resultado": {"valor": "absolve", "evidencia": "declaro a extinção da punibilidade [...]. Quanto ao crime do artigo 317, absolvo o réu.", "fonte": "acordao p.13", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Gilmar Mendes"}, "eh_relator": {"valor": false, "evidencia": "Revisor e Redator do acórdão (art. 38, IV, b, RISTF), já que Marco Aurélio deixou a Corte antes da lavratura)"}, "voto_resultado": {"valor": "absolve", "evidencia": "voto pela extinção da punibilidade [288, 319, 92] [...] voto pela absolvição do réu quanto ao delito de corrupção passiva (art. 317)", "fonte": "acordao p.18", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Luiz Fux"}, "eh_relator": {"valor": false, "evidencia": "presidiu a sessão"}, "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ricardo Lewandowski"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Cármen Lúcia"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Dias Toffoli"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Rosa Weber"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Roberto Barroso"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Edson Fachin"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Alexandre de Moraes"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Nunes Marques"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}}
+  ],
+  "avisos": [
+    "PADRÃO NOVO — LEVAR AO FELIPE: réu com 4 crimes imputados na mesma ação penal, só 1 (art. 317, corrupção passiva) dentro do escopo de Levcovitz. Os outros 3 prescreveram antes do mérito; o crime relevante foi absolvido no mérito. resultado/motivo do réu foram preenchidos com o desfecho do crime relevante (Absolvição/mérito), não uma agregação dos 4 capítulos. Ver nota_revisao no campo 'resultado'. Detalhamento completo por artigo em 'crimes[].resultado_inciso'.",
+    "voto_resultado (array votos) não tem categoria para 'extingue a punibilidade' — todos os votos foram registrados como 'absolve' por aproximação, já que nenhum ministro condenou em nenhum capítulo. O detalhe real (extinção em 3 capítulos + absolvição em 1) está em 'crimes' e nos campos de nível-réu.",
+    "Composição: Marco Aurélio (relator) consta votante na ata desta sessão virtual (encerrada 02/08/2021) apesar de a tabela de referência indicar sua saída em 05/07/2021 — consistente com ele ter votado antes de deixar a Corte; por isso o acórdão foi redigido pelo revisor Gilmar Mendes (art. 38, IV, b, RISTF), não pelo relator. Seguida a ata, que tem precedência.",
+    "Emendatio libelli: denúncia original citava art. 90 da Lei 8.666/93 ('fraudar licitação'); reclassificado para art. 92 ('dar vantagem a adjudicatário') nas alegações finais da PGR — é o art. 92 que consta extinto no dispositivo, não o art. 90.",
+    "Denúncia original era contra o réu 'e outras pessoas'; só ele consta deste AP (foro por prerrogativa de função). Demais corréus presumivelmente em processo(s) desmembrado(s), fora do escopo deste corpus."
+  ]
+}

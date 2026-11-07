@@ -1,0 +1,184 @@
+{
+  "id_caso": "AP-396",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-396.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Ação Penal originária (competência penal originária do STF por prerrogativa de foro)",
+      "evidencia": "PLENÁRIO AÇÃO PENAL 396 RONDÔNIA RELATORA: MIN. CÁRMEN LÚCIA REVISOR: MIN. DIAS TOFFOLI",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "E, no mérito, por maioria de votos, julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal.",
+      "fonte": "acordao p.3",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "REU(E) (s): NATAN DONADON",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Todas as marcações de data ao longo do relatório, votos e da ata indicam a mesma sessão: '28/10/2010'. A ata registra 'Plenário, 28.10.2010' como data única de julgamento.",
+      "fonte": "ata",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Natan Donadon",
+        "evidencia": "REU(E) (s): NATAN DONADON",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Diretor Financeiro da Assembleia Legislativa do Estado de Rondônia (cargo exercido à época dos fatos; posteriormente Deputado Federal, condição que fundamentou o foro por prerrogativa de função no STF)",
+        "evidencia": "8. As provas documentais e testemunhais revelam que o réu, no cargo de diretor financeiro da Assembléia Legislativa do Estado de Rondônia, praticou os crimes de peculato, na forma continuada, e de quadrilha narrados na denúncia, o que impõe a sua condenação. / 'As testemunhas ouvidas em juízo confirmam que o acusado Natan Donadon era o diretor financeiro da Assembleia Legislativa do Estado de Rondônia na época em que os cheques foram assinados.'",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação",
+        "evidencia": "O Tribunal condenou o réu às penas de 11 (onze) anos, 1 (um) mês e 10 (dez) dias de reclusão e 66 (sessenta e seis) dias-multa, pelo crime de peculato, e de 2 (dois) anos e 3 (três) meses de reclusão pelo crime de quadrilha, num total de 13 (treze) anos, 4 (quatro) meses e 10 (dez) dias de reclusão e 66 (sessenta e seis) dias-multa, em regime inicial fechado.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "Por maioria, o Tribunal julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal, contra o voto do Senhor Ministro Cezar Peluso (Presidente), que absolvia o réu pelo crime do artigo 288.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não há, em todo o texto lido (relatório, votos e ata), qualquer menção a declaração de prescrição da pretensão punitiva ou executória em relação ao réu Natan Donadon após a condenação. As únicas menções a 'prescrição' no acórdão referem-se (a) ao risco hipotético de prescrição da ação penal caso o julgamento fosse adiado por efeito da renúncia ao mandato (questão de ordem) e (b) a discussões sobre prescrição envolvendo um corréu já desmembrado (item 'maior de setenta anos'), estranho a este processo.",
+        "fonte": "acordao p.16",
+        "confianca": "media"
+      },
+      "crimes": [
+        {"artigo": "312", "diploma": "Código Penal (peculato)", "evidencia": "julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal"},
+        {"artigo": "288", "diploma": "Código Penal (quadrilha ou bando)", "evidencia": "julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal"}
+      ],
+      "n_votantes": {
+        "valor": 8,
+        "evidencia": "Presentes à sessão: Cezar Peluso (Presidente), Marco Aurélio, Ellen Gracie, Gilmar Mendes, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli (9 ministros). 'Não votou no mérito e na dosimetria da pena o Senhor Ministro Gilmar Mendes.' Logo, votaram no mérito 9 - 1 = 8 ministros (Celso de Mello estava ausente, portanto já fora dos 9 presentes).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 8,
+        "evidencia": "Quanto ao art. 312 (peculato) a condenação foi tomada sem dissenso registrado (8-0). Quanto ao art. 288 (quadrilha) houve condenação por 7 votos a 1 ('contra o voto do Senhor Ministro Cezar Peluso, que absolvia o réu pelo crime do artigo 288'). Como o resultado registrado no campo 'resultado' é a condenação do réu (por pelo menos um dos crimes, na verdade por ambos pela maioria), contam-se 8 votos pela condenação do réu.",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "votos_absolvicao": {
+        "valor": 0,
+        "evidencia": "Nenhum ministro votou pela absolvição total do réu; o único dissenso (Cezar Peluso) foi parcial, restrito ao crime de quadrilha (art. 288), mantendo a condenação pelo peculato (art. 312).",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "contra o voto do Senhor Ministro Cezar Peluso (Presidente), que absolvia o réu pelo crime do artigo 288",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Cármen Lúcia", "evidencia": "RELATORA : MIN. CÁRMEN LÚCIA", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": true, "evidencia": "RELATORA : MIN. CÁRMEN LÚCIA", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "Por unanimidade e nos termos do voto da Relatora, o Tribunal rejeitou todas as preliminares... E, no mérito, por maioria de votos, julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal [sem dissenso da Relatora quanto ao mérito da condenação].", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "A Relatora não consta entre os vencidos quanto ao reconhecimento dos crimes (mérito); consta apenas, junto com os Ministros Joaquim Barbosa e Ellen Gracie, como vencida quanto à fixação do QUANTUM da pena de peculato ('Vencidos, quanto à fixação da pena pelo crime de peculato, a Relatora e os Senhores Ministros Joaquim Barbosa e Ellen Gracie, que aplicavam a pena de 13 (treze) anos e 9 (nove) meses de reclusão e 230 (duzentos e trinta) dias-multa'). Esse dissenso é sobre dosimetria, não sobre o resultado condena/absolve.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão ... Cármen Lúcia e Dias Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "n/a - ministra presente e votante", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Dias Toffoli", "evidencia": "REVISOR : MIN. DIAS TOFFOLI", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "REVISOR : MIN. DIAS TOFFOLI", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "Como Revisor, não consta como vencido nem quanto ao mérito, nem é mencionado como divergente da condenação; sua dosimetria (mais branda) foi, inclusive, a que prevaleceu no total de pena aplicado ('Ficaria, então, nesse aspecto, com a dosimetria do Ministro Dias Toffoli que, ao invés de concluir por uma pena de dezesseis anos, ficou em treze anos e quatro meses').", "fonte": "acordao p.117", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "Não consta na lista de vencidos da ata quanto ao mérito.", "fonte": "ata", "confianca": "media"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão ... Cármen Lúcia e Dias Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "n/a - ministro presente e votante", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cezar Peluso", "evidencia": "sob a Presidência do Ministro Cezar Peluso", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Presidente da sessão, não Relator nem Revisor.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "condenou o réu ... pelo crime de peculato ... e o Presidente, que aplicava a pena de 11 (onze) anos 1 (um) mês e 10 (dez) dias de reclusão e 66 (sessenta e seis) dias-multa [pena referente ao peculato]", "fonte": "ata", "confianca": "media"},
+      "vencido": {"valor": true, "evidencia": "contra o voto do Senhor Ministro Cezar Peluso (Presidente), que absolvia o réu pelo crime do artigo 288", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presidência do Senhor Ministro Cezar Peluso. Presentes...", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "n/a - presidiu a sessão e votou (com dissenso parcial quanto ao art. 288)", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Marco Aurélio", "evidencia": "Presentes ... Marco Aurélio ...", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não consta como Relator nem Revisor.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "Ministro em exercício, presente, não constando na ata como vencido quanto ao mérito da condenação (apenas quanto à questão de ordem preliminar de competência: 'contra o voto do Senhor Ministro Marco Aurélio'). Dedução D-004 aplicada ao mérito.", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "Vencido apenas na questão de ordem sobre subsistência da competência do STF ('O Tribunal, por maioria, resolveu a questão de ordem... contra o voto do Senhor Ministro Marco Aurélio'), matéria preliminar/processual e não de mérito condenatório.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes ... Marco Aurélio ...", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "n/a - presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ellen Gracie", "evidencia": "Presentes ... Ellen Gracie ...", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não consta como Relatora nem Revisora.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "Não consta como vencida quanto ao mérito da condenação; consta apenas, junto com a Relatora e o Ministro Joaquim Barbosa, como vencida quanto à dosimetria da pena de peculato. Dedução D-004 aplicada ao mérito.", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "'Vencidos, quanto à fixação da pena pelo crime de peculato, a Relatora e os Senhores Ministros Joaquim Barbosa e Ellen Gracie' — dissenso de dosimetria, não de mérito condenatório.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes ... Ellen Gracie ...", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "n/a - presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Gilmar Mendes", "evidencia": "Presentes ... Gilmar Mendes ...", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não consta como Relator nem Revisor.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Não votou no mérito e na dosimetria da pena o Senhor Ministro Gilmar Mendes.", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Não se aplica: não votou no mérito.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presente à sessão (participou de debates na questão de ordem, ex.: 'O SENHOR MINISTRO GILMAR MENDES - Presidente, essa...'), mas absteve-se de votar no mérito e na dosimetria sem motivo declarado na ata.", "fonte": "ata", "confianca": "media"},
+      "motivo_ausencia": {"valor": null, "evidencia": "A ata não declara motivo para a não-votação de Gilmar Mendes no mérito; registra apenas o fato: 'Não votou no mérito e na dosimetria da pena o Senhor Ministro Gilmar Mendes.'", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ayres Britto", "evidencia": "Presentes ... Ayres Britto ...", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não consta como Relator nem Revisor.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "Ministro em exercício, presente, não consta na ata como vencido quanto ao mérito. Dedução D-004 aplicada.", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "Não consta como vencido em nenhum dos pontos registrados na ata (questão de ordem, preliminares, mérito ou dosimetria do peculato).", "fonte": "ata", "confianca": "media"},
+      "ausente": {"valor": false, "evidencia": "Presentes ... Ayres Britto ...", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "n/a - presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Joaquim Barbosa", "evidencia": "Presentes ... Joaquim Barbosa ...", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não consta como Relator nem Revisor nesta ação (é citado como relator de precedente distinto, a QO na AP 333).", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "Não consta como vencido quanto ao mérito da condenação; consta apenas, junto com a Relatora e a Ministra Ellen Gracie, como vencido quanto à dosimetria da pena de peculato. Dedução D-004 aplicada ao mérito.", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "'Vencidos, quanto à fixação da pena pelo crime de peculato, a Relatora e os Senhores Ministros Joaquim Barbosa e Ellen Gracie' — dissenso de dosimetria, não de mérito condenatório.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes ... Joaquim Barbosa ...", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "n/a - presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ricardo Lewandowski", "evidencia": "Presentes ... Ricardo Lewandowski ...", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não consta como Relator nem Revisor.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "Ministro em exercício, presente, não consta como vencido quanto ao mérito; manifestou apenas preferência pela dosimetria mais branda do Revisor Dias Toffoli ('Eu fico, então, data venia, com a dosimetria do Ministro Dias Toffoli'), questão de dosimetria, não de mérito. Dedução D-004 aplicada.", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "Não consta como vencido em nenhum dos pontos registrados na ata.", "fonte": "ata", "confianca": "media"},
+      "ausente": {"valor": false, "evidencia": "Presentes ... Ricardo Lewandowski ...", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "n/a - presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Celso de Mello", "evidencia": "Ausente, justificadamente, o Senhor Ministro Celso de Mello.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não consta como Relator nem Revisor.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Ausente, justificadamente, o Senhor Ministro Celso de Mello.", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Não se aplica: ausente, não votou.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "Ausente, justificadamente, o Senhor Ministro Celso de Mello.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "justificadamente (motivo específico não declarado na ata)", "evidencia": "Ausente, justificadamente, o Senhor Ministro Celso de Mello.", "fonte": "ata", "confianca": "media"}
+    }
+  ],
+  "avisos": [
+    "Composição da Corte na sessão: a ata nomeia como presentes Cezar Peluso (Presidente), Marco Aurélio, Ellen Gracie, Gilmar Mendes, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia (Relatora) e Dias Toffoli (Revisor) — 9 ministros — mais Celso de Mello ausente justificadamente, totalizando 10 ministros em exercício. Isso confirma a nota do enunciado de que, em 28/10/2010, a cadeira de Eros Grau (saído em 18/08/2010) estava vaga e Luiz Fux ainda não havia tomado posse (só em 03/03/2011): a ata não lista nenhum desses dois nomes, o que é consistente com a tabela de composição fornecida.",
+    "O réu Natan Donadon exerceu, à época dos fatos (1995-1998), o cargo de DIRETOR FINANCEIRO da Assembleia Legislativa do Estado de Rondônia (cargo administrativo, não de magistrado). A competência do STF para julgá-lo decorreu de sua posterior eleição e diplomação como Deputado Federal (foro por prerrogativa de função), fato ocorrido após os desvios. Não há qualquer menção no texto a cargo de magistratura exercido pelo réu; a única ocorrência da palavra 'magistrado' no acórdão (p. 116, voto de dosimetria do Min. Ricardo Lewandowski) refere-se genericamente à discricionariedade do julgador, não ao réu.",
+    "O caso envolveu uma questão de ordem incidental julgada na mesma sessão: o réu apresentou renúncia ao mandato de Deputado Federal na véspera do julgamento (27/10/2010), buscando deslocar a competência para a Justiça comum antes da consumação da prescrição (prevista para 4/11/2010). O Plenário, por maioria (vencido o Min. Marco Aurélio), reconheceu a subsistência da competência do STF por entender tratar-se de abuso de direito. Essa divergência de Marco Aurélio é sobre uma questão PROCESSUAL/preliminar de competência, e não sobre o mérito condenatório (resultado condena/absolve) — por isso ele não foi registrado como 'vencido' no campo de voto de mérito.",
+    "As preliminares de nulidade (investigação por órgão do MP de primeiro grau, ofensa ao promotor natural, inépcia da denúncia, conexão/continência etc.) foram REJEITADAS por unanimidade e nos termos do voto da Relatora — não há dissenso nesse ponto.",
+    "O único dissenso quanto ao MÉRITO condenatório propriamente dito foi o do Ministro Cezar Peluso (Presidente), que absolvia o réu apenas quanto ao crime de quadrilha (art. 288 do CP), mantendo a condenação pelo peculato (art. 312). Por isso o resultado do réu não é unânime (unanime=false), mas também não é uma divisão condena/absolve simples e sim uma divergência PARCIAL sobre um dos dois crimes imputados. Os campos votos_condenacao/votos_absolvicao no objeto 'reus' foram preenchidos com essa ressalva explicitada na evidência de cada campo.",
+    "Há uma segunda camada de divergência, distinta do mérito, sobre a DOSIMETRIA da pena do crime de peculato: a Relatora Cármen Lúcia e os Ministros Joaquim Barbosa e Ellen Gracie ficaram vencidos por quererem fixar pena maior (13 anos e 9 meses) do que a que prevaleceu (11 anos, 1 mês e 10 dias, dosimetria proposta pelo Revisor Dias Toffoli, que resultou no total de 13 anos, 4 meses e 10 dias). O Presidente Cezar Peluso também aparece na lista de 'vencidos quanto à fixação da pena pelo crime de peculato' na ata, mas com valor numericamente igual ao acolhido (11a1m10d) — a redação da ata neste trecho está ambígua/possivelmente afetada por ruído de OCR; interpretamos que a menção ao Presidente nesse trecho decorre de sua pena TOTAL diferir (por não incluir a parcela do art. 288, do qual ele absolvia o réu), 'sem prejuízo das demais cominações constantes do voto da Relatora'. Registrado aqui por cautela, com confiança baixa quanto à extensão exata desse ponto específico.",
+    "Não foi utilizado nenhum conhecimento prévio sobre este processo (caso público e amplamente noticiado do ex-deputado Natan Donadon) além do que está literalmente registrado no arquivo lido; toda extração seguiu estritamente o texto do acórdão e da ata."
+  ]
+}

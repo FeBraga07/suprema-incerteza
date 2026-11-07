@@ -1,0 +1,255 @@
+{
+  "id_caso": "AP-940",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-940.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Peculato-desvio (art. 312, caput, do Código Penal) — ação penal originária",
+      "evidencia": "Ação penal originária. 2. Penal. Processo penal. Preliminares rejeitadas. 3. Acusação de peculato desvio. 4. Desvio de recursos públicos destinados à contratação de assessores parlamentares.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU(É)(S) : ÉDIO VIEIRA LOPES",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Brasília, Sessão Virtual de 25 de março a 1 de abril de 2022. [...] Plenário, Sessão Virtual de 25.3.2022 a 1.4.2022.",
+      "fonte": "ata",
+      "confianca": "media"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Édio Vieira Lopes",
+        "evidencia": "julgar improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "À época dos fatos (2005-2006): Deputado Estadual (Roraima). À época do julgamento (2022): Deputado Federal — motivo da prorrogação de competência do STF (foro por prerrogativa de função), nos termos da QO na AP 937/RJ.",
+        "evidencia": "Trata-se de denúncia oferecida contra Édio Vieira Lopes, Deputado Federal, pela prática do crime de peculato [...] no período entre janeiro de 2005 e dezembro de 2006, Édio Vieira Lopes desviou dinheiro público, que teve posse em razão do cargo de Deputado Estadual [...] embora o crime tenha sido cometido em período anterior à assunção do atual mandato do réu, a instrução criminal foi encerrada perante esta Corte. Trata-se, portanto, de hipótese de prorrogação da competência desta Corte, nos termos da jurisprudência estabelecida na QO na AP 937.",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP, nos termos do voto do Relator.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "Constato que, mesmo que se admitisse a alegada incompatibilidade entre o cargo ocupado e o serviço desempenhado, não se comprovou dolo na conduta, não se amoldando, portanto, ao tipo penal do artigo 312 do Código Penal. [...] Como a conduta do Deputado é penalmente atípica, poderia, no máximo, ser considerada reprovável, no âmbito extrapenal, configuradora de improbidade administrativa, nos termos do art. 9º, IV, da Lei nº 8.429/1992.",
+        "fonte": "acordao p.22",
+        "confianca": "media"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não houve condenação em nenhum dos três fatos; o Relator afastou expressamente a prescrição como questão prejudicial antes de examinar o mérito (\"observa-se que não houve o decurso do prazo de 16 (dezesseis) anos [...]\"), e a prescrição não é o fundamento do resultado.",
+        "fonte": "acordao p.13",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "312, caput (peculato-desvio) — imputado por 3 vezes (1 réu, 3 fatos: nomeações de Maria Evanir Nogueira da Silva, Maria José de Santana e Antonino Praxedes Fernandes)",
+          "diploma": "Código Penal",
+          "evidencia": "Trata-se de denúncia oferecida contra Édio Vieira Lopes, Deputado Federal, pela prática do crime do art. 312, caput, do Código Penal (peculato), por três vezes."
+        },
+        {
+          "artigo": "9º, IV (referência extrapenal, não é imputação formal nesta ação penal)",
+          "diploma": "Lei nº 8.429/1992 (improbidade administrativa)",
+          "evidencia": "Como a conduta do Deputado é penalmente atípica, poderia, no máximo, ser considerada reprovável, no âmbito extrapenal, configuradora de improbidade administrativa, nos termos do art. 9º, IV, da Lei nº 8.429/1992."
+        }
+      ],
+      "n_votantes": {
+        "valor": 11,
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 11,
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a ação penal, com a absolvição do réu.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "por unanimidade de votos, julgar improcedente a ação penal, com a absolvição do réu Édio Vieira Lopes",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Gilmar Mendes"},
+      "eh_relator": {"valor": true},
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Ante o exposto, voto pela improcedência da presente ação penal, com a absolvição do réu Édio Vieira Lopes das acusações de peculato - art. 312, caput, do Código Penal -, com base nos arts. 386, III, V e VII, do CPP. É como voto.",
+        "fonte": "acordao p.36",
+        "confianca": "alta"
+      },
+      "vencido": {"valor": false},
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    },
+    {
+      "ministro": {"valor": "Ricardo Lewandowski"},
+      "eh_relator": {"valor": false},
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Por todas essas razões, tal como Vossa Excelência, julgo improcedente a ação penal, a fim de absolver Édio Vieira Lopes das imputações de peculato - art. 312, caput, do Código Penal -, com base no art. 386, III, V e VII, do CPP. É como voto.",
+        "fonte": "acordao p.52",
+        "confianca": "alta"
+      },
+      "vencido": {"valor": false},
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    },
+    {
+      "ministro": {"valor": "Alexandre de Moraes"},
+      "eh_relator": {"valor": false},
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Diante do exposto, ACOMPANHANDO INTEGRALMENTE o voto do Min. GILMAR MENDES (Relator), AFASTO AS PRELIMINARES e JULGO IMPROCEDENTE a Ação Penal promovida contra ÉDIO VIEIRA LOPES (AP 940) para absolvê-lo da prática de todos os crimes que lhe foram imputados, com fundamento legal no art. 386, III, V e VII, do Código de Processo Penal. É como voto.",
+        "fonte": "acordao p.71",
+        "confianca": "alta"
+      },
+      "vencido": {"valor": false},
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    },
+    {
+      "ministro": {"valor": "Cármen Lúcia"},
+      "eh_relator": {"valor": false},
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça. [decisão por unanimidade; voto individual não transcrito no acórdão]",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {"valor": false},
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    },
+    {
+      "ministro": {"valor": "Dias Toffoli"},
+      "eh_relator": {"valor": false},
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça. [decisão por unanimidade; voto individual não transcrito no acórdão]",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {"valor": false},
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    },
+    {
+      "ministro": {"valor": "Luiz Fux"},
+      "eh_relator": {"valor": false},
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "acordam os Ministros do Supremo Tribunal Federal, em Sessão Plenária, sob a presidência do Senhor Ministro Luiz Fux [...] por unanimidade de votos, julgar improcedente a ação penal [...]. Composição: Ministros Luiz Fux (Presidente) [...] [decisão por unanimidade; voto individual não transcrito no acórdão]",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {"valor": false},
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    },
+    {
+      "ministro": {"valor": "Rosa Weber"},
+      "eh_relator": {"valor": false},
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça. [decisão por unanimidade; voto individual não transcrito no acórdão]",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {"valor": false},
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    },
+    {
+      "ministro": {"valor": "Roberto Barroso"},
+      "eh_relator": {"valor": false},
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça. [decisão por unanimidade; voto individual não transcrito no acórdão]",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {"valor": false},
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    },
+    {
+      "ministro": {"valor": "Edson Fachin"},
+      "eh_relator": {"valor": false},
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça. [decisão por unanimidade; voto individual não transcrito no acórdão]",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {"valor": false},
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    },
+    {
+      "ministro": {"valor": "Nunes Marques"},
+      "eh_relator": {"valor": false},
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça. [decisão por unanimidade; voto individual não transcrito no acórdão]",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {"valor": false},
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    },
+    {
+      "ministro": {"valor": "André Mendonça"},
+      "eh_relator": {"valor": false},
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça. [decisão por unanimidade; voto individual não transcrito no acórdão]",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {"valor": false},
+      "ausente": {"valor": false},
+      "motivo_ausencia": {"valor": "n/a"}
+    }
+  ],
+  "avisos": [
+    "O réu único responde por um mesmo crime (art. 312, caput, CP — peculato-desvio) imputado 3 vezes, com fundamentos de absolvição DIFERENTES por fato: 1º fato (Maria Evanir Nogueira) foi absolvido por ausência de provas de autoria/concorrência do réu (art. 386, V, CPP) — o irmão do réu confessou ter agido à revelia dele; 2º e 3º fatos (Maria José de Santana e Antonino Praxedes) foram absolvidos centralmente por atipicidade da conduta (uso de assessor que, de fato, exercia as funções do cargo) e ausência de dolo, com fundamento também no art. 386, VII, CPP. Como o schema exige um único `motivo` por réu, optei por 'atipicidade' por ser o fundamento central destacado na ementa (itens 5-6) e por cobrir 2 dos 3 fatos, mas isso mascara que o 1º fato foi decidido por um fundamento distinto (falta de prova de autoria, mais próximo de 'mérito'). Revisão humana recomendada neste campo.",
+    "A referência ao art. 9º, IV, da Lei 8.429/1992 aparece apenas como obiter dictum do Relator, ao afirmar que a conduta do 2º e 3º fatos, sendo penalmente atípica, 'poderia, no máximo, ser considerada reprovável, no âmbito extrapenal, configuradora de improbidade administrativa'. Não há imputação formal de improbidade nesta ação penal, nem julgamento desse ponto — é apenas menção lateral. Mantive a classificação Levcovitz já fechada (1 + 19), mas registro que a fonte é uma citação incidental, não uma imputação processada.",
+    "Apenas 3 votos individuais estão transcritos no acórdão: Relator Gilmar Mendes, Revisor Ricardo Lewandowski e Alexandre de Moraes (este último com voto extenso e independente, não uma simples adesão). Os demais 8 ministros da composição (incluindo o Presidente Luiz Fux) não têm voto individual disponível no texto lido — seus votos foram deduzidos (regra D-004) a partir da declaração de unanimidade na ata e da lista de composição, sem qualquer ausência, impedimento ou suspeição registrada no texto.",
+    "O julgamento ocorreu em Sessão Virtual, de 25/03/2022 a 01/04/2022, com a data de julgamento registrada no cabeçalho do acórdão como 04/04/2022. Tratei como sessão única (multiplas_sessoes = false) por não haver indicação de sessões presenciais distintas ou adiamento/redesignação, mas registro o formato virtual porque pode ser metodologicamente relevante (não há debate oral registrado, apenas votos escritos).",
+    "O irmão do réu, Aparecido Vieira Lopes, confessou ter sido o autor da nomeação fraudulenta de Maria Evanir Nogueira da Silva, agindo à revelia do deputado; o Ministério Público Federal informou que adotaria 'as providências penais cabíveis' contra ele. Aparecido Vieira Lopes NÃO é réu nesta ação penal (não incluído no array `reus`), mas é relevante para entender por que o 1º fato foi absolvido por ausência de autoria do réu processado.",
+    "Maria José de Santana, uma das nomeadas do 2º fato, faleceu antes de ser inquirida no curso da ação penal e não foi ouvida sob o crivo do contraditório (fl. 782) — fato que fragiliza ainda mais a prova quanto a esse fato, mencionado no próprio voto do Relator.",
+    "cargo_funcao do réu registra tanto o cargo à época dos fatos (Deputado Estadual, 2005-2006) quanto o cargo à época do julgamento (Deputado Federal), conforme regra 6, pois essa mudança de cargo é explicitamente o fundamento da prorrogação de competência do STF (QO na AP 937/RJ), citada no próprio voto do Relator."
+  ]
+}

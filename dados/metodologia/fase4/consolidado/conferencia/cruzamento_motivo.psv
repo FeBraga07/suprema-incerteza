@@ -1,0 +1,4 @@
+id_caso_reu|motivo_banco|resultado_banco|prescricao_pos_condenacao|votos_fase4
+AP-365-R02|processual|Absolvição|Não|{'Absolve': 7}
+AP-465-R01|mérito|Absolvição|Não|{'Absolve': 18, 'Extingue': 6}
+AP-508-R01|mérito|Absolvição|Não|{'Extingue': 33, 'Absolve': 11}

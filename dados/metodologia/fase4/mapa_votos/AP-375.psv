@@ -1,0 +1,16 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-375|1|ementa||1|1||todos||||
+AP-375|2|acordao||1|2||todos||||assinado pelo presidente (Nelson Jobim) e pelo relator
+AP-375|3|relatorio|Marco Aurélio|3|4||todos||||
+AP-375|4|voto|Marco Aurélio|5|8|Sim|todos|Absolve|Não|lido|relator; R01 tratado nas p.5-7, R02 nas p.7-8. DIVERGE: quanto a R02 o voto (p.7-8) não absolve: concede habeas corpus de ofício e tranca a ação penal por falta de justa causa; o banco registra Absolve para R02. Mesmo desfecho no acórdão (p.1-2) e na ata (p.9)
+AP-375|5|extrato_ata||9|9||todos||||decisão, suspeição, ausências e lista de presentes
+AP-375|6|extrato_ata|Ellen Gracie|9|9|Nao|todos|Absolve|Não|deduzido|revisora designada (p.3, p.9), sem peça própria no acórdão; contada na unanimidade da ata; R02: ver DIVERGE da linha 4
+AP-375|7|extrato_ata|Sepúlveda Pertence|9|9|Nao|todos|Absolve|Não|deduzido|contado na unanimidade; consta entre os presentes (p.9); R02: ver DIVERGE da linha 4
+AP-375|8|extrato_ata|Carlos Velloso|9|9|Nao|todos|Absolve|Não|deduzido|contado na unanimidade; consta entre os presentes (p.9); R02: ver DIVERGE da linha 4
+AP-375|9|extrato_ata|Nelson Jobim|9|9|Nao|todos|Absolve|Não|deduzido|presidente do julgamento (p.9); R02: ver DIVERGE da linha 4
+AP-375|10|extrato_ata|Gilmar Mendes|9|9|Nao|todos|Absolve|Não|deduzido|contado na unanimidade; consta entre os presentes (p.9); R02: ver DIVERGE da linha 4
+AP-375|11|extrato_ata|Cezar Peluso|9|9|Nao|todos|Absolve|Não|deduzido|contado na unanimidade; consta entre os presentes (p.9); R02: ver DIVERGE da linha 4
+AP-375|12|extrato_ata|Joaquim Barbosa|9|9|Nao|todos|Absolve|Não|deduzido|contado na unanimidade; consta entre os presentes (p.9); R02: ver DIVERGE da linha 4
+AP-375|13|extrato_ata|Ayres Britto|9|9|Nao|todos|Não votou|Não|lido|suspeição declarada (p.9; grafado "Britto")
+AP-375|14|extrato_ata|Eros Grau|9|9|Nao|todos|Não votou|Não|lido|ausente neste julgamento (p.9); consta entre os presentes à sessão
+AP-375|15|extrato_ata|Celso de Mello|9|9|Nao|todos|Não votou|Não|lido|ausente justificadamente (p.9); não consta entre os presentes

@@ -1,0 +1,50 @@
+{
+  "id_caso": "AP-396",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-396.txt"],
+  "metodo_validacao": "dupla extração independente (L2-b) — concordância total nos campos estruturados entre AP-396_A.json e AP-396_B.json, preservados em dados/derivados/casos/_dupla/",
+  "caso": {
+    "instituto_juridico": {"valor": "Peculato (art. 312 CP) e quadrilha/bando (art. 288 CP)", "evidencia": "julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal", "fonte": "acordao p.3", "confianca": "alta"},
+    "merito_finalizado": {"valor": true, "evidencia": "E, no mérito, por maioria de votos, julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal.", "fonte": "acordao p.3", "confianca": "alta"},
+    "n_reus": {"valor": 1, "evidencia": "REU(É)(S): NATAN DONADON — processo originalmente com múltiplos réus, desmembrado ao longo da tramitação; só Natan Donadon consta deste acórdão.", "fonte": "acordao p.1", "confianca": "alta"},
+    "multiplas_sessoes": {"valor": false, "evidencia": "Plenário, 28.10.2010 — data única.", "fonte": "ata", "confianca": "alta"},
+    "modalidade_levcovitz": {"valor": [1], "rotulos": ["Peculato (art. 312, CP, ou equivalente via DL 201/67)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-396, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"1 (peculato, art. 312)\"", "regra_aplicada": "inclusao_direta", "fonte": "ementa+ata", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {"valor": "Natan Donadon", "evidencia": "REU(É)(S): NATAN DONADON", "fonte": "acordao p.1", "confianca": "alta"},
+      "cargo_funcao": {"valor": "Diretor Financeiro da Assembleia Legislativa do Estado de Rondônia à época dos fatos (cargo administrativo, não magistratura); Deputado Federal à época do julgamento (fundamento do foro no STF), com renúncia ao mandato na véspera do julgamento", "evidencia": "o réu, no cargo de diretor financeiro da Assembléia Legislativa do Estado de Rondônia, praticou os crimes de peculato [...] e de quadrilha", "fonte": "ementa", "confianca": "alta"},
+      "resultado": {"valor": "Condenação", "evidencia": "O Tribunal condenou o réu às penas de 11 anos, 1 mês e 10 dias de reclusão e 66 dias-multa, pelo crime de peculato, e de 2 anos e 3 meses de reclusão pelo crime de quadrilha, num total de 13 anos, 4 meses e 10 dias de reclusão, em regime inicial fechado.", "fonte": "ata", "confianca": "alta"},
+      "motivo": {"valor": "mérito", "evidencia": "por maioria de votos, julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal", "fonte": "ata", "confianca": "alta"},
+      "prescricao_pos_condenacao": {"valor": false, "evidencia": "A única menção a prescrição no texto é ao prazo prescricional iminente (4/11/2010) que motivou julgar antes que a renúncia ao mandato produzisse efeitos — não há extinção de punibilidade por prescrição decretada após a condenação.", "fonte": "acordao p.16", "confianca": "alta"},
+      "crimes": [
+        {"artigo": "312", "diploma": "Código Penal (peculato)", "evidencia": "julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal"},
+        {"artigo": "288", "diploma": "Código Penal (quadrilha)", "evidencia": "julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal"}
+      ],
+      "n_votantes": {"valor": 8, "evidencia": "9 presentes (Cezar Peluso-Presidente, Marco Aurélio, Ellen Gracie, Gilmar Mendes, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli), menos Gilmar Mendes que 'não votou no mérito e na dosimetria da pena' = 8 votantes. Celso de Mello ausente justificadamente (fora dos 9 presentes).", "fonte": "ata", "confianca": "alta"},
+      "votos_condenacao": {"valor": 8, "evidencia": "por maioria de votos [...] contra o voto do Senhor Ministro Cezar Peluso (Presidente), que absolvia o réu pelo crime do artigo 288 — voto de Peluso condenatório quanto ao art. 312, absolutório apenas quanto ao art. 288; contabilizado como condenatório ao réu.", "fonte": "ata", "confianca": "media"},
+      "votos_absolvicao": {"valor": 0, "evidencia": "Nenhum ministro votou pela absolvição integral do réu; o único dissenso (Peluso) foi parcial, restrito ao art. 288.", "fonte": "ata", "confianca": "media"},
+      "unanime": {"valor": false, "evidencia": "contra o voto do Senhor Ministro Cezar Peluso (Presidente), que absolvia o réu pelo crime do artigo 288", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "votos": [
+    {"ministro": {"valor": "Cármen Lúcia"}, "eh_relator": {"valor": true}, "voto_resultado": {"valor": "condena", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false, "evidencia": "vencida apenas quanto ao quantum da pena de peculato (dosimetria), não quanto ao mérito"}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Dias Toffoli"}, "eh_relator": {"valor": false, "evidencia": "Revisor"}, "voto_resultado": {"valor": "condena", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Cezar Peluso"}, "eh_relator": {"valor": false, "evidencia": "presidiu a sessão"}, "voto_resultado": {"valor": "condena", "evidencia": "condenou quanto ao art. 312 (peculato); absolveu quanto ao art. 288 (quadrilha) — voto parcialmente divergente, único dissenso de mérito do caso.", "fonte": "ata", "confianca": "media"}, "vencido": {"valor": true, "evidencia": "contra o voto do Senhor Ministro Cezar Peluso (Presidente), que absolvia o réu pelo crime do artigo 288"}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Marco Aurélio"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false, "evidencia": "vencido apenas na questão de ordem preliminar sobre competência (renúncia de mandato na véspera), não no mérito"}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ellen Gracie"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false, "evidencia": "vencida apenas na dosimetria do peculato, não no mérito"}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Gilmar Mendes"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "evidencia": "Não votou no mérito e na dosimetria da pena o Senhor Ministro Gilmar Mendes.", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false, "evidencia": "presente à sessão, participou de debates, mas absteve-se de votar no mérito, sem motivo declarado"}, "motivo_ausencia": {"valor": "n/a — presente mas não votou; ata não declara motivo"}},
+    {"ministro": {"valor": "Ayres Britto"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Joaquim Barbosa"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false, "evidencia": "vencido apenas na dosimetria do peculato, não no mérito"}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ricardo Lewandowski"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "condena", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Celso de Mello"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "evidencia": "Ausente, justificadamente, o Senhor Ministro Celso de Mello.", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": true}, "motivo_ausencia": {"valor": "ausência justificada, motivo específico não detalhado na ata"}}
+  ],
+  "avisos": [
+    "Dupla extração concorde em todos os campos estruturados. Nenhuma divergência a escalar.",
+    "Quarta confirmação independente da vacância da cadeira de Eros Grau (saída 18/08/2010, Fux empossado só em 03/03/2011) — depois de AP-372, AP-503 e AP-527. Composição real: 10 ministros em exercício, não 11.",
+    "Único dissenso de mérito: Cezar Peluso absolveu quanto ao art. 288 (quadrilha), manteve condenação pelo art. 312 (peculato) — vocabulário controlado não tem opção de 'voto parcial', registrado como 'condena' com ressalva na evidência.",
+    "Marco Aurélio vencido apenas em questão de ordem processual (subsistência da competência do STF após o réu renunciar ao mandato na véspera do julgamento, buscando deslocar o processo antes da prescrição) — não é dissenso de mérito.",
+    "Divergência de dosimetria (não de mérito): Relatora, Joaquim Barbosa e Ellen Gracie queriam pena maior; prevaleceu a dosimetria mais branda de Dias Toffoli.",
+    "Réu era diretor financeiro (cargo administrativo) da Assembleia Legislativa de Rondônia à época dos fatos — não há menção a cargo de magistratura."
+  ]
+}

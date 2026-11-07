@@ -1,0 +1,7 @@
+# CLASSIFICAÇÃO DO COMPLEMENTO DO CENSO (D-051) — mesmas colunas e mesmo protocolo de classificacao_105.psv
+# Executada em 18/10/2026 (sessão a7d56ad4, claude-opus-5-5), sob dados/metodologia/PROTOCOLO_CLASSIFICACAO.md.
+# Origem do caso: dados/brutos/censo_complemento_ap_turmas_2026-10-18.psv (ação penal do Plenário catalogada como Turma no índice).
+# Fonte: ementa_texto e acordao_ata do registro sjur157761 (ata gravada em dados/brutos/AP-307_ata_indice_sjur157761.txt).
+#
+id_caso|julgamento|decisao|modalidade_levcovitz|regra_aplicada|merito_finalizado|lavagem|org_criminosa|depende_dl201|fonte|justificativa
+AP-307|1994-12-13|incluir|8 (corrupção passiva, art. 317)|inclusao_direta|sim|nao|nao|nao|ementa+ata|Imputação de corrupção passiva (art. 317, caput, do CP) ao ex-Presidente da República e a dois corréus, julgada no mérito pelo Plenário (absolvição, vencidos três ministros). As demais imputações do processo (arts. 299, 305, 343 e 344 do CP) não constam do Quadro 1.1 e ficam fora pela D-022; os réus acusados só por elas ficam fora do banco pela D-020.

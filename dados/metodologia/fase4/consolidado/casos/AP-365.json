@@ -1,0 +1,1008 @@
+{
+ "id_caso": "AP-365",
+ "lido_em": "2026-10-12",
+ "paginas_lidas": "1-16 (todas)",
+ "unidades": [
+  {
+   "id_unidade": "AP-365-R01-I01",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": null,
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Marco Aurélio",
+    "evidencia": "por unanimidade, nos termos [...] voto do relator e da revisora, em absolver ambos os co-réus.",
+    "fonte": "p. 1-2",
+    "confianca": "media"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "No mais, é irrecusável a colocação do titular da ação penal quanto à ausência de prova da prática do crime. Ao contrário, a prova coligida conduz à inexistência de procedimento glosado sob o ângulo penal. Assim, concluo pela absolvição do réu Jackson Barreto de Lima.",
+      "fonte": "p. 13",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": "Os fatos provados configuram o crime de peculato imputado, isto é, há comprovação de apropriação ou desvio de dinheiro público, ou o quadro probatório revela apenas aplicação da verba em obra diversa da contratada?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "PECULATO - AUSÊNCIA DE CONFIGURAÇÃO DO CRIME ABSOLVIÇÃO.",
+      "fonte": "p. 1",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "Ora, realizada a pavimentação, objeto do contrato, como admitido pelo Tribunal de Contas, impossível cogitar-se de crime de peculato, impondo-se, em consequência, a absolvição do parlamentar.",
+      "fonte": "p. 14"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "No mais, é irrecusável a colocação do titular da ação penal quanto à ausência de prova da prática do crime. Ao contrário, a prova coligida conduz à inexistência de procedimento glosado sob o ângulo penal. Assim, concluo pela absolvição do réu Jackson Barreto de Lima.",
+      "fonte": "p. 13",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Assim, concluo pela absolvição do réu Jackson Barreto de Lima.",
+        "fonte": "p. 13",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "No mais, é irrecusável a colocação do titular da ação penal quanto à ausência de prova da prática do crime. Ao contrário, a prova coligida conduz à inexistência de procedimento glosado sob o ângulo penal. Assim, concluo pela absolvição do réu Jackson Barreto de Lima.",
+        "fonte": "p. 13",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "No mais, é irrecusável a colocação do titular da ação penal quanto à ausência de prova da prática do crime. Ao contrário, a prova coligida conduz à inexistência de procedimento glosado sob o ângulo penal. Assim, concluo pela absolvição do réu Jackson Barreto de Lima.",
+        "fonte": "p. 13",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Adere à conclusão do MPF de ausência de prova da prática do crime; a prova conduz à inexistência de conduta penalmente relevante.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ellen Gracie",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Acompanho o relator, absolvendo o denunciado pelo crime de peculato.",
+        "fonte": "p. 15",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Ora, realizada a pavimentação, objeto do contrato, como admitido pelo Tribunal de Contas, impossível cogitar-se de crime de peculato, impondo-se, em consequência, a absolvição do parlamentar.",
+        "fonte": "p. 14",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Ora, realizada a pavimentação, objeto do contrato, como admitido pelo Tribunal de Contas, impossível cogitar-se de crime de peculato, impondo-se, em consequência, a absolvição do parlamentar.",
+        "fonte": "p. 14",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Revisora: pavimentação realizada (permuta de serviços reconhecida pelo Tribunal de Contas), parte em local diverso do conveniado; impossível cogitar peculato.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Sepúlveda Pertence\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio) e Revisora (Ellen Gracie): ata registra decisão unânime 'nos termos do voto do Relator e da Revisora'"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Celso Mello\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio) e Revisora (Ellen Gracie): ata registra decisão unânime 'nos termos do voto do Relator e da Revisora'"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cezar Peluso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Peluso\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio) e Revisora (Ellen Gracie): ata registra decisão unânime 'nos termos do voto do Relator e da Revisora'"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Joaquim Barbosa",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Joaquim Barbosa\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio) e Revisora (Ellen Gracie): ata registra decisão unânime 'nos termos do voto do Relator e da Revisora'"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Ricardo Lewandowski\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio) e Revisora (Ellen Gracie): ata registra decisão unânime 'nos termos do voto do Relator e da Revisora'"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "tipicidade",
+     "anotacao_tipicidade": "enquadramento",
+     "anotacoes": [],
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "categoria_v2",
+       "de": "outra",
+       "para": "tipicidade",
+       "regra": "G4-02",
+       "nota": ""
+      }
+     ]
+    }
+   ],
+   "precedentes": [],
+   "obs": "Acórdão e ata atribuem a decisão aos votos do Relator e da Revisora conjuntamente ('nos termos do voto do relator e da revisora', p. 1-2 e p. 16); ambos fundamentam para este réu. Registrado Marco Aurélio por ser o relator e autor da ementa; Ellen Gracie é co-condutora. Prescrição afastada pelo relator no início do voto ('descabe realmente assentar a prescrição', p. 13) tratada como preliminar (R6). Votantes: 7 (Marco Aurélio, Ellen Gracie e 5 aderentes pela unanimidade da ata). Não votaram: Ayres Britto (impedimento declarado, 'Carlos Britto', p. 2 e p. 16), Gilmar Mendes e Eros Grau (ausentes justificadamente, p. 2 e p. 16); Carlos Velloso e Nelson Jobim não aparecem na ata. Votos de resultado coincidem com o banco.",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": []
+  },
+  {
+   "id_unidade": "AP-365-R01-I02",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": null,
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Marco Aurélio",
+    "evidencia": "Todavia, nem mesmo isso é dado versar, porque não compôs a denúncia ofertada, ou seja, em momento algum, mencionou-se desvio, considerada a aplicação diferente da estabelecida em lei. O emprego de numerário em obra diversa configura, quando muito, em face do fato de não haver a destinação em lei, infração administrativa.",
+    "fonte": "p. 13",
+    "confianca": "media"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "O emprego de numerário em obra diversa configura, quando muito, em face do fato de não haver a destinação em lei, infração administrativa.",
+      "fonte": "p. 13",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": "A aplicação de verba pública em obra diversa da contratada, sem que haja lei fixando a destinação da verba, configura o crime de emprego irregular de verbas ou rendas públicas (art. 315 do CP), ou apenas infração administrativa?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Caso unânime; as duas perguntas tiveram a mesma resposta no voto do relator (R5b). Todavia, nem mesmo isso é dado versar, porque não compôs a denúncia ofertada, ou seja, em momento algum, mencionou-se desvio, considerada a aplicação diferente da estabelecida em lei. O emprego de numerário em obra diversa configura, quando muito, em face do fato de não haver a destinação em lei, infração administrativa.",
+      "fonte": "p. 13",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "O emprego de numerário em obra diversa configura, quando muito, em face do fato de não haver a destinação em lei, infração administrativa.",
+      "fonte": "p. 13"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "O emprego de numerário em obra diversa configura, quando muito, em face do fato de não haver a destinação em lei, infração administrativa.",
+      "fonte": "p. 13",
+      "confianca": "media"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Assim, concluo pela absolvição do réu Jackson Barreto de Lima.",
+        "fonte": "p. 13",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "O emprego de numerário em obra diversa configura, quando muito, em face do fato de não haver a destinação em lei, infração administrativa.",
+        "fonte": "p. 13",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O emprego de numerário em obra diversa configura, quando muito, em face do fato de não haver a destinação em lei, infração administrativa.",
+        "fonte": "p. 13",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Trecho situado na parte do voto sobre o co-réu, mas referido aos fatos idênticos imputados a ambos; a ementa o generaliza ('INEXISTÊNCIA DE LEI A DESTINAR APLICAÇÃO DE VERBA EM OBRA PÚBLICA', p. 1).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ellen Gracie",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Acompanho o relator, absolvendo o denunciado pelo crime de peculato.",
+        "fonte": "p. 15",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "Quando muito, poder-se-ia reconhecer, na [...] hipótese, um desvio ou aplicação indevida de verbas públicas, conduta tipificada no art. , inciso Ill, do Dl 201/67, cuja pena máxima fixada é de três anos",
+        "fonte": "p. 14-15",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "Quando muito, poder-se-ia reconhecer, na [...] hipótese, um desvio ou aplicação indevida de verbas públicas, conduta tipificada no art. , inciso Ill, do Dl 201/67, cuja pena máxima fixada é de três anos",
+        "fonte": "p. 14-15",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Registra o entendimento do PGR pelo art. 315 (p. 14) mas não responde se o fato o configura; reenquadra eventual conduta no art. 1º, III, do DL 201/67.",
+       "fundamento_proprio": {
+        "valor": "Prescrição: eventual desvio ou aplicação indevida de verbas (art. 1º, III, DL 201/67, pena máxima de três anos) estaria prescrito em março de 1996, antes do recebimento da denúncia (20.05.99).",
+        "evidencia": "O fato teria ocorrido em março de 1988. O prazo prescricional fluiu em março de 1996. Bem antes do recebimento - 20.05.99. Acompanho o relator, absolvendo o denunciado pelo crime de peculato.",
+        "fonte": "p. 15",
+        "confianca": "media"
+       },
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Sepúlveda Pertence\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que responde a esta pergunta; a ata registra decisão 'nos termos do voto do Relator e da Revisora', e a Revisora decidiu este ponto por prescrição"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Celso Mello\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que responde a esta pergunta; a ata registra decisão 'nos termos do voto do Relator e da Revisora', e a Revisora decidiu este ponto por prescrição"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cezar Peluso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Peluso\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que responde a esta pergunta; a ata registra decisão 'nos termos do voto do Relator e da Revisora', e a Revisora decidiu este ponto por prescrição"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Joaquim Barbosa",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Joaquim Barbosa\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que responde a esta pergunta; a ata registra decisão 'nos termos do voto do Relator e da Revisora', e a Revisora decidiu este ponto por prescrição"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Ricardo Lewandowski\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que responde a esta pergunta; a ata registra decisão 'nos termos do voto do Relator e da Revisora', e a Revisora decidiu este ponto por prescrição"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "tipicidade",
+     "anotacao_tipicidade": "enquadramento",
+     "anotacoes": [],
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "categoria_v2",
+       "de": "outra",
+       "para": "tipicidade",
+       "regra": "G4-02",
+       "nota": ""
+      }
+     ]
+    },
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "Todavia, nem mesmo isso é dado versar, porque não compôs a denúncia ofertada, ou seja, em momento algum, mencionou-se desvio, considerada a aplicação diferente da estabelecida em lei.",
+      "fonte": "p. 13",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": "O fato correspondente à tipificação alternativa proposta pela acusação (aplicação de verba diversa da estabelecida em lei) foi descrito na denúncia, de modo a poder ser apreciado pelo Tribunal?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Caso unânime; as duas perguntas tiveram a mesma resposta no voto do relator (R5b). Todavia, nem mesmo isso é dado versar, porque não compôs a denúncia ofertada, ou seja, em momento algum, mencionou-se desvio, considerada a aplicação diferente da estabelecida em lei. O emprego de numerário em obra diversa configura, quando muito, em face do fato de não haver a destinação em lei, infração administrativa.",
+      "fonte": "p. 13",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "Todavia, nem mesmo isso é dado versar, porque não compôs a denúncia ofertada, ou seja, em momento algum, mencionou-se desvio, considerada a aplicação diferente da estabelecida em lei.",
+      "fonte": "p. 13"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Todavia, nem mesmo isso é dado versar, porque não compôs a denúncia ofertada, ou seja, em momento algum, mencionou-se desvio, considerada a aplicação diferente da estabelecida em lei.",
+      "fonte": "p. 13",
+      "confianca": "media"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Assim, concluo pela absolvição do réu Jackson Barreto de Lima.",
+        "fonte": "p. 13",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Todavia, nem mesmo isso é dado versar, porque não compôs a denúncia ofertada, ou seja, em momento algum, mencionou-se desvio, considerada a aplicação diferente da estabelecida em lei.",
+        "fonte": "p. 13",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Todavia, nem mesmo isso é dado versar, porque não compôs a denúncia ofertada, ou seja, em momento algum, mencionou-se desvio, considerada a aplicação diferente da estabelecida em lei.",
+        "fonte": "p. 13",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Trecho situado na parte do voto sobre o co-réu, referido à denúncia comum a ambos.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ellen Gracie",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Acompanho o relator, absolvendo o denunciado pelo crime de peculato.",
+        "fonte": "p. 15",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "Entendeu o Ministério Público Federal, em manifestação da lavra do eminente Procurador-Geral da República (fls. 457-460), que a conduta narrada na denúncia corresponde ao tipo previsto no art. 315 do CP",
+        "fonte": "p. 14",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "A denúncia, recebida pelo Tribunal de Justiça em 20.05.99 (fl. 177), narra a ocorrência de desvio de numerário, tendo, no entanto, o Ministério Público qualificado a conduta no tipo previsto no art. 312 do CP (peculato).",
+        "fonte": "p. 14",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "A Revisora não discute congruência; ao contrário, afirma que a denúncia 'narra a ocorrência de desvio de numerário' (p. 14), em tensão com o relator.",
+       "fundamento_proprio": {
+        "valor": "Prescrição da eventual conduta do art. 1º, III, do DL 201/67.",
+        "evidencia": "O fato teria ocorrido em março de 1988. O prazo prescricional fluiu em março de 1996. Bem antes do recebimento - 20.05.99. Acompanho o relator, absolvendo o denunciado pelo crime de peculato.",
+        "fonte": "p. 15",
+        "confianca": "media"
+       },
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Sepúlveda Pertence\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que responde a esta pergunta"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Celso Mello\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que responde a esta pergunta"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cezar Peluso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Peluso\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que responde a esta pergunta"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Joaquim Barbosa",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Joaquim Barbosa\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que responde a esta pergunta"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Ricardo Lewandowski\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que responde a esta pergunta"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "outra",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "sim_favorece": "acusacao"
+    }
+   ],
+   "precedentes": [],
+   "obs": "Tipificação alternativa (art. 315 CP) proposta pelo PGR (relatório, p. 9-10; Revisora, p. 14). O dispositivo não a adota: a Revisora absolve 'pelo crime de peculato' (p. 15) e trata a reclassificação por prescrição (via DL 201/67, não art. 315); o relator a rejeita no trecho sobre o co-réu (p. 13). O acórdão e a ata só dizem 'absolver ambos os co-réus' (p. 2, p. 16): voto_resultado 'Absolve' lido daí, sem menção específica ao art. 315. Não há fundamentação conjunta Relator-Revisora nesta unidade: só o relator responde às duas perguntas; a Revisora vota por fundamento próprio (prescrição). | G4-07: art. 315 como tipificação alternativa não denunciada, decidida pelo Tribunal; mantida.",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": []
+  },
+  {
+   "id_unidade": "AP-365-R02-I01",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": null,
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Marco Aurélio",
+    "evidencia": "Tal como na Ação Penal n° 375-2/SE, há de se caminhar para a concessão de ordem de ofício, absolvenda - se o co-réu, porquanto idênticos os fatos imputados.",
+    "fonte": "p. 13",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "Tal como na Ação Penal n° 375-2/SE, há de se caminhar para a concessão de ordem de ofício, absolvenda - se o co-réu, porquanto idênticos os fatos imputados.",
+      "fonte": "p. 13",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": "Os fatos provados configuram o crime de peculato imputado, isto é, há comprovação de apropriação ou desvio de dinheiro público, ou o quadro probatório revela apenas aplicação da verba em obra diversa da contratada?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "CO-RÉU - IMPUTAÇÃO DE FATOS IDÊNTICOS - INEXISTÊNCIA DE LEI A DESTINAR APLICAÇÃO DE VERBA EM OBRA PÚBLICA - ABSOLVIÇÃO. [...] impõe-se estender ao co-réu a óptica sobre a não-configuração do delito, absolvendo-o.",
+      "fonte": "p. 1",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "CO-RÉU - IMPUTAÇÃO DE FATOS IDÊNTICOS - INEXISTÊNCIA DE LEI A DESTINAR APLICAÇÃO DE VERBA EM OBRA PÚBLICA - ABSOLVIÇÃO. [...] impõe-se estender ao co-réu a óptica sobre a não-configuração do delito, absolvendo-o.",
+      "fonte": "p. 1"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Tal como na Ação Penal n° 375-2/SE, há de se caminhar para a concessão de ordem de ofício, absolvenda - se o co-réu, porquanto idênticos os fatos imputados.",
+      "fonte": "p. 13",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Tal como na Ação Penal n° 375-2/SE, há de se caminhar para a concessão de ordem de ofício, absolvenda - se o co-réu, porquanto idênticos os fatos imputados.",
+        "fonte": "p. 13",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Tal como na Ação Penal n° 375-2/SE, há de se caminhar para a concessão de ordem de ofício, absolvenda - se o co-réu, porquanto idênticos os fatos imputados. O emprego de numerário em obra diversa configura, quando muito, em face do fato de não haver a destinação em lei, infração administrativa.",
+        "fonte": "p. 13",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Tal como na Ação Penal n° 375-2/SE, há de se caminhar para a concessão de ordem de ofício, absolvenda - se o co-réu, porquanto idênticos os fatos imputados.",
+        "fonte": "p. 13",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Estende ao co-réu, por habeas corpus de ofício, a não-configuração do delito reconhecida para o parlamentar, por serem idênticos os fatos imputados; acrescenta que nem o emprego irregular estaria na denúncia e que a aplicação em obra diversa seria, quando muito, infração administrativa.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ellen Gracie",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. O voto escrito da Revisora menciona apenas o parlamentar: 'Acompanho o relator, absolvendo o denunciado pelo crime de peculato.' (p. 15).",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio); a ata atribui a absolvição de ambos os co-réus aos votos do Relator e da Revisora, mas o texto da Revisora trata só do parlamentar"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Sepúlveda Pertence\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que fundamenta para este réu"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Celso Mello\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que fundamenta para este réu"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cezar Peluso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Peluso\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que fundamenta para este réu"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Joaquim Barbosa",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Joaquim Barbosa\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que fundamenta para este réu"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus. (grafado \"Ricardo Lewandowski\" entre os presentes: Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.)",
+        "fonte": "p. 16",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Decisão: O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "p. 16",
+        "confianca": "media",
+        "inferida_de": "Relator (Marco Aurélio), único que fundamenta para este réu"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "tipicidade",
+     "anotacao_tipicidade": "enquadramento",
+     "anotacoes": [],
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "categoria_v2",
+       "de": "outra",
+       "para": "tipicidade",
+       "regra": "G4-02",
+       "nota": ""
+      }
+     ]
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Marco Aurélio",
+     "tipo": "precedente_citado",
+     "referencia": "Agravo Regimental no Inquérito n° 1.169-0/DF, por mim relatado no Plenário e cujo acórdão foi publicado no Diário da Justiça de 28 de abril de 2000",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "No bojo de qualquer processo, é possível a concessão de habeas de ofício e já se assentou a possibilidade de fazê-lo, ainda que cessada a respectiva competência - Agravo Regimental no Inquérito n° 1.169-0/DF, por mim relatado no Plenário",
+     "fonte": "p. 13",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Marco Aurélio",
+     "tipo": "precedente_citado",
+     "referencia": "Ação Penal n° 375-2/SE",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Tal como na Ação Penal n° 375-2/SE, há de se caminhar para a concessão de ordem de ofício, absolvenda - se o co-réu, porquanto idênticos os fatos imputados.",
+     "fonte": "p. 13",
+     "na_pagina_da_evidencia": true
+    }
+   ],
+   "obs": "Acórdão e ata: 'nos termos do voto do relator e da revisora' (p. 1-2, p. 16), mas só o relator fundamenta para este réu; o voto da Revisora (p. 14-15) menciona apenas o parlamentar. A absolvição do co-réu se dá por habeas corpus de ofício após cessada a competência da Corte quanto a ele (o MPF pedira baixa à primeira instância, p. 3 e p. 12); esse mecanismo processual não foi tratado como questão decisiva (R6). Votos de resultado coincidem com o banco. Não votaram: Ayres Britto, Gilmar Mendes, Eros Grau (p. 2, p. 16); Carlos Velloso e Nelson Jobim não aparecem na ata.",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": [
+    {
+     "ministro": "Marco Aurélio",
+     "tipo": "precedente_citado",
+     "referencia": "Agravo Regimental no Inquérito n° 1.169-0/DF, por mim relatado no Plenário e cujo acórdão foi publicado no Diário da Justiça de 28 de abril de 2000",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "No bojo de qualquer processo, é possível a concessão de habeas de ofício e já se assentou a possibilidade de fazê-lo, ainda que cessada a respectiva competência - Agravo Regimental no Inquérito n° 1.169-0/DF, por mim relatado no Plenário",
+     "fonte": "p. 13",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Marco Aurélio",
+     "tipo": "precedente_citado",
+     "referencia": "Ação Penal n° 375-2/SE",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Tal como na Ação Penal n° 375-2/SE, há de se caminhar para a concessão de ordem de ofício, absolvenda - se o co-réu, porquanto idênticos os fatos imputados.",
+     "fonte": "p. 13",
+     "na_pagina_da_evidencia": true
+    }
+   ]
+  }
+ ],
+ "avisos": [
+  "A questão decisiva das unidades de peculato (R01-I01, R02-I01) não cabe em 'dolo' nem em 'concorreu': é a configuração/materialidade do tipo (houve apropriação ou desvio, ou só aplicação em obra diversa?). Registrada como 'outra'. Candidata a categoria nova no codebook (materialidade/atipicidade).",
+  "Possível leitura alternativa de 'concorreu' para R01-I01: o relator diz 'irrecusável a colocação do titular da ação penal', e as alegações do MPF transcritas incluem que 'O simples fato de ele ter assinado o convênio não o [...]' e que 'a responsabilidade pela aplicação indevida do dinheiro público é da empresa municipal, e não do prefeito' (p. 12). Mas o relator adere expressamente só 'quanto à ausência de prova da prática do crime' e conclui pela 'inexistência de procedimento glosado sob o ângulo penal' (p. 13); a Revisora e a ementa tratam só da não-configuração do peculato. Por isso não registrei 'concorreu'.",
+  "R01-I02: os dois fundamentos do relator contra o art. 315 (fato não narrado na denúncia; ausência de lei que destine a verba) estão no trecho sobre o co-réu (p. 13), aplicados aos fatos idênticos. Atribuí-los ao parlamentar é leitura com confiança média.",
+  "Tensão entre os votos condutores: o relator diz que a denúncia em momento algum mencionou desvio por aplicação diversa da estabelecida em lei (p. 13); a Revisora diz que a denúncia 'narra a ocorrência de desvio de numerário' (p. 14) e trata a reclassificação por prescrição (DL 201/67), não por atipicidade.",
+  "Para os 5 ministros que só constam da unanimidade da ata (Pertence, Celso de Mello, Peluso, Joaquim Barbosa, Lewandowski), a posição é inferida da adesão aos votos do Relator e da Revisora; nenhum tem texto próprio no acórdão.",
+  "Ministros não votantes (Ayres Britto impedido; Gilmar Mendes e Eros Grau ausentes do julgamento; Carlos Velloso e Nelson Jobim fora da ata) não receberam entrada em 'posicoes', por instrução ('uma entrada por ministro votante').",
+  "AP 375-2/SE citada pelo relator: o texto não diz quem a relatou, por isso proprio_ministro = 'Nao'.",
+  "OCR do texto é degradado nas páginas 3-12 (relatório e transcrição das alegações do MPF); as passagens dos votos (p. 13-15) e da ata (p. 16) estão legíveis. Transcrições literais com quebras de linha normalizadas.",
+  "padrao_dolo_exigido e modo_concurso = null em todas as questões porque nenhuma é de categoria 'dolo' ou 'concorreu'."
+ ],
+ "consolidado_em": "2026-10-18",
+ "base": "leitura A; decisões do gate (D-048, D-049) aplicadas por consolidar_fase4.py"
+}

@@ -1,0 +1,1393 @@
+{
+  "id_caso": "AP-433",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-103 (todas)",
+  "unidades": [
+    {
+      "id_unidade": "AP-433-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "Escopo decidido no banco (instrução do lote).",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Dias Toffoli",
+        "evidencia": "Redigirá o acórdão o Senhor Ministro Dias Toffoli. // filio-me, portanto, à corrente inaugurada pelo Ministro Toffoli",
+        "fonte": "p. 102; p. 67",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "Tipicidade da conduta não comprovada. Ausência de adequação entre o fato e a norma.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "A conduta imputada (aceitação, no momento da assinatura do contrato, de pagamento em títulos em desacordo com a lei autorizativa e o edital) ocorreu 'durante a execução do contrato' e se subsume, portanto, ao tipo do art. 92 da Lei 8.666/93 (há tipicidade da conduta)?",
+            "evidencia": "Eu entendo, Senhor Presidente, que o fato descrito na petição não é típico, não se subsume ao tipo penal do art. 92. Aqui, não estamos ainda na fase de execução do contrato.",
+            "fonte": "p. 28",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "e os votos dos Senhores Ministros Dias Toffoli, Ricardo Lewandowski, Marco Aurélio, Celso de Mello e Gilmar Mendes (Presidente), absolvendo-os por atipicidade",
+            "fonte": "p. 100",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Houve defeito nessa execução a atrair o enquadramento no tipo?",
+            "fonte": "p. 44"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "devendo ser eles absolvidos da conduta descrita na denúncia por ausência de tipicidade da conduta.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "julgo procedente a pretensão punitiva estatal para condenar os réus Alceni Ângelo Guerra e Fernando Lúcio Giacobo",
+                "fonte": "p. 23",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Entretanto, a entrega dos originais dos títulos da dívida pública pelo acusado Fernando Giacobo se deu por ocasião da lavratura do termo de concessão (fls. 49-57)",
+                "fonte": "p. 17",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "o então prefeito e ora acusado Alceni Guerra admitiu vantagem indevida em favor do adjudicatário do objeto da licitação durante a execução do contrato de concessão firmado com o Município.",
+                "fonte": "p. 17",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afasta a tese defensiva (tratada como preliminar que 'se confunde com o mérito', p. 10): a entrega dos títulos na lavratura do termo de concessão já é início da execução.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "acompanho na íntegra o voto da Relatora, também na dosimetria das penas e na sua conversão em restritivas de direito.",
+                "fonte": "p. 26",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "nada tenho por acrescentar, saivo em relação a um tema que, a meu aviso, poderia suscitar alguma dúvida, e que é a questão da atipicidade da conduta",
+                "fonte": "p. 25",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "está configurado o tipo penal, porque o ato se transformou em pagamento infrutífero na execução do contrato.",
+                "fonte": "p. 26",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "com fundamento no art. 386, inciso III, do Código de Processo Penal, absolvo o réu",
+                "fonte": "p. 29",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Eu entendo, Senhor Presidente, que o fato descrito na petição não é típico, não se subsume ao tipo penal do art. 92. Aqui, não estamos ainda na fase de execução do contrato.",
+                "fonte": "p. 28",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O fato imputado não estava no âmbito de execução do contrato, portanto não há que se falar no tipo do art. 92.",
+                "fonte": "p. 29",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Interpretação estrita do tipo; sugere que os fatos caberiam no art. 91 da Lei 8.666/93, já prescrito (p. 29). Dispositivo no singular ('absolvo o réu'), mas a ata (p. 100) registra absolvição de ambos.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Razão pela qual, Senhor Presidente, peço vênia mais uma vez ao Ministro Dias (...) mas acompanho integralmente o voto da",
+                "fonte": "p. 32",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "adjudicação equivale exatamente à deflagração do momento seguinte da execucão e, neste caso, está realmente configurada aqui.",
+                "fonte": "p. 31",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "adjudicação equivale exatamente à deflagração do momento seguinte da execucão e, neste caso, está realmente configurada aqui.",
+                "fonte": "p. 31",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu absolveria o primeiro réu, que é Alceni Guerra, por ausência de dolo",
+                "fonte": "p. 49",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Em primeiro lugar, eu acho que já estamos aqui na fase da execução porque ultrapassamos a adjudicação.",
+                "fonte": "p. 74",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Eu ultrapassaria essa questão da execução porque, pelo menos quanto ao segundo réu, a Ministra Cármen Lúcia, a meu ver, data vênia do entendimento do Ministro Dias Toffoli, mostrou claramente que a partir da adjudicação inicia-se o processo de execução",
+                "fonte": "p. 39",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Considera a conduta ocorrida na fase de execução; quanto a Alceni, fala em 'excludente de ilicitude' (p. 75) e, em p. 77, diz que a conduta do primeiro réu 'não pode ser reconhecida como típica em função da excludente ilicitude' — formulação ambígua.",
+              "fundamento_proprio": {
+                "valor": "Absolve Alceni por ausência de dolo (questão dolo); depois, na retificação, invoca a unicidade do delito e isonomia para absolver ambos.",
+                "evidencia": "Eu absolveria o primeiro réu, que é Alceni Guerra, por ausência de dolo",
+                "fonte": "p. 49",
+                "confianca": "alta"
+              }
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Por todo o exposto, julgo procedente a ação penal condeno os réus ALCENI GUERRA e FERNANDO GIÁCOBO pela prática do crime previsto no art. 92 da Lei de Licitações.",
+                "fonte": "p. 54",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "No caso em análise, o Prefeito admitiu modificação no ato convocatório da Licitação.",
+                "fonte": "p. 52",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "o que representou mais uma alteração legalmente inadmissível do que constou do Edital de Licitação da lei municipal que o autorizou.",
+                "fonte": "p. 53",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirma a subsunção ao art. 92 (modificação admitida pelo Prefeito e promovida pelo contratado), mas não discute expressamente a elementar 'durante a execução do contrato'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "subscrevo o voto da eminente Relatora, revisado por Vossa Excelência, no sentido de julgar procedente a acão",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Tudo o que sobrevém à adjudicação cai no plano da execução, e, ao se aceitar um título sabidamente sem liquidez, se contrariou a lei já no plano da execução do contrato.",
+                "fonte": "p. 45",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "me parece que fez a classificação jurídica correta no artigo 92 da Lei nº 9.666.",
+                "fonte": "p. 57",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Acompanho, Presidente,, o Ministro Dias Toffoli, quanto à observância do artigo 386, III, do Código de Processo Penal, absolvendo os acusados",
+                "fonte": "p. 59",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "o tipo do artigo 92 da Lei n° 8.666/93 é realmente fechado e não cabe, no campo penal, interpretação analógica a ponto de prejudicar justamente o acusado.",
+                "fonte": "p. 58",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não tenho como enquadrar, sob o ângulo da tipologia, o procedimento quer do primeiro quer do segundo acusado, no artigo 92 em exame.",
+                "fonte": "p. 59",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Fundamenta no silêncio do termo de concessão quanto à forma de pagamento: 'esse tipo pressupõe execução discrepante do ajustado' (p. 59).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "também me manifesto no sentido já esposado agora inicialmente pelo Ministro Toffoli para considerar que não há, aqui, tipicidade.",
+                "fonte": "p. 67",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "o crime só se aperfeiçoa se o servidor admite, possibilita ou dá modificação ou vantagem em favor do contratado, pois a hipótese penal menciona durante a execução do contrato.",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "também me manifesto no sentido já esposado agora inicialmente pelo Ministro Toffoli para considerar que não há, aqui, tipicidade.",
+                "fonte": "p. 67",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "e os votos dos Senhores Ministros Dias Toffoli, Ricardo Lewandowski, Marco Aurélio, Celso de Mello e Gilmar Mendes (Presidente), absolvendo-os por atipicidade",
+                "fonte": "p. 100",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "filio-me, portanto, à corrente inaugurada pelo Ministro Toffoli (...) e agora enfaticamente sustentada pelo Ministro Celso de Mello.",
+                "fonte": "p. 67",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "absolvendo-os por atipicidade",
+                "fonte": "p. 100",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto oral não juntado ao acórdão. Posição reconstruída só por remissões de terceiros (Gilmar Mendes, p. 65 e p. 67) e pela ata (p. 100).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Não diviso dolo. Vou acompanhar o voto do Ministro Dias Toffoli.",
+                "fonte": "p. 101",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Vou acompanhar o voto do Ministro Dias Toffoli.",
+                "fonte": "p. 101",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Vou acompanhar o voto do Ministro Dias Toffoli.",
+                "fonte": "p. 101",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Posição inferida da adesão ao voto de Dias Toffoli; o único fundamento próprio que escreve é o dolo.",
+              "fundamento_proprio": {
+                "valor": "Ausência de dolo (questão dolo), num tipo sem modalidade culposa.",
+                "evidencia": "examinei a matéria e na hipótese não há modalidade culposa. Não diviso dolo.",
+                "fonte": "p. 101",
+                "confianca": "alta"
+              }
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "examinei a matéria e na hipótese não há modalidade culposa. Não diviso dolo.",
+            "fonte": "p. 101",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "absolvendo-os por atipicidade",
+            "fonte": "p. 100",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Eu absolveria o primeiro réu, que é Alceni Guerra, por ausência de dolo",
+            "fonte": "p. 49"
+          },
+          "resposta_tribunal": {
+            "valor": null,
+            "evidencia": null,
+            "fonte": null,
+            "confianca": "baixa"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "nao_dito",
+            "evidencia": "O acusado Alceni Guerra, na qualidade de Prefeito municipal, tinha plena ciência da ilegalidade de sua conduta",
+            "fonte": "p. 18",
+            "confianca": "media"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "julgo procedente a pretensão punitiva estatal para condenar os réus Alceni Ângelo Guerra e Fernando Lúcio Giacobo",
+                "fonte": "p. 23",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "O acusado Alceni Guerra, na qualidade de Prefeito municipal, tinha plena ciência da ilegalidade de sua conduta de aceitar como parte do pagamento do contrato de concessão títulos sem validade",
+                "fonte": "p. 18",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O acusado Alceni Guerra, na qualidade de Prefeito municipal, tinha plena ciência da ilegalidade de sua conduta de aceitar como parte do pagamento do contrato de concessão títulos sem validade",
+                "fonte": "p. 18",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "acompanho na íntegra o voto da Relatora, também na dosimetria das penas e na sua conversão em restritivas de direito.",
+                "fonte": "p. 26",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Como, inexigível outra conduta? Ele tinha que agir segundo a lei e os editais, Ministro. Como, inexigível outra conduta? Já estava consumado o delito, quando nomeou a comissão.",
+                "fonte": "p. 42",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Os prefeitos não precisam ser juristas, bastando-lhes ater-se aos termos dos editais que eles mesmos baixam.",
+                "fonte": "p. 47-48",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Enfrenta em debate (não no voto escrito) o argumento de Lewandowski sobre boa-fé/leigo; no voto, adere integralmente à Relatora (p. 26).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "com fundamento no art. 386, inciso III, do Código de Processo Penal, absolvo o réu",
+                "fonte": "p. 29",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "O fato imputado não estava no âmbito de execução do contrato, portanto não há que se falar no tipo do art. 92.",
+                "fonte": "p. 29",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "O fato imputado não estava no âmbito de execução do contrato, portanto não há que se falar no tipo do art. 92.",
+                "fonte": "p. 29",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "Absolve por atipicidade (questão outra)."
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Razão pela qual, Senhor Presidente, peço vênia mais uma vez ao Ministro Dias (...) mas acompanho integralmente o voto da",
+                "fonte": "p. 32",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "E como se trata de dados objetivos, nem haveria o que afirmar de desconhecimento por quem quer que fosse.",
+                "fonte": "p. 32",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "E como se trata de dados objetivos, nem haveria o que afirmar de desconhecimento por quem quer que fosse.",
+                "fonte": "p. 32",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afasta o desconhecimento por se tratar de dados objetivos (teto e avaliação previstos na lei e no edital).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu absolveria o primeiro réu, que é Alceni Guerra, por ausência de dolo",
+                "fonte": "p. 49",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Estou sustentando que o réu não agiu com dolo porque, se o próprio Tribunal de Justiça teve dúvidas fundadas com relação à legalidade ou a ilegalidade do contrato, o que não se dirá do prefeito, que era um leigo",
+                "fonte": "p. 47",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Então, quanto ao ex-prefeito - e atual réu - Alceni Guerra, entendo que não há como lhe imputar qualquer dolo.",
+                "fonte": "p. 38",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Apoia-se na cronologia (comissão processante, mandado de segurança contra o INSS), nos laudos Menotti del Picchia/FGV e em decisões judiciais sobre a validade dos títulos; fala também em 'inexigível outra conduta' (p. 42) e 'excludente de ilicitude' (p. 75).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Por todo o exposto, julgo procedente a ação penal condeno os réus ALCENI GUERRA e FERNANDO GIÁCOBO pela prática do crime previsto no art. 92 da Lei de Licitações.",
+                "fonte": "p. 54",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "No caso em análise, o Prefeito admitiu modificação no ato convocatório da Licitação.",
+                "fonte": "p. 52",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "No caso em análise, o Prefeito admitiu modificação no ato convocatório da Licitação.",
+                "fonte": "p. 52",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto próprio não trata do elemento subjetivo.",
+              "fundamento_proprio": "Condena pela subsunção objetiva ao art. 92 (questão outra)."
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "subscrevo o voto da eminente Relatora, revisado por Vossa Excelência, no sentido de julgar procedente a acão",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "subscrevo o voto da eminente Relatora, revisado por Vossa Excelência",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "subscrevo o voto da eminente Relatora, revisado por Vossa Excelência",
+                "fonte": "p. 57",
+                "confianca": "media",
+                "inferida_de": "Ellen Gracie"
+              },
+              "posicao_detalhe": "Posição inferida da adesão à Relatora; em debate fala em título 'sabidamente sem liquidez' (p. 45).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Acompanho, Presidente,, o Ministro Dias Toffoli, quanto à observância do artigo 386, III, do Código de Processo Penal, absolvendo os acusados",
+                "fonte": "p. 59",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "não tenho como enquadrar, sob o ângulo da tipologia, o procedimento quer do primeiro quer do segundo acusado, no artigo 92 em exame.",
+                "fonte": "p. 59",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "não tenho como enquadrar, sob o ângulo da tipologia, o procedimento quer do primeiro quer do segundo acusado, no artigo 92 em exame.",
+                "fonte": "p. 59",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Menciona 'a problemática do elemento subjetivo' (p. 44) sem decidi-la.",
+              "fundamento_proprio": "Absolve por atipicidade (questão outra)."
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "também me manifesto no sentido já esposado agora inicialmente pelo Ministro Toffoli para considerar que não há, aqui, tipicidade.",
+                "fonte": "p. 67",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "para considerar que não há, aqui, tipicidade.",
+                "fonte": "p. 67",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "para considerar que não há, aqui, tipicidade.",
+                "fonte": "p. 67",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "Absolve por atipicidade (questão outra)."
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "e os votos dos Senhores Ministros Dias Toffoli, Ricardo Lewandowski, Marco Aurélio, Celso de Mello e Gilmar Mendes (Presidente), absolvendo-os por atipicidade",
+                "fonte": "p. 100",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "absolvendo-os por atipicidade",
+                "fonte": "p. 100",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "absolvendo-os por atipicidade",
+                "fonte": "p. 100",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto não juntado; enquadramento só pela ata e remissões.",
+              "fundamento_proprio": "Absolve por atipicidade (questão outra), segundo a ata."
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Não diviso dolo. Vou acompanhar o voto do Ministro Dias Toffoli.",
+                "fonte": "p. 101",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "examinei a matéria e na hipótese não há modalidade culposa. Não diviso dolo.",
+                "fonte": "p. 101",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Não diviso dolo.",
+                "fonte": "p. 101",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirmação genérica ('na hipótese'), não individualizada por réu.",
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Ellen Gracie",
+          "tipo": "precedente_citado",
+          "referencia": "decisão judicial proferida por magistrado da Seção Judiciária de São Paulo (antecipação de tutela, posteriormente revogada)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "No entanto, trata-se de uma única decisão de caráter precário (antecipação de tutela) e que foi posteriormente revogada por ocasião da prolação da sentença",
+          "fonte": "p. 20"
+        },
+        {
+          "ministro": "Ellen Gracie",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Popular 336/99, sentença confirmada pelo TJPR",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "o acusado Alceni Guerra e a empresa Tartari e Giacobo Ltda. foram condenados nos autos da Ação Popular 336/99 (...) sendo que a sentença condenatória foi confirmada pelo Tribunal de Justiça do Estado do Paraná",
+          "fonte": "p. 21"
+        },
+        {
+          "ministro": "Ayres Britto",
+          "tipo": "precedente_citado",
+          "referencia": "RE n° 386.642, Segunda Turma, 2005 (voto vencedor de Ellen Gracie)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "em 2005, a Ministra Ellen Gracie, no RE n° 386.642, Segunda Turma, num voto vencedor, declarou a insubsistência desses títulos como instrumento de compensação de tributo",
+          "fonte": "p. 57"
+        },
+        {
+          "ministro": "Gilmar Mendes",
+          "tipo": "precedente_citado",
+          "referencia": "caso da fraude nos vestibulares com uso de meios eletrônicos (Plenário julgou atípica a conduta)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "foi o caso da fraude nos vestibulares, com o uso de meios eletrônicos -, consideramos que (...) ali não havia o tipo penal nem do falso, nem do estelionato. Portanto, acabamos por julgar atípica a conduta.",
+          "fonte": "p. 63"
+        },
+        {
+          "ministro": "Gilmar Mendes",
+          "tipo": "precedente_citado",
+          "referencia": "caso do Reichsgericht (furto de energia elétrica)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "E naquele julgamento até lembramo-nos do célebre caso do Reichsgericht, da Corte de Justiça alemã",
+          "fonte": "p. 63"
+        },
+        {
+          "ministro": "Ellen Gracie",
+          "tipo": "distincao",
+          "referencia": "MS 22.493/RJ, Rel. p/ acórdão Min. Maurício Correa, Pleno",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "não socorre o acusado, tendo em vista que o julgado colacionado (MS 22.493/RJ, Rel. p/ acórdão Min. Maurício Correa, Pleno) não tratou da validade dos títulos da dívida pública emitidos no início do século XX",
+          "fonte": "p. 20"
+        },
+        {
+          "ministro": "Ricardo Lewandowski",
+          "tipo": "precedente_citado",
+          "referencia": "várias decisões da Justiça Federal nos autos validando os títulos",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Há várias decisões nos autos da Justiça Federal que se pronunciou pela validade desses títulos.",
+          "fonte": "p. 43"
+        },
+        {
+          "ministro": "Ricardo Lewandowski",
+          "tipo": "precedente_citado",
+          "referencia": "suspensão, pelo Presidente do TJPR, da liminar concedida na ação popular",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Havia uma dúvida tão fundada com relação à legalidade desse contrato que o próprio TJ do Paraná suspendeu a liminar concedida.",
+          "fonte": "p. 46"
+        }
+      ],
+      "obs": "Votos lidos conferem com o banco (5 Condena x 6 Absolve). Ata de 04/03/2010 (p. 100) atribui aos cinco absolutórios a absolvição 'por atipicidade', inclusive a Lewandowski, cujo texto fundamenta de outro modo (dolo para Alceni; unicidade do delito/isonomia na retificação). Eros Grau votou em 11/03/2010 como desempate, por ausência de dolo, aderindo a Toffoli. Joaquim Barbosa condena, mas declara extinta a punibilidade pela prescrição após o trânsito (p. 55). Rubrica da p. 50 o chama de '(Relator)', mas a relatora é Ellen Gracie. Lewandowski absolveu Alceni já no voto original (p. 49), por ausência de dolo."
+    },
+    {
+      "id_unidade": "AP-433-R02-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "Escopo decidido no banco (instrução do lote).",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Dias Toffoli",
+        "evidencia": "Redigirá o acórdão o Senhor Ministro Dias Toffoli. // filio-me, portanto, à corrente inaugurada pelo Ministro Toffoli",
+        "fonte": "p. 102; p. 67",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "Tipicidade da conduta não comprovada. Ausência de adequação entre o fato e a norma.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "A conduta imputada (aceitação, no momento da assinatura do contrato, de pagamento em títulos em desacordo com a lei autorizativa e o edital) ocorreu 'durante a execução do contrato' e se subsume, portanto, ao tipo do art. 92 da Lei 8.666/93 (há tipicidade da conduta)?",
+            "evidencia": "Eu entendo, Senhor Presidente, que o fato descrito na petição não é típico, não se subsume ao tipo penal do art. 92. Aqui, não estamos ainda na fase de execução do contrato.",
+            "fonte": "p. 28",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "e os votos dos Senhores Ministros Dias Toffoli, Ricardo Lewandowski, Marco Aurélio, Celso de Mello e Gilmar Mendes (Presidente), absolvendo-os por atipicidade",
+            "fonte": "p. 100",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Houve defeito nessa execução a atrair o enquadramento no tipo?",
+            "fonte": "p. 44"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "devendo ser eles absolvidos da conduta descrita na denúncia por ausência de tipicidade da conduta.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "julgo procedente a pretensão punitiva estatal para condenar os réus Alceni Ângelo Guerra e Fernando Lúcio Giacobo",
+                "fonte": "p. 23",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Entretanto, a entrega dos originais dos títulos da dívida pública pelo acusado Fernando Giacobo se deu por ocasião da lavratura do termo de concessão (fls. 49-57)",
+                "fonte": "p. 17",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "A alegação da defesa de Fernando Giacobo no sentido da atipicidade da conduta descrita na denúncia não merece acolhida.",
+                "fonte": "p. 16",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afasta a tese defensiva (tratada como preliminar que 'se confunde com o mérito', p. 10): a entrega dos títulos na lavratura do termo de concessão já é início da execução.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "acompanho na íntegra o voto da Relatora, também na dosimetria das penas e na sua conversão em restritivas de direito.",
+                "fonte": "p. 26",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "nada tenho por acrescentar, saivo em relação a um tema que, a meu aviso, poderia suscitar alguma dúvida, e que é a questão da atipicidade da conduta",
+                "fonte": "p. 25",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "está configurado o tipo penal, porque o ato se transformou em pagamento infrutífero na execução do contrato.",
+                "fonte": "p. 26",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "com fundamento no art. 386, inciso III, do Código de Processo Penal, absolvo o réu",
+                "fonte": "p. 29",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Eu entendo, Senhor Presidente, que o fato descrito na petição não é típico, não se subsume ao tipo penal do art. 92. Aqui, não estamos ainda na fase de execução do contrato.",
+                "fonte": "p. 28",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O fato imputado não estava no âmbito de execução do contrato, portanto não há que se falar no tipo do art. 92.",
+                "fonte": "p. 29",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Interpretação estrita do tipo; sugere que os fatos caberiam no art. 91 da Lei 8.666/93, já prescrito (p. 29). Dispositivo no singular ('absolvo o réu'), mas a ata (p. 100) registra absolvição de ambos.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Razão pela qual, Senhor Presidente, peço vênia mais uma vez ao Ministro Dias (...) mas acompanho integralmente o voto da",
+                "fonte": "p. 32",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "adjudicação equivale exatamente à deflagração do momento seguinte da execucão e, neste caso, está realmente configurada aqui.",
+                "fonte": "p. 31",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "adjudicação equivale exatamente à deflagração do momento seguinte da execucão e, neste caso, está realmente configurada aqui.",
+                "fonte": "p. 31",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "eu reajusto o meu voto para absolver ambos os réus.",
+                "fonte": "p. 83",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "entendo que ele incorre, realmente, no delito típico do artigo 92, § 1º",
+                "fonte": "p. 49",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "eu tenho dificuldade em absolver o segundo réu, primeiro, porque entendi que o fato é típico. (...) Em primeiro lugar, eu acho que já estamos aqui na fase da execução porque ultrapassamos a adjudicação.",
+                "fonte": "p. 74",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto original condenava Giacobo (p. 49: 'acompanho integralmente o voto da Ministra Ellen Gracie'); retificado na p. 83 para absolver.",
+              "fundamento_proprio": {
+                "valor": "Absolve Giacobo, apesar de reputar o fato típico, pela 'unicidade dos delitos e à pluralidade dos agentes' (acessoriedade em relação à absolvição do agente público), razoabilidade, isonomia e justiça.",
+                "evidencia": "relativamente à unicidade dos delitos e à pluralidade dos agentes, não apenas em função desse argumento, mas tendo em conta também o princípio da razoabilidade, o princípio da isonomia e também, porque não dizer, o postulado da justiça, eu reajusto o meu voto para absolver ambos os réus.",
+                "fonte": "p. 83",
+                "confianca": "alta"
+              }
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Por todo o exposto, julgo procedente a ação penal condeno os réus ALCENI GUERRA e FERNANDO GIÁCOBO pela prática do crime previsto no art. 92 da Lei de Licitações.",
+                "fonte": "p. 54",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "No caso em análise, o Prefeito admitiu modificação no ato convocatório da Licitação.",
+                "fonte": "p. 52",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "o que representou mais uma alteração legalmente inadmissível do que constou do Edital de Licitação da lei municipal que o autorizou.",
+                "fonte": "p. 53",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirma a subsunção ao art. 92 (modificação admitida pelo Prefeito e promovida pelo contratado), mas não discute expressamente a elementar 'durante a execução do contrato'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "subscrevo o voto da eminente Relatora, revisado por Vossa Excelência, no sentido de julgar procedente a acão",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Tudo o que sobrevém à adjudicação cai no plano da execução, e, ao se aceitar um título sabidamente sem liquidez, se contrariou a lei já no plano da execução do contrato.",
+                "fonte": "p. 45",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "me parece que fez a classificação jurídica correta no artigo 92 da Lei nº 9.666.",
+                "fonte": "p. 57",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Acompanho, Presidente,, o Ministro Dias Toffoli, quanto à observância do artigo 386, III, do Código de Processo Penal, absolvendo os acusados",
+                "fonte": "p. 59",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "o tipo do artigo 92 da Lei n° 8.666/93 é realmente fechado e não cabe, no campo penal, interpretação analógica a ponto de prejudicar justamente o acusado.",
+                "fonte": "p. 58",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não tenho como enquadrar, sob o ângulo da tipologia, o procedimento quer do primeiro quer do segundo acusado, no artigo 92 em exame.",
+                "fonte": "p. 59",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Fundamenta no silêncio do termo de concessão quanto à forma de pagamento: 'esse tipo pressupõe execução discrepante do ajustado' (p. 59).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "também me manifesto no sentido já esposado agora inicialmente pelo Ministro Toffoli para considerar que não há, aqui, tipicidade.",
+                "fonte": "p. 67",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "o crime só se aperfeiçoa se o servidor admite, possibilita ou dá modificação ou vantagem em favor do contratado, pois a hipótese penal menciona durante a execução do contrato.",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "também me manifesto no sentido já esposado agora inicialmente pelo Ministro Toffoli para considerar que não há, aqui, tipicidade.",
+                "fonte": "p. 67",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "e os votos dos Senhores Ministros Dias Toffoli, Ricardo Lewandowski, Marco Aurélio, Celso de Mello e Gilmar Mendes (Presidente), absolvendo-os por atipicidade",
+                "fonte": "p. 100",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "filio-me, portanto, à corrente inaugurada pelo Ministro Toffoli (...) e agora enfaticamente sustentada pelo Ministro Celso de Mello.",
+                "fonte": "p. 67",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "absolvendo-os por atipicidade",
+                "fonte": "p. 100",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto oral não juntado ao acórdão. Posição reconstruída só por remissões de terceiros (Gilmar Mendes, p. 65 e p. 67) e pela ata (p. 100).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Não diviso dolo. Vou acompanhar o voto do Ministro Dias Toffoli.",
+                "fonte": "p. 101",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Vou acompanhar o voto do Ministro Dias Toffoli.",
+                "fonte": "p. 101",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Vou acompanhar o voto do Ministro Dias Toffoli.",
+                "fonte": "p. 101",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Posição inferida da adesão ao voto de Dias Toffoli; o único fundamento próprio que escreve é o dolo.",
+              "fundamento_proprio": {
+                "valor": "Ausência de dolo (questão dolo), num tipo sem modalidade culposa.",
+                "evidencia": "examinei a matéria e na hipótese não há modalidade culposa. Não diviso dolo.",
+                "fonte": "p. 101",
+                "confianca": "alta"
+              }
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "examinei a matéria e na hipótese não há modalidade culposa. Não diviso dolo.",
+            "fonte": "p. 101",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "absolvendo-os por atipicidade",
+            "fonte": "p. 100",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "O dolo do acusado Fernando Lúcio Giacobo também restou evidenciado",
+            "fonte": "p. 19"
+          },
+          "resposta_tribunal": {
+            "valor": null,
+            "evidencia": null,
+            "fonte": null,
+            "confianca": "baixa"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "nao_dito",
+            "evidencia": "também tinha plena ciência das exigências constantes do edital de concorrência acerca dos títulos da dívida pública.",
+            "fonte": "p. 19",
+            "confianca": "media"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "julgo procedente a pretensão punitiva estatal para condenar os réus Alceni Ângelo Guerra e Fernando Lúcio Giacobo",
+                "fonte": "p. 23",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "O dolo do acusado Fernando Lúcio Giacobo também restou evidenciado, já que também tinha plena ciência das exigências constantes do edital de concorrência acerca dos títulos da dívida pública.",
+                "fonte": "p. 19",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O dolo do acusado Fernando Lúcio Giacobo também restou evidenciado, já que também tinha plena ciência das exigências constantes do edital de concorrência acerca dos títulos da dívida pública.",
+                "fonte": "p. 19",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "acompanho na íntegra o voto da Relatora, também na dosimetria das penas e na sua conversão em restritivas de direito.",
+                "fonte": "p. 26",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "acompanho na íntegra o voto da Relatora",
+                "fonte": "p. 26",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "acompanho na íntegra o voto da Relatora",
+                "fonte": "p. 26",
+                "confianca": "media",
+                "inferida_de": "Ellen Gracie"
+              },
+              "posicao_detalhe": "Posição inferida da adesão integral à Relatora; não trata do dolo de Giacobo em texto próprio.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "com fundamento no art. 386, inciso III, do Código de Processo Penal, absolvo o réu",
+                "fonte": "p. 29",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "O fato imputado não estava no âmbito de execução do contrato, portanto não há que se falar no tipo do art. 92.",
+                "fonte": "p. 29",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "O fato imputado não estava no âmbito de execução do contrato, portanto não há que se falar no tipo do art. 92.",
+                "fonte": "p. 29",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "Absolve por atipicidade (questão outra)."
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Razão pela qual, Senhor Presidente, peço vênia mais uma vez ao Ministro Dias (...) mas acompanho integralmente o voto da",
+                "fonte": "p. 32",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "E como se trata de dados objetivos, nem haveria o que afirmar de desconhecimento por quem quer que fosse.",
+                "fonte": "p. 32",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "E como se trata de dados objetivos, nem haveria o que afirmar de desconhecimento por quem quer que fosse.",
+                "fonte": "p. 32",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afasta o desconhecimento por se tratar de dados objetivos (teto e avaliação previstos na lei e no edital).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "eu reajusto o meu voto para absolver ambos os réus.",
+                "fonte": "p. 83",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "porque ele era um empresário e a ele competia tomar todos os cuidados para que o contrato fosse executado corretamente de acordo com a lei.",
+                "fonte": "p. 49",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "há em desfavor desse segundo réu um dado que me impressionou muito (...) fato de a empresa ter sido constituída meses antes da licitação. Portanto, era una empresa aparentemente de fachada, constituída apenas para esse processo licitatório.",
+                "fonte": "p. 49",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Linguagem do voto original (que condenava Giacobo) é de dever de cuidado/indícios, sem a palavra 'dolo'.",
+              "fundamento_proprio": {
+                "valor": "Na retificação, absolve Giacobo pela unicidade do delito e isonomia com o corréu absolvido.",
+                "evidencia": "eu reajusto o meu voto para absolver ambos os réus.",
+                "fonte": "p. 83",
+                "confianca": "alta"
+              }
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Por todo o exposto, julgo procedente a ação penal condeno os réus ALCENI GUERRA e FERNANDO GIÁCOBO pela prática do crime previsto no art. 92 da Lei de Licitações.",
+                "fonte": "p. 54",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "No caso em análise, o Prefeito admitiu modificação no ato convocatório da Licitação.",
+                "fonte": "p. 52",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "No caso em análise, o Prefeito admitiu modificação no ato convocatório da Licitação.",
+                "fonte": "p. 52",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto próprio não trata do elemento subjetivo.",
+              "fundamento_proprio": "Condena pela subsunção objetiva ao art. 92 (questão outra)."
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "subscrevo o voto da eminente Relatora, revisado por Vossa Excelência, no sentido de julgar procedente a acão",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "subscrevo o voto da eminente Relatora, revisado por Vossa Excelência",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "subscrevo o voto da eminente Relatora, revisado por Vossa Excelência",
+                "fonte": "p. 57",
+                "confianca": "media",
+                "inferida_de": "Ellen Gracie"
+              },
+              "posicao_detalhe": "Posição inferida da adesão à Relatora; em debate fala em título 'sabidamente sem liquidez' (p. 45).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Acompanho, Presidente,, o Ministro Dias Toffoli, quanto à observância do artigo 386, III, do Código de Processo Penal, absolvendo os acusados",
+                "fonte": "p. 59",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "não tenho como enquadrar, sob o ângulo da tipologia, o procedimento quer do primeiro quer do segundo acusado, no artigo 92 em exame.",
+                "fonte": "p. 59",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "não tenho como enquadrar, sob o ângulo da tipologia, o procedimento quer do primeiro quer do segundo acusado, no artigo 92 em exame.",
+                "fonte": "p. 59",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Menciona 'a problemática do elemento subjetivo' (p. 44) sem decidi-la.",
+              "fundamento_proprio": "Absolve por atipicidade (questão outra)."
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "também me manifesto no sentido já esposado agora inicialmente pelo Ministro Toffoli para considerar que não há, aqui, tipicidade.",
+                "fonte": "p. 67",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "para considerar que não há, aqui, tipicidade.",
+                "fonte": "p. 67",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "para considerar que não há, aqui, tipicidade.",
+                "fonte": "p. 67",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "Absolve por atipicidade (questão outra)."
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "e os votos dos Senhores Ministros Dias Toffoli, Ricardo Lewandowski, Marco Aurélio, Celso de Mello e Gilmar Mendes (Presidente), absolvendo-os por atipicidade",
+                "fonte": "p. 100",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "absolvendo-os por atipicidade",
+                "fonte": "p. 100",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "absolvendo-os por atipicidade",
+                "fonte": "p. 100",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto não juntado; enquadramento só pela ata e remissões.",
+              "fundamento_proprio": "Absolve por atipicidade (questão outra), segundo a ata."
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Não diviso dolo. Vou acompanhar o voto do Ministro Dias Toffoli.",
+                "fonte": "p. 101",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "examinei a matéria e na hipótese não há modalidade culposa. Não diviso dolo.",
+                "fonte": "p. 101",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Não diviso dolo.",
+                "fonte": "p. 101",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirmação genérica ('na hipótese'), não individualizada por réu; aplicada aqui também a Giacobo.",
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Ellen Gracie",
+          "tipo": "precedente_citado",
+          "referencia": "decisão judicial proferida por magistrado da Seção Judiciária de São Paulo (antecipação de tutela, posteriormente revogada)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "No entanto, trata-se de uma única decisão de caráter precário (antecipação de tutela) e que foi posteriormente revogada por ocasião da prolação da sentença",
+          "fonte": "p. 20"
+        },
+        {
+          "ministro": "Ellen Gracie",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Popular 336/99, sentença confirmada pelo TJPR",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "o acusado Alceni Guerra e a empresa Tartari e Giacobo Ltda. foram condenados nos autos da Ação Popular 336/99 (...) sendo que a sentença condenatória foi confirmada pelo Tribunal de Justiça do Estado do Paraná",
+          "fonte": "p. 21"
+        },
+        {
+          "ministro": "Ayres Britto",
+          "tipo": "precedente_citado",
+          "referencia": "RE n° 386.642, Segunda Turma, 2005 (voto vencedor de Ellen Gracie)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "em 2005, a Ministra Ellen Gracie, no RE n° 386.642, Segunda Turma, num voto vencedor, declarou a insubsistência desses títulos como instrumento de compensação de tributo",
+          "fonte": "p. 57"
+        },
+        {
+          "ministro": "Gilmar Mendes",
+          "tipo": "precedente_citado",
+          "referencia": "caso da fraude nos vestibulares com uso de meios eletrônicos (Plenário julgou atípica a conduta)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "foi o caso da fraude nos vestibulares, com o uso de meios eletrônicos -, consideramos que (...) ali não havia o tipo penal nem do falso, nem do estelionato. Portanto, acabamos por julgar atípica a conduta.",
+          "fonte": "p. 63"
+        },
+        {
+          "ministro": "Gilmar Mendes",
+          "tipo": "precedente_citado",
+          "referencia": "caso do Reichsgericht (furto de energia elétrica)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "E naquele julgamento até lembramo-nos do célebre caso do Reichsgericht, da Corte de Justiça alemã",
+          "fonte": "p. 63"
+        }
+      ],
+      "obs": "Votos lidos conferem com o banco (5 Condena x 6 Absolve). Ata de 04/03/2010 (p. 100) atribui aos cinco absolutórios a absolvição 'por atipicidade', inclusive a Lewandowski, cujo texto fundamenta de outro modo (dolo para Alceni; unicidade do delito/isonomia na retificação). Eros Grau votou em 11/03/2010 como desempate, por ausência de dolo, aderindo a Toffoli. Joaquim Barbosa condena, mas declara extinta a punibilidade pela prescrição após o trânsito (p. 55). Rubrica da p. 50 o chama de '(Relator)', mas a relatora é Ellen Gracie. Lewandowski condenava Giacobo no voto original (p. 49: 'entendo que ele incorre, realmente, no delito típico do artigo 92, § 1º') e retificou para absolver (p. 83), após o argumento de Peluso/Celso de Mello sobre concurso em fato não criminoso; o banco registra o voto retificado (Absolve)."
+    }
+  ],
+  "avisos": [
+    "Questão principal codificada como 'outra' (tipicidade: se a aceitação dos títulos na assinatura do contrato ocorreu 'durante a execução do contrato', elementar do art. 92). Não cabe em 'dolo' nem em 'concorreu'; é onde o placar se separou (Toffoli, Marco Aurélio, Gilmar e, pela ata, Celso de Mello x os cinco condenatórios).",
+    "Dolo registrado como segunda questão (principal = Nao): decisiva para Lewandowski quanto a Alceni (p. 38, p. 49) e para Eros Grau, voto de desempate (p. 101). Como o voto que formou a maioria foi fundado em dolo e não em atipicidade, há margem para ler a questão principal de outra forma; não há fundamento majoritário único no texto.",
+    "resposta_tribunal da questão dolo = null: o Tribunal não se pronunciou como colegiado sobre o dolo; só 2 dos 6 votos absolutórios usaram esse fundamento.",
+    "Eros Grau: codificado como 'Adesao' a Toffoli na questão de tipicidade (posição inferida) e 'Sim/nao' na de dolo. Seu 'não há modalidade culposa. Não diviso dolo' pode também ser lido como atipicidade subjetiva.",
+    "Celso de Mello: voto oral não juntado; posição reconstruída só pela ata (p. 100) e por remissões de Gilmar Mendes (p. 65, 67) e Lewandowski (p. 83), com confiança baixa.",
+    "Lewandowski (R02): reputa o fato típico (p. 49, p. 74) e absolve por um fundamento que não está no codebook: acessoriedade/unicidade do delito em concurso (se o agente público do caput não é condenado, o contratado do parágrafo único também não pode ser). Registrado em fundamento_proprio; candidato a revisão do codebook.",
+    "A questão de ordem sobre o empate (art. 146 do RISTF, voto de qualidade, prescrição iminente) é procedimental e não foi tratada como questão decisiva (R6). A Relatora propôs, e Toffoli e Lewandowski acompanharam, proclamar o resultado mais favorável; a proposta foi rejeitada e aguardou-se Eros Grau.",
+    "Texto OCR com falhas pontuais (ex.: p. 19, p. 23); as transcrições preservam a grafia do OCR."
+  ]
+}

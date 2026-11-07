@@ -1,0 +1,454 @@
+{
+  "id_caso": "AP-1032",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": [
+    "dados/corpus/texto/AP-1032.txt"
+  ],
+  "metodo_validacao": "dupla extração independente (L2-b) — concordância total nos campos estruturados (2 réus, absolvição unânime 11x0 para ambos, motivo=processual — não atipicidade, apesar do art.386 VII CPP —, n_votantes=11) e nos 2 votos individuais transcritos (Fachin relator, Alexandre de Moraes revisor/redator). Ambas as extrações avaliaram explicitamente e rejeitaram a convenção de motivo=atipicidade (regra 7) por ausência de linguagem de dolo/elemento subjetivo no voto vencedor. Nenhuma divergência a escalar.",
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Corrupção passiva (art. 317, caput, do Código Penal) e lavagem de dinheiro (art. 1º, Lei 9.613/1998), em concurso de pessoas — absolvição por insuficiência de provas",
+      "evidencia": "EMENTA: AÇÃO PENAL. CORRUPÇÃO PASSIVA E LAVAGEM DE DINHEIRO. [...] 4. MÉRITO. CORRUPÇÃO PASSIVA. LAVAGEM DE DINHEIRO. CONJUNTO PROBATÓRIO INSUFICIENTE À PROLAÇÃO DE SENTENÇA CONDENATÓRIA. 5. DENÚNCIA IMPROCEDENTE.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "Ante o exposto, diante da ausência de provas suficientes a embasar a tese acusatória, julgo improcedente a denúncia para absolver os acusados Eduardo da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal.",
+      "fonte": "acordao p.52",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 2,
+      "evidencia": "RÉU(É)(S) : EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA / RÉU(É)(S) : DJALMA RODRIGUES DE SOUZA",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "acordam os Ministros do Supremo Tribunal Federal, em Sessão Virtual do Plenário de 8 a 20 de abril de 2022 [...]. Plenário, Sessão Virtual de 8.4.2022 a 20.4.2022.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "modalidade_levcovitz": {
+      "valor": [
+        8
+      ],
+      "rotulos": [
+        "Corrupção passiva (art. 317, CP)"
+      ],
+      "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-1032, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"8 (corrupção passiva, art. 317)\"",
+      "regra_aplicada": "inclusao_direta",
+      "fonte": "ementa",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Eduardo Henrique da Fonte de Albuquerque Silva",
+        "evidencia": "RÉU(É)(S) : EDUARDO HENRIQUE DA FONTE DE ALBUQUERQUE SILVA",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Deputado Federal — à época dos fatos (2009-2010) e também à época do julgamento (2022); parte da vantagem indevida teria sido repassada à sua campanha de reeleição de 2010",
+        "evidencia": "denúncia [...] atribui ao Deputado Federal Eduardo Henrique da Fonte de Albuquerque Silva [...] a prática, em tese, do crime de corrupção passiva majorada; Eduardo da Fonte encontrava-se no exercício do mandato de Deputado Federal.",
+        "fonte": "acordao p.4,28",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "julgo improcedente a denúncia para absolver os acusados Eduardo da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal.",
+        "fonte": "acordao p.52",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "não encontrados no conjunto probatório elementos de corroboração aptos a confirmar as declarações prestadas pelos colaboradores em juízo, afigura-se imperiosa a afirmação da cláusula in dubio pro reo como técnica de julgamento a ser aplicada ao caso sob análise.",
+        "fonte": "acordao p.51",
+        "confianca": "alta",
+        "valor_extraido_original": "processual",
+        "nota_revisao": "D-050 (18/10/2026, decisão do pesquisador): absolvição pelo art. 386, VII, do CPP (acordao p.52; ata p.99, unânime), por falta de corroboração das declarações dos colaboradores (acordao p.51) — mérito, não processual. Achado pelo cruzamento da Fase 4 (G4-08) com 2_casos_reus. Valor original da extração preservado em valor_extraido_original."
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "julgo improcedente a denúncia para absolver os acusados [...] — não houve condenação nem extinção de punibilidade por prescrição em relação a este réu.",
+        "fonte": "acordao p.52",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 317, caput, c/c art. 29",
+          "diploma": "Código Penal",
+          "evidencia": "EDUARDO DA FONTE, nas penas previstas no art. 317, caput, combinado com o art. 29 do Código Penal (uma vez)"
+        },
+        {
+          "artigo": "art. 1º, V e §4º, c/c arts. 29 e 69 — imputado 4 vezes na denúncia original, 14 vezes nas alegações finais da PGR",
+          "diploma": "Lei 9.613/1998 (lavagem de dinheiro)",
+          "evidencia": "e no art. lº-V da Lei n. 9.613/1998, na redação anterior à da Lei n. 12.683/2012, combinado com os arts. 29 e 69 do Código Penal (14 vezes)"
+        }
+      ],
+      "n_votantes": {
+        "valor": 11,
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 11,
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Djalma Rodrigues de Souza",
+        "evidencia": "RÉU(É)(S) : DJALMA RODRIGUES DE SOUZA",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Gerente-Executivo de Gás Natural da Petrobras S/A e diretor da Petrobras Química S/A (Petroquisa), subsidiária da Petrobras, à época dos fatos (2009-2010) — funcionário de sociedade de economia mista, não titular de mandato eletivo",
+        "evidencia": "Afirma a denúncia que o acusado Djalma Rodrigues de Souza exercia as funções de Gerente-Executivo de Gás Natural da Petrobras S/A, bem como de diretor da Petrobras Química S/A - Petroquisa, empresa subsidiária da Petrobras S/A.",
+        "fonte": "acordao p.28",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "julgo improcedente a denúncia para absolver os acusados Eduardo da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal.",
+        "fonte": "acordao p.52",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "não encontrados no conjunto probatório elementos de corroboração aptos a confirmar as declarações prestadas pelos colaboradores em juízo, afigura-se imperiosa a afirmação da cláusula in dubio pro reo como técnica de julgamento a ser aplicada ao caso sob análise.",
+        "fonte": "acordao p.51",
+        "confianca": "alta",
+        "valor_extraido_original": "processual",
+        "nota_revisao": "D-050 (18/10/2026, decisão do pesquisador): absolvição pelo art. 386, VII, do CPP (acordao p.52; ata p.99, unânime), por falta de corroboração das declarações dos colaboradores (acordao p.51) — mérito, não processual. Achado pelo cruzamento da Fase 4 (G4-08) com 2_casos_reus. Valor original da extração preservado em valor_extraido_original."
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Por tais razões, rejeito a preliminar de prescrição da pretensão punitiva suscitada pela defesa do acusado Djalma Rodrigues de Souza. [...] o desfecho final foi absolvição no mérito, não extinção da punibilidade.",
+        "fonte": "acordao p.17-18",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 317, caput, c/c art. 29",
+          "diploma": "Código Penal",
+          "evidencia": "DJALMA RODRIGUES DE SOUZA, nas penas previstas no art. 317, caput, combinado com o art. 29 do Código Penal (uma vez)"
+        },
+        {
+          "artigo": "art. 1º, V e §4º, c/c arts. 29 e 69 — imputado 2 vezes",
+          "diploma": "Lei 9.613/1998 (lavagem de dinheiro)",
+          "evidencia": "e no art. 1º-V da Lei n. 9.613/1998, na redação anterior à da Lei n. 12.683/2012, combinado com os arts. 29 e 69 do Código Penal (duas vezes)"
+        }
+      ],
+      "n_votantes": {
+        "valor": 11,
+        "evidencia": "Composição: Ministros Luiz Fux (Presidente), Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes, Nunes Marques e André Mendonça.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 11,
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia para absolver os acusados Eduardo Henrique da Fonte de Albuquerque Silva e Djalma Rodrigues de Souza, com fundamento no art. 386, VII, do Código de Processo Penal, nos termos do voto do Relator.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {
+        "valor": "Edson Fachin"
+      },
+      "eh_relator": {
+        "valor": true
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Ante o exposto, diante da ausência de provas suficientes a embasar a tese acusatória, julgo improcedente a denúncia [...] com fundamento no art. 386, VII, do Código de Processo Penal. É como voto.",
+        "fonte": "acordao p.52",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Alexandre de Moraes"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "Revisor, redator do voto vogal"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "ACOMPANHO O EMINENTE MINISTRO RELATOR e JULGO IMPROCEDENTE a ação penal [...] para absolvê-los da prática dos crimes previstos no art. 317, caput, do Código Penal e art. 1º, § 4º, da Lei 9.613/98, com base no art. 386,VII, do Código de Processo Penal.",
+        "fonte": "acordao p.53-98",
+        "confianca": "alta"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Luiz Fux"
+      },
+      "eh_relator": {
+        "valor": false,
+        "evidencia": "Presidente"
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia [...]. Composição inclui Luiz Fux (Presidente). Decisão sem voto individual transcrito.",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Gilmar Mendes"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia [...]. Composição inclui Gilmar Mendes. Decisão sem voto individual transcrito.",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Ricardo Lewandowski"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia [...]. Composição inclui Ricardo Lewandowski. Decisão sem voto individual transcrito.",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Cármen Lúcia"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia [...]. Composição inclui Cármen Lúcia. Decisão sem voto individual transcrito.",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Dias Toffoli"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia [...]. Composição inclui Dias Toffoli. Decisão sem voto individual transcrito.",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Rosa Weber"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia [...]. Composição inclui Rosa Weber. Decisão sem voto individual transcrito.",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Roberto Barroso"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia [...]. Composição inclui Roberto Barroso. Decisão sem voto individual transcrito.",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "Nunes Marques"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia [...]. Composição inclui Nunes Marques. Decisão sem voto individual transcrito.",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    },
+    {
+      "ministro": {
+        "valor": "André Mendonça"
+      },
+      "eh_relator": {
+        "valor": false
+      },
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "O Tribunal, por unanimidade, julgou improcedente a denúncia [...]. Composição inclui André Mendonça. Decisão sem voto individual transcrito.",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "vencido": {
+        "valor": false
+      },
+      "ausente": {
+        "valor": false
+      },
+      "motivo_ausencia": {
+        "valor": "n/a"
+      }
+    }
+  ],
+  "avisos": [
+    "Dupla extração concorde em todos os campos estruturados e nos 2 votos individuais observados (Relator e Revisor). Nenhuma divergência a escalar.",
+    "Convenção da regra 7 (motivo=atipicidade) avaliada e explicitamente REJEITADA por ambas as extrações: o voto vencedor funda-se em insuficiência de provas / in dubio pro reo, sem qualquer menção a dolo ou elemento subjetivo do tipo. A palavra 'atipicidade' aparece uma única vez no texto, só como argumento (não acolhido) da defesa técnica de Eduardo da Fonte. Por isso motivo = 'processual', não 'atipicidade' — convergência de método entre as duas extrações independentes, não apenas de resultado.",
+    "Armadilha de prescrição confirmada e evitada por ambas as extrações: a defesa de Djalma Rodrigues de Souza suscitou prescrição como preliminar; o Relator REJEITOU expressamente. O resultado final foi absolvição de mérito por insuficiência de provas, não extinção da punibilidade.",
+    "Réus com crimes mistos (regra 8): ambos respondem também por lavagem de dinheiro (art. 1º, §4º, Lei 9.613/1998 — fora do escopo Levcovitz como crime autônomo, D-012). Não há divergência de desfecho entre os capítulos: a absolvição por lavagem decorre expressamente da não comprovação do crime antecedente (corrupção passiva) — mesmo fundamento, mesmo resultado.",
+    "Julgamento em Sessão Virtual do Plenário (8 a 20 de abril de 2022, acórdão datado de 22/04/2022) — evento único, sem fracionamento em sessões com atas distintas.",
+    "Apenas 2 dos 11 votos estão integralmente transcritos no acórdão (Relator Fachin e Revisor/redator Alexandre de Moraes); os demais 9 foram deduzidos pela regra D-004 a partir da certidão de unanimidade da ata, sem qualquer ausência, impedimento ou suspeição registrada.",
+    "Denúncia original também imputava a Eduardo da Fonte causa de aumento do art. 327, §2º, CP, excluída ainda no juízo de admissibilidade pela 2ª Turma em 2018 (decisão interlocutória, não de mérito, e não do Plenário) — não afeta o painel de votos de 22/04/2022 aqui registrado."
+  ]
+}

@@ -1,0 +1,2410 @@
+{
+ "id_caso": "AP-508",
+ "lido_em": "2026-10-12",
+ "paginas_lidas": "1-19 (todas)",
+ "unidades": [
+  {
+   "id_unidade": "AP-508-R01-I01",
+   "escopo_levcovitz": {
+    "valor": "Nao",
+    "evidencia": "escopo já decidido no banco (informado nas instruções do lote)",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Marco Aurélio",
+    "evidencia": "nos termos do voto do Relator. Redigirá o acórdão o Ministro Gilmar Mendes (art. 38, IV, b, do RI/STF).",
+    "fonte": "p. 19",
+    "confianca": "media"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "As penas máximas previstas para os tipos dos artigos 288 do Código Penal e 92 da Lei nº 8.666/1993 são, respectivamente, 3 e 4 anos de reclusão. O prazo prescricional de ambos os crimes é de 8 anos [...]. Passaram-se mais de 15 anos, incidindo a prescrição, em 15 de dezembro de 2013.",
+      "fonte": "p. 9",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": "A pretensão punitiva estatal quanto a este crime está prescrita, decorrido o prazo do art. 109 do CP desde o último marco interruptivo (recebimento da denúncia)?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Ante o quadro, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declaro a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado.",
+      "fonte": "p. 13",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "As penas máximas previstas para os tipos dos artigos 288 do Código Penal e 92 da Lei nº 8.666/1993 são, respectivamente, 3 e 4 anos de reclusão. O prazo prescricional de ambos os crimes é de 8 anos [...]. Passaram-se mais de 15 anos, incidindo a prescrição, em 15 de dezembro de 2013.",
+      "fonte": "p. 9"
+     },
+     "resposta_tribunal": {
+      "valor": "sim",
+      "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado",
+      "fonte": "p. 19",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "As penas máximas previstas para os tipos dos artigos 288 do Código Penal e 92 da Lei nº 8.666/1993 são, respectivamente, 3 e 4 anos de reclusão. O prazo prescricional de ambos os crimes é de 8 anos [...]. Passaram-se mais de 15 anos, incidindo a prescrição, em 15 de dezembro de 2013.",
+        "fonte": "p. 9",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "As penas máximas previstas para os tipos dos artigos 288 do Código Penal e 92 da Lei nº 8.666/1993 são, respectivamente, 3 e 4 anos de reclusão. O prazo prescricional de ambos os crimes é de 8 anos [...]. Passaram-se mais de 15 anos, incidindo a prescrição, em 15 de dezembro de 2013.",
+        "fonte": "p. 9",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declaro a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado.",
+          "fonte": "p. 13",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Em relação ao crime de associação criminosa, a pena máxima prevista é de 3 (três) anos de reclusão (art. 288, CP), e o prazo prescricional é de 8 (oito) anos.",
+        "fonte": "p. 15",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "Em relação ao crime de associação criminosa, a pena máxima prevista é de 3 (três) anos de reclusão (art. 288, CP), e o prazo prescricional é de 8 (oito) anos.",
+        "fonte": "p. 15",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "considerada a prescrição da pretensão punitiva do Estado, voto pela extinção da punibilidade no tocante aos crimes dos arts. 288, 319 CP e do art. 92 da Lei 8.666/1993.",
+          "fonte": "p. 18",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      }
+     ],
+     "status": "excluida",
+     "motivo_status": "R6c: unidade só com prescrição, sem questão decisiva",
+     "categoria_v2": "outra",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "sim_favorece": "defesa",
+     "edicoes": [
+      {
+       "campo": "status",
+       "de": "ativa",
+       "para": "excluida",
+       "regra": "R6c",
+       "nota": ""
+      }
+     ]
+    }
+   ],
+   "precedentes": [],
+   "obs": "Resultado lido no texto para este fato é EXTINÇÃO DA PUNIBILIDADE pela prescrição (sem exame de mérito), não 'Condena' nem 'Absolve'; por isso voto_resultado = null em todos os ministros (valor fora do enum). O banco registra 'Absolve' para os 11 votantes, sem separação por fato: divergência registrada, não corrigida.  Extrato de ata atribui a decisão aos termos do voto do Relator (Marco Aurélio); o acórdão é redigido e assinado por Gilmar Mendes (revisor, art. 38, IV, b, RISTF), que também fundamenta voto próprio convergente (pp. 14-18, rotulado 'Voto Vogal'). Os dois fundamentam; registrei o relator como condutor porque a ata decide 'nos termos do voto do Relator'.",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": []
+  },
+  {
+   "id_unidade": "AP-508-R01-I02",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "escopo já decidido no banco (informado nas instruções do lote)",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Marco Aurélio",
+    "evidencia": "nos termos do voto do Relator. Redigirá o acórdão o Ministro Gilmar Mendes (art. 38, IV, b, do RI/STF).",
+    "fonte": "p. 19",
+    "confianca": "media"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "concorreu",
+      "evidencia": "Surge inexistente prática de ato de ofício ou mediante infração de dever funcional por parte do acusado, responsável por Secretaria diversa, a de Saúde. A acusação não apresentou prova da interferência de Sebastião na atuação de Alcir Figueira",
+      "fonte": "p. 12",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": null,
+     "principal": {
+      "valor": "Sim",
+      "evidencia": null,
+      "fonte": "G4-22",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "Surge inexistente prática de ato de ofício ou mediante infração de dever funcional por parte do acusado, responsável por Secretaria diversa, a de Saúde. A acusação não apresentou prova da interferência de Sebastião na atuação de Alcir Figueira",
+      "fonte": "p. 12"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Não comprovadas, pelo Órgão acusador, as práticas atribuídas ao réu, cumpre, observado o princípio constitucional da não culpabilidade, assentar a absolvição.",
+      "fonte": "p. 13",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": {
+      "valor": "nao_dito",
+      "evidencia": "Surge inexistente prática de ato de ofício ou mediante infração de dever funcional por parte do acusado",
+      "fonte": "p. 12",
+      "confianca": "baixa"
+     },
+     "posicoes": [
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Quanto ao crime do artigo 317, absolvo o réu – artigo 386, inciso VII, do Código de Processo Penal.",
+        "fonte": "p. 13",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Surge inexistente prática de ato de ofício ou mediante infração de dever funcional por parte do acusado, responsável por Secretaria diversa, a de Saúde. A acusação não apresentou prova da interferência de Sebastião na atuação de Alcir Figueira",
+        "fonte": "p. 12",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Verifica-se, diante da falta de evidência de comportamento do acusado a influenciar a elaboração do ato tido como ilícito, fundamentada a imputação em presunção que, desacompanhada de outros dados concretos, surge improcedente.",
+        "fonte": "p. 12-13",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Dois eixos: (i) 'inexistente prova de solicitação ou recebimento de valor indevido' (p. 12), inclusive quanto aos R$ 3.000,00 ('conversa de terceiros', p. 12); (ii) o aditivo foi praticado por outra Secretaria (Infraestrutura, Alcir Figueira) — competência do agente para o ato (R7).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Considerando a insuficiência de provas, voto pela absolvição do réu quanto ao delito de corrupção passiva (art. 317 do CP), nos termos do art. 386, VII, CPP.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Ademais, não há qualquer prova concreta de que o réu tenha solicitado ou recebido o citado valor.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O MPF alega apenas que o réu assinou um termo aditivo 5 (cinco) meses após o suposto diálogo de Sebastião Ferreira da Rocha e Luiz Eduardo. Não há, entretanto, provas da vinculação desses dois acontecimentos.",
+        "fonte": "p. 17",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Acrescenta que o aditivo foi 'efetuado pela Secretaria de Estado de Infraestrutura e assinado por Alcir Figueira' e que 'a licitação e a contratação da obra se deram em 2000, muito antes do período da gestão do réu' (pp. 16-17); invoca ônus da prova da acusação e art. 386, VII.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "concorreu",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "principal",
+       "de": {
+        "valor": "Sim",
+        "evidencia": "Não comprovadas, pelo Órgão acusador, as práticas atribuídas ao réu, cumpre, observado o princípio constitucional da não culpabilidade, assentar a absolvição.",
+        "fonte": "p. 13",
+        "confianca": "media"
+       },
+       "para": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "G4-22",
+        "confianca": "alta"
+       },
+       "regra": "G4-22",
+       "nota": "principal única depois da saída da preliminar"
+      }
+     ]
+    },
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "Ante o assentado quanto à inviabilidade, neste processo, de considerar, como dados de convicção, os resultantes das interceptações telefônicas, ausentes os pronunciamentos por meio dos quais implementadas, não se tem como levar em conta a conversa captada em 15 de janeiro de 2004.",
+      "fonte": "p. 12",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": "A prova obtida por interceptação telefônica pode ser usada contra o réu quando não constam dos autos as decisões judiciais que autorizaram, prorrogaram ou compartilharam a escuta?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Desempate R5b: julgamento unânime, sem divergência, e as duas perguntas tiveram a mesma resposta ('nao'); ambos os votos fundamentados usam o ponto para afastar a prova principal da acusação. Ante o assentado quanto à inviabilidade, neste processo, de considerar, como dados de convicção, os resultantes das interceptações telefônicas, ausentes os pronunciamentos por meio dos quais implementadas, não se tem como levar em conta a conversa captada em 15 de janeiro de 2004.",
+      "fonte": "p. 12",
+      "confianca": "baixa"
+     },
+     "formulacao": {
+      "valor": "Relativamente à falta de juntada, neste processo, das decisões que implicaram o início da interceptação e as prorrogações, surge procedente. Na denúncia, o Ministério Público fundamenta a acusação em dados encartados nos autos da medida cautelar nº 2002.31.00.00.1626-8. Os pronunciamentos não estão no processo.",
+      "fonte": "p. 10"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Ora, ausente cópia das citadas decisões judiciais é impossível a esta Corte saber se elas sequer existem.",
+      "fonte": "p. 16",
+      "confianca": "media"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Quanto ao crime do artigo 317, absolvo o réu – artigo 386, inciso VII, do Código de Processo Penal.",
+        "fonte": "p. 13",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Relativamente à falta de juntada, neste processo, das decisões que implicaram o início da interceptação e as prorrogações, surge procedente. [...] Os pronunciamentos não estão no processo.",
+        "fonte": "p. 10",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Ante o assentado quanto à inviabilidade, neste processo, de considerar, como dados de convicção, os resultantes das interceptações telefônicas, ausentes os pronunciamentos por meio dos quais implementadas, não se tem como levar em conta a conversa captada em 15 de janeiro de 2004.",
+        "fonte": "p. 12",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Trata o ponto como 'preliminar' acolhida e diz que, mesmo se rejeitada pelo Colegiado, o conteúdo das conversas não provaria a corrupção ('caso não acolhida, pelo Colegiado, a preliminar, o conteúdo revelado não conduz [...] à conclusão de a tratativa ter sido determinante', p. 12).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Considerando a insuficiência de provas, voto pela absolvição do réu quanto ao delito de corrupção passiva (art. 317 do CP), nos termos do art. 386, VII, CPP.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Entretanto, conforme ponderado pela defesa, não consta dos autos decisão que delimita e que prorroga o período de escuta telefônica, tampouco decisão que compartilha a prova de outros autos. Tal fato viola os princípios do contraditório e da ampla defesa.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "sem as decisões judiciais, é impossível exercer o controle de legalidade da atividade de produção de prova. A não comprovação da existência das decisões que legitimariam a utilização da prova torna impossível saber se ela é lícita e qual a sua amplitude.",
+        "fonte": "p. 16",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Invoca o art. 5º, LVI, da CF ('são inadmissíveis, no processo, as provas obtidas por meios ilícitos'), p. 16. Discute o ponto dentro do mérito da corrupção passiva, não como preliminar.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "excluida",
+     "motivo_status": "R6: o relator a chama de preliminar",
+     "categoria_v2": "outra",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "status",
+       "de": "ativa",
+       "para": "excluida",
+       "regra": "G4-22/R6",
+       "nota": ""
+      }
+     ]
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 88.875/AM, Rel. Min. Celso de Mello, DJe 12.3.2012",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "cabe ao Parquet, como órgão acusador, provar a prática do crime e a culpabilidade, e não ao réu provar sua inocência. Nessa toada: “AS ACUSAÇÕES PENAIS NÃO SE PRESUMEM PROVADAS [...]” (HC 88.875/AM, Rel. Min. Celso de Mello, DJe 12.3.2012).",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 512, Rel. Teori Zavascki, Segunda Turma, DJe 27.4.2016",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "a jurisprudência desta Corte é no sentido de que a ausência de provas suficientes para a condenação conduz à absolvição do réu. [...] (AP 512, Rel; Teori Zavascki, Segunda Turma, DJe 27.4.2016).",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 430, Rel. Cármen Lúcia, Tribunal Pleno, DJe 26.9.2008",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Não havendo provas suficientes de que teria havido a frustração do caráter competitivo do procedimento licitatório, impõe-se a absolvição, nos termos do art. 386, inc. VI, do Código de Processo Penal. [...] (AP 430, Rel: Cármen Lúcia, Tribunal Pleno, DJe 26.9.2008).",
+     "fonte": "p. 18",
+     "na_pagina_da_evidencia": true
+    }
+   ],
+   "obs": "voto_resultado 'Absolve' lido no texto coincide com o banco para os 11. Absolvição pelo art. 386, VII, CPP (insuficiência de prova) nos dois votos fundamentados. Extrato de ata atribui a decisão aos termos do voto do Relator (Marco Aurélio); o acórdão é redigido e assinado por Gilmar Mendes (revisor, art. 38, IV, b, RISTF), que também fundamenta voto próprio convergente (pp. 14-18, rotulado 'Voto Vogal'). Os dois fundamentam; registrei o relator como condutor porque a ata decide 'nos termos do voto do Relator'.",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": [
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "HC 88.875/AM, Rel. Min. Celso de Mello, DJe 12.3.2012",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "cabe ao Parquet, como órgão acusador, provar a prática do crime e a culpabilidade, e não ao réu provar sua inocência. Nessa toada: “AS ACUSAÇÕES PENAIS NÃO SE PRESUMEM PROVADAS [...]” (HC 88.875/AM, Rel. Min. Celso de Mello, DJe 12.3.2012).",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 512, Rel. Teori Zavascki, Segunda Turma, DJe 27.4.2016",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "a jurisprudência desta Corte é no sentido de que a ausência de provas suficientes para a condenação conduz à absolvição do réu. [...] (AP 512, Rel; Teori Zavascki, Segunda Turma, DJe 27.4.2016).",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Gilmar Mendes",
+     "tipo": "precedente_citado",
+     "referencia": "AP 430, Rel. Cármen Lúcia, Tribunal Pleno, DJe 26.9.2008",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Não havendo provas suficientes de que teria havido a frustração do caráter competitivo do procedimento licitatório, impõe-se a absolvição, nos termos do art. 386, inc. VI, do Código de Processo Penal. [...] (AP 430, Rel: Cármen Lúcia, Tribunal Pleno, DJe 26.9.2008).",
+     "fonte": "p. 18",
+     "na_pagina_da_evidencia": true
+    }
+   ]
+  },
+  {
+   "id_unidade": "AP-508-R01-I03",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "escopo já decidido no banco (informado nas instruções do lote)",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Marco Aurélio",
+    "evidencia": "nos termos do voto do Relator. Redigirá o acórdão o Ministro Gilmar Mendes (art. 38, IV, b, do RI/STF).",
+    "fonte": "p. 19",
+    "confianca": "media"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "Da mesma forma, em relação ao crime de prevaricação – artigo 319 do Código Penal –, observada a pena máxima de 1 ano de detenção, transcorreu o prazo versado no inciso V do artigo 109.",
+      "fonte": "p. 9",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": "A pretensão punitiva estatal quanto a este crime está prescrita, decorrido o prazo do art. 109 do CP desde o último marco interruptivo (recebimento da denúncia)?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Ante o quadro, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declaro a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado.",
+      "fonte": "p. 13",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "Da mesma forma, em relação ao crime de prevaricação – artigo 319 do Código Penal –, observada a pena máxima de 1 ano de detenção, transcorreu o prazo versado no inciso V do artigo 109.",
+      "fonte": "p. 9"
+     },
+     "resposta_tribunal": {
+      "valor": "sim",
+      "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado",
+      "fonte": "p. 19",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Da mesma forma, em relação ao crime de prevaricação – artigo 319 do Código Penal –, observada a pena máxima de 1 ano de detenção, transcorreu o prazo versado no inciso V do artigo 109.",
+        "fonte": "p. 9",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "Da mesma forma, em relação ao crime de prevaricação – artigo 319 do Código Penal –, observada a pena máxima de 1 ano de detenção, transcorreu o prazo versado no inciso V do artigo 109.",
+        "fonte": "p. 9",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declaro a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado.",
+          "fonte": "p. 13",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "A respeito do crime de prevaricação, a pena máxima é de 1 (um) ano de detenção (art. 319 do CP), e o prazo prescricional, conforme o art. 109, V, CP, é de 4 (quatro) anos.",
+        "fonte": "p. 15",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "A respeito do crime de prevaricação, a pena máxima é de 1 (um) ano de detenção (art. 319 do CP), e o prazo prescricional, conforme o art. 109, V, CP, é de 4 (quatro) anos.",
+        "fonte": "p. 15",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "considerada a prescrição da pretensão punitiva do Estado, voto pela extinção da punibilidade no tocante aos crimes dos arts. 288, 319 CP e do art. 92 da Lei 8.666/1993.",
+          "fonte": "p. 18",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      }
+     ],
+     "status": "excluida",
+     "motivo_status": "R6c: unidade só com prescrição, sem questão decisiva",
+     "categoria_v2": "outra",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "sim_favorece": "defesa",
+     "edicoes": [
+      {
+       "campo": "status",
+       "de": "ativa",
+       "para": "excluida",
+       "regra": "R6c",
+       "nota": ""
+      }
+     ]
+    }
+   ],
+   "precedentes": [],
+   "obs": "Resultado lido no texto para este fato é EXTINÇÃO DA PUNIBILIDADE pela prescrição (sem exame de mérito), não 'Condena' nem 'Absolve'; por isso voto_resultado = null em todos os ministros (valor fora do enum). O banco registra 'Absolve' para os 11 votantes, sem separação por fato: divergência registrada, não corrigida. Nota: nas alegações finais a PGR sustentou 'não caracterizado o crime do artigo 319 do Código Penal, uma vez recebida propina em troca das práticas ilícitas' (p. 5) e não pediu condenação por ele; o Tribunal ainda assim declarou a prescrição. Extrato de ata atribui a decisão aos termos do voto do Relator (Marco Aurélio); o acórdão é redigido e assinado por Gilmar Mendes (revisor, art. 38, IV, b, RISTF), que também fundamenta voto próprio convergente (pp. 14-18, rotulado 'Voto Vogal'). Os dois fundamentam; registrei o relator como condutor porque a ata decide 'nos termos do voto do Relator'.",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": []
+  },
+  {
+   "id_unidade": "AP-508-R01-I04",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "escopo já decidido no banco (informado nas instruções do lote)",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Marco Aurélio",
+    "evidencia": "nos termos do voto do Relator. Redigirá o acórdão o Ministro Gilmar Mendes (art. 38, IV, b, do RI/STF).",
+    "fonte": "p. 19",
+    "confianca": "media"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "As penas máximas previstas para os tipos dos artigos 288 do Código Penal e 92 da Lei nº 8.666/1993 são, respectivamente, 3 e 4 anos de reclusão. O prazo prescricional de ambos os crimes é de 8 anos [...]. Passaram-se mais de 15 anos, incidindo a prescrição, em 15 de dezembro de 2013.",
+      "fonte": "p. 9",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": "A pretensão punitiva estatal quanto a este crime está prescrita, decorrido o prazo do art. 109 do CP desde o último marco interruptivo (recebimento da denúncia)?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Ante o quadro, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declaro a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado.",
+      "fonte": "p. 13",
+      "confianca": "alta"
+     },
+     "formulacao": {
+      "valor": "As penas máximas previstas para os tipos dos artigos 288 do Código Penal e 92 da Lei nº 8.666/1993 são, respectivamente, 3 e 4 anos de reclusão. O prazo prescricional de ambos os crimes é de 8 anos [...]. Passaram-se mais de 15 anos, incidindo a prescrição, em 15 de dezembro de 2013.",
+      "fonte": "p. 9"
+     },
+     "resposta_tribunal": {
+      "valor": "sim",
+      "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado",
+      "fonte": "p. 19",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "As penas máximas previstas para os tipos dos artigos 288 do Código Penal e 92 da Lei nº 8.666/1993 são, respectivamente, 3 e 4 anos de reclusão. O prazo prescricional de ambos os crimes é de 8 anos [...]. Passaram-se mais de 15 anos, incidindo a prescrição, em 15 de dezembro de 2013.",
+        "fonte": "p. 9",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "As penas máximas previstas para os tipos dos artigos 288 do Código Penal e 92 da Lei nº 8.666/1993 são, respectivamente, 3 e 4 anos de reclusão. O prazo prescricional de ambos os crimes é de 8 anos [...]. Passaram-se mais de 15 anos, incidindo a prescrição, em 15 de dezembro de 2013.",
+        "fonte": "p. 9",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declaro a extinção da punibilidade, considerada a prescrição da pretensão punitiva do Estado.",
+          "fonte": "p. 13",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "a pena máxima é de 4 (quatro) anos de reclusão (art. 92 da Lei 8.666/1993), e o prazo prescricional é de 8 (oito) anos.",
+        "fonte": "p. 15",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "a pena máxima é de 4 (quatro) anos de reclusão (art. 92 da Lei 8.666/1993), e o prazo prescricional é de 8 (oito) anos.",
+        "fonte": "p. 15",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "considerada a prescrição da pretensão punitiva do Estado, voto pela extinção da punibilidade no tocante aos crimes dos arts. 288, 319 CP e do art. 92 da Lei 8.666/1993.",
+          "fonte": "p. 18",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Alexandre de Moraes",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Extingue",
+        "evidencia": null,
+        "fonte": "R6c/G4-08",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "sim",
+        "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+        "fonte": "p. 19",
+        "confianca": "media",
+        "inferida_de": "Marco Aurélio (relator) — adesão inferida da unanimidade 'nos termos do voto do Relator'; nenhuma peça própria no acórdão (sessão virtual)"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": null,
+       "edicoes": [
+        {
+         "campo": "voto_resultado",
+         "de": {
+          "valor": null,
+          "evidencia": "O Tribunal, por unanimidade, no que concerne às infrações dos artigos 288, 319 do Código Penal e 92 da Lei nº 8.666/1993, declarou a extinção da punibilidade, [...] e, quanto ao crime do artigo 317, absolveu o réu (artigo 386, inciso VII, do Código de Processo Penal), nos termos do voto do Relator.",
+          "fonte": "p. 19",
+          "confianca": "alta"
+         },
+         "para": {
+          "valor": "Extingue",
+          "evidencia": null,
+          "fonte": "R6c/G4-08",
+          "confianca": "alta"
+         },
+         "regra": "G4-08",
+         "nota": ""
+        }
+       ]
+      }
+     ],
+     "status": "excluida",
+     "motivo_status": "R6c: unidade só com prescrição, sem questão decisiva",
+     "categoria_v2": "outra",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "sim_favorece": "defesa",
+     "edicoes": [
+      {
+       "campo": "status",
+       "de": "ativa",
+       "para": "excluida",
+       "regra": "R6c",
+       "nota": ""
+      }
+     ]
+    }
+   ],
+   "precedentes": [],
+   "obs": "Resultado lido no texto para este fato é EXTINÇÃO DA PUNIBILIDADE pela prescrição (sem exame de mérito), não 'Condena' nem 'Absolve'; por isso voto_resultado = null em todos os ministros (valor fora do enum). O banco registra 'Absolve' para os 11 votantes, sem separação por fato: divergência registrada, não corrigida. A reclassificação de art. 90 para art. 92 vem das alegações finais da PGR, com base no art. 383 do CPP (p. 4); o voto de Gilmar Mendes ainda descreve a denúncia como art. 90 (p. 14), mas declara a prescrição do art. 92 (p. 15). Extrato de ata atribui a decisão aos termos do voto do Relator (Marco Aurélio); o acórdão é redigido e assinado por Gilmar Mendes (revisor, art. 38, IV, b, RISTF), que também fundamenta voto próprio convergente (pp. 14-18, rotulado 'Voto Vogal'). Os dois fundamentam; registrei o relator como condutor porque a ata decide 'nos termos do voto do Relator'.",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": []
+  }
+ ],
+ "avisos": [
+  "Unidades I01, I03 e I04 foram decididas por prescrição da pretensão punitiva (extinção da punibilidade), sem mérito. R6 diz que preliminares como prescrição não são questão decisiva, mas aqui a prescrição é o único fundamento do desfecho; registrei como 'outra' com principal = Sim para não deixar a unidade sem questão. O codebook não prevê esse caso.",
+  "voto_resultado = null nas unidades prescritas: o texto diz 'extinção da punibilidade', que não é 'Condena' nem 'Absolve'. O banco registra 'Absolve' para o réu sem separar por fato; divergência anotada em obs, não corrigida.",
+  "I02: a segunda questão (inutilizabilidade da interceptação sem as decisões autorizadoras nos autos) é chamada de 'preliminar' por Marco Aurélio (p. 12), que também diz que absolveria mesmo se ela fosse rejeitada; Gilmar a discute dentro do mérito. Marquei principal = Sim pela R5b (unânime, mesma resposta), mas com confiança baixa: há tensão com a R6.",
+  "I02: o fundamento central foi enquadrado em 'concorreu' (sem prova de que o réu solicitou ou recebeu vantagem, nem de que interferiu no ato praticado por outro Secretário, R7). Gilmar acrescenta que 'não existem provas de ilegalidade no terceiro termo aditivo' (p. 16), o que é um eixo de materialidade, não de autoria; ficou em posicao_detalhe porque o limite é de duas questões. Dolo não é discutido em nenhum voto.",
+  "Inconsistência interna no voto de Gilmar Mendes: diz que o aditivo foi 'assinado por Alcir Figueira' (p. 16) e depois que 'o réu assinou um termo aditivo' (p. 17); também data a licitação em 2000 (p. 17), quando o relatório diz contrato de 2002 (pp. 7 e 10). Não afeta o resultado.",
+  "Os 9 ministros sem peça (sessão virtual) constam só da composição (p. 19); posição registrada como Adesao inferida do relator, por causa de 'por unanimidade [...] nos termos do voto do Relator'. A ata não registra quem acompanhou com ou sem ressalva.",
+  "Voto condutor: a ata atribui a decisão ao voto do Relator, mas o acórdão é redigido por Gilmar Mendes (art. 38, IV, b, RISTF), que também fundamenta. Registrei Marco Aurélio como condutor, com confiança média.",
+  "Gilmar Mendes (p. 15) remete às questões de degravação e competência 'já devidamente decididas nos autos desta AP', sem identificar a decisão; não entrou em precedentes por ser referência a preliminar, sem identificação."
+ ],
+ "consolidado_em": "2026-10-18",
+ "base": "leitura A; decisões do gate (D-048, D-049) aplicadas por consolidar_fase4.py"
+}

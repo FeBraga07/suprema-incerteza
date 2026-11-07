@@ -1,0 +1,23 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-465|1|ementa||1|2|Sim|todos||||
+AP-465|2|acordao||2|2|Sim|todos||||
+AP-465|3|relatorio|Cármen Lúcia|3|14|Sim|todos||||Relatório da Relatora
+AP-465|4|voto|Cármen Lúcia|15|61|Sim|todos|Absolve|Não|sem_evidencia|Voto da Relatora (preliminares e mérito, numeração interna 1-47); banco registra fonte sem_evidencia, texto do voto localizado aqui
+AP-465|5|outro|Cármen Lúcia|62|64|Sim|todos|Absolve|Não|sem_evidencia|Peça intitulada "Explicação"; fora da ordem cronológica: o próprio texto (p.64) indica que foi proferida antes da leitura do voto
+AP-465|6|voto|Dias Toffoli|65|142|Sim|todos|Absolve|Sim|lido|Voto do Revisor; subdivide-se em "I – Relatório" (p.65) e "II - Voto" (p.102); novos subtítulos internos na p.113. DIVERGE: ata p.171 não inclui Dias Toffoli entre os "vencidos, em parte"; banco registra vencido=Sim com base no voto escrito (p.113 e p.142) — divergência já documentada em casos/AP-465.json
+AP-465|7|voto|Roberto Barroso|143|143|Adesao|todos|Absolve|Não|lido|Uma página: comentário preliminar seguido de adesão à Relatora
+AP-465|8|voto|Teori Zavascki|144|151|Sim|todos|Absolve|Sim|lido|Contém aparte (linha 9) nas p.149-150; fecho do voto repetido no debate p.159
+AP-465|9|aparte|Roberto Barroso;Teori Zavascki;Joaquim Barbosa;Cármen Lúcia|149|150|Sim|todos||||Aparte de Barroso dentro do voto de Teori Zavascki, com réplicas de Teori e intervenções de Joaquim Barbosa e Cármen Lúcia (p.150); ver linhas de voto para dados do banco
+AP-465|10|outro|Cármen Lúcia|152|153|Sim|todos|Absolve|Não|sem_evidencia|Peça intitulada "Esclarecimento", com uma intervenção curta de Joaquim Barbosa (p.152)
+AP-465|11|debate|Rosa Weber;Teori Zavascki;Luiz Fux;Joaquim Barbosa;Ricardo Lewandowski;Cármen Lúcia;Roberto Barroso|154|159|Sim|todos||||Debate; termina com fecho de voto de Teori Zavascki (p.159); ver linhas de voto para dados do banco
+AP-465|12|voto|Rosa Weber|160|161|Sim|todos|Absolve|Sim|lido|
+AP-465|13|voto|Luiz Fux|162|163|Sim|todos|Absolve|Não|lido|
+AP-465|14|voto|Ricardo Lewandowski|164|165|Sim|todos|Absolve|Sim|lido|Contém aparte da Relatora (linha 15) na p.164
+AP-465|15|aparte|Cármen Lúcia|164|164|Sim|todos|Absolve|Não|sem_evidencia|Duas intervenções curtas da Relatora dentro do voto de Ricardo Lewandowski
+AP-465|16|voto|Joaquim Barbosa|166|170|Sim|todos|Absolve|Sim|lido|Voto do Presidente; texto próprio p.166-167; seguem trocas (linhas 17 e 18) até p.170
+AP-465|17|aparte|Luiz Fux;Joaquim Barbosa|166|166|Nao|todos||||Três falas marcadas "CANCELADO" no original, dentro do voto de Joaquim Barbosa
+AP-465|18|debate|Roberto Barroso;Luiz Fux;Joaquim Barbosa;Teori Zavascki;Cármen Lúcia|167|170|Sim|todos||||Debate sem título próprio, dentro da peça "Voto - MIN. JOAQUIM BARBOSA"; ver linhas de voto para dados do banco
+AP-465|19|extrato_ata||171|171|Sim|todos||||Extrato de ata, sessão de 24/04/2014 (única)
+AP-465|20|extrato_ata|Celso de Mello|171|171|Nao|todos|Não votou|Não|sem_evidencia|Ausente justificadamente segundo a ata
+AP-465|21|extrato_ata|Marco Aurélio|171|171|Nao|todos|Não votou|Não|sem_evidencia|Ausente justificadamente segundo a ata
+AP-465|22|extrato_ata|Gilmar Mendes|171|171|Nao|todos|Não votou|Não|sem_evidencia|Ausente justificadamente segundo a ata

@@ -1,0 +1,1787 @@
+{
+  "id_caso": "AP-465",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-171; lidas integralmente 1-15, 27-64 (mérito do voto da Relatora e Explicação), 101-102, 113-171; preliminares (16-26 e 103-112) e relatório do Revisor (65-101) não lidos linha a linha (R6: preliminares não são questão decisiva)",
+  "unidades": [
+    {
+      "id_unidade": "AP-465-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "Escopo Levcovitz já decidido no banco e fornecido nas instruções (Fernando Affonso Collor de Mello, imputação 1: art. 312, caput (peculato)).",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Cármen Lúcia",
+        "evidencia": "julgar improcedente a ação penal para absolver o réu com base no art. 386, inc. VII, do Código de Processo Penal, nos termos do voto da Relatora",
+        "fonte": "p. 2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "Dessa forma, quanto à autoria do Réu, inexistem nos autos provas e indícios do denunciado, o que impossibilita a condenação pedida.",
+            "fonte": "p. 50",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Eu optei pelo VII, porque não há provas, não de ele ter concorrido, não provas de que ele tenha participado de nada do fato. [...] Mas eu retirei a autoria e a materialidade.",
+            "fonte": "p. 164",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "quanto à autoria do Réu, inexistem nos autos provas e indícios do denunciado, o que impossibilita a condenação pedida.",
+            "fonte": "p. 50"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "No mérito, o Tribunal julgou improcedente a ação penal para absolver o réu com base no art. 386, inciso VII, do Código de Processo Penal, nos termos do voto da Relatora",
+            "fonte": "p. 171",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "Para a condenação requerida, teria sido imprescindível a certeza dos fatos e de sua autoria.",
+            "fonte": "p. 50",
+            "confianca": "baixa"
+          },
+          "posicoes": [
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "voto no sentido de julgar improcedente a pretensão punitiva estatal deduzida na denúncia, para absolver FERNANDO AFFONSO COLLOR DE MELLO da prática dos delitos previstos nos arts. 299, 312 e 317, todos do Código Penal, nos termos do art. 386, inc. VII, do Código de Processo Penal.",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Dessa forma, quanto à autoria do Réu, inexistem nos autos provas e indícios do denunciado, o que impossibilita a condenação pedida.",
+                "fonte": "p. 50",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Não se está a dizer que o Réu teria, ou não, sido o autor das práticas imputadas como crimes, mas, nos limites desta ação penal, conclui-se não existirem provas suficientes para a condenação, devendo ele ser absolvido. Para a condenação requerida, teria sido imprescindível a certeza dos fatos e de sua autoria.",
+                "fonte": "p. 50",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Insuficiência de prova: delação de corréu e depoimento de informante não servem como elemento decisivo; depoimentos policiais retratados ou não confirmados em juízo (pp. 46-50). Em aparte: 'Eu optei pelo VII, porque não há provas, não de ele ter concorrido, não provas de que ele tenha participado de nada do fato.' (p. 164).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "relativamente ao crime de peculato (art. 312 do Código Penal), julgo improcedente a denúncia e absolvo o réu Fernando Collor de Mello, por ausência de prova suficiente para a condenação, nos termos do art. 386, inc. VII, do Código de Processo Penal.",
+                "fonte": "p. 142",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por tudo o que foi lido e analisado até agora, diante das provas testemunhais, não é possível atribuir ao réu coautoria pelo crime de peculato, previsto no art. 312 do Código Penal, pois não restou evidenciado, nos autos, que tenha ele participado, de alguma forma, no desvio de dinheiro público em favor dos publicitários denunciados",
+                "fonte": "p. 142",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Portanto, é estreme de dúvidas que as testemunhas arroladas pela acusação não trazem elementos de convicção sobre a efetiva participação do acusado Fernando Collor de Mello no esquema narrado.",
+                "fonte": "p. 129",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Prova testemunhal em juízo insuficiente quanto à participação; versão policial de Éber Romão não confirmada em juízo e, mesmo que verdadeira, sem afirmação de participação do réu (p. 130).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Roberto Barroso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu ouvi com atenção o brilhante, meticuloso, cuidadoso, isento voto da Ministra Cármen Lúcia e não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "media",
+                "inferida_de": "Cármen Lúcia (Relatora)"
+              },
+              "posicao_detalhe": "Adesão sem fundamentação própria; posição inferida da Relatora.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por essa razão, eu acompanho integralmente o voto da Relatora.",
+                "fonte": "p. 163",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "E o próprio Ministério Público não conseguiu demonstrar o nexo biopsicológico normativo entre esse intermediário e o acusado.",
+                "fonte": "p. 163",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "esse agente que tem o domínio do fato tem de ter o conhecimento final daquilo que ele pretende alcançar. E o próprio Ministério Público não conseguiu demonstrar o nexo biopsicológico normativo entre esse intermediário e o acusado.",
+                "fonte": "p. 163",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Enquadra a fundamentação também como ausência de dolo: 'ela comprovou, em primeiro lugar, a completa ausência do elemento subjetivo do tipo; não há nenhuma prova do dolo' (p. 162). O argumento do domínio do fato mistura nexo de autoria e conhecimento.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "acompanho integralmente as conclusões tanto da Relatora quanto do eminente do Revisor no sentido da improcedência da Ação Penal, mas eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Então, a meu ver, realmente não se comprovou o envolvimento do réu nos fatos a ele imputados.",
+                "fonte": "p. 165",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Diverge apenas do inciso (V em vez de VII); vencido em parte, segundo a ata (p. 171). Sobre o peculato: 'em nenhuma momento, provou-se a posse, nem mesmo a disponibilidade jurídica do réu sobre os recursos próprios das empresas públicas' (p. 165) — competência/poder do agente sobre o bem (R7).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Teori Zavascki",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "De modo que, com essas observações, eu, quanto ao crime de peculato e desvio, eu acompanho a Ministra-Relatora e os demais votos.",
+                "fonte": "p. 151",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "A teoria do domínio do fato nunca dispensou a comprovação de que aquele que tem o domínio do fato, de alguma forma, tenha concorrido para um dos atos do plano global, vamos dizer assim, por ação ou por omissão.",
+                "fonte": "p. 151",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "há aqui um déficit probatório bem significativo, que não pode ser suprido simplesmente pela chamada teoria do domínio do fato. [...] Esse nexo de configuração da autoria do delito é indispensável.",
+                "fonte": "p. 150-151",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "E quanto ao peculato-desvio, peço vênia aos colegas com compreensões contrárias para acompanhar integralmente a avaliação da eminente Relatora e a valoração por ela emprestada - e pelo eminente Ministro Revisor também-, aos elementos de prova que vieram aos autos, insuficientes para amparar um decreto condenatório.",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "para acompanhar integralmente a avaliação da eminente Relatora e a valoração por ela emprestada - e pelo eminente Ministro Revisor também-, aos elementos de prova",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "acompanhar integralmente a avaliação da eminente Relatora [...] aos elementos de prova que vieram aos autos, insuficientes para amparar um decreto condenatório.",
+                "fonte": "p. 161",
+                "confianca": "media",
+                "inferida_de": "Cármen Lúcia (Relatora) e Dias Toffoli (Revisor)"
+              },
+              "posicao_detalhe": "Adesão à valoração da prova da Relatora e do Revisor; posição inferida.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "eu vou acompanhar a Relatora na exata capitulação feita por Sua Excelência, ou seja, por insuficiência de prova.",
+                "fonte": "p. 166",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "O que falta é a relação direta dele, do ex-Presidente, com aquela prova smoking gun, que o ligaria diretamente.",
+                "fonte": "p. 166",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O que realmente falta é isso que eu acabo de dizer: a prova definitiva da ordem, da determinação dele, de maneira que eu acho perfeitamente razoável a solução preconizada pela Relatora, a da insuficiência da prova.",
+                "fonte": "p. 166",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Considera haver 'mais do que indícios' do esquema e 'uma ligação indireta' do réu, mas falta prova da ordem/determinação dele (p. 166).",
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "revela-se incontornável o reconhecimento de inexistência de provas de autoria e materialidade.",
+            "fonte": "p. 45",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": {
+            "valor": "Há prova da materialidade do crime imputado (existência do fato criminoso)?",
+            "evidencia": "Os depoimentos e laudos acostados aos autos não apresentam elementos de convicção suficientes [...]. Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados.",
+            "fonte": "p. 1",
+            "confianca": "media"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Mas eu retirei a autoria e a materialidade.",
+            "fonte": "p. 164",
+            "confianca": "baixa"
+          },
+          "formulacao": {
+            "valor": "Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados",
+            "fonte": "p. 46"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Os depoimentos e laudos acostados aos autos não apresentam elementos de convicção suficientes para a formação de juízo de certeza sobre a responsabilização criminal do Réu pelos crimes de peculato, corrupção passiva e falsidade ideológica. Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados.",
+            "fonte": "p. 1",
+            "confianca": "media"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "voto no sentido de julgar improcedente a pretensão punitiva estatal deduzida na denúncia, para absolver FERNANDO AFFONSO COLLOR DE MELLO da prática dos delitos previstos nos arts. 299, 312 e 317, todos do Código Penal, nos termos do art. 386, inc. VII, do Código de Processo Penal.",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "revela-se incontornável o reconhecimento de inexistência de provas de autoria e materialidade.",
+                "fonte": "p. 45",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados, mormente se considerado o teor dos depoimentos de três corréus e da informante.",
+                "fonte": "p. 46",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Reitera em aparte: 'Mas eu retirei a autoria e a materialidade.' (p. 164).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "relativamente ao crime de peculato (art. 312 do Código Penal), julgo improcedente a denúncia e absolvo o réu Fernando Collor de Mello, por ausência de prova suficiente para a condenação, nos termos do art. 386, inc. VII, do Código de Processo Penal.",
+                "fonte": "p. 142",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "não é possível atribuir ao réu coautoria pelo crime de peculato, previsto no art. 312 do Código Penal, pois não restou evidenciado, nos autos, que tenha ele participado, de alguma forma, no desvio de dinheiro público",
+                "fonte": "p. 142",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Percebe-se, de fato, a existência de possíveis trocas de favores entre os demais acusados, que respondem aos respectivos processos no Juízo de primeiro grau, sem, contudo, haver qualquer indicação ou menção de que o acusado tenha-se beneficiado em razão do cargo de Presidente da República",
+                "fonte": "p. 129",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Fundamenta só na participação do réu; não nega a existência do esquema (fala em 'possíveis trocas de favores entre os demais acusados').",
+              "fundamento_proprio": "Ausência de prova de participação do réu (concorreu)."
+            },
+            {
+              "ministro": "Roberto Barroso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu ouvi com atenção o brilhante, meticuloso, cuidadoso, isento voto da Ministra Cármen Lúcia e não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "media",
+                "inferida_de": "Cármen Lúcia (Relatora)"
+              },
+              "posicao_detalhe": "Adesão sem fundamentação própria; posição inferida da Relatora.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por essa razão, eu acompanho integralmente o voto da Relatora.",
+                "fonte": "p. 163",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por outro lado, a prova da materialidade, data maxima venia, não pode se assentar em depoimentos de corréus, que não foram obtidos mediante contraditório, em depoimentos apenas prestados perante a autoridade policial e, finalmente, em reportagem de revista.",
+                "fonte": "p. 163",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "De sorte que, realmente, o processo é carente de provas",
+                "fonte": "p. 163",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "acompanho integralmente as conclusões tanto da Relatora quanto do eminente do Revisor no sentido da improcedência da Ação Penal, mas eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "a do artigo 5º refere-se diretamente ao réu. E, nesse meu modo de ver, é mais favorável a ele.",
+                "fonte": "p. 165",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Escolhe o inciso V (não concorrer) em vez do VII; não se pronuncia sobre a materialidade.",
+              "fundamento_proprio": "Ausência de prova de ter o réu concorrido (art. 386, V, CPP)."
+            },
+            {
+              "ministro": "Teori Zavascki",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "De modo que, com essas observações, eu, quanto ao crime de peculato e desvio, eu acompanho a Ministra-Relatora e os demais votos.",
+                "fonte": "p. 151",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Realmente, parece-me que há uma, como demostrou a Ministra Relatora, há aqui um déficit probatório bem significativo",
+                "fonte": "p. 150-151",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "quanto ao crime de peculato e desvio, eu acompanho a Ministra-Relatora e os demais votos.",
+                "fonte": "p. 151",
+                "confianca": "baixa",
+                "inferida_de": "Cármen Lúcia (Relatora)"
+              },
+              "posicao_detalhe": "Fundamenta com texto próprio apenas o nexo de autoria; quanto à materialidade, remete à demonstração da Relatora.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "E quanto ao peculato-desvio, peço vênia aos colegas com compreensões contrárias para acompanhar integralmente a avaliação da eminente Relatora e a valoração por ela emprestada - e pelo eminente Ministro Revisor também-, aos elementos de prova que vieram aos autos, insuficientes para amparar um decreto condenatório.",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "para acompanhar integralmente a avaliação da eminente Relatora e a valoração por ela emprestada - e pelo eminente Ministro Revisor também-, aos elementos de prova",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "aos elementos de prova que vieram aos autos, insuficientes para amparar um decreto condenatório.",
+                "fonte": "p. 161",
+                "confianca": "baixa",
+                "inferida_de": "Cármen Lúcia (Relatora)"
+              },
+              "posicao_detalhe": "Adesão; posição inferida da Relatora (o Revisor, a quem também adere, não se apoia na materialidade).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "eu vou acompanhar a Relatora na exata capitulação feita por Sua Excelência, ou seja, por insuficiência de prova.",
+                "fonte": "p. 166",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Então, há, pelo menos, mais do que indícios, não é? O que falta? O que falta é a relação direta dele, do ex-Presidente",
+                "fonte": "p. 166",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Então, há, pelo menos, mais do que indícios, não é?",
+                "fonte": "p. 166",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Não nega a materialidade; descreve o esquema (contas fantasmas, pagamentos à mãe da criança) como 'mais do que indícios' e decide pela falta de prova da ordem do réu.",
+              "fundamento_proprio": "Falta de prova da ordem/determinação do réu (concorreu)."
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus n. 81.172, Rel. Min. Sepúlveda Pertence",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "No Habeas Corpus n. 81.172, o Relator, Ministro Sepúlveda Pertence, recordou as seguintes páginas de Manzini, que evidenciam não poder a delação do corréu, independentemente de sua submissão ao contraditório, ser considerada como testemunho",
+          "fonte": "p. 46"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus n. 90.708, Rel. Ministro Sepúlveda Pertence (com remissão a HHCC 74.368, 81.172 e RHC 81.740)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Conforme a jurisprudência do STF, a chamada de co-réus, retratada ou não em juízo, não pode servir como fundamento exclusivo da condenação",
+          "fonte": "p. 47-48"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus ns. 75.226 e 71.813, Rel. Min. Marco Aurélio; Recurso Extraordinário n. 213.937, Rel. Min. Ilmar Galvão; Habeas Corpus n. 81.618, Rel. Min. Ellen Gracie",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Segundo a nossa consolidada jurisprudência, admite-se a invocação da delação, desde que ela não constitua o fundamento exclusivo da condenação",
+          "fonte": "p. 48-49"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Recursos Criminais ns. 1.283, 1.334, 1.363, 1.462, 1.384; RE 91.838; HC 73.898",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "O mesmo pode-se dizer quanto à confissão feita na fase policial, retratada ou não em juízo",
+          "fonte": "p. 49"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Terceira Questão de Ordem na Ação Penal n. 470 (Rel. Min. Joaquim Barbosa); Habeas Corpus n. 89.671 (Rel. Min. Eros Grau)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "realçou a lição de Guilherme Nucci, de que o informante “é uma ‘testemunha imprópria’, que não presta compromisso”",
+          "fonte": "p. 50"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Penal n. 307, Relator o Ministro Ilmar Galvão (voto do Min. Celso de Mello)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Naquele julgamento, o Ministro Celso de Mello bem destacou que “[s]omente a prova penal produzida em juízo, sob a égide da garantia constitucional do contraditório, pode revestir-se de eficácia jurídica bastante para legitimar a prolação de um decreto condenatório”.",
+          "fonte": "p. 55"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Questão de Ordem no Inquérito n. 1030 (Rel. Min. Néri da Silveira) e Inquérito n. 1207 (Rel. Min. Moreira Alves)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "merecendo destaque a Ação Penal n. 307 e os Inquéritos ns. 1.030 e 1.207, por tratarem de crimes contra a administração pública.",
+          "fonte": "p. 52"
+        }
+      ],
+      "obs": "Ausentes justificadamente Celso de Mello, Marco Aurélio e Gilmar Mendes (p. 171); não votaram. Peculato não prescrito: os 8 votantes absolvem no mérito; Lewandowski vencido em parte apenas quanto ao inciso (V em vez de VII). Voto_resultado lido coincide com o banco (Absolve para os 8)."
+    },
+    {
+      "id_unidade": "AP-465-R01-I02",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "Escopo Levcovitz já decidido no banco e fornecido nas instruções (Fernando Affonso Collor de Mello, imputação 2: art. 317 (corrupção passiva)).",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Cármen Lúcia",
+        "evidencia": "julgar improcedente a ação penal para absolver o réu com base no art. 386, inc. VII, do Código de Processo Penal, nos termos do voto da Relatora",
+        "fonte": "p. 2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "Dessa forma, quanto à autoria do Réu, inexistem nos autos provas e indícios do denunciado, o que impossibilita a condenação pedida.",
+            "fonte": "p. 50",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Eu optei pelo VII, porque não há provas, não de ele ter concorrido, não provas de que ele tenha participado de nada do fato. [...] Mas eu retirei a autoria e a materialidade.",
+            "fonte": "p. 164",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "quanto à autoria do Réu, inexistem nos autos provas e indícios do denunciado, o que impossibilita a condenação pedida.",
+            "fonte": "p. 50"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "No mérito, o Tribunal julgou improcedente a ação penal para absolver o réu com base no art. 386, inciso VII, do Código de Processo Penal, nos termos do voto da Relatora",
+            "fonte": "p. 171",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "Para a condenação requerida, teria sido imprescindível a certeza dos fatos e de sua autoria.",
+            "fonte": "p. 50",
+            "confianca": "baixa"
+          },
+          "posicoes": [
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "voto no sentido de julgar improcedente a pretensão punitiva estatal deduzida na denúncia, para absolver FERNANDO AFFONSO COLLOR DE MELLO da prática dos delitos previstos nos arts. 299, 312 e 317, todos do Código Penal, nos termos do art. 386, inc. VII, do Código de Processo Penal.",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Dessa forma, quanto à autoria do Réu, inexistem nos autos provas e indícios do denunciado, o que impossibilita a condenação pedida.",
+                "fonte": "p. 50",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Não se está a dizer que o Réu teria, ou não, sido o autor das práticas imputadas como crimes, mas, nos limites desta ação penal, conclui-se não existirem provas suficientes para a condenação, devendo ele ser absolvido. Para a condenação requerida, teria sido imprescindível a certeza dos fatos e de sua autoria.",
+                "fonte": "p. 50",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Insuficiência de prova: delação de corréu e depoimento de informante não servem como elemento decisivo; depoimentos policiais retratados ou não confirmados em juízo (pp. 46-50). Em aparte: 'Eu optei pelo VII, porque não há provas, não de ele ter concorrido, não provas de que ele tenha participado de nada do fato.' (p. 164). Sobre a pensão (art. 317): a informante 'não sabe se [os valores] são mandados pelo ex-presidente FERNANDO COLLOR ou por uma outra pessoa' (p. 38).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito. O extrato de ata (p. 171) e o acórdão (p. 2) não o incluem entre os vencidos que reconheciam a prescrição; o voto escrito, porém, julga extinta a punibilidade quanto aos arts. 299 e 317, e o Min. Lewandowski se diz 'impressionado com os argumentos do eminente Ministro Dias Toffoli' no sentido de decretar a extinção da punibilidade (p. 164).",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Roberto Barroso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu ouvi com atenção o brilhante, meticuloso, cuidadoso, isento voto da Ministra Cármen Lúcia e não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "media",
+                "inferida_de": "Cármen Lúcia (Relatora)"
+              },
+              "posicao_detalhe": "Adesão sem fundamentação própria; posição inferida da Relatora.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por essa razão, eu acompanho integralmente o voto da Relatora.",
+                "fonte": "p. 163",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "E o próprio Ministério Público não conseguiu demonstrar o nexo biopsicológico normativo entre esse intermediário e o acusado.",
+                "fonte": "p. 163",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "esse agente que tem o domínio do fato tem de ter o conhecimento final daquilo que ele pretende alcançar. E o próprio Ministério Público não conseguiu demonstrar o nexo biopsicológico normativo entre esse intermediário e o acusado.",
+                "fonte": "p. 163",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Enquadra a fundamentação também como ausência de dolo: 'ela comprovou, em primeiro lugar, a completa ausência do elemento subjetivo do tipo; não há nenhuma prova do dolo' (p. 162). O argumento do domínio do fato mistura nexo de autoria e conhecimento.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "acompanho integralmente as conclusões tanto da Relatora quanto do eminente do Revisor no sentido da improcedência da Ação Penal, mas eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Então, a meu ver, realmente não se comprovou o envolvimento do réu nos fatos a ele imputados.",
+                "fonte": "p. 165",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Diverge apenas do inciso (V em vez de VII); vencido em parte, segundo a ata (p. 171).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Teori Zavascki",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "revela-se incontornável o reconhecimento de inexistência de provas de autoria e materialidade.",
+            "fonte": "p. 45",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": {
+            "valor": "Há prova da materialidade do crime imputado (existência do fato criminoso)?",
+            "evidencia": "Os depoimentos e laudos acostados aos autos não apresentam elementos de convicção suficientes [...]. Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados.",
+            "fonte": "p. 1",
+            "confianca": "media"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Mas eu retirei a autoria e a materialidade.",
+            "fonte": "p. 164",
+            "confianca": "baixa"
+          },
+          "formulacao": {
+            "valor": "Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados",
+            "fonte": "p. 46"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Os depoimentos e laudos acostados aos autos não apresentam elementos de convicção suficientes para a formação de juízo de certeza sobre a responsabilização criminal do Réu pelos crimes de peculato, corrupção passiva e falsidade ideológica. Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados.",
+            "fonte": "p. 1",
+            "confianca": "media"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "voto no sentido de julgar improcedente a pretensão punitiva estatal deduzida na denúncia, para absolver FERNANDO AFFONSO COLLOR DE MELLO da prática dos delitos previstos nos arts. 299, 312 e 317, todos do Código Penal, nos termos do art. 386, inc. VII, do Código de Processo Penal.",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "revela-se incontornável o reconhecimento de inexistência de provas de autoria e materialidade.",
+                "fonte": "p. 45",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados, mormente se considerado o teor dos depoimentos de três corréus e da informante.",
+                "fonte": "p. 46",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Reitera em aparte: 'Mas eu retirei a autoria e a materialidade.' (p. 164).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito. O extrato de ata (p. 171) e o acórdão (p. 2) não o incluem entre os vencidos que reconheciam a prescrição; o voto escrito, porém, julga extinta a punibilidade quanto aos arts. 299 e 317, e o Min. Lewandowski se diz 'impressionado com os argumentos do eminente Ministro Dias Toffoli' no sentido de decretar a extinção da punibilidade (p. 164).",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Roberto Barroso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu ouvi com atenção o brilhante, meticuloso, cuidadoso, isento voto da Ministra Cármen Lúcia e não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "media",
+                "inferida_de": "Cármen Lúcia (Relatora)"
+              },
+              "posicao_detalhe": "Adesão sem fundamentação própria; posição inferida da Relatora.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por essa razão, eu acompanho integralmente o voto da Relatora.",
+                "fonte": "p. 163",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por outro lado, a prova da materialidade, data maxima venia, não pode se assentar em depoimentos de corréus, que não foram obtidos mediante contraditório, em depoimentos apenas prestados perante a autoridade policial e, finalmente, em reportagem de revista.",
+                "fonte": "p. 163",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "De sorte que, realmente, o processo é carente de provas",
+                "fonte": "p. 163",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "acompanho integralmente as conclusões tanto da Relatora quanto do eminente do Revisor no sentido da improcedência da Ação Penal, mas eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "a do artigo 5º refere-se diretamente ao réu. E, nesse meu modo de ver, é mais favorável a ele.",
+                "fonte": "p. 165",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Escolhe o inciso V (não concorrer) em vez do VII; não se pronuncia sobre a materialidade.",
+              "fundamento_proprio": "Ausência de prova de ter o réu concorrido (art. 386, V, CPP)."
+            },
+            {
+              "ministro": "Teori Zavascki",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus n. 81.172, Rel. Min. Sepúlveda Pertence",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "No Habeas Corpus n. 81.172, o Relator, Ministro Sepúlveda Pertence, recordou as seguintes páginas de Manzini, que evidenciam não poder a delação do corréu, independentemente de sua submissão ao contraditório, ser considerada como testemunho",
+          "fonte": "p. 46"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus n. 90.708, Rel. Ministro Sepúlveda Pertence (com remissão a HHCC 74.368, 81.172 e RHC 81.740)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Conforme a jurisprudência do STF, a chamada de co-réus, retratada ou não em juízo, não pode servir como fundamento exclusivo da condenação",
+          "fonte": "p. 47-48"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus ns. 75.226 e 71.813, Rel. Min. Marco Aurélio; Recurso Extraordinário n. 213.937, Rel. Min. Ilmar Galvão; Habeas Corpus n. 81.618, Rel. Min. Ellen Gracie",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Segundo a nossa consolidada jurisprudência, admite-se a invocação da delação, desde que ela não constitua o fundamento exclusivo da condenação",
+          "fonte": "p. 48-49"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Recursos Criminais ns. 1.283, 1.334, 1.363, 1.462, 1.384; RE 91.838; HC 73.898",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "O mesmo pode-se dizer quanto à confissão feita na fase policial, retratada ou não em juízo",
+          "fonte": "p. 49"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Terceira Questão de Ordem na Ação Penal n. 470 (Rel. Min. Joaquim Barbosa); Habeas Corpus n. 89.671 (Rel. Min. Eros Grau)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "realçou a lição de Guilherme Nucci, de que o informante “é uma ‘testemunha imprópria’, que não presta compromisso”",
+          "fonte": "p. 50"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Penal n. 307, Relator o Ministro Ilmar Galvão (voto do Min. Celso de Mello)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Naquele julgamento, o Ministro Celso de Mello bem destacou que “[s]omente a prova penal produzida em juízo, sob a égide da garantia constitucional do contraditório, pode revestir-se de eficácia jurídica bastante para legitimar a prolação de um decreto condenatório”.",
+          "fonte": "p. 55"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Questão de Ordem no Inquérito n. 1030 (Rel. Min. Néri da Silveira) e Inquérito n. 1207 (Rel. Min. Moreira Alves)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "merecendo destaque a Ação Penal n. 307 e os Inquéritos ns. 1.030 e 1.207, por tratarem de crimes contra a administração pública.",
+          "fonte": "p. 52"
+        },
+        {
+          "ministro": "Teori Zavascki",
+          "tipo": "precedente_citado",
+          "referencia": "Décimos Embargos Infringentes na Ação Penal nº 470 (voto do próprio ministro)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "Quando votei nos Décimos Embargos Infringentes na Ação Penal nº 470, tive a oportunidade de referir que o Tribunal, com precedentes que vão desde 1896, consagrou a tese de que, verificada a prescrição em abstrato, fica prejudicada a análise do mérito.",
+          "fonte": "p. 144"
+        },
+        {
+          "ministro": "Teori Zavascki",
+          "tipo": "precedente_citado",
+          "referencia": "HC 63.765-5 (Min. Francisco Rezek); Recurso Criminal 1.453 (Min. Célio Borja); STF Acórdão de 22.7.1896; HC 28.638; HC 65211-5 (Min. Sydney Sanches)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "“verificada a prescrição da pretensão punitiva, as demais questões desenvolvidas no recurso da defesa quedam prejudicadas” (HC 63.765-5, 2ª Turma, Min. Francisco Rezek, DJ de 18.04.86, RTJ 118/934).",
+          "fonte": "p. 144-145"
+        },
+        {
+          "ministro": "Teori Zavascki",
+          "tipo": "precedente_citado",
+          "referencia": "HC 115.098, 1ª Turma, Min. Luiz Fux, publicado em 03.06.13",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "caso reconhecida em qualquer fase do processo, torna prejudicada a questão de fundo.",
+          "fonte": "p. 148"
+        },
+        {
+          "ministro": "Teori Zavascki",
+          "tipo": "distincao",
+          "referencia": "caso recente do Plenário, de relatoria do próprio ministro, em que se enfrentou o mérito apesar de possível prescrição",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Sim",
+          "evidencia": "É certo que, num caso recente, o Plenário acabou enfrentando o mérito em questão assemelhada. Eu era o Relator [...]. De modo que esse é o precedente que eu conheço em sentido diferente, o qual, todavia, está justificado pela peculiaridade.",
+          "fonte": "p. 149"
+        },
+        {
+          "ministro": "Teori Zavascki",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei nº 10.763, de 2003 (aumento da pena do art. 317)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "Embora hoje, a partir da Lei nº 10.763, de 2003, a pena seja de dois a doze anos para esse delito, à época dos fatos, a Lei previa a pena máxima de oito anos.",
+          "fonte": "p. 144"
+        },
+        {
+          "ministro": "Roberto Barroso",
+          "tipo": "precedente_citado",
+          "referencia": "dois casos recentes do Plenário (um de relatoria do próprio ministro) em que se decretou a absolvição apesar de prescrição reconhecida",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "em um segundo caso, do qual eu era Relator por indicação do Ministro Celso de Mello, nós decretamos a absolvição numa hipótese em que eu havia reconhecido a prescrição [...] De modo que eu, neste momento, continuarei fiel ao que considerei ser a nova orientação do Pleno",
+          "fonte": "p. 149"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "superacao",
+          "referencia": "aresto anterior do próprio ministro (sem identificação) sobre prescrição prejudicar o mérito",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Sim",
+          "evidencia": "só não muda de opinião quem já morreu, se tem um aresto meu, sob esse ângulo, eu quero dizer que eu o repugno, como um filho não benquisto",
+          "fonte": "p. 162"
+        },
+        {
+          "ministro": "Rosa Weber",
+          "tipo": "precedente_citado",
+          "referencia": "centenária jurisprudência da Corte sobre prescrição in abstracto como prejudicial de mérito",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "para acompanhar a centenária jurisprudência da Corte, e aqui, no caso, especificamente, o voto do eminente Ministro Teori.",
+          "fonte": "p. 160"
+        },
+        {
+          "ministro": "Joaquim Barbosa",
+          "tipo": "precedente_citado",
+          "referencia": "jurisprudência tradicional da Casa sobre prescrição impedir o exame do mérito",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa",
+          "fonte": "p. 166-167"
+        }
+      ],
+      "obs": "Ausentes justificadamente Celso de Mello, Marco Aurélio e Gilmar Mendes (p. 171); não votaram. DIVERGÊNCIA COM O BANCO: o banco registra 'Absolve' para os 8 votantes, mas Teori Zavascki (p. 149, 159), Rosa Weber (p. 161) e Joaquim Barbosa (p. 166-167) declararam extinta a punibilidade por prescrição in abstracto quanto ao art. 317, sem julgar o mérito — o acórdão (p. 2) e a ata (p. 171) os registram como 'vencidos, em parte'. O voto escrito de Dias Toffoli (p. 113) também julga extinta a punibilidade quanto ao art. 317, mas a ata não o lista entre os vencidos. Para esses ministros, voto_resultado ficou null (nem Condena nem Absolve). Resultado do Tribunal: absolvição (art. 386, VII) por maioria."
+    },
+    {
+      "id_unidade": "AP-465-R01-I03",
+      "escopo_levcovitz": {
+        "valor": "Nao",
+        "evidencia": "Escopo Levcovitz já decidido no banco e fornecido nas instruções (Fernando Affonso Collor de Mello, imputação 3: art. 299 (falsidade ideológica)).",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Cármen Lúcia",
+        "evidencia": "julgar improcedente a ação penal para absolver o réu com base no art. 386, inc. VII, do Código de Processo Penal, nos termos do voto da Relatora",
+        "fonte": "p. 2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "Dessa forma, quanto à autoria do Réu, inexistem nos autos provas e indícios do denunciado, o que impossibilita a condenação pedida.",
+            "fonte": "p. 50",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Eu optei pelo VII, porque não há provas, não de ele ter concorrido, não provas de que ele tenha participado de nada do fato. [...] Mas eu retirei a autoria e a materialidade.",
+            "fonte": "p. 164",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "quanto à autoria do Réu, inexistem nos autos provas e indícios do denunciado, o que impossibilita a condenação pedida.",
+            "fonte": "p. 50"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "No mérito, o Tribunal julgou improcedente a ação penal para absolver o réu com base no art. 386, inciso VII, do Código de Processo Penal, nos termos do voto da Relatora",
+            "fonte": "p. 171",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "Para a condenação requerida, teria sido imprescindível a certeza dos fatos e de sua autoria.",
+            "fonte": "p. 50",
+            "confianca": "baixa"
+          },
+          "posicoes": [
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "voto no sentido de julgar improcedente a pretensão punitiva estatal deduzida na denúncia, para absolver FERNANDO AFFONSO COLLOR DE MELLO da prática dos delitos previstos nos arts. 299, 312 e 317, todos do Código Penal, nos termos do art. 386, inc. VII, do Código de Processo Penal.",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Dessa forma, quanto à autoria do Réu, inexistem nos autos provas e indícios do denunciado, o que impossibilita a condenação pedida.",
+                "fonte": "p. 50",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Não se está a dizer que o Réu teria, ou não, sido o autor das práticas imputadas como crimes, mas, nos limites desta ação penal, conclui-se não existirem provas suficientes para a condenação, devendo ele ser absolvido. Para a condenação requerida, teria sido imprescindível a certeza dos fatos e de sua autoria.",
+                "fonte": "p. 50",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Insuficiência de prova: delação de corréu e depoimento de informante não servem como elemento decisivo; depoimentos policiais retratados ou não confirmados em juízo (pp. 46-50). Em aparte: 'Eu optei pelo VII, porque não há provas, não de ele ter concorrido, não provas de que ele tenha participado de nada do fato.' (p. 164).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito. O extrato de ata (p. 171) e o acórdão (p. 2) não o incluem entre os vencidos que reconheciam a prescrição; o voto escrito, porém, julga extinta a punibilidade quanto aos arts. 299 e 317, e o Min. Lewandowski se diz 'impressionado com os argumentos do eminente Ministro Dias Toffoli' no sentido de decretar a extinção da punibilidade (p. 164).",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Roberto Barroso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu ouvi com atenção o brilhante, meticuloso, cuidadoso, isento voto da Ministra Cármen Lúcia e não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "media",
+                "inferida_de": "Cármen Lúcia (Relatora)"
+              },
+              "posicao_detalhe": "Adesão sem fundamentação própria; posição inferida da Relatora.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por essa razão, eu acompanho integralmente o voto da Relatora.",
+                "fonte": "p. 163",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "E o próprio Ministério Público não conseguiu demonstrar o nexo biopsicológico normativo entre esse intermediário e o acusado.",
+                "fonte": "p. 163",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "esse agente que tem o domínio do fato tem de ter o conhecimento final daquilo que ele pretende alcançar. E o próprio Ministério Público não conseguiu demonstrar o nexo biopsicológico normativo entre esse intermediário e o acusado.",
+                "fonte": "p. 163",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Enquadra a fundamentação também como ausência de dolo: 'ela comprovou, em primeiro lugar, a completa ausência do elemento subjetivo do tipo; não há nenhuma prova do dolo' (p. 162). O argumento do domínio do fato mistura nexo de autoria e conhecimento.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "acompanho integralmente as conclusões tanto da Relatora quanto do eminente do Revisor no sentido da improcedência da Ação Penal, mas eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Então, a meu ver, realmente não se comprovou o envolvimento do réu nos fatos a ele imputados.",
+                "fonte": "p. 165",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Diverge apenas do inciso (V em vez de VII); vencido em parte, segundo a ata (p. 171).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Teori Zavascki",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "revela-se incontornável o reconhecimento de inexistência de provas de autoria e materialidade.",
+            "fonte": "p. 45",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": {
+            "valor": "Há prova da materialidade do crime imputado (existência do fato criminoso)?",
+            "evidencia": "Os depoimentos e laudos acostados aos autos não apresentam elementos de convicção suficientes [...]. Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados.",
+            "fonte": "p. 1",
+            "confianca": "media"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Mas eu retirei a autoria e a materialidade.",
+            "fonte": "p. 164",
+            "confianca": "baixa"
+          },
+          "formulacao": {
+            "valor": "Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados",
+            "fonte": "p. 46"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Os depoimentos e laudos acostados aos autos não apresentam elementos de convicção suficientes para a formação de juízo de certeza sobre a responsabilização criminal do Réu pelos crimes de peculato, corrupção passiva e falsidade ideológica. Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados.",
+            "fonte": "p. 1",
+            "confianca": "media"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "voto no sentido de julgar improcedente a pretensão punitiva estatal deduzida na denúncia, para absolver FERNANDO AFFONSO COLLOR DE MELLO da prática dos delitos previstos nos arts. 299, 312 e 317, todos do Código Penal, nos termos do art. 386, inc. VII, do Código de Processo Penal.",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "revela-se incontornável o reconhecimento de inexistência de provas de autoria e materialidade.",
+                "fonte": "p. 45",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados, mormente se considerado o teor dos depoimentos de três corréus e da informante.",
+                "fonte": "p. 46",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Reitera em aparte: 'Mas eu retirei a autoria e a materialidade.' (p. 164).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Diante desse quadro, quanto aos delitos de falsidade ideológica e corrupção passiva, julgo extinta a punibilidade do acusado, na forma do art. 107, inciso IV, do Código Penal.",
+                "fonte": "p. 113",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito. O extrato de ata (p. 171) e o acórdão (p. 2) não o incluem entre os vencidos que reconheciam a prescrição; o voto escrito, porém, julga extinta a punibilidade quanto aos arts. 299 e 317, e o Min. Lewandowski se diz 'impressionado com os argumentos do eminente Ministro Dias Toffoli' no sentido de decretar a extinção da punibilidade (p. 164).",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Roberto Barroso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu ouvi com atenção o brilhante, meticuloso, cuidadoso, isento voto da Ministra Cármen Lúcia e não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.",
+                "fonte": "p. 143",
+                "confianca": "media",
+                "inferida_de": "Cármen Lúcia (Relatora)"
+              },
+              "posicao_detalhe": "Adesão sem fundamentação própria; posição inferida da Relatora.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por essa razão, eu acompanho integralmente o voto da Relatora.",
+                "fonte": "p. 163",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por outro lado, a prova da materialidade, data maxima venia, não pode se assentar em depoimentos de corréus, que não foram obtidos mediante contraditório, em depoimentos apenas prestados perante a autoridade policial e, finalmente, em reportagem de revista.",
+                "fonte": "p. 163",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "De sorte que, realmente, o processo é carente de provas",
+                "fonte": "p. 163",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "acompanho integralmente as conclusões tanto da Relatora quanto do eminente do Revisor no sentido da improcedência da Ação Penal, mas eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.",
+                "fonte": "p. 164",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "a do artigo 5º refere-se diretamente ao réu. E, nesse meu modo de ver, é mais favorável a ele.",
+                "fonte": "p. 165",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Escolhe o inciso V (não concorrer) em vez do VII; não se pronuncia sobre a materialidade.",
+              "fundamento_proprio": "Ausência de prova de ter o réu concorrido (art. 386, V, CPP)."
+            },
+            {
+              "ministro": "Teori Zavascki",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Assim, em relação aos delitos do art. 299 e do art. 317, pediria licença para, discordando da Relatora, declarar extinta a pretensão punitiva do Estado em virtude da prescrição in abstracto.",
+                "fonte": "p. 149",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Mas, por não haver prova suficiente para a condenação, entendo até, com todo o respeito, mais favorável ao réu que se diga extinta a pretensão punitiva estatal, prescrita a ação ou a pretensão punitiva com relação a esses dois primeiros delitos.",
+                "fonte": "p. 161",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": null,
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Com relação à preliminar, eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa, porque, se havia um impedimento ao exame do mérito pela ocorrência da prescrição, datada já de quase dois anos, não vejo como o Tribunal possa oscilar e escolher julgar o mérito.",
+                "fonte": "p. 166-167",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Votou pela extinção da punibilidade por prescrição da pretensão punitiva in abstracto; não examinou o mérito deste delito.",
+              "fundamento_proprio": "Prescrição da pretensão punitiva pela pena em abstrato (mérito prejudicado)."
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus n. 81.172, Rel. Min. Sepúlveda Pertence",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "No Habeas Corpus n. 81.172, o Relator, Ministro Sepúlveda Pertence, recordou as seguintes páginas de Manzini, que evidenciam não poder a delação do corréu, independentemente de sua submissão ao contraditório, ser considerada como testemunho",
+          "fonte": "p. 46"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus n. 90.708, Rel. Ministro Sepúlveda Pertence (com remissão a HHCC 74.368, 81.172 e RHC 81.740)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Conforme a jurisprudência do STF, a chamada de co-réus, retratada ou não em juízo, não pode servir como fundamento exclusivo da condenação",
+          "fonte": "p. 47-48"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus ns. 75.226 e 71.813, Rel. Min. Marco Aurélio; Recurso Extraordinário n. 213.937, Rel. Min. Ilmar Galvão; Habeas Corpus n. 81.618, Rel. Min. Ellen Gracie",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Segundo a nossa consolidada jurisprudência, admite-se a invocação da delação, desde que ela não constitua o fundamento exclusivo da condenação",
+          "fonte": "p. 48-49"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Recursos Criminais ns. 1.283, 1.334, 1.363, 1.462, 1.384; RE 91.838; HC 73.898",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "O mesmo pode-se dizer quanto à confissão feita na fase policial, retratada ou não em juízo",
+          "fonte": "p. 49"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Terceira Questão de Ordem na Ação Penal n. 470 (Rel. Min. Joaquim Barbosa); Habeas Corpus n. 89.671 (Rel. Min. Eros Grau)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "realçou a lição de Guilherme Nucci, de que o informante “é uma ‘testemunha imprópria’, que não presta compromisso”",
+          "fonte": "p. 50"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Penal n. 307, Relator o Ministro Ilmar Galvão (voto do Min. Celso de Mello)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Naquele julgamento, o Ministro Celso de Mello bem destacou que “[s]omente a prova penal produzida em juízo, sob a égide da garantia constitucional do contraditório, pode revestir-se de eficácia jurídica bastante para legitimar a prolação de um decreto condenatório”.",
+          "fonte": "p. 55"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Questão de Ordem no Inquérito n. 1030 (Rel. Min. Néri da Silveira) e Inquérito n. 1207 (Rel. Min. Moreira Alves)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "merecendo destaque a Ação Penal n. 307 e os Inquéritos ns. 1.030 e 1.207, por tratarem de crimes contra a administração pública.",
+          "fonte": "p. 52"
+        },
+        {
+          "ministro": "Teori Zavascki",
+          "tipo": "precedente_citado",
+          "referencia": "Décimos Embargos Infringentes na Ação Penal nº 470 (voto do próprio ministro)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "Quando votei nos Décimos Embargos Infringentes na Ação Penal nº 470, tive a oportunidade de referir que o Tribunal, com precedentes que vão desde 1896, consagrou a tese de que, verificada a prescrição em abstrato, fica prejudicada a análise do mérito.",
+          "fonte": "p. 144"
+        },
+        {
+          "ministro": "Teori Zavascki",
+          "tipo": "precedente_citado",
+          "referencia": "HC 63.765-5 (Min. Francisco Rezek); Recurso Criminal 1.453 (Min. Célio Borja); STF Acórdão de 22.7.1896; HC 28.638; HC 65211-5 (Min. Sydney Sanches)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "“verificada a prescrição da pretensão punitiva, as demais questões desenvolvidas no recurso da defesa quedam prejudicadas” (HC 63.765-5, 2ª Turma, Min. Francisco Rezek, DJ de 18.04.86, RTJ 118/934).",
+          "fonte": "p. 144-145"
+        },
+        {
+          "ministro": "Teori Zavascki",
+          "tipo": "precedente_citado",
+          "referencia": "HC 115.098, 1ª Turma, Min. Luiz Fux, publicado em 03.06.13",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "caso reconhecida em qualquer fase do processo, torna prejudicada a questão de fundo.",
+          "fonte": "p. 148"
+        },
+        {
+          "ministro": "Teori Zavascki",
+          "tipo": "distincao",
+          "referencia": "caso recente do Plenário, de relatoria do próprio ministro, em que se enfrentou o mérito apesar de possível prescrição",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Sim",
+          "evidencia": "É certo que, num caso recente, o Plenário acabou enfrentando o mérito em questão assemelhada. Eu era o Relator [...]. De modo que esse é o precedente que eu conheço em sentido diferente, o qual, todavia, está justificado pela peculiaridade.",
+          "fonte": "p. 149"
+        },
+        {
+          "ministro": "Teori Zavascki",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei nº 10.763, de 2003 (aumento da pena do art. 317)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "Embora hoje, a partir da Lei nº 10.763, de 2003, a pena seja de dois a doze anos para esse delito, à época dos fatos, a Lei previa a pena máxima de oito anos.",
+          "fonte": "p. 144"
+        },
+        {
+          "ministro": "Roberto Barroso",
+          "tipo": "precedente_citado",
+          "referencia": "dois casos recentes do Plenário (um de relatoria do próprio ministro) em que se decretou a absolvição apesar de prescrição reconhecida",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "em um segundo caso, do qual eu era Relator por indicação do Ministro Celso de Mello, nós decretamos a absolvição numa hipótese em que eu havia reconhecido a prescrição [...] De modo que eu, neste momento, continuarei fiel ao que considerei ser a nova orientação do Pleno",
+          "fonte": "p. 149"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "superacao",
+          "referencia": "aresto anterior do próprio ministro (sem identificação) sobre prescrição prejudicar o mérito",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Sim",
+          "evidencia": "só não muda de opinião quem já morreu, se tem um aresto meu, sob esse ângulo, eu quero dizer que eu o repugno, como um filho não benquisto",
+          "fonte": "p. 162"
+        },
+        {
+          "ministro": "Rosa Weber",
+          "tipo": "precedente_citado",
+          "referencia": "centenária jurisprudência da Corte sobre prescrição in abstracto como prejudicial de mérito",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "para acompanhar a centenária jurisprudência da Corte, e aqui, no caso, especificamente, o voto do eminente Ministro Teori.",
+          "fonte": "p. 160"
+        },
+        {
+          "ministro": "Joaquim Barbosa",
+          "tipo": "precedente_citado",
+          "referencia": "jurisprudência tradicional da Casa sobre prescrição impedir o exame do mérito",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "eu acompanho o Ministro Teori, pelo respeito à jurisprudência tradicional da Casa",
+          "fonte": "p. 166-167"
+        }
+      ],
+      "obs": "Ausentes justificadamente Celso de Mello, Marco Aurélio e Gilmar Mendes (p. 171); não votaram. Escopo Levcovitz = Nao (falsidade ideológica), mantido do banco. DIVERGÊNCIA COM O BANCO: o banco registra 'Absolve' para os 8 votantes, mas Teori Zavascki (p. 149, 159), Rosa Weber (p. 161) e Joaquim Barbosa (p. 166-167) declararam extinta a punibilidade por prescrição in abstracto quanto ao art. 299, sem julgar o mérito — 'vencidos, em parte' no acórdão (p. 2) e na ata (p. 171). O voto escrito de Dias Toffoli (p. 113) também julga extinta a punibilidade quanto ao art. 299, mas a ata não o lista entre os vencidos. Para esses ministros, voto_resultado ficou null. A Relatora menciona ter havido prescrição da falsidade 'em 2008' (p. 62, 150), o que diverge do cálculo de 2012 feito pelo Revisor e por Teori."
+    }
+  ],
+  "avisos": [
+    "R6 x divergência real: nas unidades I02 (art. 317) e I03 (art. 299) o placar se separou na prescrição in abstracto (Teori, Rosa, Joaquim Barbosa e, pelo voto escrito, Toffoli declararam extinta a punibilidade sem julgar o mérito; os demais absolveram no mérito). Pela R6 a prescrição não foi registrada como questão decisiva; mas pela R5 é ali que os votos se separaram. Sugere-se revisão do codebook para o caso 'prescrição x absolvição'.",
+    "voto_resultado admite só Condena/Absolve; para os ministros que declararam extinção da punibilidade nas unidades I02 e I03 o campo ficou null com a evidência transcrita. O banco registra 'Absolve' para todos — divergência registrada em obs, sem correção.",
+    "Dias Toffoli: o voto escrito (p. 113) julga extinta a punibilidade quanto aos arts. 299 e 317, mas o acórdão (p. 2) e a ata (p. 171) não o listam entre os vencidos. Lewandowski (p. 164) e Fux (p. 162) aludem aos argumentos de Toffoli na linha da prescrição. Confiança média.",
+    "Duas questões registradas (concorreu e materialidade, 'outra'), ambas principais pela R5b: entre os que julgaram o mérito não houve divergência sobre elas e as duas tiveram resposta 'nao'. A Relatora afirma expressamente 'eu retirei a autoria e a materialidade' (p. 164). Toffoli, Teori, Lewandowski e Joaquim Barbosa fundamentam só na autoria/participação; Joaquim Barbosa chega a dizer que há 'mais do que indícios' do esquema.",
+    "Luiz Fux lê o voto da Relatora como 'completa ausência do elemento subjetivo do tipo; não há nenhuma prova do dolo' (p. 162), mas o texto da Relatora não fala em dolo. A única passagem próxima é a Explicação (p. 64): 'só tem o domínio do fato quem tem o conhecimento do fato -, portanto, é dever do Ministério Público acusador provar o conhecimento'. Por isso dolo não foi registrado como questão; está em posicao_detalhe de Fux.",
+    "modo_concurso registrado como 'autor' com confiança baixa: a Relatora fala em 'autoria', o Revisor em 'coautoria' e 'participado, de alguma forma', e a Relatora diz em aparte 'não provas de que ele tenha participado de nada do fato' (p. 164).",
+    "Incisos do art. 386 do CPP: julgamento em 2014, após a Lei 11.690/2008. Lewandowski cita o V e transcreve a própria redação ('não existem provas de ter o réu concorrido'); não foi preciso recorrer à R3.",
+    "Barroso (p. 143) e Rosa Weber (quanto ao peculato, p. 161) foram registrados como Adesao; a posição deles é inferida da Relatora (no caso de Rosa, também do Revisor)."
+  ]
+}

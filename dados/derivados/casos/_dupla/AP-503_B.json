@@ -1,0 +1,207 @@
+{
+  "id_caso": "AP-503",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-503.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Ação Penal Originária (AP) por crime de responsabilidade de Prefeito Municipal (Decreto-lei nº 201/67)",
+      "evidencia": "AÇÃO PENAL ORIGINÁRIA – DENÚNCIA FORMULADA CONTRA DEPUTADO FEDERAL POR FATOS PRATICADOS NO EXERCÍCIO DE MANDATO DE PREFEITO MUNICIPAL – IMPUTAÇÕES PENAIS FUNDADAS NOS INCISOS IV, V E XIV DO ART. 1º DO DECRETO-LEI Nº 201/67",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "AÇÃO PENAL JULGADA PARCIALMENTE PROCEDENTE – INCIDÊNCIA DO ART. 107, IV, DO CP.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU(É)(S) : CÁSSIO TANIGUCHI",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Plenário, 20.05.2010 (Extrato de Ata registra data única de julgamento; porém o voto do Min. Ricardo Lewandowski sobre a dosimetria da pena menciona 'de forma coerente inclusive com o voto que proferimos na assentada anterior', sugerindo possível cisão da sessão em mais de um momento no mesmo dia — não fica claro se é outra data)",
+      "fonte": "ata",
+      "confianca": "media"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Cássio Taniguchi",
+        "evidencia": "RÉU(É)(S) : CÁSSIO TANIGUCHI",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Prefeito Municipal de Curitiba/PR (à época dos fatos, gestões 1997/2000 e 2001/2004); Deputado Federal (à época do julgamento, motivo da competência originária do STF)",
+        "evidencia": "AÇÃO PENAL ORIGINÁRIA – DENÚNCIA FORMULADA CONTRA DEPUTADO FEDERAL POR FATOS PRATICADOS NO EXERCÍCIO DE MANDATO DE PREFEITO MUNICIPAL (...) alegadamente cometidos quando o réu exercia o mandato de Prefeito Municipal de Curitiba/PR",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação",
+        "evidencia": "por maioria de votos, em julgar procedente a ação penal quanto ao delito previsto no inciso IV do art. 1º do Decreto-lei nº 201/67 (...); por unanimidade de votos, em julgar procedente a ação penal concernente ao crime tipificado no inciso V do art. 1º do Decreto-lei nº 201/67",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "por maioria de votos, em julgar procedente a ação penal quanto ao delito previsto no inciso IV (...); por unanimidade (...) julgar procedente a ação penal concernente ao crime tipificado no inciso V",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": true,
+        "evidencia": "O Tribunal, por maioria, vencido o Presidente, declarou extinta a pretensão punitiva do Estado, pela consumação da prescrição penal, com base no art. 109, inciso VI, c/c o art. 110, § 1º, e o art. 119, todos do Código Penal, na redação anterior à Lei nº 12.234, de 05/05/2010",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 1º, inciso IV",
+          "diploma": "Decreto-lei nº 201/67",
+          "evidencia": "por maioria de votos, em julgar procedente a ação penal quanto ao delito previsto no inciso IV do art. 1º do Decreto-lei nº 201/67, vencido, no ponto, o Senhor Ministro Marco Aurélio (Revisor), que a julgava improcedente — resultado: Condenação, por maioria (6x1), pena de 3 meses de detenção, posteriormente atingida por prescrição (extinção da punibilidade declarada por maioria, vencido o Presidente)"
+        },
+        {
+          "artigo": "art. 1º, inciso V",
+          "diploma": "Decreto-lei nº 201/67",
+          "evidencia": "por unanimidade de votos, em julgar procedente a ação penal concernente ao crime tipificado no inciso V do art. 1º do Decreto-lei nº 201/67 — resultado: Condenação, unânime (7x0), pena de 3 meses de detenção, posteriormente atingida por prescrição (extinção da punibilidade declarada por maioria, vencido o Presidente)"
+        },
+        {
+          "artigo": "art. 1º, inciso XIV (denúncia mencionava 5 vezes)",
+          "diploma": "Decreto-lei nº 201/67",
+          "evidencia": "também por unanimidade, em julgar improcedente a ação penal e absolver o réu quanto à conduta inscrita no inciso XIV do art. 1º do Decreto-lei nº 201/67 — resultado: Absolvição, unânime (7x0), por atipicidade da conduta ('ABSOLVIÇÃO QUANTO AO DESCUMPRIMENTO DE ORDEM JUDICIAL, POR ATIPICIDADE DA CONDUTA')"
+        }
+      ],
+      "n_votantes": {
+        "valor": 7,
+        "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli [+ Presidência do Ministro Ayres Britto] — 4 ausentes: Cezar Peluso, Ellen Gracie, Gilmar Mendes e Joaquim Barbosa",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 6,
+        "evidencia": "vencido, no ponto, o Senhor Ministro Marco Aurélio (Revisor), que a julgava improcedente [quanto ao inciso IV] — valor referente ao inciso IV; no inciso V a condenação foi unânime (7 votos); ver campo crimes para o detalhamento por inciso",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "votos_absolvicao": {
+        "valor": 1,
+        "evidencia": "vencido, no ponto, o Senhor Ministro Marco Aurélio (Revisor), que a julgava improcedente [quanto ao inciso IV] — valor referente ao inciso IV; no inciso XIV a absolvição foi unânime (7 votos); ver campo crimes para o detalhamento por inciso",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "vencido, no ponto, o Senhor Ministro Marco Aurélio (Revisor), que a julgava improcedente [somente quanto ao inciso IV; incisos V e XIV foram unânimes]",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Celso de Mello", "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. CELSO DE MELLO"},
+      "eh_relator": {"valor": true, "fonte": "ata", "confianca": "alta", "evidencia": "RELATOR : MIN. CELSO DE MELLO"},
+      "voto_resultado": {"valor": "condena", "fonte": "acordao p.25-30 (voto do relator)", "confianca": "alta", "evidencia": "O SENHOR MINISTRO CELSO DE MELLO - (Relator): (...) Tenho para mim (...) que assiste plena razão ao Ministério Público Federal, quando propõe, no que concerne a referido delito, a absolvição do ora acusado [quanto ao XIV]; condenou quanto aos incisos IV e V conforme dispositivo do acórdão que ele relatou"},
+      "vencido": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não consta como vencido em nenhum dos três incisos"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Marco Aurélio", "fonte": "ata", "confianca": "alta", "evidencia": "REVISOR : MIN. MARCO AURÉLIO"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "REVISOR : MIN. MARCO AURÉLIO"},
+      "voto_resultado": {"valor": "absolve", "fonte": "ata", "confianca": "alta", "evidencia": "vencido, no ponto, o Senhor Ministro Marco Aurélio (Revisor), que a julgava improcedente [quanto ao inciso IV]; quanto ao inciso V acompanhou a unanimidade condenatória e quanto ao XIV a unanimidade absolutória"},
+      "vencido": {"valor": true, "fonte": "ata", "confianca": "alta", "evidencia": "vencido, no ponto, o Senhor Ministro Marco Aurélio (Revisor), que a julgava improcedente [somente quanto ao inciso IV]"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Eros Grau", "fonte": "ata", "confianca": "alta", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não é relator nem revisor"},
+      "voto_resultado": {"valor": "condena", "fonte": "deducao D-004", "confianca": "media", "evidencia": "presente à sessão, não nomeado individualmente como vencido em nenhum dos três incisos; deduz-se voto com a maioria/unanimidade (condena IV e V, absolve XIV)"},
+      "vencido": {"valor": false, "fonte": "deducao D-004", "confianca": "media", "evidencia": "não nomeado como vencido em nenhum ponto do dispositivo"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Ricardo Lewandowski", "fonte": "ata", "confianca": "alta", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não é relator nem revisor"},
+      "voto_resultado": {"valor": "condena", "fonte": "ata", "confianca": "alta", "evidencia": "vencidos, no ponto [dosimetria da pena], os Senhores Ministros Ricardo Lewandowski e Cármen Lúcia, que impunham, ao réu, a pena de 04 (quatro) meses e 15 (quinze) dias de detenção para cada um dos crimes referidos — divergiu apenas quanto ao quantum da pena, não quanto ao mérito condenatório"},
+      "vencido": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não consta como vencido quanto ao mérito (condenação/absolvição); foi vencido apenas quanto à dosimetria da pena, o que é registrado à parte nos avisos"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Cármen Lúcia", "fonte": "ata", "confianca": "alta", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não é relator nem revisor"},
+      "voto_resultado": {"valor": "condena", "fonte": "ata", "confianca": "alta", "evidencia": "vencidos, no ponto [dosimetria da pena], os Senhores Ministros Ricardo Lewandowski e Cármen Lúcia, que impunham, ao réu, a pena de 04 (quatro) meses e 15 (quinze) dias de detenção para cada um dos crimes referidos — divergiu apenas quanto ao quantum da pena, não quanto ao mérito condenatório"},
+      "vencido": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não consta como vencida quanto ao mérito (condenação/absolvição); foi vencida apenas quanto à dosimetria da pena, o que é registrado à parte nos avisos"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Dias Toffoli", "fonte": "ata", "confianca": "alta", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não é relator nem revisor"},
+      "voto_resultado": {"valor": "condena", "fonte": "deducao D-004", "confianca": "media", "evidencia": "presente à sessão, não nomeado individualmente como vencido em nenhum dos três incisos; deduz-se voto com a maioria/unanimidade (condena IV e V, absolve XIV)"},
+      "vencido": {"valor": false, "fonte": "deducao D-004", "confianca": "media", "evidencia": "não nomeado como vencido em nenhum ponto do dispositivo"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presente"}
+    },
+    {
+      "ministro": {"valor": "Ayres Britto", "fonte": "ata", "confianca": "alta", "evidencia": "Presidência do Senhor Ministro Ayres Britto (Vice-Presidente)"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "presidiu a sessão como Vice-Presidente, não é relator nem revisor"},
+      "voto_resultado": {"valor": "condena", "fonte": "ata", "confianca": "alta", "evidencia": "e o Presidente, que fixava a pena de 02 (dois) anos e 02 (dois) meses de detenção [divergiu apenas quanto ao quantum da pena, não quanto ao mérito condenatório dos incisos IV e V]"},
+      "vencido": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não consta como vencido quanto ao mérito (condenação/absolvição) dos incisos IV, V ou XIV; foi vencido quanto à dosimetria da pena e quanto à declaração de prescrição, registrado à parte nos avisos"},
+      "ausente": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "Presidiu o julgamento o Senhor Ministro Ayres Britto (Vice-Presidente)"},
+      "motivo_ausencia": {"valor": null, "fonte": "ata", "confianca": "alta", "evidencia": "n/a - presidiu a sessão"}
+    },
+    {
+      "ministro": {"valor": "Cezar Peluso", "fonte": "ata", "confianca": "alta", "evidencia": "Ausentes o Senhor Ministro Cezar Peluso (Presidente), em representação do Tribunal na Primeira Assembléia da Conferência das Jurisdições Constitucionais dos Países de Língua Portuguesa, em Portugal"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não é relator nem revisor"},
+      "voto_resultado": {"valor": "não votou", "fonte": "ata", "confianca": "alta", "evidencia": "Ausentes o Senhor Ministro Cezar Peluso (Presidente) (...)"},
+      "vencido": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "ausente, não votou"},
+      "ausente": {"valor": true, "fonte": "ata", "confianca": "alta", "evidencia": "Ausentes o Senhor Ministro Cezar Peluso (Presidente), em representação do Tribunal na Primeira Assembléia da Conferência das Jurisdições Constitucionais dos Países de Língua Portuguesa, em Portugal"},
+      "motivo_ausencia": {"valor": "em representação do Tribunal na Primeira Assembléia da Conferência das Jurisdições Constitucionais dos Países de Língua Portuguesa, em Portugal", "fonte": "ata", "confianca": "alta", "evidencia": "em representação do Tribunal na Primeira Assembléia da Conferência das Jurisdições Constitucionais dos Países de Língua Portuguesa, em Portugal"}
+    },
+    {
+      "ministro": {"valor": "Ellen Gracie", "fonte": "ata", "confianca": "alta", "evidencia": "a Senhora Ministra Ellen Gracie, convidada pelo Escritório Econômico e Comercial da Embaixada da China no Brasil para participação na Exposição Universal – World Expo 2010, em Shangai"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não é relatora nem revisora"},
+      "voto_resultado": {"valor": "não votou", "fonte": "ata", "confianca": "alta", "evidencia": "a Senhora Ministra Ellen Gracie, convidada (...) para participação na Exposição Universal"},
+      "vencido": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "ausente, não votou"},
+      "ausente": {"valor": true, "fonte": "ata", "confianca": "alta", "evidencia": "a Senhora Ministra Ellen Gracie, convidada pelo Escritório Econômico e Comercial da Embaixada da China no Brasil para participação na Exposição Universal – World Expo 2010, em Shangai"},
+      "motivo_ausencia": {"valor": "convidada pelo Escritório Econômico e Comercial da Embaixada da China no Brasil para participação na Exposição Universal – World Expo 2010, em Shangai", "fonte": "ata", "confianca": "alta", "evidencia": "convidada pelo Escritório Econômico e Comercial da Embaixada da China no Brasil para participação na Exposição Universal – World Expo 2010, em Shangai"}
+    },
+    {
+      "ministro": {"valor": "Gilmar Mendes", "fonte": "ata", "confianca": "alta", "evidencia": "o Senhor Ministro Gilmar Mendes, acompanhando o Presidente"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não é relator nem revisor"},
+      "voto_resultado": {"valor": "não votou", "fonte": "ata", "confianca": "alta", "evidencia": "o Senhor Ministro Gilmar Mendes, acompanhando o Presidente"},
+      "vencido": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "ausente, não votou"},
+      "ausente": {"valor": true, "fonte": "ata", "confianca": "alta", "evidencia": "o Senhor Ministro Gilmar Mendes, acompanhando o Presidente"},
+      "motivo_ausencia": {"valor": "acompanhando o Presidente", "fonte": "ata", "confianca": "alta", "evidencia": "acompanhando o Presidente"}
+    },
+    {
+      "ministro": {"valor": "Joaquim Barbosa", "fonte": "ata", "confianca": "alta", "evidencia": "o Senhor Ministro Joaquim Barbosa, licenciado"},
+      "eh_relator": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "não é relator nem revisor"},
+      "voto_resultado": {"valor": "não votou", "fonte": "ata", "confianca": "alta", "evidencia": "o Senhor Ministro Joaquim Barbosa, licenciado"},
+      "vencido": {"valor": false, "fonte": "ata", "confianca": "alta", "evidencia": "ausente, não votou"},
+      "ausente": {"valor": true, "fonte": "ata", "confianca": "alta", "evidencia": "o Senhor Ministro Joaquim Barbosa, licenciado"},
+      "motivo_ausencia": {"valor": "licenciado", "fonte": "ata", "confianca": "alta", "evidencia": "o Senhor Ministro Joaquim Barbosa, licenciado"}
+    }
+  ],
+  "avisos": [
+    "CASO COM TRÊS RESULTADOS DISTINTOS POR INCISO, PARA O MESMO RÉU: (1) inciso IV do art. 1º do DL 201/67 — Condenação por MAIORIA (6x1), vencido Marco Aurélio (Revisor), que absolvia; (2) inciso V do art. 1º do DL 201/67 — Condenação por UNANIMIDADE (7x0); (3) inciso XIV do art. 1º do DL 201/67 — Absolvição por UNANIMIDADE (7x0), por atipicidade da conduta (a decisão do Presidente do Tribunal no processamento de precatórios foi entendida como ato administrativo, não jurisdicional, faltando elementar do tipo). O campo 'resultado' do réu foi preenchido como 'Condenação' por ser o desfecho predominante/mais grave (2 de 3 imputações), mas o detalhamento completo por inciso está no campo 'crimes'. NÃO tratar este caso como resultado único de 'Absolvição' nem de 'Condenação' sem essa ressalva.",
+    "Após a condenação nos incisos IV e V, o Tribunal, por maioria (vencido o Presidente Ayres Britto), declarou EXTINTA a pretensão punitiva do Estado pela prescrição penal (art. 109, VI, c/c art. 110, §1º, e art. 119 do CP, redação anterior à Lei 12.234/2010). Conforme regra D-018, isso foi registrado como 'prescricao_pos_condenacao': true e 'motivo': 'mérito' (não 'prescrição'), pois há condenação de mérito prévia — a extinção da punibilidade é evento POSTERIOR à condenação, não o resultado de mérito em si.",
+    "Dosimetria da pena: divergência à parte, distinta do mérito condenatório/absolutório. Ministros Ricardo Lewandowski e Cármen Lúcia ficaram vencidos por entenderem cabível pena maior (4 meses e 15 dias para cada crime); o Presidente Ayres Britto ficou vencido por entender cabível pena de 2 anos e 2 meses. Nenhuma dessas divergências afeta o campo 'resultado' (condena/absolve) — são registradas aqui para não se perderem, mas não estão refletidas nos campos 'vencido' do array votos (que se referem ao mérito condenação/absolvição), exceto para Marco Aurélio, cujo voto vencido foi de mérito (inciso IV).",
+    "O Presidente Ayres Britto também ficou vencido quanto à declaração de extinção da punibilidade por prescrição (ele, aparentemente, não reconhecia a prescrição, coerente com sua posição de pena maior que alongaria o prazo prescricional). Isso não está refletido no array 'votos' (que trata apenas do mérito condenação/absolvição), mas é relevante para a análise de estabilidade decisória.",
+    "Enquadramento possivelmente atípico para o recorte da pesquisa: os crimes imputados e julgados são das modalidades do art. 1º, incisos IV, V e XIV do Decreto-lei nº 201/67 (crimes de responsabilidade de Prefeitos Municipais — negativa de execução a lei/ordem judicial, emprego de recursos em desacordo com o programa, despesas não autorizadas), e não do Código Penal ou da Lei 8.666/93 diretamente. Verificar se o DL 201/67 consta nas 19 modalidades operacionais de Levcovitz (2014) antes de incluir este caso na base sem ressalva — a instrução do projeto veda lavagem, associação criminosa e crimes eleitorais, mas não menciona explicitamente o DL 201/67.",
+    "A denúncia original imputava o inciso XIV 'por cinco vezes' (cinco precatórios não pagos), mas o dispositivo do acórdão julgou o inciso XIV como uma única conduta/resultado (absolvição unânime por atipicidade), sem detalhamento de votação separada para cada um dos cinco precatórios.",
+    "Réu era Prefeito Municipal de Curitiba/PR à época dos fatos (1997-2000) e Deputado Federal à época do julgamento (o que trouxe a competência originária ao STF, nos termos do art. 53, §1º da CF). Registrar com cuidado qual cargo é relevante para a classificação do caso.",
+    "Possível indício de sessão fracionada: o voto do Ministro Ricardo Lewandowski sobre a dosimetria da pena (linha com cabeçalho 'VOTO (S/ A DOSIMETRIA DA PENA)') menciona 'de forma coerente inclusive com o voto que proferimos na assentada anterior', sugerindo que o julgamento do mérito e o da dosimetria da pena podem ter ocorrido em momentos distintos dentro do mesmo dia de sessão (20/05/2010) — não há elementos suficientes no texto para confirmar se são datas diferentes; o Extrato de Ata formal registra apenas 'Plenário, 20.05.2010' como data única.",
+    "Composição do STF na sessão (7 votantes + 4 ausentes = 11) confere integralmente com a tabela de referência de ministros em exercício em 20/05/2010 fornecida nas instruções — nenhuma divergência encontrada."
+  ]
+}

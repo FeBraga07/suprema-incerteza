@@ -1,0 +1,2566 @@
+{
+  "id_caso": "AP-441",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-84 (todas)",
+  "unidades": [
+    {
+      "id_unidade": "AP-441-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": {
+        "valor": "I01 e I02 são o mesmo fato (contrato de locação CL 127/00 e os pagamentos dele decorrentes) com duas classificações jurídicas: a da denúncia (inciso II) e a final (inciso V, por emendatio libelli). A separação em duas unidades reflete a classificação, não fatos distintos; a continuidade delitiva (art. 71) foi afastada pelo relator e reconhecida por Marco Aurélio e Ayres Britto.",
+        "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+        "fonte": "p. 48",
+        "confianca": "media"
+      },
+      "voto_condutor": {
+        "valor": "Dias Toffoli",
+        "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal || Nessa conformidade, é o caso de reconhecer-se a subsunção da conduta dos agentes ao tipo elementar, para condená-los pela prática do crime previsto no inciso V do art. 1º do DL nº 201/67.",
+        "fonte": "p. 48; p. 59",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "por maioria de votos, em julgar procedente a ação penal, reconhecendo a prática do delito previsto no art. 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II, do referido decreto.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "Os fatos narrados na denúncia e provados na instrução se amoldam ao tipo penal nela imputado (art. 1º, II, do DL 201/67: utilizar-se indevidamente, em proveito próprio ou alheio, de bens, rendas ou serviços públicos)?",
+            "evidencia": "Denúncia. Tipificação inadequada. Emendatio libelli. Possibilidade. Ausência dos elementos objetivos do tipo. Mera ordenação de despesas não autorizadas por lei.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+            "fonte": "p. 84",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Indago: esses fatos, tais como contidos na denúncia, tais como comprovados na fase de instrução da ação penal, consubstanciam o que previsto no artigo 1º do inciso II ou inciso V?",
+            "fonte": "p. 74"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Denúncia. Tipificação inadequada. Emendatio libelli. Possibilidade. Ausência dos elementos objetivos do tipo. Mera ordenação de despesas não autorizadas por lei. || Os fatos narrados na denúncia, como se vê, não se amoldam à efetiva utilização pelos réus de bens, serviços ou rendas públicas.",
+            "fonte": "p. 1; p. 46",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Fica, assim, pelo meu voto, definitivamente condenado o réu JOSÉ ABELARDO GUIMARÃES CAMARINHA à pena de quatro (4) meses de detenção, substituída pela pena de multa de treze (13) dias-multa",
+                "fonte": "p. 62",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Tenho que efetivamente a denúncia, recebida pelo Juízo da 2ª Vara Criminal da Comarca de Marília/SP, em 10/10/06 (fl. 1817), embora narre fato típico, classificou erroneamente a infração como sendo aquela prevista no inciso II do art. 1º do Decreto-Lei nº 201/67",
+                "fonte": "p. 44",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Os fatos narrados na denúncia, como se vê, não se amoldam à efetiva utilização pelos réus de bens, serviços ou rendas públicas.",
+                "fonte": "p. 46",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afasta o inciso II (peculato de uso, sem animus domini) e reclassifica para o inciso V; registra que a apropriação/desvio do inciso I, aparentemente visada pelo MP, não está precisamente descrita na denúncia (p. 45).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Até aqui eu estou de acordo com o Ministro Toffoli.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação. Entendo, pelos autos, que o Ministério Público logrou o intento de comprovar o elemento subjetivo do tipo, mas também procedo àquela emendatio libelli a que o Ministro Toffoli se referiu, que é a aplicação que afasta a norma do inciso II, que define o crime equiparado ao peculato de uso, para enquadrar o fato no tipo penal previsto na norma do inciso V do artigo 1º do Decreto-Lei nº 201.",
+                "fonte": "p. 69",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Declara a posição em poucas linhas, referindo-se expressamente à emendatio 'a que o Ministro Toffoli se referiu'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Acolhe 'na forma da reclassificação' do relator; posição inferida da adesão ao relator.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Adere à reclassificação do relator; posição inferida.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; presente à sessão (ata p. 84) e não listado entre os vencidos; contado na maioria. Adesão e posição inferidas da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; presente à sessão (ata p. 84) e não listado entre os vencidos; contado na maioria. Adesão e posição inferidas da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, eu também. Discutimos aqui um pouco antes, antecipando as coisas, e chegamos a essa conclusão uniforme dos seis anos. || Ata: reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 81; p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Eu tive o cuidado de ver aqui no processo que há documentos e testemunhas que me levam à conclusão de que, efetivamente, o enquadramento que o Ministério Público fez no inciso II do artigo 1º é de rigor técnico; daí porque eu o estou subscrevendo.",
+                "fonte": "p. 75",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Eu tive o cuidado de ver aqui no processo que há documentos e testemunhas que me levam à conclusão de que, efetivamente, o enquadramento que o Ministério Público fez no inciso II do artigo 1º é de rigor técnico; daí porque eu o estou subscrevendo.",
+                "fonte": "p. 75",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Abre a divergência (p. 72) mantendo a 'tipificação originária da denúncia'; fundamenta em apartes no voto de Marco Aurélio (p. 74-76), com base em 'documentos e testemunhas'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Não há circunstâncias agravantes, atenuantes; não há também causa de aumento ou diminuição da pena, então estabeleço, como pena final, os seis anos.",
+                "fonte": "p. 81",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Creio que, de duas uma, Presidente: ou enquadramos a prática no inciso II, e penso que o enquadramento procede, tal como preconizado pelo Ministério Público Federal o endosso à denúncia apresentada na origem, ou não temos como enquadrar, a meu ver, no inciso V do artigo 1º do Decreto-Lei nº 201/1967.",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Creio que, de duas uma, Presidente: ou enquadramos a prática no inciso II, e penso que o enquadramento procede, tal como preconizado pelo Ministério Público Federal o endosso à denúncia apresentada na origem, ou não temos como enquadrar, a meu ver, no inciso V do artigo 1º do Decreto-Lei nº 201/1967.",
+                "fonte": "p. 76",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Apoia o enquadramento no inciso II em indícios de que o imóvel seria do próprio prefeito (valor de escritura vs. avaliação, fluxo de caixa do casal, p. 73 e 77) e na violação do art. 125 da Lei Orgânica (p. 74).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": null,
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto não juntado ao acórdão: todas as intervenções de Celso de Mello constam como 'CANCELADO' (p. 67, 77, 80); posição conhecida só pelo extrato de ata. A ata o inclui entre os que 'reconheciam a prática do delito previsto no artigo 1º, inciso II'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu estou julgando improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Se ele não é proprietário nem condômino do imóvel, deste ponto de vista não podia ter cometido o crime do inciso II de modo algum, porque não se utilizou nem de bem público, nem de renda pública, nem de serviço público",
+                "fonte": "p. 78",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Eu não encontrei nenhuma prova de que ele fosse proprietário ou condômino. [...] Em outras palavras: não se configurou o fato tido por criminoso, simplesmente porque não se provou o pressuposto desse fato e que seria a propriedade do imóvel",
+                "fonte": "p. 79",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Para Peluso, o inciso II pressupõe que o réu fosse proprietário ou condômino do imóvel, como afirma a denúncia; essa propriedade não foi provada, logo o fato tido por criminoso não se configurou. ",
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "por maioria de votos, em julgar procedente a ação penal, reconhecendo a prática do delito previsto no art. 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II, do referido decreto.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "É cabível dar ao fato narrado na denúncia definição jurídica diversa da nela indicada (emendatio libelli, art. 383 do CPP), reenquadrando-o em outro tipo penal (aqui, art. 1º, V, do DL 201/67: ordenar ou efetuar despesas não autorizadas por lei)?",
+            "evidencia": "Denúncia. Tipificação inadequada. Emendatio libelli. Possibilidade. Ausência dos elementos objetivos do tipo. Mera ordenação de despesas não autorizadas por lei.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+            "fonte": "p. 84",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Indago: esses fatos, tais como contidos na denúncia, tais como comprovados na fase de instrução da ação penal, consubstanciam o que previsto no artigo 1º do inciso II ou inciso V?",
+            "fonte": "p. 74"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "por maioria de votos, em julgar procedente a ação penal, reconhecendo a prática do delito previsto no art. 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II, do referido decreto.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Fica, assim, pelo meu voto, definitivamente condenado o réu JOSÉ ABELARDO GUIMARÃES CAMARINHA à pena de quatro (4) meses de detenção, substituída pela pena de multa de treze (13) dias-multa",
+                "fonte": "p. 62",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+                "fonte": "p. 48",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+                "fonte": "p. 48",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afasta também o inciso X (pedido da defesa) e o inciso III; fundamenta a reclassificação no art. 383 do CPP (p. 46-48).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Até aqui eu estou de acordo com o Ministro Toffoli.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação. Entendo, pelos autos, que o Ministério Público logrou o intento de comprovar o elemento subjetivo do tipo, mas também procedo àquela emendatio libelli a que o Ministro Toffoli se referiu, que é a aplicação que afasta a norma do inciso II, que define o crime equiparado ao peculato de uso, para enquadrar o fato no tipo penal previsto na norma do inciso V do artigo 1º do Decreto-Lei nº 201.",
+                "fonte": "p. 69",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirma a emendatio expressamente, remetendo ao relator.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Adesão e posição inferidas.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Adesão e posição inferidas.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, eu também. Discutimos aqui um pouco antes, antecipando as coisas, e chegamos a essa conclusão uniforme dos seis anos. || Ata: reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 81; p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Senhor Presidente, eu vou pedir vênia para divergir. Essa desclassificação implica uma redução da pena abstrata, que é de dois a doze anos de reclusão, para três meses a três anos de detenção [...] Originária, tipificação originária da denúncia.",
+                "fonte": "p. 72",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, eu vou pedir vênia para divergir. Essa desclassificação implica uma redução da pena abstrata, que é de dois a doze anos de reclusão, para três meses a três anos de detenção [...] Originária, tipificação originária da denúncia.",
+                "fonte": "p. 72",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "O argumento inicial da divergência é consequencialista: a desclassificação reduz a pena abstrata e leva à prescrição (p. 72).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Não há circunstâncias agravantes, atenuantes; não há também causa de aumento ou diminuição da pena, então estabeleço, como pena final, os seis anos.",
+                "fonte": "p. 81",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por isso, peço vênia para acompanhar a divergência iniciada pelo Ministro Carlos Ayres Britto, entendendo que não cabe dar outra classificação aos fatos jurídicos constantes da denúncia",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Por isso, peço vênia para acompanhar a divergência iniciada pelo Ministro Carlos Ayres Britto, entendendo que não cabe dar outra classificação aos fatos jurídicos constantes da denúncia",
+                "fonte": "p. 76",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Sustenta que a locação não exigiria autorização em lei, de modo que o fato não se enquadraria no inciso V (p. 75-76).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": null,
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto não juntado ao acórdão: todas as intervenções de Celso de Mello constam como 'CANCELADO' (p. 67, 77, 80); posição conhecida só pelo extrato de ata. Vencido quanto à tipificação: manteve o inciso II.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu estou julgando improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Se ele não é, nos termos e à luz da denúncia, nem proprietário nem condômino do imóvel, e se a tipificação está de acordo com o que consta a título de descrição do fato na denúncia, não tenho alternativa senão julgar absolutamente improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Se ele não é, nos termos e à luz da denúncia, nem proprietário nem condômino do imóvel, e se a tipificação está de acordo com o que consta a título de descrição do fato na denúncia, não tenho alternativa senão julgar absolutamente improcedente a ação. || Ata: O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 79; p. 84",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Não menciona o art. 383 do CPP nem a reclassificação; vincula o julgamento à descrição do fato na denúncia (propriedade do imóvel pelo réu) e, não provada essa premissa, julga improcedente em vez de reclassificar. A ata o registra 'concordando com a tipificação da denúncia'.",
+              "fundamento_proprio": "Absolve por não se provar o pressuposto fático da imputação (propriedade/condomínio do imóvel pelo réu José Abelardo)."
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC nº 70.671-1/PI, Tribunal Pleno, Rel. Min. Carlos Velloso; HC nº 71.991-1/MG, Primeira Turma, Rel. Min. Sydney Sanches; RHC nº 73.210-1/PA, Segunda Turma, Rel. Min. Maurício Corrêa",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Pode-se enquadrar, assim, o crime praticado por ex-prefeito quando no exercício efetivo do cargo no tipo penal previsto na norma do inciso V do art. 1º do Decreto-Lei nº 201/67, já definido nesta Suprema Corte como crime comum (HC nº 70.671-1/PI, Tribunal Pleno, Relator Ministro Carlos Velloso, DJ de 19/5/95; [...])",
+          "fonte": "p. 1-2 (ementa)"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "art. 359-D do Código Penal, introduzido pela Lei nº 10.028/2000",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Trata-se, em essência, do mesmo tipo comum atualmente previsto no art. 359-D - introduzido no Código Penal pela Lei nº 10.028/2000 - para punir todos os servidores públicos responsáveis pela função de ordenador de despesas que ordená-las sem autorização legal",
+          "fonte": "p. 47"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "INQ nº 571/DF-QO, Tribunal Pleno, Rel. Min. Sepúlveda Pertence; INQ nº 1028/RS-QO-QO, Tribunal Pleno, Rel. Min. Moreira Alves",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Insta, ainda, destacar, consoante posicionamento jurisprudencial desta Colenda Corte Constitucional, que a competência penal originária por prerrogativa de função do STF [...] não acarreta a nulidade da denúncia oferecida, nem dos atos processuais praticados anteriormente perante a justiça competente à época dos fatos.",
+          "fonte": "p. 42-44"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "RE nº 602.527/RS (Repercussão Geral por Questão de Ordem), Rel. Min. Cezar Peluso",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "o Plenário desta Suprema Corte, na Repercussão Geral por Questão de Ordem no RE nº 602.527/RS, de Relatoria do Ministro Cezar Peluso (DJe de 18/12/09), reafirmou a jurisprudência no sentido da impossibilidade de aplicação da chamada prescrição antecipada ou em perspectiva por ausência previsão legal.",
+          "fonte": "p. 48"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "RE nº 602.527/RS",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Afasto a prescrição perspectiva, numa questão de ordem que Vossa Excelência decidiu no Recurso Extraordinário nº 602.527/RS",
+          "fonte": "p. 69"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC nº 76.618/SP, Primeira Turma, Rel. Min. Moreira Alves",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Nesse sentido, o seguinte precedente desta Suprema Corte: [...] (HC nº 76.618/SP, Primeira Turma, da relatoria do Min. Moreira Alves, DJ de 5/5/98).",
+          "fonte": "p. 65-66"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei nº 12.234/2010 (aplicação da redação anterior dos arts. 109 e 110 do CP)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "tenho como consumada a prescrição da pretensão punitiva, de acordo com o estatuído no inciso VI do art. 109 do Código Penal, com sua redação anterior à Lei nº 12.234/10",
+          "fonte": "p. 66"
+        }
+      ],
+      "obs": "Os votos 'Condena' da maioria nesta unidade são condenação pelo mesmo fato no tipo reclassificado (inciso V, unidade I02), não pelo inciso II; só Ayres Britto, Marco Aurélio e Celso de Mello condenaram pelo inciso II. voto_resultado foi registrado como o resultado do ministro para o réu, que coincide com o banco. Joaquim Barbosa ausente justificadamente (ata p. 84), não incluído. Condenação seguida de prescrição da pretensão punitiva e extinção da punibilidade (p. 66, p. 84)."
+    },
+    {
+      "id_unidade": "AP-441-R01-I02",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": {
+        "valor": "Mesmo fato da unidade I01, reclassificado por emendatio libelli (art. 383 do CPP).",
+        "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+        "fonte": "p. 48",
+        "confianca": "alta"
+      },
+      "voto_condutor": {
+        "valor": "Dias Toffoli",
+        "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal || Nessa conformidade, é o caso de reconhecer-se a subsunção da conduta dos agentes ao tipo elementar, para condená-los pela prática do crime previsto no inciso V do art. 1º do DL nº 201/67.",
+        "fonte": "p. 48; p. 59",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "por maioria de votos, em julgar procedente a ação penal, reconhecendo a prática do delito previsto no art. 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II, do referido decreto.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "É cabível dar ao fato narrado na denúncia definição jurídica diversa da nela indicada (emendatio libelli, art. 383 do CPP), reenquadrando-o em outro tipo penal (aqui, art. 1º, V, do DL 201/67: ordenar ou efetuar despesas não autorizadas por lei)?",
+            "evidencia": "Denúncia. Tipificação inadequada. Emendatio libelli. Possibilidade. Ausência dos elementos objetivos do tipo. Mera ordenação de despesas não autorizadas por lei.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+            "fonte": "p. 84",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Indago: esses fatos, tais como contidos na denúncia, tais como comprovados na fase de instrução da ação penal, consubstanciam o que previsto no artigo 1º do inciso II ou inciso V?",
+            "fonte": "p. 74"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "por maioria de votos, em julgar procedente a ação penal, reconhecendo a prática do delito previsto no art. 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II, do referido decreto.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Fica, assim, pelo meu voto, definitivamente condenado o réu JOSÉ ABELARDO GUIMARÃES CAMARINHA à pena de quatro (4) meses de detenção, substituída pela pena de multa de treze (13) dias-multa",
+                "fonte": "p. 62",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+                "fonte": "p. 48",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+                "fonte": "p. 48",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afasta também o inciso X (pedido da defesa) e o inciso III; fundamenta a reclassificação no art. 383 do CPP (p. 46-48).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Até aqui eu estou de acordo com o Ministro Toffoli.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação. Entendo, pelos autos, que o Ministério Público logrou o intento de comprovar o elemento subjetivo do tipo, mas também procedo àquela emendatio libelli a que o Ministro Toffoli se referiu, que é a aplicação que afasta a norma do inciso II, que define o crime equiparado ao peculato de uso, para enquadrar o fato no tipo penal previsto na norma do inciso V do artigo 1º do Decreto-Lei nº 201.",
+                "fonte": "p. 69",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirma a emendatio expressamente, remetendo ao relator.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Adesão e posição inferidas.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Adesão e posição inferidas.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, eu também. Discutimos aqui um pouco antes, antecipando as coisas, e chegamos a essa conclusão uniforme dos seis anos. || Ata: reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 81; p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Senhor Presidente, eu vou pedir vênia para divergir. Essa desclassificação implica uma redução da pena abstrata, que é de dois a doze anos de reclusão, para três meses a três anos de detenção [...] Originária, tipificação originária da denúncia.",
+                "fonte": "p. 72",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, eu vou pedir vênia para divergir. Essa desclassificação implica uma redução da pena abstrata, que é de dois a doze anos de reclusão, para três meses a três anos de detenção [...] Originária, tipificação originária da denúncia.",
+                "fonte": "p. 72",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "O argumento inicial da divergência é consequencialista: a desclassificação reduz a pena abstrata e leva à prescrição (p. 72).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Não há circunstâncias agravantes, atenuantes; não há também causa de aumento ou diminuição da pena, então estabeleço, como pena final, os seis anos.",
+                "fonte": "p. 81",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por isso, peço vênia para acompanhar a divergência iniciada pelo Ministro Carlos Ayres Britto, entendendo que não cabe dar outra classificação aos fatos jurídicos constantes da denúncia",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Por isso, peço vênia para acompanhar a divergência iniciada pelo Ministro Carlos Ayres Britto, entendendo que não cabe dar outra classificação aos fatos jurídicos constantes da denúncia",
+                "fonte": "p. 76",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Sustenta que a locação não exigiria autorização em lei, de modo que o fato não se enquadraria no inciso V (p. 75-76).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": null,
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto não juntado ao acórdão: todas as intervenções de Celso de Mello constam como 'CANCELADO' (p. 67, 77, 80); posição conhecida só pelo extrato de ata. Vencido quanto à tipificação: manteve o inciso II.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu estou julgando improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Se ele não é, nos termos e à luz da denúncia, nem proprietário nem condômino do imóvel, e se a tipificação está de acordo com o que consta a título de descrição do fato na denúncia, não tenho alternativa senão julgar absolutamente improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Se ele não é, nos termos e à luz da denúncia, nem proprietário nem condômino do imóvel, e se a tipificação está de acordo com o que consta a título de descrição do fato na denúncia, não tenho alternativa senão julgar absolutamente improcedente a ação. || Ata: O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 79; p. 84",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Não menciona o art. 383 do CPP nem a reclassificação; vincula o julgamento à descrição do fato na denúncia (propriedade do imóvel pelo réu) e, não provada essa premissa, julga improcedente em vez de reclassificar. A ata o registra 'concordando com a tipificação da denúncia'.",
+              "fundamento_proprio": "Absolve por não se provar o pressuposto fático da imputação (propriedade/condomínio do imóvel pelo réu José Abelardo)."
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Preenchidos, assim, os requisitos do tipo legal incriminado, deve-se examinar a presença do elemento subjetivo nas condutas de ambos os réus.",
+            "fonte": "p. 51",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+            "fonte": "p. 84",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Preenchidos, assim, os requisitos do tipo legal incriminado, deve-se examinar a presença do elemento subjetivo nas condutas de ambos os réus.",
+            "fonte": "p. 51"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "Dolo configurado. Infração reconhecida. Continuidade delitiva. Não ocorrência. || No caso, o órgão ministerial público se desincumbiu do seu dever processual de demonstrar a vontade livre e consciente dos agentes em realizar a conduta típica.",
+            "fonte": "p. 1; p. 2",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "generico",
+            "evidencia": "A incidência da norma que se extrai do inciso V do art. 1º do DL 201/67 depende da presença de um claro elemento subjetivo do agente político: a vontade livre e consciente (dolo) de ordenar ou executar despesa não autorizada por lei.",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Fica, assim, pelo meu voto, definitivamente condenado o réu JOSÉ ABELARDO GUIMARÃES CAMARINHA à pena de quatro (4) meses de detenção, substituída pela pena de multa de treze (13) dias-multa",
+                "fonte": "p. 62",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Preenchidos, assim, os requisitos do tipo legal incriminado, deve-se examinar a presença do elemento subjetivo nas condutas de ambos os réus.",
+                "fonte": "p. 51",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Em relação ao corréu José Abelardo Guimarães Camarinha, não restou comprovado de forma cabal e irretorquível que, em conformidade com o que alegou, não tivesse ciência de que estivesse alugando imóvel de copropriedade de servidora de sua confiança. [...] É curial que, se não houvesse a intenção firme e deliberada por parte de José Abelardo Guimarães Camarinha de formalizar aquela locação, mesmo sabendo que o imóvel pertencia a sua servidora de confiança Marildes Lavigni da Silva Miosi e a seu marido Walter Miosi, logo que pessoalmente interpelado sobre os fatos por José Cardoso de Lima, teria (ou deveria ter) ordenado a imediata rescisão da locação, o que não ocorreu.",
+                "fonte": "p. 55; p. 58",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Prova da ciência do vínculo locador–servidora de confiança (contrato subscrito pessoalmente, uso anterior do imóvel, testemunhos); atribui à defesa o ônus de provar o desconhecimento: Sabe-se que, nos termos do art. 156, primeira parte, do Código de Processo Penal, ordinariamente é da defesa o ônus de provar os fatos que alegar para efeito de afastar a imputação criminal. (p. 54). A ementa, porém, diz que o MP 'se desincumbiu do seu dever processual de demonstrar' o dolo (p. 2).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Até aqui eu estou de acordo com o Ministro Toffoli.",
+                "fonte": "p. 69",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação. Entendo, pelos autos, que o Ministério Público logrou o intento de comprovar o elemento subjetivo do tipo, mas também procedo àquela emendatio libelli a que o Ministro Toffoli se referiu, que é a aplicação que afasta a norma do inciso II, que define o crime equiparado ao peculato de uso, para enquadrar o fato no tipo penal previsto na norma do inciso V do artigo 1º do Decreto-Lei nº 201.",
+                "fonte": "p. 69",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirma em uma frase que o MP 'logrou o intento de comprovar o elemento subjetivo do tipo', sem fundamentação própria; não distingue os réus.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Não trata do dolo; adere ao relator. Posição inferida.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Não trata do dolo; adere ao relator. Posição inferida.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Posição inferida.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Posição inferida.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, eu também. Discutimos aqui um pouco antes, antecipando as coisas, e chegamos a essa conclusão uniforme dos seis anos. || Ata: reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 81; p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Eu tive o cuidado de ver aqui no processo que há documentos e testemunhas que me levam à conclusão de que, efetivamente, o enquadramento que o Ministério Público fez no inciso II do artigo 1º é de rigor técnico; daí porque eu o estou subscrevendo.",
+                "fonte": "p. 75",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Eu tive o cuidado de ver aqui no processo que há documentos e testemunhas que me levam à conclusão de que, efetivamente, o enquadramento que o Ministério Público fez no inciso II do artigo 1º é de rigor técnico; daí porque eu o estou subscrevendo.",
+                "fonte": "p. 75",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "Condena pelo art. 1º, II (tipificação originária da denúncia), não pelo inciso V."
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Não há circunstâncias agravantes, atenuantes; não há também causa de aumento ou diminuição da pena, então estabeleço, como pena final, os seis anos.",
+                "fonte": "p. 81",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Creio que, de duas uma, Presidente: ou enquadramos a prática no inciso II, e penso que o enquadramento procede, tal como preconizado pelo Ministério Público Federal o endosso à denúncia apresentada na origem, ou não temos como enquadrar, a meu ver, no inciso V do artigo 1º do Decreto-Lei nº 201/1967.",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Creio que, de duas uma, Presidente: ou enquadramos a prática no inciso II, e penso que o enquadramento procede, tal como preconizado pelo Ministério Público Federal o endosso à denúncia apresentada na origem, ou não temos como enquadrar, a meu ver, no inciso V do artigo 1º do Decreto-Lei nº 201/1967.",
+                "fonte": "p. 76",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirma, na dosimetria: 'Quanto à dosimetria da pena, considerado o tipo do inciso II, para mim o elemento subjetivo é o dolo; do inciso V, é a culpa.' (p. 81), o que diverge da leitura da maioria (dolo exigido no inciso V).",
+              "fundamento_proprio": "Condena pelo art. 1º, II, não pelo inciso V."
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto não juntado ao acórdão: todas as intervenções de Celso de Mello constam como 'CANCELADO' (p. 67, 77, 80); posição conhecida só pelo extrato de ata.",
+              "fundamento_proprio": "Condena pelo art. 1º, II (segundo a ata), não pelo inciso V."
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu estou julgando improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Eu não encontrei nenhuma prova de que ele fosse proprietário ou condômino. [...] Em outras palavras: não se configurou o fato tido por criminoso, simplesmente porque não se provou o pressuposto desse fato e que seria a propriedade do imóvel",
+                "fonte": "p. 79",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Eu não encontrei nenhuma prova de que ele fosse proprietário ou condômino. [...] Em outras palavras: não se configurou o fato tido por criminoso, simplesmente porque não se provou o pressuposto desse fato e que seria a propriedade do imóvel",
+                "fonte": "p. 79",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "Absolve por não se provar o pressuposto fático da imputação (propriedade do imóvel pelo réu José Abelardo)."
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC nº 70.671-1/PI, Tribunal Pleno, Rel. Min. Carlos Velloso; HC nº 71.991-1/MG, Primeira Turma, Rel. Min. Sydney Sanches; RHC nº 73.210-1/PA, Segunda Turma, Rel. Min. Maurício Corrêa",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Pode-se enquadrar, assim, o crime praticado por ex-prefeito quando no exercício efetivo do cargo no tipo penal previsto na norma do inciso V do art. 1º do Decreto-Lei nº 201/67, já definido nesta Suprema Corte como crime comum (HC nº 70.671-1/PI, Tribunal Pleno, Relator Ministro Carlos Velloso, DJ de 19/5/95; [...])",
+          "fonte": "p. 1-2 (ementa)"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "art. 359-D do Código Penal, introduzido pela Lei nº 10.028/2000",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Trata-se, em essência, do mesmo tipo comum atualmente previsto no art. 359-D - introduzido no Código Penal pela Lei nº 10.028/2000 - para punir todos os servidores públicos responsáveis pela função de ordenador de despesas que ordená-las sem autorização legal",
+          "fonte": "p. 47"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "INQ nº 571/DF-QO, Tribunal Pleno, Rel. Min. Sepúlveda Pertence; INQ nº 1028/RS-QO-QO, Tribunal Pleno, Rel. Min. Moreira Alves",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Insta, ainda, destacar, consoante posicionamento jurisprudencial desta Colenda Corte Constitucional, que a competência penal originária por prerrogativa de função do STF [...] não acarreta a nulidade da denúncia oferecida, nem dos atos processuais praticados anteriormente perante a justiça competente à época dos fatos.",
+          "fonte": "p. 42-44"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "RE nº 602.527/RS (Repercussão Geral por Questão de Ordem), Rel. Min. Cezar Peluso",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "o Plenário desta Suprema Corte, na Repercussão Geral por Questão de Ordem no RE nº 602.527/RS, de Relatoria do Ministro Cezar Peluso (DJe de 18/12/09), reafirmou a jurisprudência no sentido da impossibilidade de aplicação da chamada prescrição antecipada ou em perspectiva por ausência previsão legal.",
+          "fonte": "p. 48"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "RE nº 602.527/RS",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Afasto a prescrição perspectiva, numa questão de ordem que Vossa Excelência decidiu no Recurso Extraordinário nº 602.527/RS",
+          "fonte": "p. 69"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC nº 76.618/SP, Primeira Turma, Rel. Min. Moreira Alves",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Nesse sentido, o seguinte precedente desta Suprema Corte: [...] (HC nº 76.618/SP, Primeira Turma, da relatoria do Min. Moreira Alves, DJ de 5/5/98).",
+          "fonte": "p. 65-66"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei nº 12.234/2010 (aplicação da redação anterior dos arts. 109 e 110 do CP)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "tenho como consumada a prescrição da pretensão punitiva, de acordo com o estatuído no inciso VI do art. 109 do Código Penal, com sua redação anterior à Lei nº 12.234/10",
+          "fonte": "p. 66"
+        }
+      ],
+      "obs": "voto_resultado coincide com o banco em todos os ministros. Ayres Britto, Marco Aurélio e Celso de Mello votam 'Condena', mas pelo inciso II, não pelo inciso V: são vencidos quanto à tipificação e à pena. Pena da maioria: 4 meses de detenção convertidos em 13 dias-multa, seguida de prescrição e extinção da punibilidade (p. 66, p. 84). Joaquim Barbosa ausente justificadamente, não incluído."
+    },
+    {
+      "id_unidade": "AP-441-R02-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": {
+        "valor": "I01 e I02 são o mesmo fato (contrato de locação CL 127/00 e os pagamentos dele decorrentes) com duas classificações jurídicas: a da denúncia (inciso II) e a final (inciso V, por emendatio libelli). A separação em duas unidades reflete a classificação, não fatos distintos; a continuidade delitiva (art. 71) foi afastada pelo relator e reconhecida por Marco Aurélio e Ayres Britto.",
+        "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+        "fonte": "p. 48",
+        "confianca": "media"
+      },
+      "voto_condutor": {
+        "valor": "Dias Toffoli",
+        "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal || Nessa conformidade, é o caso de reconhecer-se a subsunção da conduta dos agentes ao tipo elementar, para condená-los pela prática do crime previsto no inciso V do art. 1º do DL nº 201/67.",
+        "fonte": "p. 48; p. 59",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "por maioria de votos, em julgar procedente a ação penal, reconhecendo a prática do delito previsto no art. 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II, do referido decreto.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "Os fatos narrados na denúncia e provados na instrução se amoldam ao tipo penal nela imputado (art. 1º, II, do DL 201/67: utilizar-se indevidamente, em proveito próprio ou alheio, de bens, rendas ou serviços públicos)?",
+            "evidencia": "Denúncia. Tipificação inadequada. Emendatio libelli. Possibilidade. Ausência dos elementos objetivos do tipo. Mera ordenação de despesas não autorizadas por lei.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+            "fonte": "p. 84",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Indago: esses fatos, tais como contidos na denúncia, tais como comprovados na fase de instrução da ação penal, consubstanciam o que previsto no artigo 1º do inciso II ou inciso V?",
+            "fonte": "p. 74"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Denúncia. Tipificação inadequada. Emendatio libelli. Possibilidade. Ausência dos elementos objetivos do tipo. Mera ordenação de despesas não autorizadas por lei. || Os fatos narrados na denúncia, como se vê, não se amoldam à efetiva utilização pelos réus de bens, serviços ou rendas públicas.",
+            "fonte": "p. 1; p. 46",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Fica, assim, pelo meu voto, definitivamente condenado o réu WALTER MIOSI à pena de quatro (4) meses de detenção, substituída pela pena de multa de treze (13) dias-multa",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Tenho que efetivamente a denúncia, recebida pelo Juízo da 2ª Vara Criminal da Comarca de Marília/SP, em 10/10/06 (fl. 1817), embora narre fato típico, classificou erroneamente a infração como sendo aquela prevista no inciso II do art. 1º do Decreto-Lei nº 201/67",
+                "fonte": "p. 44",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Os fatos narrados na denúncia, como se vê, não se amoldam à efetiva utilização pelos réus de bens, serviços ou rendas públicas.",
+                "fonte": "p. 46",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afasta o inciso II (peculato de uso, sem animus domini) e reclassifica para o inciso V; registra que a apropriação/desvio do inciso I, aparentemente visada pelo MP, não está precisamente descrita na denúncia (p. 45).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Até aqui eu estou de acordo com o Ministro Toffoli.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação. Entendo, pelos autos, que o Ministério Público logrou o intento de comprovar o elemento subjetivo do tipo, mas também procedo àquela emendatio libelli a que o Ministro Toffoli se referiu, que é a aplicação que afasta a norma do inciso II, que define o crime equiparado ao peculato de uso, para enquadrar o fato no tipo penal previsto na norma do inciso V do artigo 1º do Decreto-Lei nº 201.",
+                "fonte": "p. 69",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Declara a posição em poucas linhas, referindo-se expressamente à emendatio 'a que o Ministro Toffoli se referiu'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Acolhe 'na forma da reclassificação' do relator; posição inferida da adesão ao relator.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Adere à reclassificação do relator; posição inferida.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; presente à sessão (ata p. 84) e não listado entre os vencidos; contado na maioria. Adesão e posição inferidas da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; presente à sessão (ata p. 84) e não listado entre os vencidos; contado na maioria. Adesão e posição inferidas da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, eu também. Discutimos aqui um pouco antes, antecipando as coisas, e chegamos a essa conclusão uniforme dos seis anos. || Ata: reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 81; p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Eu tive o cuidado de ver aqui no processo que há documentos e testemunhas que me levam à conclusão de que, efetivamente, o enquadramento que o Ministério Público fez no inciso II do artigo 1º é de rigor técnico; daí porque eu o estou subscrevendo.",
+                "fonte": "p. 75",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Eu tive o cuidado de ver aqui no processo que há documentos e testemunhas que me levam à conclusão de que, efetivamente, o enquadramento que o Ministério Público fez no inciso II do artigo 1º é de rigor técnico; daí porque eu o estou subscrevendo.",
+                "fonte": "p. 75",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Abre a divergência (p. 72) mantendo a 'tipificação originária da denúncia'; fundamenta em apartes no voto de Marco Aurélio (p. 74-76), com base em 'documentos e testemunhas'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Não há circunstâncias agravantes, atenuantes; não há também causa de aumento ou diminuição da pena, então estabeleço, como pena final, os seis anos.",
+                "fonte": "p. 81",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Creio que, de duas uma, Presidente: ou enquadramos a prática no inciso II, e penso que o enquadramento procede, tal como preconizado pelo Ministério Público Federal o endosso à denúncia apresentada na origem, ou não temos como enquadrar, a meu ver, no inciso V do artigo 1º do Decreto-Lei nº 201/1967.",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Creio que, de duas uma, Presidente: ou enquadramos a prática no inciso II, e penso que o enquadramento procede, tal como preconizado pelo Ministério Público Federal o endosso à denúncia apresentada na origem, ou não temos como enquadrar, a meu ver, no inciso V do artigo 1º do Decreto-Lei nº 201/1967.",
+                "fonte": "p. 76",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Apoia o enquadramento no inciso II em indícios de que o imóvel seria do próprio prefeito (valor de escritura vs. avaliação, fluxo de caixa do casal, p. 73 e 77) e na violação do art. 125 da Lei Orgânica (p. 74).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": null,
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto não juntado ao acórdão: todas as intervenções de Celso de Mello constam como 'CANCELADO' (p. 67, 77, 80); posição conhecida só pelo extrato de ata. A ata o inclui entre os que 'reconheciam a prática do delito previsto no artigo 1º, inciso II'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu estou julgando improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Se ele não é proprietário nem condômino do imóvel, deste ponto de vista não podia ter cometido o crime do inciso II de modo algum, porque não se utilizou nem de bem público, nem de renda pública, nem de serviço público",
+                "fonte": "p. 78",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Eu não encontrei nenhuma prova de que ele fosse proprietário ou condômino. [...] Em outras palavras: não se configurou o fato tido por criminoso, simplesmente porque não se provou o pressuposto desse fato e que seria a propriedade do imóvel",
+                "fonte": "p. 79",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Para Peluso, o inciso II pressupõe que o réu fosse proprietário ou condômino do imóvel, como afirma a denúncia; essa propriedade não foi provada, logo o fato tido por criminoso não se configurou. Seu texto trata só de José Abelardo; para Walter Miosi, a posição decorre do mesmo raciocínio (o pressuposto da imputação era a propriedade atribuída ao corréu).",
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "por maioria de votos, em julgar procedente a ação penal, reconhecendo a prática do delito previsto no art. 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II, do referido decreto.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "É cabível dar ao fato narrado na denúncia definição jurídica diversa da nela indicada (emendatio libelli, art. 383 do CPP), reenquadrando-o em outro tipo penal (aqui, art. 1º, V, do DL 201/67: ordenar ou efetuar despesas não autorizadas por lei)?",
+            "evidencia": "Denúncia. Tipificação inadequada. Emendatio libelli. Possibilidade. Ausência dos elementos objetivos do tipo. Mera ordenação de despesas não autorizadas por lei.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+            "fonte": "p. 84",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Indago: esses fatos, tais como contidos na denúncia, tais como comprovados na fase de instrução da ação penal, consubstanciam o que previsto no artigo 1º do inciso II ou inciso V?",
+            "fonte": "p. 74"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "por maioria de votos, em julgar procedente a ação penal, reconhecendo a prática do delito previsto no art. 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II, do referido decreto.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Fica, assim, pelo meu voto, definitivamente condenado o réu WALTER MIOSI à pena de quatro (4) meses de detenção, substituída pela pena de multa de treze (13) dias-multa",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+                "fonte": "p. 48",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+                "fonte": "p. 48",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afasta também o inciso X (pedido da defesa) e o inciso III; fundamenta a reclassificação no art. 383 do CPP (p. 46-48).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Até aqui eu estou de acordo com o Ministro Toffoli.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação. Entendo, pelos autos, que o Ministério Público logrou o intento de comprovar o elemento subjetivo do tipo, mas também procedo àquela emendatio libelli a que o Ministro Toffoli se referiu, que é a aplicação que afasta a norma do inciso II, que define o crime equiparado ao peculato de uso, para enquadrar o fato no tipo penal previsto na norma do inciso V do artigo 1º do Decreto-Lei nº 201.",
+                "fonte": "p. 69",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirma a emendatio expressamente, remetendo ao relator.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Adesão e posição inferidas.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Adesão e posição inferidas.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, eu também. Discutimos aqui um pouco antes, antecipando as coisas, e chegamos a essa conclusão uniforme dos seis anos. || Ata: reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 81; p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Senhor Presidente, eu vou pedir vênia para divergir. Essa desclassificação implica uma redução da pena abstrata, que é de dois a doze anos de reclusão, para três meses a três anos de detenção [...] Originária, tipificação originária da denúncia.",
+                "fonte": "p. 72",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, eu vou pedir vênia para divergir. Essa desclassificação implica uma redução da pena abstrata, que é de dois a doze anos de reclusão, para três meses a três anos de detenção [...] Originária, tipificação originária da denúncia.",
+                "fonte": "p. 72",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "O argumento inicial da divergência é consequencialista: a desclassificação reduz a pena abstrata e leva à prescrição (p. 72).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Não há circunstâncias agravantes, atenuantes; não há também causa de aumento ou diminuição da pena, então estabeleço, como pena final, os seis anos.",
+                "fonte": "p. 81",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por isso, peço vênia para acompanhar a divergência iniciada pelo Ministro Carlos Ayres Britto, entendendo que não cabe dar outra classificação aos fatos jurídicos constantes da denúncia",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Por isso, peço vênia para acompanhar a divergência iniciada pelo Ministro Carlos Ayres Britto, entendendo que não cabe dar outra classificação aos fatos jurídicos constantes da denúncia",
+                "fonte": "p. 76",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Sustenta que a locação não exigiria autorização em lei, de modo que o fato não se enquadraria no inciso V (p. 75-76).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": null,
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto não juntado ao acórdão: todas as intervenções de Celso de Mello constam como 'CANCELADO' (p. 67, 77, 80); posição conhecida só pelo extrato de ata. Vencido quanto à tipificação: manteve o inciso II.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu estou julgando improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Se ele não é, nos termos e à luz da denúncia, nem proprietário nem condômino do imóvel, e se a tipificação está de acordo com o que consta a título de descrição do fato na denúncia, não tenho alternativa senão julgar absolutamente improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Se ele não é, nos termos e à luz da denúncia, nem proprietário nem condômino do imóvel, e se a tipificação está de acordo com o que consta a título de descrição do fato na denúncia, não tenho alternativa senão julgar absolutamente improcedente a ação. || Ata: O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 79; p. 84",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Não menciona o art. 383 do CPP nem a reclassificação; vincula o julgamento à descrição do fato na denúncia (propriedade do imóvel pelo réu) e, não provada essa premissa, julga improcedente em vez de reclassificar. A ata o registra 'concordando com a tipificação da denúncia'.",
+              "fundamento_proprio": "Absolve por não se provar o pressuposto fático da imputação (propriedade/condomínio do imóvel pelo réu José Abelardo)."
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC nº 70.671-1/PI, Tribunal Pleno, Rel. Min. Carlos Velloso; HC nº 71.991-1/MG, Primeira Turma, Rel. Min. Sydney Sanches; RHC nº 73.210-1/PA, Segunda Turma, Rel. Min. Maurício Corrêa",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Pode-se enquadrar, assim, o crime praticado por ex-prefeito quando no exercício efetivo do cargo no tipo penal previsto na norma do inciso V do art. 1º do Decreto-Lei nº 201/67, já definido nesta Suprema Corte como crime comum (HC nº 70.671-1/PI, Tribunal Pleno, Relator Ministro Carlos Velloso, DJ de 19/5/95; [...])",
+          "fonte": "p. 1-2 (ementa)"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "art. 359-D do Código Penal, introduzido pela Lei nº 10.028/2000",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Trata-se, em essência, do mesmo tipo comum atualmente previsto no art. 359-D - introduzido no Código Penal pela Lei nº 10.028/2000 - para punir todos os servidores públicos responsáveis pela função de ordenador de despesas que ordená-las sem autorização legal",
+          "fonte": "p. 47"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "INQ nº 571/DF-QO, Tribunal Pleno, Rel. Min. Sepúlveda Pertence; INQ nº 1028/RS-QO-QO, Tribunal Pleno, Rel. Min. Moreira Alves",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Insta, ainda, destacar, consoante posicionamento jurisprudencial desta Colenda Corte Constitucional, que a competência penal originária por prerrogativa de função do STF [...] não acarreta a nulidade da denúncia oferecida, nem dos atos processuais praticados anteriormente perante a justiça competente à época dos fatos.",
+          "fonte": "p. 42-44"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "RE nº 602.527/RS (Repercussão Geral por Questão de Ordem), Rel. Min. Cezar Peluso",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "o Plenário desta Suprema Corte, na Repercussão Geral por Questão de Ordem no RE nº 602.527/RS, de Relatoria do Ministro Cezar Peluso (DJe de 18/12/09), reafirmou a jurisprudência no sentido da impossibilidade de aplicação da chamada prescrição antecipada ou em perspectiva por ausência previsão legal.",
+          "fonte": "p. 48"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "RE nº 602.527/RS",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Afasto a prescrição perspectiva, numa questão de ordem que Vossa Excelência decidiu no Recurso Extraordinário nº 602.527/RS",
+          "fonte": "p. 69"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC nº 76.618/SP, Primeira Turma, Rel. Min. Moreira Alves",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Nesse sentido, o seguinte precedente desta Suprema Corte: [...] (HC nº 76.618/SP, Primeira Turma, da relatoria do Min. Moreira Alves, DJ de 5/5/98).",
+          "fonte": "p. 65-66"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei nº 12.234/2010 (aplicação da redação anterior dos arts. 109 e 110 do CP)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "tenho como consumada a prescrição da pretensão punitiva, de acordo com o estatuído no inciso VI do art. 109 do Código Penal, com sua redação anterior à Lei nº 12.234/10",
+          "fonte": "p. 66"
+        }
+      ],
+      "obs": "Os votos 'Condena' da maioria nesta unidade são condenação pelo mesmo fato no tipo reclassificado (inciso V, unidade I02), não pelo inciso II; só Ayres Britto, Marco Aurélio e Celso de Mello condenaram pelo inciso II. voto_resultado foi registrado como o resultado do ministro para o réu, que coincide com o banco. Joaquim Barbosa ausente justificadamente (ata p. 84), não incluído. Condenação seguida de prescrição da pretensão punitiva e extinção da punibilidade (p. 66, p. 84)."
+    },
+    {
+      "id_unidade": "AP-441-R02-I02",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": {
+        "valor": "Mesmo fato da unidade I01, reclassificado por emendatio libelli (art. 383 do CPP).",
+        "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+        "fonte": "p. 48",
+        "confianca": "alta"
+      },
+      "voto_condutor": {
+        "valor": "Dias Toffoli",
+        "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal || Nessa conformidade, é o caso de reconhecer-se a subsunção da conduta dos agentes ao tipo elementar, para condená-los pela prática do crime previsto no inciso V do art. 1º do DL nº 201/67.",
+        "fonte": "p. 48; p. 59",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "por maioria de votos, em julgar procedente a ação penal, reconhecendo a prática do delito previsto no art. 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II, do referido decreto.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "É cabível dar ao fato narrado na denúncia definição jurídica diversa da nela indicada (emendatio libelli, art. 383 do CPP), reenquadrando-o em outro tipo penal (aqui, art. 1º, V, do DL 201/67: ordenar ou efetuar despesas não autorizadas por lei)?",
+            "evidencia": "Denúncia. Tipificação inadequada. Emendatio libelli. Possibilidade. Ausência dos elementos objetivos do tipo. Mera ordenação de despesas não autorizadas por lei.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+            "fonte": "p. 84",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Indago: esses fatos, tais como contidos na denúncia, tais como comprovados na fase de instrução da ação penal, consubstanciam o que previsto no artigo 1º do inciso II ou inciso V?",
+            "fonte": "p. 74"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "por maioria de votos, em julgar procedente a ação penal, reconhecendo a prática do delito previsto no art. 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II, do referido decreto.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Fica, assim, pelo meu voto, definitivamente condenado o réu WALTER MIOSI à pena de quatro (4) meses de detenção, substituída pela pena de multa de treze (13) dias-multa",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+                "fonte": "p. 48",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Assim, tenho que é o caso de dar aos fatos narrados na denúncia nova definição jurídica, analisando-os à luz do disposto no inciso V do art. 1º do Decreto-Lei nº 201/67, nos termos do que dispõe o art. 383 do Código de Processo Penal",
+                "fonte": "p. 48",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afasta também o inciso X (pedido da defesa) e o inciso III; fundamenta a reclassificação no art. 383 do CPP (p. 46-48).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Até aqui eu estou de acordo com o Ministro Toffoli.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação. Entendo, pelos autos, que o Ministério Público logrou o intento de comprovar o elemento subjetivo do tipo, mas também procedo àquela emendatio libelli a que o Ministro Toffoli se referiu, que é a aplicação que afasta a norma do inciso II, que define o crime equiparado ao peculato de uso, para enquadrar o fato no tipo penal previsto na norma do inciso V do artigo 1º do Decreto-Lei nº 201.",
+                "fonte": "p. 69",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirma a emendatio expressamente, remetendo ao relator.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Adesão e posição inferidas.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Adesão e posição inferidas.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, eu também. Discutimos aqui um pouco antes, antecipando as coisas, e chegamos a essa conclusão uniforme dos seis anos. || Ata: reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 81; p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Senhor Presidente, eu vou pedir vênia para divergir. Essa desclassificação implica uma redução da pena abstrata, que é de dois a doze anos de reclusão, para três meses a três anos de detenção [...] Originária, tipificação originária da denúncia.",
+                "fonte": "p. 72",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, eu vou pedir vênia para divergir. Essa desclassificação implica uma redução da pena abstrata, que é de dois a doze anos de reclusão, para três meses a três anos de detenção [...] Originária, tipificação originária da denúncia.",
+                "fonte": "p. 72",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "O argumento inicial da divergência é consequencialista: a desclassificação reduz a pena abstrata e leva à prescrição (p. 72).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Não há circunstâncias agravantes, atenuantes; não há também causa de aumento ou diminuição da pena, então estabeleço, como pena final, os seis anos.",
+                "fonte": "p. 81",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por isso, peço vênia para acompanhar a divergência iniciada pelo Ministro Carlos Ayres Britto, entendendo que não cabe dar outra classificação aos fatos jurídicos constantes da denúncia",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Por isso, peço vênia para acompanhar a divergência iniciada pelo Ministro Carlos Ayres Britto, entendendo que não cabe dar outra classificação aos fatos jurídicos constantes da denúncia",
+                "fonte": "p. 76",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Sustenta que a locação não exigiria autorização em lei, de modo que o fato não se enquadraria no inciso V (p. 75-76).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": null,
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto não juntado ao acórdão: todas as intervenções de Celso de Mello constam como 'CANCELADO' (p. 67, 77, 80); posição conhecida só pelo extrato de ata. Vencido quanto à tipificação: manteve o inciso II.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu estou julgando improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Se ele não é, nos termos e à luz da denúncia, nem proprietário nem condômino do imóvel, e se a tipificação está de acordo com o que consta a título de descrição do fato na denúncia, não tenho alternativa senão julgar absolutamente improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Se ele não é, nos termos e à luz da denúncia, nem proprietário nem condômino do imóvel, e se a tipificação está de acordo com o que consta a título de descrição do fato na denúncia, não tenho alternativa senão julgar absolutamente improcedente a ação. || Ata: O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 79; p. 84",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Não menciona o art. 383 do CPP nem a reclassificação; vincula o julgamento à descrição do fato na denúncia (propriedade do imóvel pelo réu) e, não provada essa premissa, julga improcedente em vez de reclassificar. A ata o registra 'concordando com a tipificação da denúncia'.",
+              "fundamento_proprio": "Absolve por não se provar o pressuposto fático da imputação (propriedade/condomínio do imóvel pelo réu José Abelardo)."
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Preenchidos, assim, os requisitos do tipo legal incriminado, deve-se examinar a presença do elemento subjetivo nas condutas de ambos os réus.",
+            "fonte": "p. 51",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+            "fonte": "p. 84",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Preenchidos, assim, os requisitos do tipo legal incriminado, deve-se examinar a presença do elemento subjetivo nas condutas de ambos os réus.",
+            "fonte": "p. 51"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "Dolo configurado. Infração reconhecida. Continuidade delitiva. Não ocorrência. || No caso, o órgão ministerial público se desincumbiu do seu dever processual de demonstrar a vontade livre e consciente dos agentes em realizar a conduta típica.",
+            "fonte": "p. 1; p. 2",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "generico",
+            "evidencia": "A incidência da norma que se extrai do inciso V do art. 1º do DL 201/67 depende da presença de um claro elemento subjetivo do agente político: a vontade livre e consciente (dolo) de ordenar ou executar despesa não autorizada por lei.",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Fica, assim, pelo meu voto, definitivamente condenado o réu WALTER MIOSI à pena de quatro (4) meses de detenção, substituída pela pena de multa de treze (13) dias-multa",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Preenchidos, assim, os requisitos do tipo legal incriminado, deve-se examinar a presença do elemento subjetivo nas condutas de ambos os réus.",
+                "fonte": "p. 51",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Em relação a Walter Miosi, que disse desconhecer a existência de qualquer vedação legal que pudesse impedir a locação entre o Município e cônjuge de servidor, seu proceder também afasta a propalada ocorrência de erro de proibição. [...] o que demonstra que a contração, nesse caso, foi deliberadamente formalizada em nome de Walter, exatamente no afã de 'driblar' a norma proibitiva.",
+                "fonte": "p. 58-59",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afasta erro de proibição: a locação teria sido formalizada em nome do marido para 'driblar' a norma proibitiva; cita a conclusão do PGR de que Walter 'tinha ciência dos fatos' (p. 57).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação.",
+                "fonte": "p. 69",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Até aqui eu estou de acordo com o Ministro Toffoli.",
+                "fonte": "p. 69",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação. Entendo, pelos autos, que o Ministério Público logrou o intento de comprovar o elemento subjetivo do tipo, mas também procedo àquela emendatio libelli a que o Ministro Toffoli se referiu, que é a aplicação que afasta a norma do inciso II, que define o crime equiparado ao peculato de uso, para enquadrar o fato no tipo penal previsto na norma do inciso V do artigo 1º do Decreto-Lei nº 201.",
+                "fonte": "p. 69",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirma em uma frase que o MP 'logrou o intento de comprovar o elemento subjetivo do tipo', sem fundamentação própria; não distingue os réus.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+                "fonte": "p. 70",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Não trata do dolo; adere ao relator. Posição inferida.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+                "fonte": "p. 71",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Não trata do dolo; adere ao relator. Posição inferida.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Posição inferida.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber.",
+                "fonte": "p. 84",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": "Dias Toffoli"
+              },
+              "posicao_detalhe": "Sem peça nem intervenção no acórdão; contado(a) na maioria pela ata. Posição inferida.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Senhor Presidente, eu também. Discutimos aqui um pouco antes, antecipando as coisas, e chegamos a essa conclusão uniforme dos seis anos. || Ata: reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 81; p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Eu tive o cuidado de ver aqui no processo que há documentos e testemunhas que me levam à conclusão de que, efetivamente, o enquadramento que o Ministério Público fez no inciso II do artigo 1º é de rigor técnico; daí porque eu o estou subscrevendo.",
+                "fonte": "p. 75",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Eu tive o cuidado de ver aqui no processo que há documentos e testemunhas que me levam à conclusão de que, efetivamente, o enquadramento que o Ministério Público fez no inciso II do artigo 1º é de rigor técnico; daí porque eu o estou subscrevendo.",
+                "fonte": "p. 75",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "Condena pelo art. 1º, II (tipificação originária da denúncia), não pelo inciso V."
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Não há circunstâncias agravantes, atenuantes; não há também causa de aumento ou diminuição da pena, então estabeleço, como pena final, os seis anos.",
+                "fonte": "p. 81",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Creio que, de duas uma, Presidente: ou enquadramos a prática no inciso II, e penso que o enquadramento procede, tal como preconizado pelo Ministério Público Federal o endosso à denúncia apresentada na origem, ou não temos como enquadrar, a meu ver, no inciso V do artigo 1º do Decreto-Lei nº 201/1967.",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Creio que, de duas uma, Presidente: ou enquadramos a prática no inciso II, e penso que o enquadramento procede, tal como preconizado pelo Ministério Público Federal o endosso à denúncia apresentada na origem, ou não temos como enquadrar, a meu ver, no inciso V do artigo 1º do Decreto-Lei nº 201/1967.",
+                "fonte": "p. 76",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirma, na dosimetria: 'Quanto à dosimetria da pena, considerado o tipo do inciso II, para mim o elemento subjetivo é o dolo; do inciso V, é a culpa.' (p. 81), o que diverge da leitura da maioria (dolo exigido no inciso V).",
+              "fundamento_proprio": "Condena pelo art. 1º, II, não pelo inciso V."
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "reconhecida a prescrição, contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67, contra o voto do Senhor Ministro Cezar Peluso (Presidente) que, concordando com a tipificação da denúncia, julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no artigo 1º, inciso II do referido decreto.",
+                "fonte": "p. 84",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto não juntado ao acórdão: todas as intervenções de Celso de Mello constam como 'CANCELADO' (p. 67, 77, 80); posição conhecida só pelo extrato de ata.",
+              "fundamento_proprio": "Condena pelo art. 1º, II (segundo a ata), não pelo inciso V."
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Eu estou julgando improcedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Eu não encontrei nenhuma prova de que ele fosse proprietário ou condômino. [...] Em outras palavras: não se configurou o fato tido por criminoso, simplesmente porque não se provou o pressuposto desse fato e que seria a propriedade do imóvel",
+                "fonte": "p. 79",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "Eu não encontrei nenhuma prova de que ele fosse proprietário ou condômino. [...] Em outras palavras: não se configurou o fato tido por criminoso, simplesmente porque não se provou o pressuposto desse fato e que seria a propriedade do imóvel",
+                "fonte": "p. 79",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "Absolve por não se provar o pressuposto fático da imputação (propriedade do imóvel pelo réu José Abelardo)."
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC nº 70.671-1/PI, Tribunal Pleno, Rel. Min. Carlos Velloso; HC nº 71.991-1/MG, Primeira Turma, Rel. Min. Sydney Sanches; RHC nº 73.210-1/PA, Segunda Turma, Rel. Min. Maurício Corrêa",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Pode-se enquadrar, assim, o crime praticado por ex-prefeito quando no exercício efetivo do cargo no tipo penal previsto na norma do inciso V do art. 1º do Decreto-Lei nº 201/67, já definido nesta Suprema Corte como crime comum (HC nº 70.671-1/PI, Tribunal Pleno, Relator Ministro Carlos Velloso, DJ de 19/5/95; [...])",
+          "fonte": "p. 1-2 (ementa)"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "art. 359-D do Código Penal, introduzido pela Lei nº 10.028/2000",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Trata-se, em essência, do mesmo tipo comum atualmente previsto no art. 359-D - introduzido no Código Penal pela Lei nº 10.028/2000 - para punir todos os servidores públicos responsáveis pela função de ordenador de despesas que ordená-las sem autorização legal",
+          "fonte": "p. 47"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "INQ nº 571/DF-QO, Tribunal Pleno, Rel. Min. Sepúlveda Pertence; INQ nº 1028/RS-QO-QO, Tribunal Pleno, Rel. Min. Moreira Alves",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Insta, ainda, destacar, consoante posicionamento jurisprudencial desta Colenda Corte Constitucional, que a competência penal originária por prerrogativa de função do STF [...] não acarreta a nulidade da denúncia oferecida, nem dos atos processuais praticados anteriormente perante a justiça competente à época dos fatos.",
+          "fonte": "p. 42-44"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "RE nº 602.527/RS (Repercussão Geral por Questão de Ordem), Rel. Min. Cezar Peluso",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "o Plenário desta Suprema Corte, na Repercussão Geral por Questão de Ordem no RE nº 602.527/RS, de Relatoria do Ministro Cezar Peluso (DJe de 18/12/09), reafirmou a jurisprudência no sentido da impossibilidade de aplicação da chamada prescrição antecipada ou em perspectiva por ausência previsão legal.",
+          "fonte": "p. 48"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "RE nº 602.527/RS",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Afasto a prescrição perspectiva, numa questão de ordem que Vossa Excelência decidiu no Recurso Extraordinário nº 602.527/RS",
+          "fonte": "p. 69"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC nº 76.618/SP, Primeira Turma, Rel. Min. Moreira Alves",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Nesse sentido, o seguinte precedente desta Suprema Corte: [...] (HC nº 76.618/SP, Primeira Turma, da relatoria do Min. Moreira Alves, DJ de 5/5/98).",
+          "fonte": "p. 65-66"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei nº 12.234/2010 (aplicação da redação anterior dos arts. 109 e 110 do CP)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "tenho como consumada a prescrição da pretensão punitiva, de acordo com o estatuído no inciso VI do art. 109 do Código Penal, com sua redação anterior à Lei nº 12.234/10",
+          "fonte": "p. 66"
+        }
+      ],
+      "obs": "voto_resultado coincide com o banco em todos os ministros. Ayres Britto, Marco Aurélio e Celso de Mello votam 'Condena', mas pelo inciso II, não pelo inciso V: são vencidos quanto à tipificação e à pena. Pena da maioria: 4 meses de detenção convertidos em 13 dias-multa, seguida de prescrição e extinção da punibilidade (p. 66, p. 84). Joaquim Barbosa ausente justificadamente, não incluído."
+    }
+  ],
+  "avisos": [
+    "A divergência no resultado (condena/absolve) não está numa pergunta de prova do fato nem de dolo, mas na tipificação. Maioria: os fatos não se amoldam ao inciso II, cabe emendatio para o inciso V, condena. Peluso: não se amoldam ao inciso II (falta prova da propriedade do imóvel pelo réu), não reclassifica, absolve. Ayres Britto, Marco Aurélio e Celso de Mello: amoldam-se ao inciso II, condenam. Nenhuma das duas perguntas sozinha separa o condena/absolve; é a combinação delas. Por isso as duas foram registradas como 'outra' nas unidades I01.",
+    "Escolha da principal: em I01 (imputação pelo inciso II), principal = tipicidade no inciso II, onde o placar sobre o inciso II se separou (3 a 7). Em I02 (inciso V), principal = cabimento da emendatio, onde os 4 votos contra a condenação pelo inciso V se separaram da maioria. Dolo entra em I02 como pergunta secundária: ementa e relator o tratam extensamente, mas ninguém o negou.",
+    "O codebook não tem categoria para tipificação/enquadramento típico nem para correlação entre denúncia e sentença (emendatio libelli). Candidatas a categoria nova: 'tipicidade' e/ou 'classificação jurídica do fato'. O fundamento de Peluso (pressuposto fático do tipo não provado: propriedade do imóvel) fica entre materialidade e tipicidade; não é 'concorreu'.",
+    "Peluso não menciona o art. 383 do CPP. A posição 'nao' dele sobre a emendatio vem da expressão 'concordando com a tipificação da denúncia' (acórdão p. 3, ata p. 84) e da p. 79; confiança média. O texto dele trata só de José Abelardo; a improcedência alcança a ação inteira, o que inclui Walter Miosi.",
+    "Celso de Mello: voto não juntado, intervenções 'CANCELADO'. Sua posição sobre a tipificação vem só da ata. Por isso enfrentou_a_questao = null nas perguntas de tipificação.",
+    "Gilmar Mendes e Rosa Weber não têm peça nem intervenção. Foram tratados como 'Adesao' à maioria, com base na ata (por maioria, não listados entre os vencidos); confiança baixa.",
+    "Marco Aurélio afirma (p. 81) que o elemento subjetivo do inciso V 'é a culpa', em oposição à ementa (dolo, vontade livre e consciente). padrao_dolo_exigido = 'generico' foi lido da ementa (p. 2), não do corpo do voto do relator, que fala em 'intenção firme e deliberada' e ciência.",
+    "Tensão interna no relator sobre o ônus da prova do dolo: no voto (p. 54-55), cabe à defesa provar o desconhecimento (art. 156 do CPP); na ementa (p. 2), o MP 'se desincumbiu' de demonstrar o dolo.",
+    "Precedentes: as citações de INQ 571 e INQ 1028 (competência), RE 602.527 (prescrição antecipada), HC 76.618 e Lei 12.234/2010 (prescrição) servem a preliminares ou à prescrição, não à questão decisiva. Foram listadas porque fazem parte da fundamentação da unidade. Os HCs 70.671, 71.991 e o RHC 73.210 aparecem só na ementa."
+  ]
+}

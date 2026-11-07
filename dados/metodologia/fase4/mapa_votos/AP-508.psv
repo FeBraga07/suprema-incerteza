@@ -1,0 +1,16 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-508|1|ementa||1|1||todos||||
+AP-508|2|acordao||1|1||todos||||assinado por Gilmar Mendes, redator do acórdão (art. 38, IV, b, RISTF); sessão virtual de 25/06 a 02/08/2021
+AP-508|3|relatorio|Marco Aurélio|2|8||todos||||
+AP-508|4|voto|Marco Aurélio|9|13|Sim|todos|Absolve|Não|lido|relator; "Publicado sem revisão. Art. 95 do RISTF" (p.13)
+AP-508|5|voto|Gilmar Mendes|14|18|Sim|todos|Absolve|Não|lido|revisor e redator do acórdão; peça rotulada "Voto Vogal" no cabeçalho das páginas
+AP-508|6|extrato_ata||19|19||todos||||sessão virtual; traz só a "Composição", sem registro de ausências
+AP-508|7|extrato_ata|Luiz Fux|19|19|Nao|todos|Absolve|Não|sem_evidencia|presidente; consta da composição (p.19); nenhuma peça no acórdão
+AP-508|8|extrato_ata|Ricardo Lewandowski|19|19|Nao|todos|Absolve|Não|sem_evidencia|consta da composição (p.19); nenhuma peça no acórdão
+AP-508|9|extrato_ata|Cármen Lúcia|19|19|Nao|todos|Absolve|Não|sem_evidencia|consta da composição (p.19); nenhuma peça no acórdão
+AP-508|10|extrato_ata|Dias Toffoli|19|19|Nao|todos|Absolve|Não|sem_evidencia|consta da composição (p.19); nenhuma peça no acórdão
+AP-508|11|extrato_ata|Rosa Weber|19|19|Nao|todos|Absolve|Não|sem_evidencia|consta da composição (p.19); nenhuma peça no acórdão
+AP-508|12|extrato_ata|Roberto Barroso|19|19|Nao|todos|Absolve|Não|sem_evidencia|consta da composição (p.19); nenhuma peça no acórdão
+AP-508|13|extrato_ata|Edson Fachin|19|19|Nao|todos|Absolve|Não|sem_evidencia|consta da composição (p.19); nenhuma peça no acórdão
+AP-508|14|extrato_ata|Alexandre de Moraes|19|19|Nao|todos|Absolve|Não|sem_evidencia|consta da composição (p.19); nenhuma peça no acórdão
+AP-508|15|extrato_ata|Nunes Marques|19|19|Nao|todos|Absolve|Não|sem_evidencia|consta da composição (p.19); nenhuma peça no acórdão

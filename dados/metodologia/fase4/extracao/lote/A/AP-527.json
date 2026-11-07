@@ -1,0 +1,591 @@
+{
+  "id_caso": "AP-527",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-25 (todas)",
+  "unidades": [
+    {
+      "id_unidade": "AP-527-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "Escopo já decidido no banco (copiado do prompt, sem busca de evidência).",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Dias Toffoli",
+        "evidencia": "Ante o exposto, com fundamento no art. 386, inciso V, do Código de Processo Penal, julgo improcedente o pedido, absolvendo o réu da imputação de violação do art. 89, caput, da Lei n° 8.666/93.",
+        "fonte": "p. 24",
+        "confianca": "media"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Ausência do elemento subjetivo do tipo. Pedido julgado improcedente, com a absolvição do réu com fundamento no art. 386, V, do Código de Processo Penal.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. [R5b: unânime e as duas questões com a mesma resposta]",
+            "fonte": "p. 25",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado ao réu. Não restou demonstrada a vontade livre e conscientemente dirigida a superar a necessidade de realização da licitação.",
+            "fonte": "p. 19"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Não restou demonstrada a vontade livre e conscientemente dirigida a superar a necessidade de realização da licitação.",
+            "fonte": "p. 1-2 (ementa, item 2); p. 19 (voto)",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "especifico",
+            "evidencia": "Pressupõe o tipo, além do necessário dolo simples (vontade consciente e livre de contratar independentemente da realização de prévio procedimento licitatório), a intenção de produzir um prejuízo aos cofres públicos por meio do afastamento indevido da licitação.",
+            "fonte": "p. 19",
+            "confianca": "alta"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Ante o exposto, com fundamento no art. 386, inciso V, do Código de Processo Penal, julgo improcedente o pedido, absolvendo o réu da imputação de violação do art. 89, caput, da Lei n° 8.666/93.",
+                "fonte": "p. 24",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado ao réu. Não restou demonstrada a vontade livre e conscientemente dirigida a superar a necessidade de realização da licitação.",
+                "fonte": "p. 19",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Não restou demonstrada a vontade livre e conscientemente dirigida a superar a necessidade de realização da licitação.",
+                "fonte": "p. 19",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Exige, além do dolo simples, a intenção de produzir prejuízo aos cofres públicos (p. 19); acrescenta a falta de demonstração de ciência do réu sobre as contratações sem licitação (p. 21-22).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "nos termos dos votos do Relator e do Revisor",
+                "fonte": "p. 25",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Revisor. A ata e o acórdão (p. 2) decidem nos termos do seu voto, mas o texto do voto não está juntado ao acórdão; não há como saber, por leitura, se fundamentou nesta questão nem como a respondeu.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presidiu o julgamento o Senhor Ministro Cezar Peluso.",
+                "fonte": "p. 25",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "baixa",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Presidiu o julgamento; não consta da lista de 'Presentes' porque a ata o registra na presidência. Voto deduzido da unanimidade, sem texto.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "não identifico, nos autos, indício de prova fora da responsabilidade penal objetiva, ou seja, indício concreto de que o denunciado tenha participado de qualquer ato que ensejasse sua intervenção corretiva para impedir a prática do delito (art. 13, § 2°, do Código Penal). De igual modo, não há indício algum de que tenha determinado esse procedimento irregular.",
+            "fonte": "p. 24",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. [R5b: unânime e as duas questões com a mesma resposta]",
+            "fonte": "p. 25",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "não há indício algum de que tenha determinado esse procedimento irregular.",
+            "fonte": "p. 24"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Com isso, o fato de aparecer o denunciado, então prefeito municipal, como responsável pelo pagamento de ínfima parcela contratualmente ajustada, não tem o condão de transformá-lo em agente do ilícito.",
+            "fonte": "p. 23-24",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "não tem o condão de transformá-lo em agente do ilícito. [...] De igual modo, não há indício algum de que tenha determinado esse procedimento irregular.",
+            "fonte": "p. 24",
+            "confianca": "media"
+          },
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Ante o exposto, com fundamento no art. 386, inciso V, do Código de Processo Penal, julgo improcedente o pedido, absolvendo o réu da imputação de violação do art. 89, caput, da Lei n° 8.666/93.",
+                "fonte": "p. 24",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Todos os demais pagamentos foram assinados e autorizados diretamente pelo Secretário Municipal de Finanças, ordenador de despesa regularmente investido de poderes para essa finalidade, independentemente de prévio conhecimento e aval do Prefeito Municipal.",
+                "fonte": "p. 19",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não identifico, nos autos, indício de prova fora da responsabilidade penal objetiva, ou seja, indício concreto de que o denunciado tenha participado de qualquer ato que ensejasse sua intervenção corretiva para impedir a prática do delito (art. 13, § 2°, do Código Penal). De igual modo, não há indício algum de que tenha determinado esse procedimento irregular.",
+                "fonte": "p. 24",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "A única ordem de pagamento assinada pelo réu (n° 02572, R$ 1.586,72) estava abaixo do limite de dispensa (p. 19); o executor do convênio era a Secretaria Municipal de Finanças, não o prefeito (p. 23-24). Afasta também a omissão imprópria (art. 13, § 2°, CP).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "nos termos dos votos do Relator e do Revisor",
+                "fonte": "p. 25",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Revisor. A ata e o acórdão (p. 2) decidem nos termos do seu voto, mas o texto do voto não está juntado ao acórdão; não há como saber, por leitura, se fundamentou nesta questão nem como a respondeu.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presidiu o julgamento o Senhor Ministro Cezar Peluso.",
+                "fonte": "p. 25",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "baixa",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Presidiu o julgamento; não consta da lista de 'Presentes' porque a ata o registra na presidência. Voto deduzido da unanimidade, sem texto.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.",
+                "fonte": "p. 25",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+                "fonte": "p. 25",
+                "confianca": "media",
+                "inferida_de": "Relator (Dias Toffoli) e Revisor (Celso de Mello), nos termos da ata; só o voto do Relator está juntado ao acórdão"
+              },
+              "posicao_detalhe": "Sem voto escrito; contado na unanimidade da ata.",
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Inq 571/DF-QO, Rel. Min. SEPÚLVEDA PERTENCE, DJU de 5/3/1993",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Insta, ainda, destacar, consoante posicionamento jurisprudencial desta Colenda Corte Constitucional, que a competência penal originária do STF [...] não acarreta a nulidade da denúncia oferecida, nem dos atos processuais praticados anteriormente perante a justiça competente à época dos fatos.",
+          "fonte": "p. 16-18"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Inq 1028-6-QO, Rel. Min. MOREIRA ALVES, DJU de 16/5/1997",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "é válida a denúncia oferecida pelo Ministério Público antes de ocorrer a competência superveniente desta Corte, independentemente de ratificação pela Procuradoria-Geral da República.",
+          "fonte": "p. 18"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Inq. n° 2646/RN - Tribunal Pleno, DJe de 7/5/10 (Rel. Min. Ayres Britto)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "a incidência da norma penal referida pelo Ministério Público está a depender da presença de um claro elemento subjetivo que não enxergo neste caso: a vontade livre e consciente (dolo) de lesar o Erário.",
+          "fonte": "p. 20"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Inquérito n° 2.027/RO (voto-vista do próprio Ministro Dias Toffoli)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "Em voto-vista de minha lavra, no Inquérito n° 2.027/RO, ao analisar questão análoga atinente ao elemento volitivo do tipo, já tive a oportunidade de destacar que, na verdade, se não se pode, pura e simplesmente, imputar ao governador de Estado (ou, como no caso, ao prefeito municipal) a responsabilidade pela execução dos convênios que assina",
+          "fonte": "p. 21"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "AP n° 430/RS, Tribunal Pleno, DJe de 26/9/08 (Rel. Min. Cármen Lúcia)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "esta Suprema Corte decidiu, sendo Relatora a Ministra Cármen Lúcia, que a ausência de provas da frustração dolosa do caráter competitivo da licitação conduz ao resultado de improcedência da ação com a absolvição do réu (AP n° 430/RS, Tribunal Pleno, DJe de 26/9/08).",
+          "fonte": "p. 23"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC n° 84.620/RS, Rel. Min. Ellen Gracie, Segunda Turma, DJ de 12/10/04",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "ficou claro que por \"eventual irregularidade na prestação de informações à autoridade judiciária sobre registros de consumidor, em bancos de dados, deve ser responsabilizado, penalmente, o funcionário responsável, e não o presidente da instituição\"",
+          "fonte": "p. 23"
+        }
+      ],
+      "obs": "O acórdão (p. 2) e a ata (p. 25) atribuem a decisão aos votos 'do Relator e do Revisor', mas só o voto do Relator (Dias Toffoli) está juntado; por isso ele é registrado como condutor (único que fundamenta no texto), com confiança média. Gilmar Mendes ausente ('Ausente, neste julgamento, o Senhor Ministro Gilmar Mendes', p. 25): não é votante e não tem entrada em posicoes. As duas imputações do art. 89 (pagamentos à Disbracon e à Negrelli) foram tratadas em conjunto pelo voto, sem separação por fato. voto_resultado de todos os votantes coincide com o banco (Absolve)."
+    }
+  ],
+  "avisos": [
+    "Tensão entre a linguagem do voto e o inciso: a ementa fala em 'Ausência do elemento subjetivo do tipo' (dolo), mas a absolvição se funda no art. 386, V, do CPP, que na redação vigente em 16/12/2010 (pós-Lei 11.690/2008) é 'não existir prova de ter o réu concorrido para a infração penal' (concorreu). Pela R2 segui a linguagem do voto, que usa as duas: registrei dolo e concorreu, ambas principais pela R5b (caso unânime, mesma resposta 'nao').",
+    "A pergunta que o próprio relator formula (p. 21-22: 'saber se o fato de aparecer o denunciado, nominalmente, como responsável pelo convênio, sem demonstração de sua ciência de que serviços outros complementares tenham sido contratados sem a devida observância do procedimento licitatório adequado, conduz automaticamente à tipificação') mistura ciência (dolo) e atribuição do ato ao réu (concorreu/responsabilidade objetiva). Não a usei como formulação de nenhuma das duas; escolhi trechos mais limpos de cada linha.",
+    "modo_concurso = autor com confiança média: o voto nega que o réu tenha 'determinado' o procedimento e que seja 'agente do ilícito', e afasta também a via omissiva do art. 13, § 2°, CP; não usa as palavras autor/partícipe.",
+    "Celso de Mello (revisor): voto não juntado; enfrentou_a_questao e posicao ficaram null por falta de texto. Não o marquei como Adesao porque a ata decide 'nos termos' do seu voto, o que sugere fundamentação própria não disponível.",
+    "Os outros 7 ministros: Adesao inferida da unanimidade da ata, sem nenhum texto; posição inferida do Relator/Revisor. Cezar Peluso presidiu; seu voto está deduzido da unanimidade, com confiança baixa.",
+    "Precedentes: Inq 571-QO e Inq 1028-QO sustentam a preliminar de competência/validade dos atos anteriores (R6: não é questão decisiva), mas estão na fundamentação do voto e foram listados. O Inq 571-QO, como transcrito, fala em 'REVISÃO DA JURISPRUDÊNCIA DO TRIBUNAL', mas o relator o cita para seguir, não como superação feita neste caso. O RHC 7844/PA do STJ aparece só no acórdão do TJPR transcrito no relatório e não foi listado.",
+    "PGR pediu a absolvição (p. 15: 'por falta de provas de sua anuência e efetivo envolvimento nos fatos, nos termos do art. 386, inciso V'); acusação e defesa convergiram, como o relator registra (p. 18)."
+  ]
+}

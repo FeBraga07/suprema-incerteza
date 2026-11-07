@@ -1,0 +1,34 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-396|1|ementa||1|2||AP-396-R01||||título "ACÓRDÃO" no pé da p.2
+AP-396|2|acordao||3|3||AP-396-R01||||assinado pela Relatora
+AP-396|3|relatorio|Cármen Lúcia|4|16||AP-396-R01||||itens 18-20 (p.15-16) relatam a renúncia ao mandato e anunciam a questão de ordem
+AP-396|4|voto|Cármen Lúcia|17|77|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto escrito único e sem apartes, com quatro partes: questão de ordem suscitada pela Relatora (p.17-27), preliminares 1ª a 6ª (p.27-56), "MÉRITO" (p.56-69, dispositivo no item 77, p.69), dosimetria (p.69-77); texto de mérito localizado (D-034)
+AP-396|5|voto|Dias Toffoli|78|80|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto s/ questão de ordem (a da linha 4, p.17-27); fala como Revisor
+AP-396|6|debate|Joaquim Barbosa;Dias Toffoli;Cezar Peluso|81|81||AP-396-R01||||sobre a questão de ordem; Joaquim Barbosa declara nela que está "antecipando" o voto s/ questão de ordem e não tem outra peça sobre ela
+AP-396|7|voto|Ricardo Lewandowski|82|82|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto s/ questão de ordem; curto
+AP-396|8|voto|Ayres Britto|83|83|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto s/ questão de ordem; curto; segunda linha ilegível no OCR (p.83)
+AP-396|9|voto|Gilmar Mendes|84|86|Sim|AP-396-R01|Não votou|Não|lido|voto s/ questão de ordem; é a única peça do ministro, que não votou no mérito nem na dosimetria (acórdão p.3; ata p.151)
+AP-396|10|voto|Ellen Gracie|87|87|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto s/ questão de ordem; curto; cabeçalho "TRIBUNAL PLENO" e grafia em caixa baixa (peça de formato distinto)
+AP-396|11|voto|Marco Aurélio|88|89|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto s/ questão de ordem; sem título "VOTO" no corpo
+AP-396|12|voto|Cezar Peluso|90|93|Sim|AP-396-R01|Condena|Sim|lido|voto s/ questão de ordem; fala como Presidente; apartes de Joaquim Barbosa, Gilmar Mendes e Ayres Britto (p.92-93)
+AP-396|13|debate|Cezar Peluso;Cármen Lúcia;Dias Toffoli;Ellen Gracie;Ayres Britto;Joaquim Barbosa;Ricardo Lewandowski|94|101||AP-396-R01||||aberto pelo Presidente (p.94), já na fase de mérito; Ricardo Lewandowski tem intervenção longa (p.98-99); inclui falas do advogado do réu, Bruno Rodrigues (p.100-101)
+AP-396|14|voto_aditamento|Dias Toffoli|102|104|Sim|AP-396-R01|Condena|Não|sem_evidencia|título "Aditamento ao voto"; interrupções de Cezar Peluso, Cármen Lúcia e Ellen Gracie; fala de Dias Toffoli marcada "CANCELADO" (p.103); fecha com "É como voto, Presidente, nessa questão de ordem" (p.104), referindo-se ao ponto aberto no debate da linha 13
+AP-396|15|voto|Ricardo Lewandowski|105|105|Adesao|AP-396-R01|Condena|Não|sem_evidencia|voto de mérito de 4 linhas; remete "às razões que já expus" (intervenção no debate, p.98-99)
+AP-396|16|voto_aditamento|Joaquim Barbosa|106|106|Sim|AP-396-R01|Condena|Não|sem_evidencia|título "Aditamento ao voto"; responde ao ponto aberto no debate da linha 13; precede o voto de mérito (linha 17)
+AP-396|17|voto|Joaquim Barbosa|107|109|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto de mérito; o cabeçalho grafa "JOAQUIM BARBOSA (RELATOR)" (conferir PDF); conclui acompanhando a Relatora (p.109)
+AP-396|18|voto|Marco Aurélio|110|111|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto de mérito; sem título "VOTO" no corpo; conclui acompanhando a Relatora (p.111); trata do art. 288
+AP-396|19|voto|Cezar Peluso|112|113|Sim|AP-396-R01|Condena|Sim|lido|voto de mérito; trata só do art. 288, um dos dois crimes imputados; não há peça do ministro sobre o art. 312 nem sobre a dosimetria (só falas no debate da linha 20)
+AP-396|20|debate|Marco Aurélio;Dias Toffoli;Cezar Peluso;Cármen Lúcia;Joaquim Barbosa;Ricardo Lewandowski|114|116||AP-396-R01||||sem título no corpo; fase de dosimetria; inclui falas do advogado do réu (p.115)
+AP-396|21|voto|Ricardo Lewandowski|117|117|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto s/ dosimetria; aparte de Cármen Lúcia; nota "Texto sem revisão da Exma. Sra. Ministra Cármen Lúcia"
+AP-396|22|voto|Joaquim Barbosa|118|118|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto s/ dosimetria; apartes de Cezar Peluso
+AP-396|23|outro|Cármen Lúcia|119|119|Sim|AP-396-R01|Condena|Não|sem_evidencia|título "Retificação de voto" (dosimetria); diálogo com Cezar Peluso, Joaquim Barbosa e Marco Aurélio; nota "Texto sem revisão da Exma. Sra. Ministra Cármen Lúcia"
+AP-396|24|voto|Ayres Britto|120|120|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto s/ dosimetria; curto
+AP-396|25|outro|Ricardo Lewandowski;Cezar Peluso;Dias Toffoli;Ayres Britto|121|121||AP-396-R01||||título "Voto"; esclarecimento de Ricardo Lewandowski sobre a dosimetria e confirmação de Ayres Britto ("Acompanho o Revisor"); fala de Dias Toffoli "(CANCELADO)"
+AP-396|26|voto|Ellen Gracie|122|122|Adesao|AP-396-R01|Condena|Não|sem_evidencia|voto s/ dosimetria; 3 linhas, acompanha integralmente a Relatora; mesmo formato distinto da linha 10
+AP-396|27|voto|Marco Aurélio|123|123|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto s/ dosimetria; título só "(QUANTO À DOSIMETRIA DA PENA)"; apartes de Ricardo Lewandowski e Dias Toffoli
+AP-396|28|debate|Dias Toffoli;Cármen Lúcia;Cezar Peluso;Joaquim Barbosa;Ricardo Lewandowski;Ayres Britto;Marco Aurélio|124|125||AP-396-R01||||aberto por Dias Toffoli com remissão ao "último parágrafo" do seu voto escrito (linha 29, p.150)
+AP-396|29|voto|Dias Toffoli|126|150|Sim|AP-396-R01|Condena|Não|sem_evidencia|voto escrito do Revisor, juntado ao fim do acórdão (fora da ordem cronológica); o cabeçalho grafa "DIAS TOFFOLI (RELATOR)" (conferir PDF); preliminares p.129-135 (transcreve ementas de precedentes, p.130-135), mérito p.135-144, dosimetria p.145-150; texto de mérito localizado (D-034)
+AP-396|30|extrato_ata||151|152||AP-396-R01||||lista de presentes (p.152) com ordem embaralhada pelo OCR
+AP-396|31|extrato_ata|Ellen Gracie|151|151|Nao|AP-396-R01|Condena|Não|sem_evidencia|não há peça de mérito da ministra (só questão de ordem, linha 10, e dosimetria, linha 26); o voto de mérito existe só na contagem do acórdão (p.3) e da ata (p.151)
+AP-396|32|extrato_ata|Ayres Britto|151|151|Nao|AP-396-R01|Condena|Não|sem_evidencia|não há peça de mérito do ministro (só questão de ordem, linha 8, apartes nos debates e dosimetria, linhas 24-25); o voto de mérito existe só na contagem do acórdão (p.3) e da ata (p.151)
+AP-396|33|extrato_ata|Celso de Mello|151|151|Nao|AP-396-R01|Não votou|Não|lido|sem peça; ausente segundo a ata

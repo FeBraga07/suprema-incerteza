@@ -1,0 +1,292 @@
+{
+  "_validacao_gabarito": "GABARITO_VALIDACAO.md marca os campos de placar da AP-441 como 'a apurar' — a planilha antiga tinha n_votantes=10, votos_condenacao=9, votos_absolvicao=1, mas sem registro de como foram verificados. A extração cega desta sessão, lendo a ata diretamente, chegou aos MESMOS números (10/9/1) de forma independente e com evidência literal completa — o que resolve a pendência do gabarito a favor desses valores. Também confirma, sem ter visto o D-015, o achado ali registrado sobre o voto por tipificação (Ayres Britto, Marco Aurélio e Celso de Mello pelo inciso II; maioria de 6 pelo V).",
+  "id_caso": "AP-441",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-441.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Crime de responsabilidade de Prefeito Municipal - Decreto-Lei nº 201/67, art. 1º (denúncia por inciso II; classificação final por inciso V, via emendatio libelli)",
+      "evidencia": "Tipo previsto no art. 1º, inciso II, do Decreto-Lei nº 201, de 27/2/67. Denúncia. Tipificação inadequada. Emendatio libelli. Possibilidade. (...) Tipificação de crime diverso (art. 1º, inciso V, do Decreto-Lei nº 201, de 27/2/67)",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, por maioria, julgou procedente a ação penal, reconhecendo a prática do delito previsto no artigo 1º, inciso V, do Decreto-Lei nº 201/67 (...) Condenados os réus a 4 (quatro) meses de detenção, convertida em 13 (treze) dias-multa e, em conseqüência, reconhecida a prescrição",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 2,
+      "evidencia": "RÉU(É)(S) : J. A. G. C. (...) RÉU(É)(S) : W. M.",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Decisão: O Tribunal, por maioria, julgou procedente a ação penal (...) Plenário, 08.03.2012.",
+      "fonte": "ata",
+      "confianca": "media"
+    },
+    "modalidade_levcovitz": {"valor": [5], "rotulos": ["Emprego irregular de verbas ou rendas públicas (art. 315, CP, ou equivalente via DL 201/67)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-441, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"5 (equivalente a despesas não autorizadas / emprego irregular)\"", "regra_aplicada": "inclusao_dl201", "fonte": "ementa+ata", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "José Abelardo Guimarães Camarinha",
+        "evidencia": "O Ministério Público do Estado de São Paulo, em 8/6/06, ofereceu denúncia contra José Abelardo Guimarães Camarinha, ex-prefeito de Marília/SP, e contra Walter Miosi",
+        "fonte": "acordao p.4",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Prefeito Municipal de Marília/SP à época dos fatos; ex-Prefeito e, no momento do julgamento, Deputado Federal",
+        "evidencia": "Ação penal. Ex-prefeito municipal. Atual deputado federal. (...) o denunciado JOSÉ ABELARDO, na condição de Prefeito Municipal de Marília, no exercício do cargo, celebrou o contrato de locação",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação",
+        "evidencia": "Fica, assim, pelo meu voto, definitivamente condenado o réu JOSÉ ABELARDO GUIMARÃES CAMARINHA à pena de quatro (4) meses de detenção, substituída pela pena de multa de treze (13) dias-multa (...) por infração ao disposto no art. 1º, inciso V, do Decreto-Lei nº 201/67",
+        "fonte": "acordao p.62",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "prescrição",
+        "evidencia": "Nessa conformidade, considerando a pena concretizada (...) tenho como consumada a prescrição da pretensão punitiva, de acordo com o estatuído no inciso VI do art. 109 do Código Penal (...) declaro EXTINTA A PUNIBILIDADE dos agentes pelos fatos que lhes foram imputados",
+        "fonte": "acordao p.66",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": true,
+        "evidencia": "Condenados os réus a 4(quatro) meses de detenção, tendo sido a pena convertida em 13(treze) dias-multa. Na sequência, foi reconhecida a prescrição da pretensão punitiva",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 1º, inciso II c/c art. 71 (denúncia original)",
+          "diploma": "Decreto-Lei nº 201/67 c/c Código Penal",
+          "evidencia": "denuncia (...) JOSÉ ABELARDO GUIMARÃES CAMARINHA como incurso, por seis vezes, no artigo 1º, inciso II, do Decreto-lei 201, de 27 de fevereiro de 1967, combinado com o artigo 71, do Código Penal"
+        },
+        {
+          "artigo": "art. 1º, inciso V (classificação final por emendatio libelli, sem continuidade delitiva)",
+          "diploma": "Decreto-Lei nº 201/67 c/c art. 60, §§, do Código Penal",
+          "evidencia": "condenado o réu JOSÉ ABELARDO GUIMARÃES CAMARINHA (...) por infração ao disposto no art. 1º, inciso V, do Decreto-Lei nº 201/67, c/c o art. 60, §§, do Código Penal"
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber [+ Presidente Cezar Peluso]. Ausente, justificadamente, o Senhor Ministro Joaquim Barbosa.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 9,
+        "evidencia": "por maioria de votos (...) contra o voto do Senhor Ministro Cezar Peluso (Presidente) (...) julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 1,
+        "evidencia": "contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "por maioria de votos (...) contra o voto do Senhor Ministro Cezar Peluso (...) e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Walter Miosi",
+        "evidencia": "O Ministério Público do Estado de São Paulo, em 8/6/06, ofereceu denúncia contra José Abelardo Guimarães Camarinha, ex-prefeito de Marília/SP, e contra Walter Miosi",
+        "fonte": "acordao p.4",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Particular; não é servidor ou funcionário público municipal. Proprietário/locador do imóvel; cônjuge de Marildes Lavigni da Silva Miosi, servidora municipal comissionada (cargo de confiança do prefeito). Respondeu por concurso de pessoas (art. 29 do CP).",
+        "evidencia": "não sendo o defendente servidor ou funcionário público municipal, não possuindo qualquer vínculo ou liame profissional ou pessoal com o Município de Marília ou com o ex-Prefeito Municipal",
+        "fonte": "acordao p.16",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação",
+        "evidencia": "Fica, assim, pelo meu voto, definitivamente condenado o réu WALTER MIOSI à pena de quatro (4) meses de detenção, substituída pela pena de multa de treze (13) dias-multa (...) por infração ao disposto no art. 1º, inciso V, do Decreto-Lei nº 201/67 c/c o art. 60, §§ e 29, ambos do Código Penal",
+        "fonte": "acordao p.63",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "prescrição",
+        "evidencia": "tenho como consumada a prescrição da pretensão punitiva (...) declaro EXTINTA A PUNIBILIDADE dos agentes pelos fatos que lhes foram imputados na presente ação penal",
+        "fonte": "acordao p.66",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": true,
+        "evidencia": "Condenados os réus a 4(quatro) meses de detenção, tendo sido a pena convertida em 13(treze) dias-multa. Na sequência, foi reconhecida a prescrição da pretensão punitiva",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 1º, inciso II c/c arts. 29 e 71 (denúncia original)",
+          "diploma": "Decreto-Lei nº 201/67 c/c Código Penal",
+          "evidencia": "WALTER MIOSI como incurso no artigo 1º, inciso II, do Decreto-lei 201, de 27 de fevereiro de 1967, combinado com os artigos 29 e 71, do Código Penal"
+        },
+        {
+          "artigo": "art. 1º, inciso V, na forma do art. 29 CP (classificação final por emendatio libelli, sem continuidade delitiva)",
+          "diploma": "Decreto-Lei nº 201/67 c/c arts. 60, §§ e 29 do Código Penal",
+          "evidencia": "condenado o réu WALTER MIOSI (...) por infração ao disposto no art. 1º, inciso V, do Decreto-Lei nº 201/67 c/c o art. 60, §§ e 29, ambos do Código Penal"
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber [+ Presidente Cezar Peluso]. Ausente, justificadamente, o Senhor Ministro Joaquim Barbosa.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 9,
+        "evidencia": "por maioria de votos (...) contra o voto do Senhor Ministro Cezar Peluso (Presidente) (...) julgava improcedente a ação penal, e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello, que reconheciam a prática do delito previsto no art. 1º, inciso II",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 1,
+        "evidencia": "contra o voto do Senhor Ministro Cezar Peluso (Presidente), que, concordando com a tipificação da denúncia, julgava improcedente a ação penal",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "por maioria de votos (...) contra o voto do Senhor Ministro Cezar Peluso (...) e contra os votos dos Senhores Ministros Ayres Britto, Marco Aurélio e Celso de Mello",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": true,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Fica, assim, pelo meu voto, definitivamente condenado o réu JOSÉ ABELARDO GUIMARÃES CAMARINHA (...) por infração ao disposto no art. 1º, inciso V, do Decreto-Lei nº 201/67",
+      "fonte": "acordao p.62"
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "O SENHOR MINISTRO LUIZ FUX (REVISOR) - Senhor Presidente, na qualidade de revisor, estou acolhendo a acusação. (...) Até aqui eu estou de acordo com o Ministro Toffoli.",
+      "fonte": "acordao p.69"
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Eu também, Senhor Presidente, acolho na forma da reclassificação e afasto a prescrição quanto à pena em perspectiva.",
+      "fonte": "acordao p.70"
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Senhor Presidente, julgo procedente a ação penal e também estou de acordo com a reclassificação procedida pelo eminente Relator.",
+      "fonte": "acordao p.71"
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presente à sessão; não consta manifestação individual transcrita no acórdão; integra a maioria de 6 votos que sustentou a reclassificação para o inciso V (10 votantes menos os 4 votos expressamente contrários registrados na ata: Peluso, Ayres Britto, Marco Aurélio e Celso de Mello).",
+      "fonte": "deducao D-004"
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Presente à sessão; não consta manifestação individual transcrita no acórdão; integra a maioria de 6 votos que sustentou a reclassificação para o inciso V (10 votantes menos os 4 votos expressamente contrários registrados na ata: Peluso, Ayres Britto, Marco Aurélio e Celso de Mello).",
+      "fonte": "deducao D-004"
+    },
+    {
+      "ministro": "Ayres Britto",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Senhor Presidente, eu vou pedir vênia para divergir. (...) tipificação originária da denúncia [inciso II] (...) fixo a pena-base em três anos (...) estabeleço, como pena final, os seis anos",
+      "fonte": "acordao p.72,81"
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "o contexto direciona (...) para a situação jurídica apanhada pelo inciso II do artigo 1º (...) fixo a pena-base em três anos (...) então estabeleço, como pena final, os seis anos",
+      "fonte": "acordao p.73-77,81"
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "contra os votos dos Senhores Ministros Ayres Britto e Marco Aurélio, que os condenavam a 6 (seis) anos de reclusão, e do Ministro Celso de Mello, que os condenava a 2 (dois) anos e 4 (quatro) meses, aplicando a pena de inabilitação temporária",
+      "fonte": "ata"
+    },
+    {
+      "ministro": "Cezar Peluso",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Eu estou julgando improcedente a ação.",
+      "fonte": "acordao p.79"
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "ausente, justificadamente",
+      "evidencia": "Ausente, justificadamente, o Senhor Ministro Joaquim Barbosa.",
+      "fonte": "ata"
+    }
+  ],
+  "avisos": [
+    "Os cabeçalhos do acórdão e da ata identificam os réus apenas por iniciais ('J. A. G. C.' e 'W. M.'), sugerindo anonimização formal da publicação. No entanto, os nomes completos (José Abelardo Guimarães Camarinha e Walter Miosi) aparecem repetidamente, por extenso, no corpo do Relatório, do Voto do Relator e dos demais votos — inclusive em trechos transcritos da própria denúncia. A extração dos nomes completos foi feita a partir dessa evidência textual interna ao documento, não de conhecimento externo ao caso, por isso confiança 'alta' e não 'baixa'. Registra-se a divergência entre cabeçalho (anonimizado) e corpo (nominal) como achado do processo de coleta.",
+    "A votação teve duas camadas distintas, ambas refletidas na ata: (1) sobre a tipificação/resultado de mérito — 9 votos por reconhecer a prática do crime (6 sob o inciso V, por reclassificação do Relator; 3 sob o inciso II, divergência de Ayres Britto, Marco Aurélio e Celso de Mello) contra 1 voto (Cezar Peluso) pela absolvição/improcedência; e (2) sobre o reconhecimento da prescrição já com a classificação do inciso V vencedora — nessa segunda votação, os mesmos 3 ministros (Ayres Britto, Marco Aurélio, Celso de Mello) votaram CONTRA o reconhecimento da prescrição, pois defendiam pena maior (6 anos, ou 2 anos e 4 meses) sob o inciso II, que não estaria prescrita. O campo 'votos' desta extração registra apenas a primeira camada (condena/absolve); o placar da segunda camada (prescrição) não tem campo próprio no esquema solicitado e fica registrado apenas neste aviso.",
+    "Conforme Regra D-018, o campo 'resultado' de ambos os réus foi registrado como 'Condenação' (não 'Extinção da punibilidade'), pois há condenação de mérito anterior e explícita (4 meses de detenção, convertidos em 13 dias-multa) para ambos os réus, com a extinção da punibilidade por prescrição intercorrente ocorrendo em ato subsequente. O campo 'motivo' foi registrado como 'prescrição' e 'prescricao_pos_condenacao' como true.",
+    "No texto do acórdão, diversas falas do Ministro Celso de Mello durante o debate aparecem marcadas como 'CANCELADO' (aparentemente excluídas/expurgadas da publicação oficial do inteiro teor). Isso não impediu a extração do seu voto final, que consta de forma explícita e inequívoca no Extrato de Ata (condenava os réus a 2 anos e 4 meses, sob o inciso II, com pena de inabilitação).",
+    "A composição da sessão registrada na ata (Presidência de Cezar Peluso; presentes Celso de Mello, Marco Aurélio, Gilmar Mendes, Ayres Britto, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux e Rosa Weber; ausente justificadamente Joaquim Barbosa) corresponde exatamente aos 11 ministros da tabela de composição fornecida para a data de 08/03/2012, sem divergências.",
+    "Walter Miosi não ocupava cargo público; foi condenado como partícipe (art. 29 do CP) por 'comunicabilidade' das elementares do crime próprio de prefeito (art. 30 do CP), na qualidade de marido da servidora municipal comissionada Marildes Lavigni da Silva Miosi e de contratante/locador do imóvel objeto do contrato tido por irregular.",
+    "Não foi encontrada, em nenhum ponto do texto lido, menção a suspeição, impedimento ou qualquer outra ausência além da de Joaquim Barbosa."
+  ]
+}

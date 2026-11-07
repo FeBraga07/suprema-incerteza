@@ -1,0 +1,16 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-940|1|ementa||1|1||todos||||
+AP-940|2|acordao||1|1||todos||||sessão virtual de 25/03 a 01/04/2022; unanimidade nos termos do voto do Relator
+AP-940|3|relatorio|Gilmar Mendes|2|5|Sim|todos||||
+AP-940|4|voto|Gilmar Mendes|6|36|Sim|todos|Absolve|Não|lido|Relator; preliminares p6-13; mérito a partir de p13: 1º fato p14-17, 2º fato p17-23, 3º fato p23-36; conclusão p36; o banco não separa fatos (coluna fato vazia)
+AP-940|5|voto|Ricardo Lewandowski|37|52|Sim|todos|Absolve|Não|lido|Revisor, mas a peça é rotulada "Voto Vogal" no cabeçalho; declara acompanhar o Relator com razões próprias; preliminares a partir de p38; itens (i) p42-44, (ii) p44-47, (iii) p47-52 (limites aproximados)
+AP-940|6|voto|Alexandre de Moraes|53|71|Sim|todos|Absolve|Não|lido|rotulado "Voto Vogal"; síntese da acusação p53-56; preliminares p56-59; mérito p59-71: 1º fato p60-61, 2º fato p61-62, 3º fato a partir de p62 (limites aproximados); conclusão p71
+AP-940|7|extrato_ata||72|72||todos||||composição de 11 ministros; Luiz Fux preside
+AP-940|8|extrato_ata|Luiz Fux|72|72|Nao|todos|Absolve|Não|deduzido|Presidente; sem peça no acórdão; julgamento virtual; contado na unanimidade da ata
+AP-940|9|extrato_ata|Cármen Lúcia|72|72|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; julgamento virtual; contada na unanimidade da ata
+AP-940|10|extrato_ata|Dias Toffoli|72|72|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; julgamento virtual; contado na unanimidade da ata
+AP-940|11|extrato_ata|Rosa Weber|72|72|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; julgamento virtual; contada na unanimidade da ata
+AP-940|12|extrato_ata|Roberto Barroso|72|72|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; julgamento virtual; contado na unanimidade da ata
+AP-940|13|extrato_ata|Edson Fachin|72|72|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; julgamento virtual; contado na unanimidade da ata
+AP-940|14|extrato_ata|Nunes Marques|72|72|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; julgamento virtual; contado na unanimidade da ata
+AP-940|15|extrato_ata|André Mendonça|72|72|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; julgamento virtual; contado na unanimidade da ata

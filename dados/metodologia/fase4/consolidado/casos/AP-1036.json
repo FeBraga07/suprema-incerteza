@@ -1,0 +1,476 @@
+{
+ "id_caso": "AP-1036",
+ "lido_em": "2026-10-12",
+ "paginas_lidas": "1-57 (todas)",
+ "unidades": [
+  {
+   "id_unidade": "AP-1036-R01-I01",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo Levcovitz já decidido no banco e informado no prompt do lote (art. 317, caput e § 1º, CP); copiado sem busca de evidência, conforme instrução.",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Dias Toffoli",
+    "evidencia": "acordam os Ministros do Supremo Tribunal Federal, em sessão virtual do Plenário de 15 a 22/9/23, na conformidade da ata do julgamento e nos termos do voto do Relator, Ministro Dias Toffoli, por unanimidade de votos",
+    "fonte": "p. 1-2",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "concorreu",
+      "evidencia": "Os documentos bancários juntados comprovam unicamente saques de recursos da conta administrada pelo colaborador, mas não há nos autos sequer indícios que liguem tais pagamentos ao réu",
+      "fonte": "p. 24",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": null,
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Ante o exposto, considero não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual ele deve ser absolvido, nos termos do art. 386, inciso VII, do CPP.",
+      "fonte": "p. 25",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "não há nos autos sequer indícios que liguem tais pagamentos ao réu",
+      "fonte": "p. 24"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator.",
+      "fonte": "p. 57",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": {
+      "valor": "autor",
+      "evidencia": "O Ministério Público, na peça acusatória, alega que o acusado, no segundo semestre de 2009, solicitou para si, diretamente, vantagem indevida para votar e interceder junto aos demais Deputados",
+      "fonte": "p. 13",
+      "confianca": "media"
+     },
+     "posicoes": [
+      {
+       "ministro": "Dias Toffoli",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "considero não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual ele deve ser absolvido, nos termos do art. 386, inciso VII, do CPP.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Os documentos bancários juntados comprovam unicamente saques de recursos da conta administrada pelo colaborador, mas não há nos autos sequer indícios que liguem tais pagamentos ao réu",
+        "fonte": "p. 24",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Elas não permitem a realização de nenhuma inferência quanto ao seu destinatário, sendo atribuídas ao réu, de novo e apenas, com base nas palavras do colaborador.",
+        "fonte": "p. 20",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Prova da solicitação/recebimento repousa só na palavra do colaborador, sem elementos externos de corroboração (art. 4º, § 16, da Lei 12.850/13); ERBs não confirmam os locais de entrega; nenhuma intervenção específica ou atípica do réu no trâmite do PL 213/09 (p. 23-25).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Rosa Weber",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "voto pela absolvição do réu EZEQUIEL FERREIRA DE SOUZA, acusado da prática de corrupção passiva (artigo 317, caput e § 1º, do Código Penal), o que faço por força do artigo 386, inciso VII, do Código de Processo Penal.",
+        "fonte": "p. 56",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "a prova do saque de quantia compatível com a narrativa do colaborador, ou, dito de outro modo, a só operação suspeita na conta do Instituto, com o deslocamento do colaborador em dada área, não tem o condão de conduzir a uma inferência probatória segura quanto ao efetivo recebimento da quantia pelo acusado EZEQUIEL FERREIRA DE SOUZA.",
+        "fonte": "p. 43",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "reputo não haver elementos suficientes para a prolação de um decreto condenatório contra EZEQUIEL FERREIRA DE SOUZA, pela alegada prática do crime de corrupção passiva, na modalidade “solicitar”.",
+        "fonte": "p. 37",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Fundamentação própria (Revisora), separando as modalidades 'solicitar' (p. 35-37) e 'receber' (p. 37-55). Reconhece prova documental parcialmente corroborante (saque de R$ 150 mil e ligação de 22 s nas imediações da casa do pai do réu, p. 42) e gravação 'lamentavelmente suspeita' (p. 51), mas conclui que não se atinge o standard além de dúvida razoável. Na conclusão (p. 55) usa a fórmula 'com consciência e vontade de produzir o resultado criminoso', mas a análise é de prova do recebimento, não de dolo.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Gilmar Mendes",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator. Afirmou suspeição o Ministro Alexandre de Moraes.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, [...] o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado [...] nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media",
+        "inferida_de": "Dias Toffoli (Relator) — adesão inferida da decisão unânime 'nos termos do voto do Relator' e da composição da sessão virtual; não há peça própria no acórdão"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator. Afirmou suspeição o Ministro Alexandre de Moraes.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, [...] o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado [...] nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media",
+        "inferida_de": "Dias Toffoli (Relator) — adesão inferida da decisão unânime 'nos termos do voto do Relator' e da composição da sessão virtual; não há peça própria no acórdão"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Luiz Fux",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator. Afirmou suspeição o Ministro Alexandre de Moraes.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, [...] o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado [...] nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media",
+        "inferida_de": "Dias Toffoli (Relator) — adesão inferida da decisão unânime 'nos termos do voto do Relator' e da composição da sessão virtual; não há peça própria no acórdão"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Roberto Barroso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator. Afirmou suspeição o Ministro Alexandre de Moraes.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, [...] o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado [...] nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media",
+        "inferida_de": "Dias Toffoli (Relator) — adesão inferida da decisão unânime 'nos termos do voto do Relator' e da composição da sessão virtual; não há peça própria no acórdão"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Edson Fachin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator. Afirmou suspeição o Ministro Alexandre de Moraes.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, [...] o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado [...] nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media",
+        "inferida_de": "Dias Toffoli (Relator) — adesão inferida da decisão unânime 'nos termos do voto do Relator' e da composição da sessão virtual; não há peça própria no acórdão"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Nunes Marques",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator. Afirmou suspeição o Ministro Alexandre de Moraes.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, [...] o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado [...] nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media",
+        "inferida_de": "Dias Toffoli (Relator) — adesão inferida da decisão unânime 'nos termos do voto do Relator' e da composição da sessão virtual; não há peça própria no acórdão"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "André Mendonça",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator. Afirmou suspeição o Ministro Alexandre de Moraes.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, [...] o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado [...] nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media",
+        "inferida_de": "Dias Toffoli (Relator) — adesão inferida da decisão unânime 'nos termos do voto do Relator' e da composição da sessão virtual; não há peça própria no acórdão"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cristiano Zanin",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado pelo crime descrito na denúncia (art. 317, caput e § 1º, do Código Penal), motivo pelo qual o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator. Afirmou suspeição o Ministro Alexandre de Moraes.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade, [...] o absolveu (art. 386, inciso VII, do CPP), nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade, considerou não haver prova suficiente para a condenação do acusado [...] nos termos do voto do Relator.",
+        "fonte": "p. 57",
+        "confianca": "media",
+        "inferida_de": "Dias Toffoli (Relator) — adesão inferida da decisão unânime 'nos termos do voto do Relator' e da composição da sessão virtual; não há peça própria no acórdão"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "concorreu",
+     "anotacao_tipicidade": null,
+     "anotacoes": [
+      "prova_colaboracao"
+     ],
+     "sim_favorece": "acusacao"
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Dias Toffoli",
+     "tipo": "precedente_citado",
+     "referencia": "Ação Penal nº 1.003, DJe de 6/12/18 (voto do Ministro Edson Fachin)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "a subsunção da conduta no tipo penal exige a demonstração de que o favorecimento negociado pelo agente público se traduza em potencial contraprestação pela prática, omissão ou retardamento de ato que esteja dentro das atribuições previstas para a função que exerce. [...] Colaciono, nesse sentido, trecho do voto do Ministro Edson Fachin na Ação Penal nº 1.003, DJe de 6/12/18",
+     "fonte": "p. 10",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Dias Toffoli",
+     "tipo": "precedente_citado",
+     "referencia": "AP nº 470, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe de 22/4/13",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse mesmo sentido, vide: [...] (AP nº 470, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe de 22/4/13 – grifos nossos).",
+     "fonte": "p. 11-12",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Dias Toffoli",
+     "tipo": "precedente_citado",
+     "referencia": "Inq nº 3.998/DF, Segunda Turma, red. do ac. Min. Dias Toffoli, DJe de 9/3/18",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "os termos de colaboração, na hipótese dos autos, não encontram respaldo em elementos externos de corroboração, o que contraria entendimento que vem sendo adotado por este Supremo Tribunal: [...] (Inq nº 3.998/DF Segunda Turma, red. do ac. Min. Dias Toffoli, DJe de 9/3/18).",
+     "fonte": "p. 23-24",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Rosa Weber",
+     "tipo": "precedente_citado",
+     "referencia": "Ação Penal nº 694 (de relatoria da Ministra; segredo de justiça)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "No julgamento da Ação Penal nº 694, da qual fui relatora, pontuei que se exige, para a configuração do delito, “apenas o nexo causal entre a oferta (ou promessa) de vantagem indevida e a função pública exercida",
+     "fonte": "p. 31",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Rosa Weber",
+     "tipo": "precedente_citado",
+     "referencia": "Ação Penal 470 (Plenário), incluindo o voto da própria Ministra",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "O precedente está alinhado com a jurisprudência do Plenário desta Suprema Corte, que, no julgamento da Ação Penal 470, estabeleceu a necessidade de uma relação entre a vantagem e um ato de ofício em potencial [...] Não divirjo dessa conclusão, revivendo, do meu voto proferido na mesma ação penal, a seguinte passagem",
+     "fonte": "p. 31",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Rosa Weber",
+     "tipo": "precedente_citado",
+     "referencia": "AP 676, de relatoria da Ministra, Primeira Turma, julgado em 17/10/2017, DJe 06-02-2018",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Tive oportunidade de afirmar, ainda antes da Lei nº 13.964/2019, que alterou a Lei nº 12.850/2013: “1. A colaboração premiada é meio de obtenção de prova [...]” (AP 676, de minha relatoria, Primeira Turma, julgado em 17/10/2017",
+     "fonte": "p. 55-56",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Rosa Weber",
+     "tipo": "mudanca_lei",
+     "referencia": "Lei nº 13.964/2019, que deu nova redação ao art. 4º, § 16, da Lei nº 12.850/2013",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Tive oportunidade de afirmar, ainda antes da Lei nº 13.964/2019, que alterou a Lei nº 12.850/2013: “1. [...] Não se placita, antes ou depois da Lei 12.850/2013, condenação fundada exclusivamente nas declarações do agente colaborador.",
+     "fonte": "p. 55",
+     "na_pagina_da_evidencia": false
+    }
+   ],
+   "obs": "Alexandre de Moraes afirmou suspeição (p. 2 e p. 57) e não votou; por isso não tem entrada em 'posicoes' (o banco registra 'Não votou', o que é consistente). Votantes: 10. Nenhuma divergência entre o voto_resultado lido e o banco. Só Toffoli (Relator) e Rosa Weber (Revisora) têm peça; os demais 8 votos são adesões deduzidas da ata (decisão unânime 'nos termos do voto do Relator').",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": [
+    {
+     "ministro": "Dias Toffoli",
+     "tipo": "precedente_citado",
+     "referencia": "Ação Penal nº 1.003, DJe de 6/12/18 (voto do Ministro Edson Fachin)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "a subsunção da conduta no tipo penal exige a demonstração de que o favorecimento negociado pelo agente público se traduza em potencial contraprestação pela prática, omissão ou retardamento de ato que esteja dentro das atribuições previstas para a função que exerce. [...] Colaciono, nesse sentido, trecho do voto do Ministro Edson Fachin na Ação Penal nº 1.003, DJe de 6/12/18",
+     "fonte": "p. 10",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Dias Toffoli",
+     "tipo": "precedente_citado",
+     "referencia": "AP nº 470, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe de 22/4/13",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Nesse mesmo sentido, vide: [...] (AP nº 470, Rel. Min. Joaquim Barbosa, Tribunal Pleno, DJe de 22/4/13 – grifos nossos).",
+     "fonte": "p. 11-12",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Dias Toffoli",
+     "tipo": "precedente_citado",
+     "referencia": "Inq nº 3.998/DF, Segunda Turma, red. do ac. Min. Dias Toffoli, DJe de 9/3/18",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "os termos de colaboração, na hipótese dos autos, não encontram respaldo em elementos externos de corroboração, o que contraria entendimento que vem sendo adotado por este Supremo Tribunal: [...] (Inq nº 3.998/DF Segunda Turma, red. do ac. Min. Dias Toffoli, DJe de 9/3/18).",
+     "fonte": "p. 23-24",
+     "na_pagina_da_evidencia": true
+    },
+    {
+     "ministro": "Rosa Weber",
+     "tipo": "precedente_citado",
+     "referencia": "Ação Penal nº 694 (de relatoria da Ministra; segredo de justiça)",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "No julgamento da Ação Penal nº 694, da qual fui relatora, pontuei que se exige, para a configuração do delito, “apenas o nexo causal entre a oferta (ou promessa) de vantagem indevida e a função pública exercida",
+     "fonte": "p. 31",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Rosa Weber",
+     "tipo": "precedente_citado",
+     "referencia": "Ação Penal 470 (Plenário), incluindo o voto da própria Ministra",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "O precedente está alinhado com a jurisprudência do Plenário desta Suprema Corte, que, no julgamento da Ação Penal 470, estabeleceu a necessidade de uma relação entre a vantagem e um ato de ofício em potencial [...] Não divirjo dessa conclusão, revivendo, do meu voto proferido na mesma ação penal, a seguinte passagem",
+     "fonte": "p. 31",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Rosa Weber",
+     "tipo": "precedente_citado",
+     "referencia": "AP 676, de relatoria da Ministra, Primeira Turma, julgado em 17/10/2017, DJe 06-02-2018",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Sim",
+     "evidencia": "Tive oportunidade de afirmar, ainda antes da Lei nº 13.964/2019, que alterou a Lei nº 12.850/2013: “1. A colaboração premiada é meio de obtenção de prova [...]” (AP 676, de minha relatoria, Primeira Turma, julgado em 17/10/2017",
+     "fonte": "p. 55-56",
+     "na_pagina_da_evidencia": false
+    },
+    {
+     "ministro": "Rosa Weber",
+     "tipo": "mudanca_lei",
+     "referencia": "Lei nº 13.964/2019, que deu nova redação ao art. 4º, § 16, da Lei nº 12.850/2013",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "Tive oportunidade de afirmar, ainda antes da Lei nº 13.964/2019, que alterou a Lei nº 12.850/2013: “1. [...] Não se placita, antes ou depois da Lei 12.850/2013, condenação fundada exclusivamente nas declarações do agente colaborador.",
+     "fonte": "p. 55",
+     "na_pagina_da_evidencia": false
+    }
+   ]
+  }
+ ],
+ "avisos": [
+  "Classificação 'concorreu' com confiança média: o núcleo dos votos é se há prova (além da palavra do colaborador) de que o réu solicitou/recebeu a vantagem — isto é, se ele praticou a conduta. A pergunta mistura materialidade (existência do pagamento) e autoria; o codebook não tem categoria separada para 'existência do fato', e Rosa Weber intitula a seção 'MÉRITO: MATERIALIDADE E AUTORIA' (p. 28). Um leitor poderia classificar como 'outra' ('Há elementos externos que corroborem as declarações do colaborador quanto à solicitação/recebimento da vantagem pelo réu?'), mas a corroboração é o modo de responder (suficiência de prova), não a pergunta.",
+  "Não é 'dolo': nenhum dos votos discute se o réu sabia/quis; a única menção é a fórmula de fecho de Rosa Weber ('com consciência e vontade de produzir o resultado criminoso', p. 55), em conclusão sobre prova do recebimento. Por isso padrao_dolo_exigido = null.",
+  "Tipicidade em tese (voto e intercessão de deputado estadual estão no espectro de atribuições do cargo) foi enfrentada por Toffoli (p. 10-14) e Rosa Weber (p. 28-32, 51-52) e respondida a favor da acusação; não decidiu o resultado, por isso não foi registrada como segunda questão. A competência do agente, de todo modo, integraria 'concorreu' (R7).",
+  "Rosa Weber separa 'solicitar' (p. 35-37) e 'receber' (p. 37-55), concluindo pela insuficiência de prova em ambas; Toffoli não separa modalidades. Não alterei a unidade (ajuste_unidade = null), pois a imputação é uma só (art. 317, caput e § 1º).",
+  "modo_concurso = 'autor' com confiança média: os votos não usam 'autor/partícipe'; a evidência é a narrativa da denúncia descrita no voto ('solicitou para si, diretamente').",
+  "Preliminar de ilicitude por derivação da interceptação (rejeitada por preclusão pro judicato, Toffoli p. 7-8; Rosa Weber p. 27-28, citando a AO 2.057/RN, Primeira Turma) não foi tratada como questão decisiva (R6) nem incluída em 'precedentes', por ser decisão anterior no próprio processo sobre preliminar.",
+  "Entrada 'mudanca_lei' (Lei 13.964/2019) registrada com cautela: Rosa Weber a menciona para dizer que a vedação de condenação só com a palavra do colaborador já valia antes da alteração; a mudança não altera o resultado.",
+  "Posições dos 8 ministros sem peça (Gilmar Mendes, Cármen Lúcia, Luiz Fux, Roberto Barroso, Edson Fachin, Nunes Marques, André Mendonça, Cristiano Zanin) são inferidas da ata (p. 57), por adesão ao Relator."
+ ],
+ "consolidado_em": "2026-10-18",
+ "base": "leitura A; decisões do gate (D-048, D-049) aplicadas por consolidar_fase4.py"
+}

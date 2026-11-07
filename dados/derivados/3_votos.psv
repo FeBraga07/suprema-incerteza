@@ -1,0 +1,928 @@
+id_voto|id_caso|id_caso_reu|fato|ministro|eh_relator|voto_resultado|voto_binario|acompanhou_relator|acompanhou_maioria|vencido|ausente|motivo_ausencia|fonte_voto
+1|AP-307|AP-307-R01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Moreira Alves|Não|Absolve|0|Sim|Sim|Não|Não||lido
+2|AP-307|AP-307-R01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Néri da Silveira|Não|Condena|1|Não|Não|Sim|Não||lido
+3|AP-307|AP-307-R01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Sydney Sanches|Não|Absolve|0|Sim|Sim|Não|Não||lido
+4|AP-307|AP-307-R01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Octavio Gallotti|Não|Absolve|0|Sim|Sim|Não|Não||lido
+5|AP-307|AP-307-R01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Sepúlveda Pertence|Não|Condena|1|Não|Não|Sim|Não||lido
+6|AP-307|AP-307-R01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+7|AP-307|AP-307-R01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Carlos Velloso|Não|Condena|1|Não|Não|Sim|Não||lido
+8|AP-307|AP-307-R01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Marco Aurélio|Não|Não votou||NA|NA|Não|Não|suspeição|lido
+9|AP-307|AP-307-R01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Ilmar Galvão|Sim|Absolve|0|NA|Sim|Não|Não||lido
+10|AP-307|AP-307-R01|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Francisco Rezek|Não|Não votou||NA|NA|Não|Sim|ausente|lido
+11|AP-307|AP-307-R01|episódio VASP-PETROBRÁS (financiamento de combustível)|Moreira Alves|Não|Absolve|0|Sim|Sim|Não|Não||lido
+12|AP-307|AP-307-R01|episódio VASP-PETROBRÁS (financiamento de combustível)|Néri da Silveira|Não|Absolve|0|Sim|Sim|Não|Não||lido
+13|AP-307|AP-307-R01|episódio VASP-PETROBRÁS (financiamento de combustível)|Sydney Sanches|Não|Absolve|0|Sim|Sim|Não|Não||lido
+14|AP-307|AP-307-R01|episódio VASP-PETROBRÁS (financiamento de combustível)|Octavio Gallotti|Não|Absolve|0|Sim|Sim|Não|Não||lido
+15|AP-307|AP-307-R01|episódio VASP-PETROBRÁS (financiamento de combustível)|Sepúlveda Pertence|Não|Absolve|0|Sim|Sim|Não|Não||lido
+16|AP-307|AP-307-R01|episódio VASP-PETROBRÁS (financiamento de combustível)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+17|AP-307|AP-307-R01|episódio VASP-PETROBRÁS (financiamento de combustível)|Carlos Velloso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+18|AP-307|AP-307-R01|episódio VASP-PETROBRÁS (financiamento de combustível)|Marco Aurélio|Não|Não votou||NA|NA|Não|Não|suspeição|lido
+19|AP-307|AP-307-R01|episódio VASP-PETROBRÁS (financiamento de combustível)|Ilmar Galvão|Sim|Absolve|0|NA|Sim|Não|Não||lido
+20|AP-307|AP-307-R01|episódio VASP-PETROBRÁS (financiamento de combustível)|Francisco Rezek|Não|Não votou||NA|NA|Não|Sim|ausente|lido
+21|AP-307|AP-307-R01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Moreira Alves|Não|Absolve|0|Sim|Sim|Não|Não||lido
+22|AP-307|AP-307-R01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Néri da Silveira|Não|Absolve|0|Sim|Sim|Não|Não||lido
+23|AP-307|AP-307-R01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Sydney Sanches|Não|Absolve|0|Sim|Sim|Não|Não||lido
+24|AP-307|AP-307-R01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Octavio Gallotti|Não|Absolve|0|Sim|Sim|Não|Não||lido
+25|AP-307|AP-307-R01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Sepúlveda Pertence|Não|Absolve|0|Sim|Sim|Não|Não||lido
+26|AP-307|AP-307-R01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+27|AP-307|AP-307-R01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Carlos Velloso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+28|AP-307|AP-307-R01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Marco Aurélio|Não|Não votou||NA|NA|Não|Não|suspeição|lido
+29|AP-307|AP-307-R01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Ilmar Galvão|Sim|Absolve|0|NA|Sim|Não|Não||lido
+30|AP-307|AP-307-R01|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Francisco Rezek|Não|Não votou||NA|NA|Não|Sim|ausente|lido
+31|AP-307|AP-307-R02|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Moreira Alves|Não|Absolve|0|Sim|Sim|Não|Não||lido
+32|AP-307|AP-307-R02|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Néri da Silveira|Não|Condena|1|Não|Não|Sim|Não||lido
+33|AP-307|AP-307-R02|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Sydney Sanches|Não|Absolve|0|Sim|Sim|Não|Não||lido
+34|AP-307|AP-307-R02|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Octavio Gallotti|Não|Absolve|0|Sim|Sim|Não|Não||lido
+35|AP-307|AP-307-R02|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Sepúlveda Pertence|Não|Condena|1|Não|Não|Sim|Não||lido
+36|AP-307|AP-307-R02|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+37|AP-307|AP-307-R02|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Carlos Velloso|Não|Condena|1|Não|Não|Sim|Não||lido
+38|AP-307|AP-307-R02|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Marco Aurélio|Não|Não votou||NA|NA|Não|Não|suspeição|lido
+39|AP-307|AP-307-R02|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Ilmar Galvão|Sim|Absolve|0|NA|Sim|Não|Não||lido
+40|AP-307|AP-307-R02|episódio Mercedes-Benz (ajuda à campanha de Sebastião Curió)|Francisco Rezek|Não|Não votou||NA|NA|Não|Sim|ausente|lido
+41|AP-307|AP-307-R02|episódio VASP-PETROBRÁS (financiamento de combustível)|Moreira Alves|Não|Absolve|0|Sim|Sim|Não|Não||lido
+42|AP-307|AP-307-R02|episódio VASP-PETROBRÁS (financiamento de combustível)|Néri da Silveira|Não|Absolve|0|Sim|Sim|Não|Não||lido
+43|AP-307|AP-307-R02|episódio VASP-PETROBRÁS (financiamento de combustível)|Sydney Sanches|Não|Absolve|0|Sim|Sim|Não|Não||lido
+44|AP-307|AP-307-R02|episódio VASP-PETROBRÁS (financiamento de combustível)|Octavio Gallotti|Não|Absolve|0|Sim|Sim|Não|Não||lido
+45|AP-307|AP-307-R02|episódio VASP-PETROBRÁS (financiamento de combustível)|Sepúlveda Pertence|Não|Absolve|0|Sim|Sim|Não|Não||lido
+46|AP-307|AP-307-R02|episódio VASP-PETROBRÁS (financiamento de combustível)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+47|AP-307|AP-307-R02|episódio VASP-PETROBRÁS (financiamento de combustível)|Carlos Velloso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+48|AP-307|AP-307-R02|episódio VASP-PETROBRÁS (financiamento de combustível)|Marco Aurélio|Não|Não votou||NA|NA|Não|Não|suspeição|lido
+49|AP-307|AP-307-R02|episódio VASP-PETROBRÁS (financiamento de combustível)|Ilmar Galvão|Sim|Absolve|0|NA|Sim|Não|Não||lido
+50|AP-307|AP-307-R02|episódio VASP-PETROBRÁS (financiamento de combustível)|Francisco Rezek|Não|Não votou||NA|NA|Não|Sim|ausente|lido
+51|AP-307|AP-307-R02|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Moreira Alves|Não|Absolve|0|Sim|Sim|Não|Não||lido
+52|AP-307|AP-307-R02|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Néri da Silveira|Não|Absolve|0|Sim|Sim|Não|Não||lido
+53|AP-307|AP-307-R02|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Sydney Sanches|Não|Absolve|0|Sim|Sim|Não|Não||lido
+54|AP-307|AP-307-R02|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Octavio Gallotti|Não|Absolve|0|Sim|Sim|Não|Não||lido
+55|AP-307|AP-307-R02|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Sepúlveda Pertence|Não|Absolve|0|Sim|Sim|Não|Não||lido
+56|AP-307|AP-307-R02|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+57|AP-307|AP-307-R02|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Carlos Velloso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+58|AP-307|AP-307-R02|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Marco Aurélio|Não|Não votou||NA|NA|Não|Não|suspeição|lido
+59|AP-307|AP-307-R02|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Ilmar Galvão|Sim|Absolve|0|NA|Sim|Não|Não||lido
+60|AP-307|AP-307-R02|episódio nomeação de Marcelo Ribeiro (Secretaria Nacional dos Transportes / TRATEX)|Francisco Rezek|Não|Não votou||NA|NA|Não|Sim|ausente|lido
+61|AP-307|AP-307-R03|corrupção passiva (art. 317, CP)|Moreira Alves|Não|Absolve|0|Sim|Sim|Não|Não||lido
+62|AP-307|AP-307-R03|corrupção passiva (art. 317, CP)|Néri da Silveira|Não|Absolve|0|Sim|Sim|Não|Não||lido
+63|AP-307|AP-307-R03|corrupção passiva (art. 317, CP)|Sydney Sanches|Não|Absolve|0|Sim|Sim|Não|Não||lido
+64|AP-307|AP-307-R03|corrupção passiva (art. 317, CP)|Octavio Gallotti|Não|Absolve|0|Sim|Sim|Não|Não||lido
+65|AP-307|AP-307-R03|corrupção passiva (art. 317, CP)|Sepúlveda Pertence|Não|Absolve|0|Sim|Sim|Não|Não||lido
+66|AP-307|AP-307-R03|corrupção passiva (art. 317, CP)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+67|AP-307|AP-307-R03|corrupção passiva (art. 317, CP)|Carlos Velloso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+68|AP-307|AP-307-R03|corrupção passiva (art. 317, CP)|Marco Aurélio|Não|Não votou||NA|NA|Não|Não|suspeição|lido
+69|AP-307|AP-307-R03|corrupção passiva (art. 317, CP)|Ilmar Galvão|Sim|Absolve|0|NA|Sim|Não|Não||lido
+70|AP-307|AP-307-R03|corrupção passiva (art. 317, CP)|Francisco Rezek|Não|Não votou||NA|NA|Não|Sim|ausente|lido
+71|AP-348|AP-348-R01||Eros Grau|Sim|Absolve|0|NA|Sim|Não|Não||lido
+72|AP-348|AP-348-R01||Sepúlveda Pertence|Não|Absolve|0|Sim|Sim|Não|Não||lido
+73|AP-348|AP-348-R01||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||lido
+74|AP-348|AP-348-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||lido
+75|AP-348|AP-348-R01||Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||lido
+76|AP-348|AP-348-R01||Marco Aurélio|Não|Absolve|0|Sim|Sim|Não|Não||lido
+77|AP-348|AP-348-R01||Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+78|AP-348|AP-348-R01||Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+79|AP-348|AP-348-R01||Ellen Gracie|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+80|AP-348|AP-348-R01||Gilmar Mendes|Não|Não votou||NA|NA|Não|Sim|ausência justificada|lido
+81|AP-348|AP-348-R01||Ayres Britto|Não|Não votou||NA|NA|Não|Sim|ausência justificada|lido
+82|AP-365|AP-365-R01||Marco Aurélio|Sim|Absolve|0|NA|Sim|Não|Não||lido
+83|AP-365|AP-365-R02||Marco Aurélio|Sim|Absolve|0|NA|Sim|Não|Não||lido
+84|AP-365|AP-365-R01||Ellen Gracie|Não|Absolve|0|Sim|Sim|Não|Não||lido
+85|AP-365|AP-365-R02||Ellen Gracie|Não|Absolve|0|Sim|Sim|Não|Não||lido
+86|AP-365|AP-365-R01||Sepúlveda Pertence|Não|Absolve|0|Sim|Sim|Não|Não||lido
+87|AP-365|AP-365-R02||Sepúlveda Pertence|Não|Absolve|0|Sim|Sim|Não|Não||lido
+88|AP-365|AP-365-R01||Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+89|AP-365|AP-365-R02||Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+90|AP-365|AP-365-R01||Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+91|AP-365|AP-365-R02||Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+92|AP-365|AP-365-R01||Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||lido
+93|AP-365|AP-365-R02||Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||lido
+94|AP-365|AP-365-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||lido
+95|AP-365|AP-365-R02||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||lido
+96|AP-365|AP-365-R01||Ayres Britto|Não|Não votou||NA|NA|Não|Não|impedimento declarado (não é ausência)|lido
+97|AP-365|AP-365-R02||Ayres Britto|Não|Não votou||NA|NA|Não|Não|impedimento declarado (não é ausência)|lido
+98|AP-365|AP-365-R01||Gilmar Mendes|Não|Não votou||NA|NA|Não|Sim|ausência justificada neste julgamento|lido
+99|AP-365|AP-365-R02||Gilmar Mendes|Não|Não votou||NA|NA|Não|Sim|ausência justificada neste julgamento|lido
+100|AP-365|AP-365-R01||Eros Grau|Não|Não votou||NA|NA|Não|Sim|ausência justificada neste julgamento|lido
+101|AP-365|AP-365-R02||Eros Grau|Não|Não votou||NA|NA|Não|Sim|ausência justificada neste julgamento|lido
+102|AP-365|AP-365-R01||Carlos Velloso|Não|Não votou||NA|NA|Não|Sim||lido
+103|AP-365|AP-365-R02||Carlos Velloso|Não|Não votou||NA|NA|Não|Sim||lido
+104|AP-365|AP-365-R01||Nelson Jobim|Não|Não votou||NA|NA|Não|Sim||lido
+105|AP-365|AP-365-R02||Nelson Jobim|Não|Não votou||NA|NA|Não|Sim||lido
+106|AP-372|AP-372-R01||Dias Toffoli|Sim|Absolve|0|NA|Sim|Não|Não||lido
+107|AP-372|AP-372-R02||Dias Toffoli|Sim|Absolve|0|NA|Sim|Não|Não||lido
+108|AP-372|AP-372-R01||Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+109|AP-372|AP-372-R02||Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+110|AP-372|AP-372-R01||Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+111|AP-372|AP-372-R02||Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+112|AP-372|AP-372-R01||Marco Aurélio|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+113|AP-372|AP-372-R02||Marco Aurélio|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+114|AP-372|AP-372-R01||Ellen Gracie|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+115|AP-372|AP-372-R02||Ellen Gracie|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+116|AP-372|AP-372-R01||Ayres Britto|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+117|AP-372|AP-372-R02||Ayres Britto|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+118|AP-372|AP-372-R01||Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+119|AP-372|AP-372-R02||Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+120|AP-372|AP-372-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+121|AP-372|AP-372-R02||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+122|AP-372|AP-372-R01||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+123|AP-372|AP-372-R02||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+124|AP-372|AP-372-R01||Gilmar Mendes|Não|Não votou||NA|NA|Não|Sim||lido
+125|AP-372|AP-372-R02||Gilmar Mendes|Não|Não votou||NA|NA|Não|Sim||lido
+126|AP-375|AP-375-R01||Marco Aurélio|Sim|Absolve|0|NA|Sim|Não|Não||lido
+127|AP-375|AP-375-R02||Marco Aurélio|Sim|Absolve|0|NA|Sim|Não|Não||lido
+128|AP-375|AP-375-R01||Ellen Gracie|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+129|AP-375|AP-375-R02||Ellen Gracie|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+130|AP-375|AP-375-R01||Sepúlveda Pertence|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+131|AP-375|AP-375-R02||Sepúlveda Pertence|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+132|AP-375|AP-375-R01||Carlos Velloso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+133|AP-375|AP-375-R02||Carlos Velloso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+134|AP-375|AP-375-R01||Nelson Jobim|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+135|AP-375|AP-375-R02||Nelson Jobim|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+136|AP-375|AP-375-R01||Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+137|AP-375|AP-375-R02||Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+138|AP-375|AP-375-R01||Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+139|AP-375|AP-375-R02||Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+140|AP-375|AP-375-R01||Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+141|AP-375|AP-375-R02||Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+142|AP-375|AP-375-R01||Ayres Britto|Não|Não votou||NA|NA|Não|Não|suspeição declarada, justificadamente (não é ausência)|lido
+143|AP-375|AP-375-R02||Ayres Britto|Não|Não votou||NA|NA|Não|Não|suspeição declarada, justificadamente (não é ausência)|lido
+144|AP-375|AP-375-R01||Eros Grau|Não|Não votou||NA|NA|Não|Sim|ausente neste julgamento especificamente (presente à sessão em geral)|lido
+145|AP-375|AP-375-R02||Eros Grau|Não|Não votou||NA|NA|Não|Sim|ausente neste julgamento especificamente (presente à sessão em geral)|lido
+146|AP-375|AP-375-R01||Celso de Mello|Não|Não votou||NA|NA|Não|Sim|ausente justificadamente (sessão inteira)|lido
+147|AP-375|AP-375-R02||Celso de Mello|Não|Não votou||NA|NA|Não|Sim|ausente justificadamente (sessão inteira)|lido
+148|AP-396|AP-396-R01||Cármen Lúcia|Sim|Condena|1|NA|Sim|Não|Não||sem_evidencia
+149|AP-396|AP-396-R01||Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+150|AP-396|AP-396-R01||Cezar Peluso|Não|Condena|1|Sim|Não|Sim|Não||lido
+151|AP-396|AP-396-R01||Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+152|AP-396|AP-396-R01||Ellen Gracie|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+153|AP-396|AP-396-R01||Gilmar Mendes|Não|Não votou||NA|NA|Não|Não|n/a — presente mas não votou; ata não declara motivo|lido
+154|AP-396|AP-396-R01||Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+155|AP-396|AP-396-R01||Joaquim Barbosa|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+156|AP-396|AP-396-R01||Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+157|AP-396|AP-396-R01||Celso de Mello|Não|Não votou||NA|NA|Não|Sim|ausência justificada, motivo específico não detalhado na ata|lido
+158|AP-409|AP-409-R01||Ayres Britto|Sim|Condena|1|NA|Sim|Não|Não||lido
+159|AP-409|AP-409-R01||Joaquim Barbosa|Não|Condena|1|Sim|Sim|Não|Não||lido
+160|AP-409|AP-409-R01||Eros Grau|Não|Condena|1|Sim|Sim|Não|Não||lido
+161|AP-409|AP-409-R01||Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+162|AP-409|AP-409-R01||Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+163|AP-409|AP-409-R01||Marco Aurélio|Não|Condena|1|Sim|Não|Sim|Não||lido
+164|AP-409|AP-409-R01||Cezar Peluso|Não|Condena|1|Sim|Não|Sim|Não||lido
+165|AP-409|AP-409-R01||Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+166|AP-409|AP-409-R01||Gilmar Mendes|Não|Absolve|0|Não|Não|Sim|Não||lido
+167|AP-409|AP-409-R01||Celso de Mello|Não|Absolve|0|Não|Não|Sim|Não||lido
+168|AP-409|AP-409-R01||Ellen Gracie|Não|Não votou||NA|NA|Não|Sim|representação do Tribunal em evento internacional (10ª Conferência Bienal da International Association of Women Judges, em Seul, Coreia do Sul)|lido
+169|AP-416|AP-416-R01||Luiz Fux|Sim|Absolve|0|NA|Sim|Não|Não||lido
+170|AP-416|AP-416-R01||Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||lido
+171|AP-416|AP-416-R01||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||lido
+172|AP-416|AP-416-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||lido
+173|AP-416|AP-416-R01||Ayres Britto|Não|Absolve|0|Sim|Sim|Não|Não||lido
+174|AP-416|AP-416-R01||Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+175|AP-416|AP-416-R01||Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+176|AP-416|AP-416-R01||Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+177|AP-416|AP-416-R01||Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+178|AP-416|AP-416-R01||Marco Aurélio|Não|Não votou||NA|NA|Não|Sim|ausente justificadamente neste julgamento, embora presente à sessão em geral|lido
+179|AP-416|AP-416-R01||Joaquim Barbosa|Não|Não votou||NA|NA|Não|Sim|ausência justificada|lido
+180|AP-426|AP-426-R01||Marco Aurélio|Sim|Absolve|0|NA|Sim|Não|Não||lido
+181|AP-426|AP-426-R01||Ellen Gracie|Não|Absolve|0|Sim|Sim|Não|Não||lido
+182|AP-426|AP-426-R01||Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+183|AP-426|AP-426-R01||Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+184|AP-426|AP-426-R01||Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+185|AP-426|AP-426-R01||Ayres Britto|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+186|AP-426|AP-426-R01||Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+187|AP-426|AP-426-R01||Eros Grau|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+188|AP-426|AP-426-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+189|AP-426|AP-426-R01||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+190|AP-426|AP-426-R01||Menezes Direito|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+191|AP-430|AP-430-R01||Cármen Lúcia|Sim|Absolve|0|NA|Sim|Não|Não||lido
+192|AP-430|AP-430-R01||Menezes Direito|Não|Absolve|0|Sim|Sim|Não|Não||lido
+193|AP-430|AP-430-R01||Marco Aurélio|Não|Absolve|0|Sim|Sim|Não|Não||lido
+194|AP-430|AP-430-R01||Ayres Britto|Não|Absolve|0|Sim|Sim|Não|Não||lido
+195|AP-430|AP-430-R01||Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+196|AP-430|AP-430-R01||Ellen Gracie|Não|Absolve|0|Sim|Sim|Não|Não||lido
+197|AP-430|AP-430-R01||Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||lido
+198|AP-430|AP-430-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||lido
+199|AP-430|AP-430-R01||Eros Grau|Não|Absolve|0|Sim|Sim|Não|Não||lido
+200|AP-430|AP-430-R01||Celso de Mello|Não|Não votou||NA|NA|Não|Sim|ausência justificada|lido
+201|AP-430|AP-430-R01||Gilmar Mendes|Não|Não votou||NA|NA|Não|Sim|ausência justificada neste julgamento|lido
+202|AP-432|AP-432-R01||Luiz Fux|Sim|Condena|1|NA|Sim|Não|Não||lido
+203|AP-432|AP-432-R01||Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+204|AP-432|AP-432-R01||Roberto Barroso|Não|Condena|1|Sim|Sim|Não|Não||lido
+205|AP-432|AP-432-R01||Teori Zavascki|Não|Absolve|0|Não|Não|Sim|Não||lido
+206|AP-432|AP-432-R01||Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+207|AP-432|AP-432-R01||Marco Aurélio|Não|Absolve|0|Não|Não|Sim|Não||lido
+208|AP-432|AP-432-R01||Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+209|AP-432|AP-432-R01||Gilmar Mendes|Não|Absolve|0|Não|Não|Sim|Não||lido
+210|AP-432|AP-432-R01||Celso de Mello|Não|Não votou||NA|NA|Não|Sim|ausente justificadamente (a ata não especifica o motivo concreto para Celso de Mello, apenas o qualifica, junto com Joaquim Barbosa, como 'ausente justificadamente'; o motivo detalhado — Comissão de Veneza — é dado apenas para Joaquim Barbosa)|lido
+211|AP-432|AP-432-R01||Joaquim Barbosa|Não|Não votou||NA|NA|Não|Sim|participando da 96ª Sessão Plenária da Comissão de Veneza, na Itália|lido
+212|AP-432|AP-432-R01||Cármen Lúcia|Não|Não votou||NA|NA|Não|Sim|a ata registra apenas 'ausente neste julgamento', sem especificar o motivo (nota: essa expressão difere de 'ausente justificadamente', usada para Barbosa e Celso de Mello; ver aviso sobre contradição com a lista de presentes à sessão)|lido
+213|AP-433|AP-433-R01||Ellen Gracie|Sim|Condena|1|NA|Não|Sim|Não||lido
+214|AP-433|AP-433-R02||Ellen Gracie|Sim|Condena|1|NA|Não|Sim|Não||lido
+215|AP-433|AP-433-R01||Cezar Peluso|Não|Condena|1|Sim|Não|Sim|Não||lido
+216|AP-433|AP-433-R02||Cezar Peluso|Não|Condena|1|Sim|Não|Sim|Não||lido
+217|AP-433|AP-433-R01||Dias Toffoli|Não|Absolve|0|Não|Sim|Não|Não||lido
+218|AP-433|AP-433-R02||Dias Toffoli|Não|Absolve|0|Não|Sim|Não|Não||lido
+219|AP-433|AP-433-R01||Cármen Lúcia|Não|Condena|1|Sim|Não|Sim|Não||lido
+220|AP-433|AP-433-R02||Cármen Lúcia|Não|Condena|1|Sim|Não|Sim|Não||lido
+221|AP-433|AP-433-R01||Ricardo Lewandowski|Não|Absolve|0|Não|Sim|Não|Não||lido
+222|AP-433|AP-433-R02||Ricardo Lewandowski|Não|Absolve|0|Não|Sim|Não|Não||lido
+223|AP-433|AP-433-R01||Joaquim Barbosa|Não|Condena|1|Sim|Não|Sim|Não||lido
+224|AP-433|AP-433-R02||Joaquim Barbosa|Não|Condena|1|Sim|Não|Sim|Não||lido
+225|AP-433|AP-433-R01||Ayres Britto|Não|Condena|1|Sim|Não|Sim|Não||lido
+226|AP-433|AP-433-R02||Ayres Britto|Não|Condena|1|Sim|Não|Sim|Não||lido
+227|AP-433|AP-433-R01||Marco Aurélio|Não|Absolve|0|Não|Sim|Não|Não||lido
+228|AP-433|AP-433-R02||Marco Aurélio|Não|Absolve|0|Não|Sim|Não|Não||lido
+229|AP-433|AP-433-R01||Gilmar Mendes|Não|Absolve|0|Não|Sim|Não|Não||lido
+230|AP-433|AP-433-R02||Gilmar Mendes|Não|Absolve|0|Não|Sim|Não|Não||lido
+231|AP-433|AP-433-R01||Celso de Mello|Não|Absolve|0|Não|Sim|Não|Não||lido
+232|AP-433|AP-433-R02||Celso de Mello|Não|Absolve|0|Não|Sim|Não|Não||lido
+233|AP-433|AP-433-R01||Eros Grau|Não|Absolve|0|Não|Sim|Não|Não||lido
+234|AP-433|AP-433-R02||Eros Grau|Não|Absolve|0|Não|Sim|Não|Não||lido
+235|AP-441|AP-441-R01||Dias Toffoli|Sim|Condena|1|NA|Sim|Não|Não||sem_evidencia
+236|AP-441|AP-441-R02||Dias Toffoli|Sim|Condena|1|NA|Sim|Não|Não||sem_evidencia
+237|AP-441|AP-441-R01||Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+238|AP-441|AP-441-R02||Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+239|AP-441|AP-441-R01||Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+240|AP-441|AP-441-R02||Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+241|AP-441|AP-441-R01||Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+242|AP-441|AP-441-R02||Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+243|AP-441|AP-441-R01||Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+244|AP-441|AP-441-R02||Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+245|AP-441|AP-441-R01||Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+246|AP-441|AP-441-R02||Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+247|AP-441|AP-441-R01||Ayres Britto|Não|Condena|1|Sim|Não|Sim|Não||sem_evidencia
+248|AP-441|AP-441-R02||Ayres Britto|Não|Condena|1|Sim|Não|Sim|Não||sem_evidencia
+249|AP-441|AP-441-R01||Marco Aurélio|Não|Condena|1|Sim|Não|Sim|Não||sem_evidencia
+250|AP-441|AP-441-R02||Marco Aurélio|Não|Condena|1|Sim|Não|Sim|Não||sem_evidencia
+251|AP-441|AP-441-R01||Celso de Mello|Não|Condena|1|Sim|Não|Sim|Não||sem_evidencia
+252|AP-441|AP-441-R02||Celso de Mello|Não|Condena|1|Sim|Não|Sim|Não||sem_evidencia
+253|AP-441|AP-441-R01||Cezar Peluso|Não|Absolve|0|Não|Não|Sim|Não||sem_evidencia
+254|AP-441|AP-441-R02||Cezar Peluso|Não|Absolve|0|Não|Não|Sim|Não||sem_evidencia
+255|AP-441|AP-441-R01||Joaquim Barbosa|Não|Não votou||NA|NA|Não|Sim|ausente, justificadamente|sem_evidencia
+256|AP-441|AP-441-R02||Joaquim Barbosa|Não|Não votou||NA|NA|Não|Sim|ausente, justificadamente|sem_evidencia
+257|AP-447|AP-447-R01||Ayres Britto|Sim|Absolve|0|NA|Sim|Não|Não||sem_evidencia
+258|AP-447|AP-447-R02||Ayres Britto|Sim|Absolve|0|NA|Sim|Não|Não||sem_evidencia
+259|AP-447|AP-447-R01||Joaquim Barbosa|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+260|AP-447|AP-447-R02||Joaquim Barbosa|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+261|AP-447|AP-447-R01||Menezes Direito|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+262|AP-447|AP-447-R02||Menezes Direito|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+263|AP-447|AP-447-R01||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+264|AP-447|AP-447-R02||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+265|AP-447|AP-447-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+266|AP-447|AP-447-R02||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+267|AP-447|AP-447-R01||Eros Grau|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+268|AP-447|AP-447-R02||Eros Grau|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+269|AP-447|AP-447-R01||Cezar Peluso|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+270|AP-447|AP-447-R02||Cezar Peluso|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+271|AP-447|AP-447-R01||Marco Aurélio|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+272|AP-447|AP-447-R02||Marco Aurélio|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+273|AP-447|AP-447-R01||Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+274|AP-447|AP-447-R02||Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+275|AP-447|AP-447-R01||Ellen Gracie|Não|Não votou||NA|NA|Não|Sim|Ausente, justificadamente|sem_evidencia
+276|AP-447|AP-447-R02||Ellen Gracie|Não|Não votou||NA|NA|Não|Sim|Ausente, justificadamente|sem_evidencia
+277|AP-447|AP-447-R01||Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+278|AP-447|AP-447-R02||Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+279|AP-465|AP-465-R01||Cármen Lúcia|Sim|Absolve|0|NA|Sim|Não|Não||sem_evidencia
+280|AP-465|AP-465-R01||Dias Toffoli|Não|Absolve|0|Sim|Não|Sim|Não||lido
+281|AP-465|AP-465-R01||Roberto Barroso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+282|AP-465|AP-465-R01||Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||lido
+283|AP-465|AP-465-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Não|Sim|Não||lido
+284|AP-465|AP-465-R01||Teori Zavascki|Não|Absolve|0|Sim|Não|Sim|Não||lido
+285|AP-465|AP-465-R01||Rosa Weber|Não|Absolve|0|Sim|Não|Sim|Não||lido
+286|AP-465|AP-465-R01||Joaquim Barbosa|Não|Absolve|0|Sim|Não|Sim|Não||lido
+287|AP-465|AP-465-R01||Celso de Mello|Não|Não votou||NA|NA|Não|Sim|ausência justificada, motivo não especificado|sem_evidencia
+288|AP-465|AP-465-R01||Marco Aurélio|Não|Não votou||NA|NA|Não|Sim|ausência justificada, motivo não especificado|sem_evidencia
+289|AP-465|AP-465-R01||Gilmar Mendes|Não|Não votou||NA|NA|Não|Sim|ausência justificada, motivo não especificado|sem_evidencia
+290|AP-470|AP-470-R01|corrupção passiva (art. 317, CP) — item III.1 (a.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+291|AP-470|AP-470-R01|corrupção passiva (art. 317, CP) — item III.1 (a.1)|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+292|AP-470|AP-470-R01|corrupção passiva (art. 317, CP) — item III.1 (a.1)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+293|AP-470|AP-470-R01|corrupção passiva (art. 317, CP) — item III.1 (a.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+294|AP-470|AP-470-R01|corrupção passiva (art. 317, CP) — item III.1 (a.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+295|AP-470|AP-470-R01|corrupção passiva (art. 317, CP) — item III.1 (a.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+296|AP-470|AP-470-R01|corrupção passiva (art. 317, CP) — item III.1 (a.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+297|AP-470|AP-470-R01|corrupção passiva (art. 317, CP) — item III.1 (a.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+298|AP-470|AP-470-R01|corrupção passiva (art. 317, CP) — item III.1 (a.1)|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+299|AP-470|AP-470-R01|corrupção passiva (art. 317, CP) — item III.1 (a.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+300|AP-470|AP-470-R01|corrupção passiva (art. 317, CP) — item III.1 (a.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+301|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa SMP&B|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+302|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa SMP&B|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+303|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa SMP&B|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+304|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa SMP&B|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+305|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa SMP&B|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+306|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa SMP&B|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+307|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa SMP&B|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+308|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa SMP&B|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+309|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa SMP&B|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+310|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa SMP&B|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+311|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa SMP&B|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+312|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa IFT|Joaquim Barbosa|Sim|Condena|1|NA|Não|Sim|Não||lido
+313|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa IFT|Ricardo Lewandowski|Não|Absolve|0|Não|Sim|Não|Não||lido
+314|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa IFT|Cezar Peluso|Não|Absolve|0|Não|Sim|Não|Não||lido
+315|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa IFT|Ayres Britto|Não|Condena|1|Sim|Não|Sim|Não||lido
+316|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa IFT|Marco Aurélio|Não|Condena|1|Sim|Não|Sim|Não||lido
+317|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa IFT|Celso de Mello|Não|Absolve|0|Não|Sim|Não|Não||lido
+318|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa IFT|Gilmar Mendes|Não|Absolve|0|Não|Sim|Não|Não||lido
+319|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa IFT|Cármen Lúcia|Não|Condena|1|Sim|Não|Sim|Não||lido
+320|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa IFT|Dias Toffoli|Não|Absolve|0|Não|Sim|Não|Não||lido
+321|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa IFT|Luiz Fux|Não|Condena|1|Sim|Não|Sim|Não||lido
+322|AP-470|AP-470-R01|peculato (art. 312, CP) — item III.1 (a.3), empresa IFT|Rosa Weber|Não|Absolve|0|Não|Sim|Não|Não||lido
+323|AP-470|AP-470-R02|peculato (art. 312, CP) — item III.3 (b)|Joaquim Barbosa|Sim|Absolve|0|NA|Sim|Não|Não||lido
+324|AP-470|AP-470-R02|peculato (art. 312, CP) — item III.3 (b)|Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||lido
+325|AP-470|AP-470-R02|peculato (art. 312, CP) — item III.3 (b)|Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+326|AP-470|AP-470-R02|peculato (art. 312, CP) — item III.3 (b)|Ayres Britto|Não|Absolve|0|Sim|Sim|Não|Não||lido
+327|AP-470|AP-470-R02|peculato (art. 312, CP) — item III.3 (b)|Marco Aurélio|Não|Absolve|0|Sim|Sim|Não|Não||lido
+328|AP-470|AP-470-R02|peculato (art. 312, CP) — item III.3 (b)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+329|AP-470|AP-470-R02|peculato (art. 312, CP) — item III.3 (b)|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+330|AP-470|AP-470-R02|peculato (art. 312, CP) — item III.3 (b)|Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||lido
+331|AP-470|AP-470-R02|peculato (art. 312, CP) — item III.3 (b)|Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||lido
+332|AP-470|AP-470-R02|peculato (art. 312, CP) — item III.3 (b)|Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||lido
+333|AP-470|AP-470-R02|peculato (art. 312, CP) — item III.3 (b)|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||lido
+334|AP-470|AP-470-R03|peculato (art. 312, CP) — itens III.2(a) e III.3(a.3)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+335|AP-470|AP-470-R03|peculato (art. 312, CP) — itens III.2(a) e III.3(a.3)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+336|AP-470|AP-470-R03|peculato (art. 312, CP) — itens III.2(a) e III.3(a.3)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+337|AP-470|AP-470-R03|peculato (art. 312, CP) — itens III.2(a) e III.3(a.3)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+338|AP-470|AP-470-R03|peculato (art. 312, CP) — itens III.2(a) e III.3(a.3)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+339|AP-470|AP-470-R03|peculato (art. 312, CP) — itens III.2(a) e III.3(a.3)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+340|AP-470|AP-470-R03|peculato (art. 312, CP) — itens III.2(a) e III.3(a.3)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+341|AP-470|AP-470-R03|peculato (art. 312, CP) — itens III.2(a) e III.3(a.3)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+342|AP-470|AP-470-R03|peculato (art. 312, CP) — itens III.2(a) e III.3(a.3)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+343|AP-470|AP-470-R03|peculato (art. 312, CP) — itens III.2(a) e III.3(a.3)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+344|AP-470|AP-470-R03|peculato (art. 312, CP) — itens III.2(a) e III.3(a.3)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+345|AP-470|AP-470-R03|corrupção passiva (art. 317, CP) — item III.3 (a.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+346|AP-470|AP-470-R03|corrupção passiva (art. 317, CP) — item III.3 (a.1)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+347|AP-470|AP-470-R03|corrupção passiva (art. 317, CP) — item III.3 (a.1)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+348|AP-470|AP-470-R03|corrupção passiva (art. 317, CP) — item III.3 (a.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+349|AP-470|AP-470-R03|corrupção passiva (art. 317, CP) — item III.3 (a.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+350|AP-470|AP-470-R03|corrupção passiva (art. 317, CP) — item III.3 (a.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+351|AP-470|AP-470-R03|corrupção passiva (art. 317, CP) — item III.3 (a.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+352|AP-470|AP-470-R03|corrupção passiva (art. 317, CP) — item III.3 (a.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+353|AP-470|AP-470-R03|corrupção passiva (art. 317, CP) — item III.3 (a.1)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+354|AP-470|AP-470-R03|corrupção passiva (art. 317, CP) — item III.3 (a.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+355|AP-470|AP-470-R03|corrupção passiva (art. 317, CP) — item III.3 (a.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+356|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+357|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+358|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+359|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+360|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+361|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+362|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+363|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+364|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+365|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+366|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+367|AP-470|AP-470-R04|peculato (art. 312, CP) — item III.1 (b.2)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+368|AP-470|AP-470-R04|peculato (art. 312, CP) — item III.1 (b.2)|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+369|AP-470|AP-470-R04|peculato (art. 312, CP) — item III.1 (b.2)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+370|AP-470|AP-470-R04|peculato (art. 312, CP) — item III.1 (b.2)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+371|AP-470|AP-470-R04|peculato (art. 312, CP) — item III.1 (b.2)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+372|AP-470|AP-470-R04|peculato (art. 312, CP) — item III.1 (b.2)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+373|AP-470|AP-470-R04|peculato (art. 312, CP) — item III.1 (b.2)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+374|AP-470|AP-470-R04|peculato (art. 312, CP) — item III.1 (b.2)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+375|AP-470|AP-470-R04|peculato (art. 312, CP) — item III.1 (b.2)|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+376|AP-470|AP-470-R04|peculato (art. 312, CP) — item III.1 (b.2)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+377|AP-470|AP-470-R04|peculato (art. 312, CP) — item III.1 (b.2)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+378|AP-470|AP-470-R04|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+379|AP-470|AP-470-R04|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+380|AP-470|AP-470-R04|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+381|AP-470|AP-470-R04|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+382|AP-470|AP-470-R04|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+383|AP-470|AP-470-R04|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+384|AP-470|AP-470-R04|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+385|AP-470|AP-470-R04|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+386|AP-470|AP-470-R04|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+387|AP-470|AP-470-R04|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+388|AP-470|AP-470-R04|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+389|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+390|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+391|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+392|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+393|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+394|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+395|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+396|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+397|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+398|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+399|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+400|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+401|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+402|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+403|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+404|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+405|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+406|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+407|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+408|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+409|AP-470|AP-470-R04|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+410|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+411|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+412|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+413|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+414|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+415|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+416|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+417|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+418|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+419|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+420|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+421|AP-470|AP-470-R05|peculato (art. 312, CP) — item III.1 (b.2)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+422|AP-470|AP-470-R05|peculato (art. 312, CP) — item III.1 (b.2)|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+423|AP-470|AP-470-R05|peculato (art. 312, CP) — item III.1 (b.2)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+424|AP-470|AP-470-R05|peculato (art. 312, CP) — item III.1 (b.2)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+425|AP-470|AP-470-R05|peculato (art. 312, CP) — item III.1 (b.2)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+426|AP-470|AP-470-R05|peculato (art. 312, CP) — item III.1 (b.2)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+427|AP-470|AP-470-R05|peculato (art. 312, CP) — item III.1 (b.2)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+428|AP-470|AP-470-R05|peculato (art. 312, CP) — item III.1 (b.2)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+429|AP-470|AP-470-R05|peculato (art. 312, CP) — item III.1 (b.2)|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+430|AP-470|AP-470-R05|peculato (art. 312, CP) — item III.1 (b.2)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+431|AP-470|AP-470-R05|peculato (art. 312, CP) — item III.1 (b.2)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+432|AP-470|AP-470-R05|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+433|AP-470|AP-470-R05|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+434|AP-470|AP-470-R05|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+435|AP-470|AP-470-R05|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+436|AP-470|AP-470-R05|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+437|AP-470|AP-470-R05|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+438|AP-470|AP-470-R05|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+439|AP-470|AP-470-R05|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+440|AP-470|AP-470-R05|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+441|AP-470|AP-470-R05|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+442|AP-470|AP-470-R05|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+443|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+444|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+445|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+446|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+447|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+448|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+449|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+450|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+451|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+452|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+453|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+454|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+455|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+456|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+457|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+458|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+459|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+460|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+461|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+462|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+463|AP-470|AP-470-R05|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+464|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+465|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+466|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+467|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+468|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+469|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+470|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+471|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+472|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+473|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+474|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.1 (b.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+475|AP-470|AP-470-R06|peculato (art. 312, CP) — item III.1 (b.2)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+476|AP-470|AP-470-R06|peculato (art. 312, CP) — item III.1 (b.2)|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+477|AP-470|AP-470-R06|peculato (art. 312, CP) — item III.1 (b.2)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+478|AP-470|AP-470-R06|peculato (art. 312, CP) — item III.1 (b.2)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+479|AP-470|AP-470-R06|peculato (art. 312, CP) — item III.1 (b.2)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+480|AP-470|AP-470-R06|peculato (art. 312, CP) — item III.1 (b.2)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+481|AP-470|AP-470-R06|peculato (art. 312, CP) — item III.1 (b.2)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+482|AP-470|AP-470-R06|peculato (art. 312, CP) — item III.1 (b.2)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+483|AP-470|AP-470-R06|peculato (art. 312, CP) — item III.1 (b.2)|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+484|AP-470|AP-470-R06|peculato (art. 312, CP) — item III.1 (b.2)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+485|AP-470|AP-470-R06|peculato (art. 312, CP) — item III.1 (b.2)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+486|AP-470|AP-470-R06|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+487|AP-470|AP-470-R06|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+488|AP-470|AP-470-R06|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+489|AP-470|AP-470-R06|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+490|AP-470|AP-470-R06|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+491|AP-470|AP-470-R06|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+492|AP-470|AP-470-R06|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+493|AP-470|AP-470-R06|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+494|AP-470|AP-470-R06|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+495|AP-470|AP-470-R06|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+496|AP-470|AP-470-R06|peculato (art. 312, CP) — itens III.2(b) e III.3(c.2)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+497|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+498|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+499|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Cezar Peluso|Não|Condena|1|Sim|Sim|Não|Não||lido
+500|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+501|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+502|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+503|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+504|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+505|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+506|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+507|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item III.3 (c.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+508|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+509|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+510|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+511|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+512|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+513|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+514|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+515|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+516|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+517|AP-470|AP-470-R06|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+518|AP-470|AP-470-R07|corrupção ativa (art. 333, CP) — item VI.1.a|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+519|AP-470|AP-470-R07|corrupção ativa (art. 333, CP) — item VI.1.a|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+520|AP-470|AP-470-R07|corrupção ativa (art. 333, CP) — item VI.1.a|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+521|AP-470|AP-470-R07|corrupção ativa (art. 333, CP) — item VI.1.a|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+522|AP-470|AP-470-R07|corrupção ativa (art. 333, CP) — item VI.1.a|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+523|AP-470|AP-470-R07|corrupção ativa (art. 333, CP) — item VI.1.a|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+524|AP-470|AP-470-R07|corrupção ativa (art. 333, CP) — item VI.1.a|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+525|AP-470|AP-470-R07|corrupção ativa (art. 333, CP) — item VI.1.a|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+526|AP-470|AP-470-R07|corrupção ativa (art. 333, CP) — item VI.1.a|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+527|AP-470|AP-470-R07|corrupção ativa (art. 333, CP) — item VI.1.a|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+528|AP-470|AP-470-R11|corrupção ativa (art. 333, CP) — item VI.1.a|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+529|AP-470|AP-470-R11|corrupção ativa (art. 333, CP) — item VI.1.a|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+530|AP-470|AP-470-R11|corrupção ativa (art. 333, CP) — item VI.1.a|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+531|AP-470|AP-470-R11|corrupção ativa (art. 333, CP) — item VI.1.a|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+532|AP-470|AP-470-R11|corrupção ativa (art. 333, CP) — item VI.1.a|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+533|AP-470|AP-470-R11|corrupção ativa (art. 333, CP) — item VI.1.a|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+534|AP-470|AP-470-R11|corrupção ativa (art. 333, CP) — item VI.1.a|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+535|AP-470|AP-470-R11|corrupção ativa (art. 333, CP) — item VI.1.a|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+536|AP-470|AP-470-R11|corrupção ativa (art. 333, CP) — item VI.1.a|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+537|AP-470|AP-470-R11|corrupção ativa (art. 333, CP) — item VI.1.a|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+538|AP-470|AP-470-R08|corrupção ativa (art. 333, CP) — item VI (1.a, 3.a)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+539|AP-470|AP-470-R08|corrupção ativa (art. 333, CP) — item VI (1.a, 3.a)|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+540|AP-470|AP-470-R08|corrupção ativa (art. 333, CP) — item VI (1.a, 3.a)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+541|AP-470|AP-470-R08|corrupção ativa (art. 333, CP) — item VI (1.a, 3.a)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+542|AP-470|AP-470-R08|corrupção ativa (art. 333, CP) — item VI (1.a, 3.a)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+543|AP-470|AP-470-R08|corrupção ativa (art. 333, CP) — item VI (1.a, 3.a)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+544|AP-470|AP-470-R08|corrupção ativa (art. 333, CP) — item VI (1.a, 3.a)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+545|AP-470|AP-470-R08|corrupção ativa (art. 333, CP) — item VI (1.a, 3.a)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+546|AP-470|AP-470-R08|corrupção ativa (art. 333, CP) — item VI (1.a, 3.a)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+547|AP-470|AP-470-R08|corrupção ativa (art. 333, CP) — item VI (1.a, 3.a)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+548|AP-470|AP-470-R09|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+549|AP-470|AP-470-R09|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+550|AP-470|AP-470-R09|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+551|AP-470|AP-470-R09|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+552|AP-470|AP-470-R09|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+553|AP-470|AP-470-R09|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+554|AP-470|AP-470-R09|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+555|AP-470|AP-470-R09|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+556|AP-470|AP-470-R09|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+557|AP-470|AP-470-R09|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+558|AP-470|AP-470-R10|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+559|AP-470|AP-470-R10|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+560|AP-470|AP-470-R10|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+561|AP-470|AP-470-R10|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+562|AP-470|AP-470-R10|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+563|AP-470|AP-470-R10|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+564|AP-470|AP-470-R10|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+565|AP-470|AP-470-R10|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+566|AP-470|AP-470-R10|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+567|AP-470|AP-470-R10|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+568|AP-470|AP-470-R12|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Joaquim Barbosa|Sim|Absolve|0|NA|Sim|Não|Não||lido
+569|AP-470|AP-470-R12|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||lido
+570|AP-470|AP-470-R12|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Ayres Britto|Não|Absolve|0|Sim|Sim|Não|Não||lido
+571|AP-470|AP-470-R12|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Marco Aurélio|Não|Condena|1|Não|Não|Sim|Não||lido
+572|AP-470|AP-470-R12|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+573|AP-470|AP-470-R12|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+574|AP-470|AP-470-R12|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||lido
+575|AP-470|AP-470-R12|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||lido
+576|AP-470|AP-470-R12|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||lido
+577|AP-470|AP-470-R12|corrupção ativa (art. 333, CP) — item VI (1.a, 2.a, 3.a, 4.a)|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||lido
+578|AP-470|AP-470-R13|corrupção ativa (art. 333, CP) — item VI.3 (b)|Joaquim Barbosa|Sim|Absolve|0|NA|Sim|Não|Não||lido
+579|AP-470|AP-470-R13|corrupção ativa (art. 333, CP) — item VI.3 (b)|Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||lido
+580|AP-470|AP-470-R13|corrupção ativa (art. 333, CP) — item VI.3 (b)|Ayres Britto|Não|Absolve|0|Sim|Sim|Não|Não||lido
+581|AP-470|AP-470-R13|corrupção ativa (art. 333, CP) — item VI.3 (b)|Marco Aurélio|Não|Absolve|0|Sim|Sim|Não|Não||lido
+582|AP-470|AP-470-R13|corrupção ativa (art. 333, CP) — item VI.3 (b)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+583|AP-470|AP-470-R13|corrupção ativa (art. 333, CP) — item VI.3 (b)|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+584|AP-470|AP-470-R13|corrupção ativa (art. 333, CP) — item VI.3 (b)|Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||lido
+585|AP-470|AP-470-R13|corrupção ativa (art. 333, CP) — item VI.3 (b)|Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||lido
+586|AP-470|AP-470-R13|corrupção ativa (art. 333, CP) — item VI.3 (b)|Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||lido
+587|AP-470|AP-470-R13|corrupção ativa (art. 333, CP) — item VI.3 (b)|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||lido
+588|AP-470|AP-470-R14|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+589|AP-470|AP-470-R14|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+590|AP-470|AP-470-R14|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+591|AP-470|AP-470-R14|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+592|AP-470|AP-470-R14|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+593|AP-470|AP-470-R14|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+594|AP-470|AP-470-R14|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+595|AP-470|AP-470-R14|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+596|AP-470|AP-470-R14|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+597|AP-470|AP-470-R14|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+598|AP-470|AP-470-R15|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+599|AP-470|AP-470-R15|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+600|AP-470|AP-470-R15|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+601|AP-470|AP-470-R15|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Marco Aurélio|Não|Absolve|0|Não|Não|Sim|Não||lido
+602|AP-470|AP-470-R15|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+603|AP-470|AP-470-R15|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Gilmar Mendes|Não|Absolve|0|Não|Não|Sim|Não||lido
+604|AP-470|AP-470-R15|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+605|AP-470|AP-470-R15|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+606|AP-470|AP-470-R15|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+607|AP-470|AP-470-R15|corrupção passiva (art. 317, CP) — item VI.1 (b.2)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+608|AP-470|AP-470-R16|corrupção passiva (art. 317, CP) — item VI.1 (c.2)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+609|AP-470|AP-470-R16|corrupção passiva (art. 317, CP) — item VI.1 (c.2)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+610|AP-470|AP-470-R16|corrupção passiva (art. 317, CP) — item VI.1 (c.2)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+611|AP-470|AP-470-R16|corrupção passiva (art. 317, CP) — item VI.1 (c.2)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+612|AP-470|AP-470-R16|corrupção passiva (art. 317, CP) — item VI.1 (c.2)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+613|AP-470|AP-470-R16|corrupção passiva (art. 317, CP) — item VI.1 (c.2)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+614|AP-470|AP-470-R16|corrupção passiva (art. 317, CP) — item VI.1 (c.2)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+615|AP-470|AP-470-R16|corrupção passiva (art. 317, CP) — item VI.1 (c.2)|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+616|AP-470|AP-470-R16|corrupção passiva (art. 317, CP) — item VI.1 (c.2)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+617|AP-470|AP-470-R16|corrupção passiva (art. 317, CP) — item VI.1 (c.2)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+618|AP-470|AP-470-R17|corrupção passiva (art. 317, CP) — item VI.2 (b.2)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+619|AP-470|AP-470-R17|corrupção passiva (art. 317, CP) — item VI.2 (b.2)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+620|AP-470|AP-470-R17|corrupção passiva (art. 317, CP) — item VI.2 (b.2)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+621|AP-470|AP-470-R17|corrupção passiva (art. 317, CP) — item VI.2 (b.2)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+622|AP-470|AP-470-R17|corrupção passiva (art. 317, CP) — item VI.2 (b.2)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+623|AP-470|AP-470-R17|corrupção passiva (art. 317, CP) — item VI.2 (b.2)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+624|AP-470|AP-470-R17|corrupção passiva (art. 317, CP) — item VI.2 (b.2)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+625|AP-470|AP-470-R17|corrupção passiva (art. 317, CP) — item VI.2 (b.2)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+626|AP-470|AP-470-R17|corrupção passiva (art. 317, CP) — item VI.2 (b.2)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+627|AP-470|AP-470-R17|corrupção passiva (art. 317, CP) — item VI.2 (b.2)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+628|AP-470|AP-470-R18|corrupção passiva (art. 317, CP) — item VI.2 (c.2)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+629|AP-470|AP-470-R18|corrupção passiva (art. 317, CP) — item VI.2 (c.2)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+630|AP-470|AP-470-R18|corrupção passiva (art. 317, CP) — item VI.2 (c.2)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+631|AP-470|AP-470-R18|corrupção passiva (art. 317, CP) — item VI.2 (c.2)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+632|AP-470|AP-470-R18|corrupção passiva (art. 317, CP) — item VI.2 (c.2)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+633|AP-470|AP-470-R18|corrupção passiva (art. 317, CP) — item VI.2 (c.2)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+634|AP-470|AP-470-R18|corrupção passiva (art. 317, CP) — item VI.2 (c.2)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+635|AP-470|AP-470-R18|corrupção passiva (art. 317, CP) — item VI.2 (c.2)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+636|AP-470|AP-470-R18|corrupção passiva (art. 317, CP) — item VI.2 (c.2)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+637|AP-470|AP-470-R18|corrupção passiva (art. 317, CP) — item VI.2 (c.2)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+638|AP-470|AP-470-R19|corrupção passiva (art. 317, CP) — item VI.2 (e.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+639|AP-470|AP-470-R19|corrupção passiva (art. 317, CP) — item VI.2 (e.1)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+640|AP-470|AP-470-R19|corrupção passiva (art. 317, CP) — item VI.2 (e.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+641|AP-470|AP-470-R19|corrupção passiva (art. 317, CP) — item VI.2 (e.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+642|AP-470|AP-470-R19|corrupção passiva (art. 317, CP) — item VI.2 (e.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+643|AP-470|AP-470-R19|corrupção passiva (art. 317, CP) — item VI.2 (e.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+644|AP-470|AP-470-R19|corrupção passiva (art. 317, CP) — item VI.2 (e.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+645|AP-470|AP-470-R19|corrupção passiva (art. 317, CP) — item VI.2 (e.1)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+646|AP-470|AP-470-R19|corrupção passiva (art. 317, CP) — item VI.2 (e.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+647|AP-470|AP-470-R19|corrupção passiva (art. 317, CP) — item VI.2 (e.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+648|AP-470|AP-470-R20|corrupção passiva (art. 317, CP) — item VI.3 (c.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+649|AP-470|AP-470-R20|corrupção passiva (art. 317, CP) — item VI.3 (c.1)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+650|AP-470|AP-470-R20|corrupção passiva (art. 317, CP) — item VI.3 (c.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+651|AP-470|AP-470-R20|corrupção passiva (art. 317, CP) — item VI.3 (c.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+652|AP-470|AP-470-R20|corrupção passiva (art. 317, CP) — item VI.3 (c.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+653|AP-470|AP-470-R20|corrupção passiva (art. 317, CP) — item VI.3 (c.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+654|AP-470|AP-470-R20|corrupção passiva (art. 317, CP) — item VI.3 (c.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+655|AP-470|AP-470-R20|corrupção passiva (art. 317, CP) — item VI.3 (c.1)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+656|AP-470|AP-470-R20|corrupção passiva (art. 317, CP) — item VI.3 (c.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+657|AP-470|AP-470-R20|corrupção passiva (art. 317, CP) — item VI.3 (c.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+658|AP-470|AP-470-R21|corrupção passiva (art. 317, CP) — item VI.3 (d.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+659|AP-470|AP-470-R21|corrupção passiva (art. 317, CP) — item VI.3 (d.1)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+660|AP-470|AP-470-R21|corrupção passiva (art. 317, CP) — item VI.3 (d.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+661|AP-470|AP-470-R21|corrupção passiva (art. 317, CP) — item VI.3 (d.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+662|AP-470|AP-470-R21|corrupção passiva (art. 317, CP) — item VI.3 (d.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+663|AP-470|AP-470-R21|corrupção passiva (art. 317, CP) — item VI.3 (d.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+664|AP-470|AP-470-R21|corrupção passiva (art. 317, CP) — item VI.3 (d.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+665|AP-470|AP-470-R21|corrupção passiva (art. 317, CP) — item VI.3 (d.1)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+666|AP-470|AP-470-R21|corrupção passiva (art. 317, CP) — item VI.3 (d.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+667|AP-470|AP-470-R21|corrupção passiva (art. 317, CP) — item VI.3 (d.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+668|AP-470|AP-470-R22|corrupção passiva (art. 317, CP) — item VI.3 (e.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+669|AP-470|AP-470-R22|corrupção passiva (art. 317, CP) — item VI.3 (e.1)|Ricardo Lewandowski|Não|Absolve|0|Não|Não|Sim|Não||lido
+670|AP-470|AP-470-R22|corrupção passiva (art. 317, CP) — item VI.3 (e.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+671|AP-470|AP-470-R22|corrupção passiva (art. 317, CP) — item VI.3 (e.1)|Marco Aurélio|Não|Absolve|0|Não|Não|Sim|Não||lido
+672|AP-470|AP-470-R22|corrupção passiva (art. 317, CP) — item VI.3 (e.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+673|AP-470|AP-470-R22|corrupção passiva (art. 317, CP) — item VI.3 (e.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+674|AP-470|AP-470-R22|corrupção passiva (art. 317, CP) — item VI.3 (e.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+675|AP-470|AP-470-R22|corrupção passiva (art. 317, CP) — item VI.3 (e.1)|Dias Toffoli|Não|Absolve|0|Não|Não|Sim|Não||lido
+676|AP-470|AP-470-R22|corrupção passiva (art. 317, CP) — item VI.3 (e.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+677|AP-470|AP-470-R22|corrupção passiva (art. 317, CP) — item VI.3 (e.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+678|AP-470|AP-470-R23|corrupção passiva (art. 317, CP) — item VI.4 (b.1)|Joaquim Barbosa|Sim|Condena|1|NA|Sim|Não|Não||lido
+679|AP-470|AP-470-R23|corrupção passiva (art. 317, CP) — item VI.4 (b.1)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+680|AP-470|AP-470-R23|corrupção passiva (art. 317, CP) — item VI.4 (b.1)|Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||lido
+681|AP-470|AP-470-R23|corrupção passiva (art. 317, CP) — item VI.4 (b.1)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||lido
+682|AP-470|AP-470-R23|corrupção passiva (art. 317, CP) — item VI.4 (b.1)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||lido
+683|AP-470|AP-470-R23|corrupção passiva (art. 317, CP) — item VI.4 (b.1)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||lido
+684|AP-470|AP-470-R23|corrupção passiva (art. 317, CP) — item VI.4 (b.1)|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+685|AP-470|AP-470-R23|corrupção passiva (art. 317, CP) — item VI.4 (b.1)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+686|AP-470|AP-470-R23|corrupção passiva (art. 317, CP) — item VI.4 (b.1)|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+687|AP-470|AP-470-R23|corrupção passiva (art. 317, CP) — item VI.4 (b.1)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+688|AP-503|AP-503-R01||Celso de Mello|Sim|Condena|1|NA|Sim|Não|Não||lido
+689|AP-503|AP-503-R01||Marco Aurélio|Não|Absolve|0|Não|Não|Sim|Não||lido
+690|AP-503|AP-503-R01||Ayres Britto|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+691|AP-503|AP-503-R01||Eros Grau|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+692|AP-503|AP-503-R01||Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||lido
+693|AP-503|AP-503-R01||Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+694|AP-503|AP-503-R01||Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+695|AP-503|AP-503-R01||Cezar Peluso|Não|Não votou||NA|NA|Não|Sim|em representação do Tribunal na Primeira Assembleia da Conferência das Jurisdições Constitucionais dos Países de Língua Portuguesa, em Portugal|sem_evidencia
+696|AP-503|AP-503-R01||Ellen Gracie|Não|Não votou||NA|NA|Não|Sim|convidada pelo Escritório Econômico e Comercial da Embaixada da China no Brasil para a Expo Xangai 2010|sem_evidencia
+697|AP-503|AP-503-R01||Gilmar Mendes|Não|Não votou||NA|NA|Não|Sim|acompanhando o Presidente|sem_evidencia
+698|AP-503|AP-503-R01||Joaquim Barbosa|Não|Não votou||NA|NA|Não|Sim|licenciado|sem_evidencia
+699|AP-508|AP-508-R01||Marco Aurélio|Sim|Absolve|0|NA|Sim|Não|Não||lido
+700|AP-508|AP-508-R01||Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+701|AP-508|AP-508-R01||Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+702|AP-508|AP-508-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+703|AP-508|AP-508-R01||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+704|AP-508|AP-508-R01||Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+705|AP-508|AP-508-R01||Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+706|AP-508|AP-508-R01||Roberto Barroso|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+707|AP-508|AP-508-R01||Edson Fachin|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+708|AP-508|AP-508-R01||Alexandre de Moraes|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+709|AP-508|AP-508-R01||Nunes Marques|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+710|AP-527|AP-527-R01||Dias Toffoli|Sim|Absolve|0|NA|Sim|Não|Não||lido
+711|AP-527|AP-527-R01||Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||lido
+712|AP-527|AP-527-R01||Cezar Peluso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+713|AP-527|AP-527-R01||Marco Aurélio|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+714|AP-527|AP-527-R01||Ellen Gracie|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+715|AP-527|AP-527-R01||Ayres Britto|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+716|AP-527|AP-527-R01||Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+717|AP-527|AP-527-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+718|AP-527|AP-527-R01||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+719|AP-527|AP-527-R01||Gilmar Mendes|Não|Não votou||NA|NA|Não|Sim|ausente, neste julgamento, sem motivo declarado na ata|lido
+720|AP-565|AP-565-R01|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+721|AP-565|AP-565-R01|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Roberto Barroso|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+722|AP-565|AP-565-R01|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+723|AP-565|AP-565-R01|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+724|AP-565|AP-565-R01|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Joaquim Barbosa|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+725|AP-565|AP-565-R01|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Cármen Lúcia|Sim|Condena|1|NA|Sim|Não|Não||sem_evidencia
+726|AP-565|AP-565-R01|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Teori Zavascki|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+727|AP-565|AP-565-R01|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+728|AP-565|AP-565-R01|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+729|AP-565|AP-565-R01|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+730|AP-565|AP-565-R01|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Luiz Fux|Não|Não votou||NA|NA|Não|Não|Impedido — presente à sessão, mas não votou por impedimento, não por ausência.|sem_evidencia
+731|AP-565|AP-565-R02|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+732|AP-565|AP-565-R02|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Roberto Barroso|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+733|AP-565|AP-565-R02|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+734|AP-565|AP-565-R02|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+735|AP-565|AP-565-R02|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Joaquim Barbosa|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+736|AP-565|AP-565-R02|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Cármen Lúcia|Sim|Condena|1|NA|Sim|Não|Não||sem_evidencia
+737|AP-565|AP-565-R02|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Teori Zavascki|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+738|AP-565|AP-565-R02|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+739|AP-565|AP-565-R02|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+740|AP-565|AP-565-R02|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+741|AP-565|AP-565-R02|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Luiz Fux|Não|Não votou||NA|NA|Não|Não|Impedido — presente à sessão, mas não votou por impedimento, não por ausência.|sem_evidencia
+742|AP-565|AP-565-R03|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+743|AP-565|AP-565-R03|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Roberto Barroso|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+744|AP-565|AP-565-R03|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Ricardo Lewandowski|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+745|AP-565|AP-565-R03|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Marco Aurélio|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+746|AP-565|AP-565-R03|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Joaquim Barbosa|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+747|AP-565|AP-565-R03|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Cármen Lúcia|Sim|Condena|1|NA|Sim|Não|Não||sem_evidencia
+748|AP-565|AP-565-R03|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Teori Zavascki|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+749|AP-565|AP-565-R03|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+750|AP-565|AP-565-R03|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Gilmar Mendes|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+751|AP-565|AP-565-R03|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Celso de Mello|Não|Condena|1|Sim|Sim|Não|Não||sem_evidencia
+752|AP-565|AP-565-R03|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Luiz Fux|Não|Não votou||NA|NA|Não|Não|Impedido — presente à sessão, mas não votou por impedimento, não por ausência.|sem_evidencia
+753|AP-565|AP-565-R04|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Dias Toffoli|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+754|AP-565|AP-565-R04|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Roberto Barroso|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+755|AP-565|AP-565-R04|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Ricardo Lewandowski|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+756|AP-565|AP-565-R04|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Marco Aurélio|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+757|AP-565|AP-565-R04|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Joaquim Barbosa|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+758|AP-565|AP-565-R04|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Cármen Lúcia|Sim|Absolve|0|NA|Sim|Não|Não||sem_evidencia
+759|AP-565|AP-565-R04|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Teori Zavascki|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+760|AP-565|AP-565-R04|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+761|AP-565|AP-565-R04|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+762|AP-565|AP-565-R04|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+763|AP-565|AP-565-R04|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Luiz Fux|Não|Não votou||NA|NA|Não|Não|Impedido — presente à sessão, mas não votou por impedimento, não por ausência.|sem_evidencia
+764|AP-565|AP-565-R05|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Dias Toffoli|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+765|AP-565|AP-565-R05|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Roberto Barroso|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+766|AP-565|AP-565-R05|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Ricardo Lewandowski|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+767|AP-565|AP-565-R05|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Marco Aurélio|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+768|AP-565|AP-565-R05|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Joaquim Barbosa|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+769|AP-565|AP-565-R05|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Cármen Lúcia|Sim|Absolve|0|NA|Sim|Não|Não||sem_evidencia
+770|AP-565|AP-565-R05|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Teori Zavascki|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+771|AP-565|AP-565-R05|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+772|AP-565|AP-565-R05|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+773|AP-565|AP-565-R05|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+774|AP-565|AP-565-R05|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Luiz Fux|Não|Não votou||NA|NA|Não|Não|Impedido — presente à sessão, mas não votou por impedimento, não por ausência.|sem_evidencia
+775|AP-565|AP-565-R06|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Dias Toffoli|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+776|AP-565|AP-565-R06|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Roberto Barroso|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+777|AP-565|AP-565-R06|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Ricardo Lewandowski|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+778|AP-565|AP-565-R06|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Marco Aurélio|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+779|AP-565|AP-565-R06|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Joaquim Barbosa|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+780|AP-565|AP-565-R06|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Cármen Lúcia|Sim|Absolve|0|NA|Sim|Não|Não||sem_evidencia
+781|AP-565|AP-565-R06|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Teori Zavascki|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+782|AP-565|AP-565-R06|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+783|AP-565|AP-565-R06|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+784|AP-565|AP-565-R06|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+785|AP-565|AP-565-R06|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Luiz Fux|Não|Não votou||NA|NA|Não|Não|Impedido — presente à sessão, mas não votou por impedimento, não por ausência.|sem_evidencia
+786|AP-565|AP-565-R08|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Dias Toffoli|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+787|AP-565|AP-565-R08|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Roberto Barroso|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+788|AP-565|AP-565-R08|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Ricardo Lewandowski|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+789|AP-565|AP-565-R08|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Marco Aurélio|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+790|AP-565|AP-565-R08|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Joaquim Barbosa|Não|Condena|1|Não|Não|Sim|Não||sem_evidencia
+791|AP-565|AP-565-R08|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Cármen Lúcia|Sim|Absolve|0|NA|Sim|Não|Não||sem_evidencia
+792|AP-565|AP-565-R08|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Teori Zavascki|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+793|AP-565|AP-565-R08|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+794|AP-565|AP-565-R08|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+795|AP-565|AP-565-R08|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+796|AP-565|AP-565-R08|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Luiz Fux|Não|Não votou||NA|NA|Não|Não|Impedido — presente à sessão, mas não votou por impedimento, não por ausência.|sem_evidencia
+797|AP-565|AP-565-R07|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+798|AP-565|AP-565-R07|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Roberto Barroso|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+799|AP-565|AP-565-R07|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+800|AP-565|AP-565-R07|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Marco Aurélio|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+801|AP-565|AP-565-R07|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+802|AP-565|AP-565-R07|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Cármen Lúcia|Sim|Absolve|0|NA|Sim|Não|Não||sem_evidencia
+803|AP-565|AP-565-R07|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Teori Zavascki|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+804|AP-565|AP-565-R07|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+805|AP-565|AP-565-R07|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+806|AP-565|AP-565-R07|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+807|AP-565|AP-565-R07|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Luiz Fux|Não|Não votou||NA|NA|Não|Não|Impedido — presente à sessão, mas não votou por impedimento, não por ausência.|sem_evidencia
+808|AP-565|AP-565-R09|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+809|AP-565|AP-565-R09|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Roberto Barroso|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+810|AP-565|AP-565-R09|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+811|AP-565|AP-565-R09|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Marco Aurélio|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+812|AP-565|AP-565-R09|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Joaquim Barbosa|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+813|AP-565|AP-565-R09|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Cármen Lúcia|Sim|Absolve|0|NA|Sim|Não|Não||sem_evidencia
+814|AP-565|AP-565-R09|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Teori Zavascki|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+815|AP-565|AP-565-R09|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+816|AP-565|AP-565-R09|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+817|AP-565|AP-565-R09|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Celso de Mello|Não|Absolve|0|Sim|Sim|Não|Não||sem_evidencia
+818|AP-565|AP-565-R09|art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)|Luiz Fux|Não|Não votou||NA|NA|Não|Não|Impedido — presente à sessão, mas não votou por impedimento, não por ausência.|sem_evidencia
+819|AP-940|AP-940-R01||Gilmar Mendes|Sim|Absolve|0|NA|Sim|Não|Não||lido
+820|AP-940|AP-940-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||lido
+821|AP-940|AP-940-R01||Alexandre de Moraes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+822|AP-940|AP-940-R01||Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+823|AP-940|AP-940-R01||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+824|AP-940|AP-940-R01||Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+825|AP-940|AP-940-R01||Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+826|AP-940|AP-940-R01||Roberto Barroso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+827|AP-940|AP-940-R01||Edson Fachin|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+828|AP-940|AP-940-R01||Nunes Marques|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+829|AP-940|AP-940-R01||André Mendonça|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+830|AP-973|AP-973-R01||Gilmar Mendes|Sim|Absolve|0|NA|Não|Sim|Não||lido
+831|AP-973|AP-973-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Não|Sim|Não||lido
+832|AP-973|AP-973-R01||Cármen Lúcia|Não|Condena|1|Não|Sim|Não|Não||lido
+833|AP-973|AP-973-R01||Dias Toffoli|Não|Absolve|0|Sim|Não|Sim|Não||lido
+834|AP-973|AP-973-R01||Rosa Weber|Não|Condena|1|Não|Sim|Não|Não||lido
+835|AP-973|AP-973-R01||Roberto Barroso|Não|Condena|1|Não|Sim|Não|Não||lido
+836|AP-973|AP-973-R01||Edson Fachin|Não|Condena|1|Não|Sim|Não|Não||lido
+837|AP-973|AP-973-R01||Alexandre de Moraes|Não|Absolve|0|Sim|Não|Sim|Não||lido
+838|AP-973|AP-973-R01||Nunes Marques|Não|Condena|1|Não|Sim|Não|Não||lido
+839|AP-973|AP-973-R01||Luiz Fux|Não|Condena|1|Não|Sim|Não|Não||lido
+840|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Edson Fachin|Sim|Condena|1|NA|Sim|Não|Não||lido
+841|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Alexandre de Moraes|Não|Condena|1|Sim|Sim|Não|Não||lido
+842|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fato UTC Engenharia|André Mendonça|Não|Condena|1|Sim|Sim|Não|Não||lido
+843|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Roberto Barroso|Não|Condena|1|Sim|Sim|Não|Não||lido
+844|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+845|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+846|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+847|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+848|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Nunes Marques|Não|Absolve|0|Não|Não|Sim|Não||lido
+849|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Gilmar Mendes|Não|Absolve|0|Não|Não|Sim|Não||lido
+850|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Ricardo Lewandowski|Não|Não votou||NA|NA|Não|Sim|Não identificado no texto lido; hipótese não confirmada pela fonte (ver aviso de composição).|lido
+851|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Edson Fachin|Sim|Condena|1|NA|Sim|Não|Não||lido
+852|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Alexandre de Moraes|Não|Condena|1|Sim|Sim|Não|Não||lido
+853|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fato UTC Engenharia|André Mendonça|Não|Condena|1|Sim|Sim|Não|Não||lido
+854|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Roberto Barroso|Não|Condena|1|Sim|Sim|Não|Não||lido
+855|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Luiz Fux|Não|Condena|1|Sim|Sim|Não|Não||lido
+856|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Cármen Lúcia|Não|Condena|1|Sim|Sim|Não|Não||lido
+857|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Dias Toffoli|Não|Condena|1|Sim|Sim|Não|Não||lido
+858|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Rosa Weber|Não|Condena|1|Sim|Sim|Não|Não||lido
+859|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Nunes Marques|Não|Absolve|0|Não|Não|Sim|Não||lido
+860|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Gilmar Mendes|Não|Absolve|0|Não|Não|Sim|Não||lido
+861|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fato UTC Engenharia|Ricardo Lewandowski|Não|Não votou||NA|NA|Não|Sim|Não identificado no texto lido; hipótese não confirmada pela fonte (ver aviso de composição).|lido
+862|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Edson Fachin|Sim|Absolve|0|NA|Sim|Não|Não||lido
+863|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Alexandre de Moraes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+864|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|André Mendonça|Não|Absolve|0|Sim|Sim|Não|Não||lido
+865|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Roberto Barroso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+866|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||lido
+867|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||lido
+868|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||lido
+869|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||lido
+870|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Nunes Marques|Não|Absolve|0|Sim|Sim|Não|Não||lido
+871|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+872|AP-1025|AP-1025-R01|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Ricardo Lewandowski|Não|Não votou||NA|NA|Não|Sim|Não identificado no texto lido; hipótese não confirmada pela fonte (ver aviso de composição).|lido
+873|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Edson Fachin|Sim|Absolve|0|NA|Sim|Não|Não||lido
+874|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Alexandre de Moraes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+875|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|André Mendonça|Não|Absolve|0|Sim|Sim|Não|Não||lido
+876|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Roberto Barroso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+877|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||lido
+878|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||lido
+879|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||lido
+880|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||lido
+881|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Nunes Marques|Não|Absolve|0|Sim|Sim|Não|Não||lido
+882|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+883|AP-1025|AP-1025-R02|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Ricardo Lewandowski|Não|Não votou||NA|NA|Não|Sim|Não identificado no texto lido; hipótese não confirmada pela fonte (ver aviso de composição).|lido
+884|AP-1025|AP-1025-R03|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Edson Fachin|Sim|Absolve|0|NA|Sim|Não|Não||lido
+885|AP-1025|AP-1025-R03|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Alexandre de Moraes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+886|AP-1025|AP-1025-R03|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|André Mendonça|Não|Absolve|0|Sim|Sim|Não|Não||lido
+887|AP-1025|AP-1025-R03|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Roberto Barroso|Não|Absolve|0|Sim|Sim|Não|Não||lido
+888|AP-1025|AP-1025-R03|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||lido
+889|AP-1025|AP-1025-R03|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||lido
+890|AP-1025|AP-1025-R03|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||lido
+891|AP-1025|AP-1025-R03|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||lido
+892|AP-1025|AP-1025-R03|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Nunes Marques|Não|Absolve|0|Sim|Sim|Não|Não||lido
+893|AP-1025|AP-1025-R03|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+894|AP-1025|AP-1025-R03|corrupção passiva (art. 317, CP) — fatos DVBR, FTC Cards e armazém Jaraguá/Macaé|Ricardo Lewandowski|Não|Não votou||NA|NA|Não|Sim|Não identificado no texto lido; hipótese não confirmada pela fonte (ver aviso de composição).|lido
+895|AP-1032|AP-1032-R01||Edson Fachin|Sim|Absolve|0|NA|Sim|Não|Não||lido
+896|AP-1032|AP-1032-R02||Edson Fachin|Sim|Absolve|0|NA|Sim|Não|Não||lido
+897|AP-1032|AP-1032-R01||Alexandre de Moraes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+898|AP-1032|AP-1032-R02||Alexandre de Moraes|Não|Absolve|0|Sim|Sim|Não|Não||lido
+899|AP-1032|AP-1032-R01||Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+900|AP-1032|AP-1032-R02||Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+901|AP-1032|AP-1032-R01||Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+902|AP-1032|AP-1032-R02||Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+903|AP-1032|AP-1032-R01||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+904|AP-1032|AP-1032-R02||Ricardo Lewandowski|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+905|AP-1032|AP-1032-R01||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+906|AP-1032|AP-1032-R02||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+907|AP-1032|AP-1032-R01||Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+908|AP-1032|AP-1032-R02||Dias Toffoli|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+909|AP-1032|AP-1032-R01||Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+910|AP-1032|AP-1032-R02||Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+911|AP-1032|AP-1032-R01||Roberto Barroso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+912|AP-1032|AP-1032-R02||Roberto Barroso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+913|AP-1032|AP-1032-R01||Nunes Marques|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+914|AP-1032|AP-1032-R02||Nunes Marques|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+915|AP-1032|AP-1032-R01||André Mendonça|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+916|AP-1032|AP-1032-R02||André Mendonça|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+917|AP-1036|AP-1036-R01||Dias Toffoli|Sim|Absolve|0|NA|Sim|Não|Não||lido
+918|AP-1036|AP-1036-R01||Rosa Weber|Não|Absolve|0|Sim|Sim|Não|Não||lido
+919|AP-1036|AP-1036-R01||Gilmar Mendes|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+920|AP-1036|AP-1036-R01||Cármen Lúcia|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+921|AP-1036|AP-1036-R01||Luiz Fux|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+922|AP-1036|AP-1036-R01||Roberto Barroso|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+923|AP-1036|AP-1036-R01||Edson Fachin|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+924|AP-1036|AP-1036-R01||Alexandre de Moraes|Não|Não votou||NA|NA|Não|Não|suspeição|lido
+925|AP-1036|AP-1036-R01||Nunes Marques|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+926|AP-1036|AP-1036-R01||André Mendonça|Não|Absolve|0|Sim|Sim|Não|Não||deduzido
+927|AP-1036|AP-1036-R01||Cristiano Zanin|Não|Absolve|0|Sim|Sim|Não|Não||deduzido

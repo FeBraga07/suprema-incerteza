@@ -1,0 +1,1250 @@
+{
+  "id_caso": "AP-426",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-7 (todas)",
+  "unidades": [
+    {
+      "id_unidade": "AP-426-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Marco Aurélio",
+        "evidencia": "A Sra. Ministra Ellen Gracie (Revisora) - Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+        "fonte": "p. 6",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "Cuidando-se de crime próprio, a imputação somente poderia recair no agente público com competência para a prática do ato, que se consuma com a formalização administrativa de dispensa _oum declaração de inexigibilidade de licitação. No caso, entretanto, a documentação juntada à folha 761 à 783 atestaria que o tipo penal teria sido praticado pelo Secretário de Comunicação Social do Município.",
+            "fonte": "p. 4",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu. [caso unânime; as duas questões (concorreu e dolo) tiveram a mesma resposta 'não' — R5b]",
+            "fonte": "p. 7",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Cuidando-se de crime próprio, a imputação somente poderia recair no agente público com competência para a prática do ato",
+            "fonte": "p. 4"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "a documentação juntada à folha 761 à 783 atestaria que o tipo penal teria sido praticado pelo Secretário de Comunicação Social do Município. Assevera que tal circunstância também foi esclarecida pela testemunha de folha 738",
+            "fonte": "p. 4",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "Cuidando-se de crime próprio, a imputação somente poderia recair no agente público com competência para a prática do ato",
+            "fonte": "p. 4",
+            "confianca": "media"
+          },
+          "posicoes": [
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Concluo, então, pela absolvição do acusado na forma prevista no artigo 386, inciso IV, do Código de Processo Penal",
+                "fonte": "p. 5",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Cuidando-se de crime próprio, a imputação somente poderia recair no agente público com competência para a prática do ato, que se consuma com a formalização administrativa de dispensa _oum declaração de inexigibilidade de licitação. No caso, entretanto, a documentação juntada à folha 761 à 783 atestaria que o tipo penal teria sido praticado pelo Secretário de Comunicação Social do Município.",
+                "fonte": "p. 4",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Cuidando-se de crime próprio, a imputação somente poderia recair no agente público com competência para a prática do ato, que se consuma com a formalização administrativa de dispensa _oum declaração de inexigibilidade de licitação. No caso, entretanto, a documentação juntada à folha 761 à 783 atestaria que o tipo penal teria sido praticado pelo Secretário de Comunicação Social do Município.",
+                "fonte": "p. 4",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Competência para o ato (dispensa/inexigibilidade) atribuída ao Secretário de Comunicação Social, por prova documental (fls. 761-783) e testemunhal (fl. 738); testemunhas de acusação 'nada acrescentaram'. Razão adotada do parecer da PGR.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta",
+                "inferida_de": "Marco Aurélio (relator): a revisora declara concordância integral com o voto do relator, sem fundamentação própria"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": "Presidiu a sessão; o acórdão não registra voto escrito nem declaração expressa de voto do presidente — adesão inferida apenas do 'por unanimidade'",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Menezes Direito",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Realca a ausência de demonstração do dolo e faltar elementos suficientes que apontem possível relação influência direta, livre e consciente do denunciado sobre o ato praticado pelo Secretário de Comunicação Social.",
+            "fonte": "p. 4-5",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu. [caso unânime; as duas questões (concorreu e dolo) tiveram a mesma resposta 'não' — R5b]",
+            "fonte": "p. 7",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "não estar comprovado que o réu teria concorrido dolosamente para a prática de infração penal, destacando, a seguir, que os fatos descritos na denúncia SÓ são punidos na modalidade dolosa",
+            "fonte": "p. 4"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Realca a ausência de demonstração do dolo",
+            "fonte": "p. 4",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "nao_dito",
+            "evidencia": "os fatos descritos na denúncia SÓ são punidos na modalidade dolosa, em cumprimento do disposto no parágrafo único do artigo 18 do Código Penal.",
+            "fonte": "p. 4",
+            "confianca": "media"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Concluo, então, pela absolvição do acusado na forma prevista no artigo 386, inciso IV, do Código de Processo Penal",
+                "fonte": "p. 5",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Realca a ausência de demonstração do dolo e faltar elementos suficientes que apontem possível relação influência direta, livre e consciente do denunciado sobre o ato praticado pelo Secretário de Comunicação Social.",
+                "fonte": "p. 4-5",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Realca a ausência de demonstração do dolo e faltar elementos suficientes que apontem possível relação influência direta, livre e consciente do denunciado sobre o ato praticado pelo Secretário de Comunicação Social.",
+                "fonte": "p. 4-5",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Ausência de prova de influência 'direta, livre e consciente' do réu sobre o ato do Secretário. Razão adotada do parecer da PGR.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta",
+                "inferida_de": "Marco Aurélio (relator): a revisora declara concordância integral com o voto do relator, sem fundamentação própria"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": "Presidiu a sessão; o acórdão não registra voto escrito nem declaração expressa de voto do presidente — adesão inferida apenas do 'por unanimidade'",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Menezes Direito",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [],
+      "obs": "O acórdão (p. 1) e o extrato de ata (p. 7) atribuem a decisão aos termos do voto da REVISORA (Ellen Gracie), mas a revisora apenas declara concordar integralmente com o relator, sem fundamentar; quem fundamenta é Marco Aurélio. Evidência da atribuição: 'acordam os ministros do Supremo Tribunal Federal em absolver o réu, nos termos do voto da revisora e por unanimidade' (p. 1). Além disso, o voto do relator fundamenta por adoção expressa das alegações finais do MPF ('Merece acolhimento a colocação do titular da ação penal, contida à folha 804 à 808', p. 4): as razões transcritas abaixo são o relato que o relator faz do parecer da PGR, por ele acolhido. Resultado lido no texto (Absolve, unânime) coincide com o banco para todos os 11 ministros. Imputação grafada no texto como 'artigo 89 da Lei nº 8.666/96' (p. 2), confirmando o provável erro de grafia já anotado no banco."
+    },
+    {
+      "id_unidade": "AP-426-R01-I02",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Marco Aurélio",
+        "evidencia": "A Sra. Ministra Ellen Gracie (Revisora) - Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+        "fonte": "p. 6",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "A ordenação das despesas foi praticada pela Superintendente Técnica Vera Lúcia Sigwalt Bittencourt, o que se revelaria pelas assinaturas apostas nas aludidas notas de empenho. Em relação a este delito, no entanto, não se colhera prova idônea de que o denunciado teria concorrido dolosamente para a prática do ato.",
+            "fonte": "p. 5",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu. [caso unânime; as duas questões (concorreu e dolo) tiveram a mesma resposta 'não' — R5b]",
+            "fonte": "p. 7",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "não se colhera prova idônea de que o denunciado teria concorrido dolosamente para a prática do ato",
+            "fonte": "p. 5"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Diz ser possível verificar dos depoimentos de folhas 740, 742 e 743 o pagamento de despesas sem envolvimento direto do prefeito.",
+            "fonte": "p. 5",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "nao_dito",
+            "evidencia": "não se colhera prova idônea de que o denunciado teria concorrido dolosamente para a prática do ato",
+            "fonte": "p. 5",
+            "confianca": "media"
+          },
+          "posicoes": [
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Concluo, então, pela absolvição do acusado na forma prevista no artigo 386, inciso IV, do Código de Processo Penal",
+                "fonte": "p. 5",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "A ordenação das despesas foi praticada pela Superintendente Técnica Vera Lúcia Sigwalt Bittencourt, o que se revelaria pelas assinaturas apostas nas aludidas notas de empenho. Em relação a este delito, no entanto, não se colhera prova idônea de que o denunciado teria concorrido dolosamente para a prática do ato.",
+                "fonte": "p. 5",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "A ordenação das despesas foi praticada pela Superintendente Técnica Vera Lúcia Sigwalt Bittencourt, o que se revelaria pelas assinaturas apostas nas aludidas notas de empenho. Em relação a este delito, no entanto, não se colhera prova idônea de que o denunciado teria concorrido dolosamente para a prática do ato.",
+                "fonte": "p. 5",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Materialidade reconhecida ('Estaria, então, caracterizada a materialidade delitiva'); ordenação da despesa atribuída à Superintendente Técnica pelas assinaturas nas notas de empenho; depoimentos (fls. 740, 742, 743) indicam pagamento sem envolvimento direto do prefeito. Razão adotada do parecer da PGR.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta",
+                "inferida_de": "Marco Aurélio (relator): a revisora declara concordância integral com o voto do relator, sem fundamentação própria"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": "Presidiu a sessão; o acórdão não registra voto escrito nem declaração expressa de voto do presidente — adesão inferida apenas do 'por unanimidade'",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Menezes Direito",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Também porque não comprovada a existência de dolo na conduta do acusado, infirma a prática do delito previsto no artigo 18, inciso III, do Decreto-Lei nº 201/67",
+            "fonte": "p. 5",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu. [caso unânime; as duas questões (concorreu e dolo) tiveram a mesma resposta 'não' — R5b]",
+            "fonte": "p. 7",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Também porque não comprovada a existência de dolo na conduta do acusado, infirma a prática do delito previsto no artigo 18, inciso III, do Decreto-Lei nº 201/67",
+            "fonte": "p. 5"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "não comprovada a existência de dolo na conduta do acusado",
+            "fonte": "p. 5",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "nao_dito",
+            "evidencia": "Também porque não comprovada a existência de dolo na conduta do acusado",
+            "fonte": "p. 5",
+            "confianca": "media"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Concluo, então, pela absolvição do acusado na forma prevista no artigo 386, inciso IV, do Código de Processo Penal",
+                "fonte": "p. 5",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Também porque não comprovada a existência de dolo na conduta do acusado, infirma a prática do delito previsto no artigo 18, inciso III, do Decreto-Lei nº 201/67",
+                "fonte": "p. 5",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Também porque não comprovada a existência de dolo na conduta do acusado, infirma a prática do delito previsto no artigo 18, inciso III, do Decreto-Lei nº 201/67",
+                "fonte": "p. 5",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Dolo e concurso aparecem fundidos na fórmula 'concorrido dolosamente'. Razão adotada do parecer da PGR.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Senhor Presidente, eu revisei os autos e concordo integralmente com o voto do eminente Relator.",
+                "fonte": "p. 6",
+                "confianca": "alta",
+                "inferida_de": "Marco Aurélio (relator): a revisora declara concordância integral com o voto do relator, sem fundamentação própria"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "baixa",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": "Presidiu a sessão; o acórdão não registra voto escrito nem declaração expressa de voto do presidente — adesão inferida apenas do 'por unanimidade'",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Menezes Direito",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da Revisora, absolveu o réu.",
+                "fonte": "p. 7",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio (relator), via adesão unânime ao voto da revisora, que por sua vez acompanha integralmente o relator; não há voto escrito deste ministro no acórdão"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [],
+      "obs": "O acórdão (p. 1) e o extrato de ata (p. 7) atribuem a decisão aos termos do voto da REVISORA (Ellen Gracie), mas a revisora apenas declara concordar integralmente com o relator, sem fundamentar; quem fundamenta é Marco Aurélio. Evidência da atribuição: 'acordam os ministros do Supremo Tribunal Federal em absolver o réu, nos termos do voto da revisora e por unanimidade' (p. 1). Além disso, o voto do relator fundamenta por adoção expressa das alegações finais do MPF ('Merece acolhimento a colocação do titular da ação penal, contida à folha 804 à 808', p. 4): as razões transcritas abaixo são o relato que o relator faz do parecer da PGR, por ele acolhido. Resultado lido no texto (Absolve, unânime) coincide com o banco para todos os 11 ministros. Imputação citada no voto como 'artigo 18, inciso III, do Decreto-Lei nº 201/67' (p. 5), mas com a redação do art. 1º, III ('desviar ou aplicar, indevidamente, rendas cou verbas públicas'); o relatório (p. 2) grafa corretamente 'artigo 1º, inciso III'."
+    }
+  ],
+  "avisos": [
+    "Voto condutor: acórdão e ata dizem 'nos termos do voto da revisora', mas Ellen Gracie só adere ('concordo integralmente com o voto do eminente Relator', p. 6); registrado Marco Aurélio como condutor.",
+    "O voto do relator é quase inteiramente relato das alegações finais da PGR (fls. 804-808), acolhidas expressamente ('Merece acolhimento a colocação do titular da ação penal', p. 4). As questões decisivas são as do parecer adotado; não há fundamentação autônoma do relator além da adoção.",
+    "Nas duas unidades, concorreu e dolo aparecem fundidos ('não estar comprovado que o réu teria concorrido dolosamente', p. 4; 'não se colhera prova idônea de que o denunciado teria concorrido dolosamente', p. 5). Registradas as duas questões com principal = Sim em ambas, por R5b (unânime, mesma resposta 'não'). Um leitor pode legitimamente ler a competência para o ato (crime próprio) como o eixo dominante em I01 e a ausência de envolvimento direto em I02 — sem divergência, R5b impede escolher pela ênfase.",
+    "Base legal da absolvição: art. 386, IV, CPP (p. 4 e p. 5). Julgamento em 18/12/2008, já sob a Lei 11.690/2008, em que o novo IV é 'estar provado que o réu não concorreu'; mas a linguagem do voto é de falta de prova ('não estar comprovado', 'não se colhera prova idônea'), compatível com o antigo IV (hoje V). O parecer da PGR acolhido não tem data no texto. Pela R2 segui a linguagem do voto (insuficiência de prova); a referência ao inciso não altera a classificação da questão, mas a ambiguidade fica registrada.",
+    "padrao_dolo_exigido = nao_dito: o voto só afirma que os tipos são punidos apenas na modalidade dolosa (art. 18, parágrafo único, CP) e fala em influência 'direta, livre e consciente'; não diz se basta o dolo genérico nem exige finalidade específica.",
+    "modo_concurso em I01 = autor (confiança média): a ênfase em crime próprio e competência para o ato aponta para autoria, mas o voto também examina 'influência direta, livre e consciente' do réu sobre o ato do Secretário, o que remete a participação. Em I02 = nao_dito.",
+    "Os 9 ministros além de relator e revisora não têm voto escrito; adesão inferida do 'por unanimidade' do extrato de ata (p. 7). Gilmar Mendes presidiu a sessão e não consta da lista de 'presentes' separadamente da presidência; a contagem de 11 votantes do banco foi mantida, com confiança baixa para ele.",
+    "A ata grafa 'Carlos Britto'; registrado como 'Ayres Britto' para casar com o banco.",
+    "Nenhum precedente ou mudança de regra citado na fundamentação; listas de precedentes vazias."
+  ]
+}

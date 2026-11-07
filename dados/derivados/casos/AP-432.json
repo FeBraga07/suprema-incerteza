@@ -1,0 +1,197 @@
+{
+  "id_caso": "AP-432",
+  "extraido_em": "2026-08-08",
+  "fontes_lidas": ["dados/corpus/texto/AP-432.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Art. 1º, II, do Decreto-Lei nº 201/1967 (crime de responsabilidade de Prefeito Municipal - 'utilizar-se, indevidamente, em proveito próprio ou alheio, de bens, rendas ou serviços públicos', dito 'peculato de uso'). Um dos votos (Min. Dias Toffoli) enquadrou o mesmo fato no inciso I do mesmo artigo ('peculato de desvio'), sem prevalecer.",
+      "evidencia": "EMENTA: AÇÃO PENAL. COMPETÊNCIA RATIONE MUNERIS. DEPUTADO FEDERAL. CRIME DE RESPONSABILIDADE DE PREFEITO MUNICIPAL. UTILIZAÇÃO INDEVIDA DE RECURSOS PÚBLICOS. ART. 1º, II, DECRETO-LEI N. 201/67.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, por maioria, julgou parcialmente procedente a ação penal para condenar o réu pelo delito previsto no inciso II do art. 1º do Decreto-lei nº 201/1967 (...) Por maioria, fixou a pena em 2 (dois) anos de reclusão e declarou extinta a punibilidade pela ocorrência da prescrição retroativa.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU(É)(S): JAIRO ATAÍDE VIEIRA — único réu identificado na capa e ao longo de todo o acórdão e da ata de julgamento.",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Todos os cabeçalhos do inteiro teor (relatório, votos, esclarecimentos, debate, questões de ordem e extrato de ata) trazem a mesma data '10/10/2013' e 'PLENÁRIO', sem qualquer menção a adiamento ou pedido de vista que tenha interrompido o julgamento para outra sessão. O Extrato de Ata final também registra 'Plenário, 10.10.2013' como data única.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "modalidade_levcovitz": {"valor": [1, 5], "rotulos": ["Peculato (art. 312, CP, ou equivalente via DL 201/67)", "Emprego irregular de verbas ou rendas públicas (art. 315, CP, ou equivalente via DL 201/67)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-432, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"1/5 (equivalente à utilização indevida de bens e rendas públicas)\"", "regra_aplicada": "inclusao_dl201", "fonte": "ementa+ata", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Jairo Ataíde Vieira",
+        "evidencia": "RÉU(É)(S): JAIRO ATAÍDE VIEIRA",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Deputado Federal (na data do julgamento, o que fundamentou a competência do STF); ex-Prefeito Municipal de Montes Claros/MG (cargo ocupado à época dos fatos delituosos)",
+        "evidencia": "'imputando ao ex-Prefeito Municipal de Montes Claros/MG, JAIRO ATAÍDE VIEIRA, a prática, por três vezes, em concurso material, do crime previsto no art. 1º, II, do Decreto-Lei nº 201/67' e 'JAIRO ATAÍDE VIEIRA, ex-Prefeito Municipal de Montes Claros/MG e atualmente no exercício de mandato como Deputado Federal'",
+        "fonte": "acordao p.5",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação parcial",
+        "evidencia": "O Tribunal, por maioria, julgou parcialmente procedente a ação penal para condenar o réu pelo delito previsto no inciso II do art. 1º do Decreto-lei nº 201/1967, vencidos os Ministros Teori Zavascki, Gilmar Mendes e Marco Aurélio, que o absolviam. [...] absolveu quanto aos fatos (2) e (3) — os informativos/panfletos.",
+        "fonte": "ata",
+        "confianca": "alta",
+        "nota_revisao": "Campo corrigido em 08/08/2026 por decisão D-018: 'resultado' segue o mérito (condena/absolve), não o desfecho processual posterior. Valor original da extração cega era 'Extinção da punibilidade' — preservado em 'avisos' para registro do processo. A extinção da punibilidade por prescrição retroativa está corretamente capturada em 'motivo' e 'prescricao_pos_condenacao', não perdida."
+      },
+      "motivo": {
+        "valor": "prescrição",
+        "evidencia": "declarou extinta a punibilidade pela ocorrência da prescrição retroativa",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": true,
+        "evidencia": "'Aplicada, por maioria, a reprimenda de 02 (dois) anos de reclusão, decretando-se, em seguida, a extinção da punibilidade, em razão da prescrição retroativa.' — ou seja, houve condenação (por maioria, quanto ao fato da propaganda televisiva, art. 1º, II, DL 201/67) e, na sequência, extinção da punibilidade pela prescrição retroativa da pena em concreto fixada.",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "1º, II (majoritário) / 1º, I (voto isolado e vencido quanto ao enquadramento, Min. Dias Toffoli)",
+          "diploma": "Decreto-Lei nº 201/1967",
+          "evidencia": "'julgar parcialmente procedente a ação penal para condenar o réu pelo delito previsto no inciso II do art. 1º do Decreto-lei nº 201/1967 (...) O Ministro Dias Toffoli condenou o réu com base no inciso I do art. 1º do DL nº 201/1967.'"
+        }
+      ],
+      "n_votantes": {
+        "valor": 8,
+        "evidencia": "'Então, em relação ao desvalor, em relação à propaganda na televisão, foram cinco votos pelo desvalor da conduta e três por absolvê-lo.' e, adiante, do próprio Min. Dias Toffoli: 'Estamos em oito.' — total de 8 ministros votantes no mérito (dos 11 em exercício; 3 ausentes: Joaquim Barbosa, Celso de Mello e Cármen Lúcia).",
+        "fonte": "acordao p.78",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 5,
+        "evidencia": "'foram cinco votos pelo desvalor da conduta e três por absolvê-lo' — os cinco votos pela condenação (quanto ao fato da propaganda televisiva) foram de Fux, Rosa Weber, Barroso, Lewandowski (art. 1º, II) e Dias Toffoli (art. 1º, I).",
+        "fonte": "acordao p.78",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 3,
+        "evidencia": "vencidos os Ministros Teori Zavascki, Gilmar Mendes e Marco Aurélio, que o absolviam [por atipicidade da conduta]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "Placar de 5 a 3 quanto ao mérito da condenação pela propaganda televisiva (vencidos Teori Zavascki, Gilmar Mendes e Marco Aurélio); quanto ao fato dos panfletos/informativos 'Saúde Plena', a acusação foi julgada improcedente por 6 votos a 2 (vencidos o Relator Fux e o Min. Barroso, que votavam por condenar também quanto a esse fato, conforme aviso). Quanto à dosimetria final, placar de 3 a 2 (vencidos Fux e Rosa Weber). Nenhuma dessas votações foi unânime.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Luiz Fux", "evidencia": "RELATOR: MIN. LUIZ FUX", "fonte": "acordao p.1", "confianca": "alta"},
+      "eh_relator": {"valor": true, "evidencia": "RELATOR: MIN. LUIZ FUX", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "Ex positis, com supedâneo no art. 387 do CPP, julgo procedente a pretensão punitiva estatal e condeno o denunciado JAIRO ATAÍDE VIEIRA como incurso nas penas do art. 1º, II, do Decreto-Lei nº 201/67, por três vezes.", "fonte": "acordao p.15", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Não consta entre os vencidos no mérito (ata): 'vencidos os Ministros Teori Zavascki, Gilmar Mendes e Marco Aurélio, que o absolviam'. NOTA: Fux foi vencido especificamente quanto ao fato dos panfletos (queria condenar, prevaleceu absolvição, conforme explicação do Min. Toffoli: 'a ação foi julgada improcedente, contra os votos do eminente Relator e do Ministro Barroso em relação a esse segundo fato') e também vencido na dosimetria final (queria 4 anos e 4 meses; prevaleceram 2 anos + prescrição): 'vencidos os Ministro Luiz Fux (Relator) e Rosa Weber'.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Não consta na lista de ausentes da ata; votou como relator.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Rosa Weber", "evidencia": "REVISORA: MIN. ROSA WEBER", "fonte": "acordao p.1", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "REVISORA (não relatora) do processo.", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "'Vossa Excelência julga parcialmente procedente a denúncia? - Isso, a ação.' Condenou quanto à propaganda televisiva ('Fico com o voto do eminente Relator, quanto ao juízo condenatório, no que diz com a propaganda televisiva') e absolveu quanto aos panfletos/informativos.", "fonte": "acordao p.35", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Não consta entre os vencidos no mérito geral. NOTA: foi vencida na dosimetria final, junto com o Relator, ao propor pena de 4 anos e 4 meses (prevaleceram 2 anos + prescrição): 'vencidos os Ministro Luiz Fux (Relator) e Rosa Weber, que a fixavam em 4 anos e 4 meses de reclusão.'", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Votou como Revisora.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Roberto Barroso", "evidencia": "O SENHOR MINISTRO LUÍS ROBERTO BARROSO", "fonte": "acordao p.36", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não é relator nem revisor.", "fonte": "acordao p.36", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "'que a conduta se ajusta ao tipo do artigo 1º, inciso II, eu não tenho dúvida (...) E, por essa razão, eu vou acompanhar o Relator.'", "fonte": "acordao p.36", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Não consta entre os vencidos no mérito geral. NOTA: segundo o Min. Toffoli, Barroso também votou por condenar quanto ao fato dos panfletos, ficando vencido nesse ponto específico ('a ação foi julgada improcedente, contra os votos do eminente Relator e do Ministro Barroso em relação a esse segundo fato'). Na dosimetria, Barroso propôs 2 anos + prescrição, tese que prevaleceu.", "fonte": "acordao p.77", "confianca": "media"},
+      "ausente": {"valor": false, "evidencia": "Votou normalmente.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Teori Zavascki", "evidencia": "O SENHOR MINISTRO TEORI ZAVASCKI", "fonte": "acordao p.37", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não é relator nem revisor.", "fonte": "acordao p.37", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "'De modo que vou pedir vênia aos eminentes Colegas para julgar improcedente a ação penal por atipicidade.'", "fonte": "acordao p.40", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os Ministros Teori Zavascki, Gilmar Mendes e Marco Aurélio, que o absolviam", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Votou normalmente.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Dias Toffoli", "evidencia": "O SENHOR MINISTRO DIAS TOFFOLI", "fonte": "acordao p.46", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não é relator nem revisor.", "fonte": "acordao p.46", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "'os fatos descritos na inicial em relação ao primeiro episódio (...) também me levam a julgar a ação procedente, mas - aplicando o art. 383 do Código de Processo Penal – com base, em emendatio, no inciso I do artigo 1º. Quanto ao segundo episódio (...) eu vou acompanhar Sua Excelência [a Revisora], absolvendo o réu em relação ao segundo fato.'", "fonte": "acordao p.62", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Não consta entre os vencidos no mérito principal (ata cita apenas Teori Zavascki, Gilmar Mendes e Marco Aurélio como vencidos, que absolviam). O voto de Toffoli condenou, mas por fundamento jurídico diverso (inciso I, não inciso II) do que prevaleceu; a ata registra essa peculiaridade separadamente: 'O Ministro Dias Toffoli condenou o réu com base no inciso I do art. 1º do DL nº 201/1967', sem o classificar como vencido.", "fonte": "ata", "confianca": "media"},
+      "ausente": {"valor": false, "evidencia": "Votou normalmente e participou também da questão de ordem e da dosimetria.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Marco Aurélio", "evidencia": "O SENHOR MINISTRO MARCO AURÉLIO", "fonte": "acordao p.51", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não é relator nem revisor.", "fonte": "acordao p.51", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "'vou pedir vênia ao Ministro Luiz Fux para adiantar o voto, assentando que o fato narrado na denúncia é atípico e que incide, portanto, o disposto no inciso III do artigo 386 do Código de Processo Penal.'", "fonte": "acordao p.51", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os Ministros Teori Zavascki, Gilmar Mendes e Marco Aurélio, que o absolviam", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Votou normalmente; também vencido na questão de ordem sobre a dosimetria de Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ricardo Lewandowski", "evidencia": "Presidência do Senhor Ministro Ricardo Lewandowski (Vice-Presidente)", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Presidiu a sessão (Vice-Presidente no exercício da Presidência, na ausência do Presidente Joaquim Barbosa); não é relator nem revisor.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "'eu estou julgando procedente em parte, acompanhando o voto da Ministra-Revisora, portanto, concordando também em parte com o voto do Ministro-Relator.'", "fonte": "acordao p.68", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Não consta entre os vencidos no mérito. Votou por último ('Votou o Presidente, Ministro Ricardo Lewandowski, Vice-Presidente no exercício da Presidência'), e propôs a dosimetria de 2 anos + prescrição que prevaleceu na votação final.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presidiu e votou.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Gilmar Mendes", "evidencia": "O SENHOR MINISTRO GILMAR MENDES", "fonte": "acordao p.69", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não é relator nem revisor.", "fonte": "acordao p.69", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "'entendo que se deve reconhecer a atipicidade da conduta, tal como já o fizera o Ministro Teori Zavascki e depois o Ministro Marco Aurélio. É como voto.'", "fonte": "acordao p.76", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os Ministros Teori Zavascki, Gilmar Mendes e Marco Aurélio, que o absolviam. Também vencido na questão de ordem sobre a participação de Toffoli na dosimetria: 'vencidos os Ministros Gilmar Mendes e Marco Aurélio.'", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Votou normalmente.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "n/a", "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Celso de Mello", "evidencia": "Ausentes, justificadamente, os Ministros Joaquim Barbosa (Presidente) (...) e Celso de Mello", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não participou do julgamento.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, os Ministros Joaquim Barbosa (Presidente) (...) e Celso de Mello", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Não votou, portanto não integra o placar de vencidos/vencedores.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "Ausentes, justificadamente, os Ministros Joaquim Barbosa (Presidente) (...) e Celso de Mello", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "ausente justificadamente (a ata não especifica o motivo concreto para Celso de Mello, apenas o qualifica, junto com Joaquim Barbosa, como 'ausente justificadamente'; o motivo detalhado — Comissão de Veneza — é dado apenas para Joaquim Barbosa)", "evidencia": "Ausentes, justificadamente, os Ministros Joaquim Barbosa (Presidente), participando da 96ª Sessão Plenária da Comissão de Veneza, na Itália, e Celso de Mello", "fonte": "ata", "confianca": "media"}
+    },
+    {
+      "ministro": {"valor": "Joaquim Barbosa", "evidencia": "Ausentes, justificadamente, os Ministros Joaquim Barbosa (Presidente), participando da 96ª Sessão Plenária da Comissão de Veneza, na Itália", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Era o Presidente do STF à época, mas não participou desta sessão; a presidência foi exercida pelo Vice-Presidente Lewandowski.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, os Ministros Joaquim Barbosa (Presidente), participando da 96ª Sessão Plenária da Comissão de Veneza, na Itália", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Não votou, portanto não integra o placar de vencidos/vencedores.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "Ausentes, justificadamente, os Ministros Joaquim Barbosa (Presidente), participando da 96ª Sessão Plenária da Comissão de Veneza, na Itália", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "participando da 96ª Sessão Plenária da Comissão de Veneza, na Itália", "evidencia": "participando da 96ª Sessão Plenária da Comissão de Veneza, na Itália", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cármen Lúcia", "evidencia": "ausente neste julgamento, a Ministra Cármen Lúcia", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Não participou do julgamento deste caso.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "ausente neste julgamento, a Ministra Cármen Lúcia", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Não votou, portanto não integra o placar de vencidos/vencedores.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "ausente neste julgamento, a Ministra Cármen Lúcia", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "a ata registra apenas 'ausente neste julgamento', sem especificar o motivo (nota: essa expressão difere de 'ausente justificadamente', usada para Barbosa e Celso de Mello; ver aviso sobre contradição com a lista de presentes à sessão)", "evidencia": "e, ausente neste julgamento, a Ministra Cármen Lúcia", "fonte": "ata", "confianca": "media"}
+    }
+  ],
+  "avisos": [
+    "REVISÃO D-018 (08/08/2026): a extração cega original preencheu 'resultado' como 'Extinção da punibilidade' (o desfecho processual final), com justificativa própria registrada abaixo. Felipe e o extrator convergiram, em revisão conjunta, na regra D-018: 'resultado' deve seguir o mérito (condena/absolve), porque é essa a variável que a definição operacional de 'mudança' do projeto usa para comparar casos — o desfecho processual posterior (prescrição, indulto etc.) já é capturado por 'motivo' e 'prescricao_pos_condenacao', sem necessidade de sobrescrever 'resultado'. Campo corrigido para 'Condenação parcial'. Ver DECISOES.md D-018.",
+    "Contradição textual na própria ata: o parágrafo de decisão diz '...e, ausente neste julgamento, a Ministra Cármen Lúcia', mas o parágrafo seguinte, que lista os presentes à sessão plenária do dia, inclui seu nome: 'Presentes à sessão os Senhores Ministros Marco Aurélio, Gilmar Mendes, Cármen Lúcia, Dias Toffoli, Luiz Fux, Rosa Weber, Teori Zavascki e Roberto Barroso.' Não há explicação no texto para essa aparente contradição (possivelmente ela estava presente na sessão do dia mas se ausentou/não votou especificamente neste processo, por impedimento não declarado ou por outro motivo). Optei por seguir a instrução do prompt de que a ata tem precedência para placar/ausências, e registrei Cármen Lúcia como ausente/não votante neste julgamento especificamente, mas a divergência merece verificação humana adicional caso necessário.",
+    "O caso envolve três fatos imputados na mesma denúncia (contagem única de art. 1º, II, DL 201/67 'por três vezes', em concurso material): (1) propagandas televisivas de 2000 (R$ 90.000,00); (2) informativo 'Saúde Plena' de outubro/1999; (3) informativo 'Saúde Plena' de novembro/1999. O Plenário condenou (por maioria, 5x3) apenas quanto ao fato (1) — a propaganda televisiva — e absolveu quanto aos fatos (2) e (3) — os informativos/panfletos —, estes por maioria de 6 a 2 (vencidos o Relator Fux e o Min. Barroso, que votavam por condenar também quanto a esse(s) fato(s), conforme esclarecimento do Min. Dias Toffoli: 'Em relação aos boletins, ao informativo, a ação foi julgada improcedente, contra os votos do eminente Relator e do Ministro Barroso em relação a esse segundo fato'). Este é, portanto, um caso de 'condenação parcial' no mérito (quanto aos fatos), mas cujo desfecho final processual foi a extinção da punibilidade por prescrição retroativa da pena fixada para o único fato em que houve condenação. Registrei o campo 'resultado' do réu como 'Extinção da punibilidade' (desfecho final do processo) e 'prescricao_pos_condenacao' como true, conforme instrução da regra 3, mas o dado de 'condenação parcial' subjacente é relevante para a pesquisa e está documentado aqui.",
+    "Há uma terceira votação distinta e com placar próprio, não confundir com o mérito nem com a dosimetria: a Questão de Ordem suscitada pelo Min. Dias Toffoli sobre se ele, tendo condenado o réu com base em inciso diverso (I) do que prevaleceu (II), deveria participar da fixação da dosimetria da pena. Resultado: por maioria, decidiu-se que sim, ele deveria participar; vencidos os Ministros Gilmar Mendes e Marco Aurélio (que entendiam que, por ter 'absolvido' quanto ao inciso II que prevaleceu, ele não deveria dosar a pena). Essa questão de ordem é diferente tanto do placar de mérito (condena/absolve, 5x3) quanto do placar final de dosimetria (2 anos + prescrição vs. 4 anos e 4 meses, 3x2).",
+    "A dosimetria final teve placar próprio de 3 a 2: Barroso, Toffoli (aderindo a Barroso) e Lewandowski votaram por fixar a pena-base no mínimo de 2 anos, com posterior declaração de prescrição retroativa; Fux (Relator) e Rosa Weber (Revisora) votaram por fixar a pena em 4 anos e 4 meses. Os três ministros que absolveram no mérito (Teori Zavascki, Gilmar Mendes e Marco Aurélio) não participaram da votação da dosimetria, por entendimento reiterado do Tribunal de que quem absolve não vota na fixação da pena.",
+    "O réu Jairo Ataíde Vieira praticou os fatos delituosos na qualidade de Prefeito Municipal de Montes Claros/MG (1997-2000, reeleito para 2001-2004), mas foi julgado pelo STF em razão de ter sido eleito Deputado Federal, gerando discussão de competência ratione muneris explicitada na ementa. O tipo penal do Decreto-Lei 201/67 aplica-se especificamente a Prefeitos e Vereadores; vários ministros (Barroso, Gilmar Mendes) levantaram, em obiter dictum, questionamento sobre a desigualdade de tratamento penal entre prefeitos e outros agentes políticos (governadores, presidente) para condutas similares, sem que isso tenha sido objeto de votação formal.",
+    "Não há, no corpo do acórdão, uma seção de 'Extrato de Ata' referente à sessão em que a AP 432 foi incluída em pauta/afetada ao Plenário anteriormente (por exemplo, ata de reconhecimento de repercussão ou remessa) — apenas a ata final de julgamento de mérito de 10/10/2013, que é a única utilizada nesta extração."
+  ]
+}

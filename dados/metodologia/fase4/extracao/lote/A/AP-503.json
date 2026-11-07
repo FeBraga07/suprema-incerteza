@@ -1,0 +1,1241 @@
+{
+  "id_caso": "AP-503",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-103 (todas; pp. 1-16 e 30-103 integralmente; relatório pp. 17-29, que transcreve alegações finais, em leitura rápida)",
+  "unidades": [
+    {
+      "id_unidade": "AP-503-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "escopo Levcovitz já decidido no banco",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Celso de Mello",
+        "evidencia": "Sendo assim, e em face das razões expostas, condeno o réu no que concerne à acusação referente ao crime previsto no inciso IV do art. 1º do Decreto-lei nº 201/67.",
+        "fonte": "p. 52",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "não tenho uma base maior para asseverar peremptoriamente que ocorreu, na liquidação desse precatório, o desvio de finalidade",
+            "fonte": "p. 78",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": "Os recursos vinculados a plano ou programa (aqui, verba de empréstimo do BID para o Programa de Transporte Urbano, remanejada por crédito suplementar) foram empregados em desacordo com os planos ou programas a que se destinavam, isto é, houve desvio de finalidade (tredestinação) na sua aplicação? (elementar do tipo do art. 1º, IV, do DL 201/67)",
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Peço vênia ao relator para julgar improcedente a acusação e absolver [...] não tenho uma base maior para asseverar peremptoriamente que ocorreu, na liquidação desse precatório, o desvio de finalidade",
+            "fonte": "p. 78",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "possui configuração típica pelo fato de alterar, em desacordo com o plano a que se destinavam os recursos obtidos junto ao BID, o emprego de tais recursos, haja vista a específica vinculação de referido empréstimo, que constituiu objeto de programação orçamentária e de prévio planejamento",
+            "fonte": "p. 48"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "o ora acusado, em vez de utilizar verba oriunda de crédito suplementar para fins de aplicação no Programa de Transporte Urbano – como planejado -, [...] empregou-a no pagamento do Precatório nº 93.157/96, o que autoriza a prolação de decreto condenatório contra o parlamentar em questão e afasta a pretensão de absolvição com fundamento em suposta atipicidade da conduta.",
+            "fonte": "p. 48",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Sendo assim, e em face das razões expostas, condeno o réu no que concerne à acusação referente ao crime previsto no inciso IV do art. 1º do Decreto-lei nº 201/67.",
+                "fonte": "p. 52",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "A prova documental produzida nesta ação penal, contudo, demonstra que não há, no empréstimo contraído junto ao BID [...] qualquer menção, muito menos autorização, para destinar o numerário ao pagamento da indenização decorrente da Ação de Desapropriação",
+                "fonte": "p. 49-50",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "os elementos de informação existentes nos autos demonstram [...] a existência de prova irrefutável que revela, para além de qualquer dúvida, a prática, pelo acusado, do crime tipificado no art. 1º, inciso IV",
+                "fonte": "p. 52",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "afasta a tese defensiva de que a desapropriação servia ao programa: ação de desapropriação ajuizada 6 anos antes do contrato com o BID (p. 50); crime de mera conduta, irrelevante a ausência de dano (doutrina, p. 51-52)",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Peço vênia ao relator para julgar improcedente a acusação e absolver, portanto, o denunciado.",
+                "fonte": "p. 78",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "a situação é ambígua [...] fica difícil distinguir-se se, no caso, houve a destinação de valores alusivos ao empréstimo ou a destinação, para essa finalidade – desapropriar imóvel para dar sequência à via pública, buscando o bom transporte –, de numerário do próprio Município.",
+                "fonte": "p. 78",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não tenho uma base maior para asseverar peremptoriamente que ocorreu, na liquidação desse precatório, o desvio de finalidade, presente os valores reunidos, valor não só fruto do empréstimo, como também do que apontei como contrapartida do Município.",
+                "fonte": "p. 78",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "insuficiência de prova do desvio: verba mista (empréstimo + contrapartida municipal) e desapropriação feita para via do próprio programa; reitera em aparte: 'Visando, de qualquer forma, o aprimoramento do transporte público [...] É que não agasalho a visão premonitiva.' (p. 83)",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "tendo por praticado pelo acusado o delito do inciso IV do art. 1º do Decreto-lei nº 201/1967. Julgo procedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Nesse caso ficou configurada a materialidade e também a autoria, como destacado no voto de Sua Excelência.",
+                "fonte": "p. 79",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Nesse caso ficou configurada a materialidade e também a autoria, como destacado no voto de Sua Excelência.",
+                "fonte": "p. 79",
+                "confianca": "media",
+                "inferida_de": "Celso de Mello"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "fundamenta pela autoria (questão 'concorreu'): 'Há que se comprovar a relação direta de uma ordem, de uma determinação. Aqui logrou a acusação demonstrar isso.' (p. 79)"
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Também julgo procedente, acompanhando o voto do Ministro Relator.",
+                "fonte": "p. 80",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "houve realmente uma afronta ao que ali posto exatamente no sentido de que houve uma tredestinação ilícita [...] Acho devidamente comprovada a conduta e que, portanto, configura o ilícito.",
+                "fonte": "p. 80",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "houve uma tredestinação ilícita, quer dizer, aquilo que deveria ter sido voltado para um dado foi devidamente comprovado pela acusação e aceito pelo Relator.",
+                "fonte": "p. 80",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "fundamentação breve, apoiada no voto do Relator",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "também peço vênia à divergência [...] Acompanho o eminente Relator.",
+                "fonte": "p. 81",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "o argumento da defesa, segundo o qual haveria uma desapropriação que atenderia as finalidades da desapropriação, não convence porque [...] a desapropriação foi feita muito tempo antes - ao que consta seis anos antes",
+                "fonte": "p. 81",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "não é possível identificar-se, nessa hipótese, um vínculo de correspondência entre a desapropriação e o empréstimo contraído",
+                "fonte": "p. 81",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "qualifica o delito como crime formal: 'Entendo que se trata de um crime formal, como bem demonstrado pelo eminente Relator' (p. 81)",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Eu também acompanho. [...] Peço vênia ao Ministro Marco Aurélio para fazê-lo.",
+                "fonte": "p. 83",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "como a Ministra Cármen Lúcia, eu também acho que a tredestinação aqui é tão indevida quanto vultosa, vistosa, patente até porque, relembrou o Ministro Ricardo Lewandowski, a desapropriação se deu seis anos antes da celebração do próprio contrato de empréstimo.",
+                "fonte": "p. 83",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "a tredestinação aqui é tão indevida quanto vultosa, vistosa, patente",
+                "fonte": "p. 83",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "acrescenta: 'Entendo que o crime é meramente formal, ele usou de mera conduta' (p. 83)",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "por maioria de votos, em julgar procedente a ação penal quanto ao delito previsto no inciso IV do art. 1º do Decreto-lei nº 201/67, vencido, no ponto, o Senhor Ministro Marco Aurélio (Revisor), que a julgava improcedente",
+                "fonte": "p. 4",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null,
+                "inferida_de": null
+              },
+              "posicao_detalhe": "voto_resultado inferido da maioria declarada no acórdão (só Marco Aurélio vencido) e da presença de Eros Grau na sessão (p. 102-103); nenhuma peça dele no acórdão",
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "Há que se comprovar a relação direta de uma ordem, de uma determinação. Aqui logrou a acusação demonstrar isso.",
+            "fonte": "p. 79",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "não tenho uma base maior para asseverar peremptoriamente que ocorreu, na liquidação desse precatório, o desvio de finalidade",
+            "fonte": "p. 78",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "o gestor não pode (um prefeito, um governador, um gestor público) ser condenado pelo simples fato de ser o gestor de uma administração. Há que se comprovar a relação direta de uma ordem, de uma determinação.",
+            "fonte": "p. 79"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "Nesse sentido, neste caso, entendo presente a autoria e, por isso, Senhor Presidente, acompanho o eminente Relator",
+            "fonte": "p. 79",
+            "confianca": "media"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "Há que se comprovar a relação direta de uma ordem, de uma determinação. Aqui logrou a acusação demonstrar isso.",
+            "fonte": "p. 79",
+            "confianca": "media"
+          },
+          "posicoes": [
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Sendo assim, e em face das razões expostas, condeno o réu no que concerne à acusação referente ao crime previsto no inciso IV do art. 1º do Decreto-lei nº 201/67.",
+                "fonte": "p. 52",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "a análise das provas coligidas nos autos permite reconhecer que o ora acusado, em vez de utilizar verba oriunda de crédito suplementar [...] empregou-a no pagamento do Precatório nº 93.157/96",
+                "fonte": "p. 48",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "a existência de prova irrefutável que revela, para além de qualquer dúvida, a prática, pelo acusado, do crime tipificado no art. 1º, inciso IV",
+                "fonte": "p. 52",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "a autoria não é discutida autonomamente; o voto atribui o emprego dos recursos ao acusado, que editou o Decreto nº 849/97 (p. 44)",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Peço vênia ao relator para julgar improcedente a acusação e absolver, portanto, o denunciado.",
+                "fonte": "p. 78",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "não tenho uma base maior para asseverar peremptoriamente que ocorreu, na liquidação desse precatório, o desvio de finalidade",
+                "fonte": "p. 78",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "não tenho uma base maior para asseverar peremptoriamente que ocorreu, na liquidação desse precatório, o desvio de finalidade",
+                "fonte": "p. 78",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "absolve pela questão do desvio de finalidade (questão 1), sem discutir autoria"
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "tendo por praticado pelo acusado o delito do inciso IV do art. 1º do Decreto-lei nº 201/1967. Julgo procedente a ação.",
+                "fonte": "p. 79",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Em outros casos [...] eu venho dizendo que o gestor não pode [...] ser condenado pelo simples fato de ser o gestor de uma administração. Há que se comprovar a relação direta de uma ordem, de uma determinação. Aqui logrou a acusação demonstrar isso.",
+                "fonte": "p. 79",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Nesse sentido, neste caso, entendo presente a autoria",
+                "fonte": "p. 79",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "autoria exige prova de ordem/determinação direta do gestor, não basta a posição de chefe da administração",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Também julgo procedente, acompanhando o voto do Ministro Relator.",
+                "fonte": "p. 80",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Também julgo procedente, acompanhando o voto do Ministro Relator.",
+                "fonte": "p. 80",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Também julgo procedente, acompanhando o voto do Ministro Relator.",
+                "fonte": "p. 80",
+                "confianca": "baixa",
+                "inferida_de": "Celso de Mello"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "fundamenta pela tredestinação (questão 1); não menciona autoria"
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "também peço vênia à divergência [...] Acompanho o eminente Relator.",
+                "fonte": "p. 81",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "a materialidade e a autoria estão bem demonstradas",
+                "fonte": "p. 81",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "a materialidade e a autoria estão bem demonstradas",
+                "fonte": "p. 81",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "menção sem desenvolvimento",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Eu também acompanho. [...] Peço vênia ao Ministro Marco Aurélio para fazê-lo.",
+                "fonte": "p. 83",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Dou pela materialidade do delito, pela comprovação da autoria. O Ministério Público se houve bem no seu papel de estabelecer esse vínculo funcional necessário entre a materialidade do crime e a respectiva autoria.",
+                "fonte": "p. 83",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "pela comprovação da autoria",
+                "fonte": "p. 83",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "por maioria de votos, em julgar procedente a ação penal quanto ao delito previsto no inciso IV do art. 1º do Decreto-lei nº 201/67, vencido, no ponto, o Senhor Ministro Marco Aurélio (Revisor), que a julgava improcedente",
+                "fonte": "p. 4",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null,
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Ricardo Lewandowski",
+          "tipo": "precedente_citado",
+          "referencia": "caso recente que cuidava do mesmo delito (não identificado no texto)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "também peço vênia à divergência, mantendo-me coerente com o que decidi em caso recente que cuidava do mesmo delito.",
+          "fonte": "p. 81"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "outros casos, em recebimento de denúncia ou ação penal, 'como a que julgamos na semana passada' (não identificados no texto)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "Em outros casos, seja em recebimento de denúncia ou mesmo em ação penal, como a que julgamos na semana passada, eu venho dizendo que o gestor não pode (um prefeito, um governador, um gestor público) ser condenado pelo simples fato de ser o gestor de uma administração.",
+          "fonte": "p. 79"
+        }
+      ],
+      "obs": "Placar 6x1 (Marco Aurélio, Revisor, vencido), conforme acórdão p. 4 e ata p. 102. Banco registra o réu sem separação por fato; o voto de Marco Aurélio (Absolve) coincide com o banco neste inciso. Cezar Peluso, Ellen Gracie, Gilmar Mendes e Joaquim Barbosa ausentes (p. 4-5, 102): não votaram, por isso não constam em posicoes. Punibilidade extinta pela prescrição retroativa (pena de 3 meses), o que não altera o juízo condenatório. Precedente de Toffoli registrado como para_seguir: ele reafirma o critério dos casos anteriores e conclui que aqui ele foi satisfeito (poderia ser lido como distincao quanto ao resultado)."
+    },
+    {
+      "id_unidade": "AP-503-R01-I02",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "escopo Levcovitz já decidido no banco",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Celso de Mello",
+        "evidencia": "São essas as razões, Senhor Presidente, pelas quais entendo deva ser julgada procedente a presente ação penal, considerada, para tanto, a imputação que atribuiu, ao réu, a conduta prevista no art. 1º, inciso V, do Decreto-lei nº 201/67.",
+        "fonte": "p. 67",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "o acusado, ao assim proceder, incidiu no delito tipificado no inciso V do art. 1º do Decreto-lei nº 201/67, eis que inexistia dotação destinada ao pagamento daquele crédito",
+            "fonte": "p. 62",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": "A despesa ordenada pelo réu (pagamento de precatório/acordo judicial) contava com autorização legal, isto é, havia dotação orçamentária para ela, ou foi despesa não autorizada por lei / em desacordo com as normas financeiras (elementar do art. 1º, V, do DL 201/67)?",
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "por unanimidade de votos, em julgar procedente a ação penal concernente ao crime tipificado no inciso V do art. 1º do Decreto-lei nº 201/67",
+            "fonte": "p. 4",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "o réu, ao determinar referido pagamento [...] ordenou a realização de despesa não autorizada por lei, o que torna enquadrável esse comportamento no preceito incriminador constante do inciso V do art. 1º do Decreto-lei nº 201/67.",
+            "fonte": "p. 62"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "inexistia dotação destinada ao pagamento daquele crédito, tanto que, encaminhada requisição de pagamento à Prefeitura Municipal de Curitiba/PR, o Diretor do Departamento de Orçamento esclareceu que “não existe recurso previsto no orçamento de 1997”",
+            "fonte": "p. 62",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "São essas as razões, Senhor Presidente, pelas quais entendo deva ser julgada procedente a presente ação penal, considerada, para tanto, a imputação que atribuiu, ao réu, a conduta prevista no art. 1º, inciso V, do Decreto-lei nº 201/67.",
+                "fonte": "p. 67",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "inexistia dotação destinada ao pagamento daquele crédito [...] a significar, portanto, que a lei orçamentária anual de 1997 não continha previsão de pagamento daquele valor.",
+                "fonte": "p. 62",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "A materialidade dessa despesa, efetivada em desacordo com as normas legais de direito financeiro, acha-se comprovada pela Nota de Empenho nº 27.929",
+                "fonte": "p. 63",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "crime formal, consumado independentemente de resultado (doutrina, p. 63-64)",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Por isso, limito-me a fixar a pena quanto ao delito em relação ao qual concluí pelo envolvimento do paciente. O SENHOR MINISTRO AYRES BRITTO (PRESIDENTE) - Inciso V.",
+                "fonte": "p. 88",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null,
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "subscrevo os dois votos já proferidos e também julgo procedente a ação penal quanto ao tipo do inciso V do artigo 1º do Decreto-Lei nº 201 de 1967.",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "subscrevo os dois votos já proferidos",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "subscrevo os dois votos já proferidos",
+                "fonte": "p. 84",
+                "confianca": "media",
+                "inferida_de": "Celso de Mello e Marco Aurélio"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "também acompanho às inteiras o voto do Ministro Relator, com as achegas do Ministro Revisor, para julgar procedente também no ponto.",
+                "fonte": "p. 85",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "também acompanho às inteiras o voto do Ministro Relator, com as achegas do Ministro Revisor",
+                "fonte": "p. 85",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "também acompanho às inteiras o voto do Ministro Relator, com as achegas do Ministro Revisor",
+                "fonte": "p. 85",
+                "confianca": "media",
+                "inferida_de": "Celso de Mello (com as achegas de Marco Aurélio)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Acompanho ambos os eminentes magistrados para condenar também o réu no que tange a este inciso, que é o V do artigo 1º do Decreto-lei nº 201/67.",
+                "fonte": "p. 86",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "acompanho integralmente o voto do eminente Relator e também do eminente Revisor pelos fundamentos enunciados",
+                "fonte": "p. 86",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "acompanho integralmente o voto do eminente Relator e também do eminente Revisor pelos fundamentos enunciados",
+                "fonte": "p. 86",
+                "confianca": "media",
+                "inferida_de": "Celso de Mello e Marco Aurélio"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "fundamenta de próprio punho só a questão do acordo judicial (questão 2)"
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Acompanho o eminente Relator.",
+                "fonte": "p. 87",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "além do que não havia previsão orçamentária à falta de dotação específica.",
+                "fonte": "p. 87",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não havia previsão orçamentária à falta de dotação específica",
+                "fonte": "p. 87",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "por unanimidade de votos, em julgar procedente a ação penal concernente ao crime tipificado no inciso V do art. 1º do Decreto-lei nº 201/67",
+                "fonte": "p. 4",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null,
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "Nem mesmo a celebração de transação com o Poder Público, ainda que em bases vantajosas para o erário, teria, na época em que ocorridos os fatos expostos na denúncia, o condão de autorizar a inobservância da ordem de precedência cronológica dos precatórios.",
+            "fonte": "p. 58",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": "Transação/acordo judicial homologado com credor de precatório, ainda que vantajoso ao erário, autoriza o pagamento fora da ordem cronológica de precatórios (afastando a ilicitude da despesa para fins do art. 1º, V, do DL 201/67)?",
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "por unanimidade de votos, em julgar procedente a ação penal concernente ao crime tipificado no inciso V do art. 1º do Decreto-lei nº 201/67",
+            "fonte": "p. 4",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Nem mesmo a celebração de transação com o Poder Público, ainda que em bases vantajosas para o erário, teria, na época em que ocorridos os fatos expostos na denúncia, o condão de autorizar a inobservância da ordem de precedência cronológica dos precatórios.",
+            "fonte": "p. 58"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "transações favoráveis à entidade estatal celebradas com credores menos antigos, como Luiz Gastão de Alencar Franco de Carvalho, desrespeitam a ordem de precedência dos precatórios, ainda que exonerem o erário de encargos financeiros mais gravosos.",
+            "fonte": "p. 59",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "São essas as razões, Senhor Presidente, pelas quais entendo deva ser julgada procedente a presente ação penal, considerada, para tanto, a imputação que atribuiu, ao réu, a conduta prevista no art. 1º, inciso V, do Decreto-lei nº 201/67.",
+                "fonte": "p. 67",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Trata-se de argumento que viola a própria essência e razão de ser da norma inscrita no art. 100 da Constituição",
+                "fonte": "p. 59",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "transações favoráveis à entidade estatal celebradas com credores menos antigos [...] desrespeitam a ordem de precedência dos precatórios, ainda que exonerem o erário de encargos financeiros mais gravosos.",
+                "fonte": "p. 59",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "aplica o regime do art. 100 da CF anterior às EC 30/2000, 37/2002 e 62/2009 (p. 55-56, 58)",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Por isso, limito-me a fixar a pena quanto ao delito em relação ao qual concluí pelo envolvimento do paciente. O SENHOR MINISTRO AYRES BRITTO (PRESIDENTE) - Inciso V.",
+                "fonte": "p. 88",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Houve, inclusive, sequestros de verbas públicas, considerada a preterição.",
+                "fonte": "p. 87",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Suas Excelências mostraram que o fato desse acordo ter sido judicialmente homologado não afasta nem o ilícito penal e muito menos o ilícito administrativo.",
+                "fonte": "p. 86",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "voto do Revisor sobre o inciso V não consta do acórdão; posição lida na referência de Lewandowski a 'Suas Excelências' (Relator e Revisor, p. 86) e no aparte de Marco Aurélio (p. 87)",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "subscrevo os dois votos já proferidos e também julgo procedente a ação penal quanto ao tipo do inciso V do artigo 1º do Decreto-Lei nº 201 de 1967.",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "subscrevo os dois votos já proferidos",
+                "fonte": "p. 84",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "subscrevo os dois votos já proferidos",
+                "fonte": "p. 84",
+                "confianca": "media",
+                "inferida_de": "Celso de Mello e Marco Aurélio"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "também acompanho às inteiras o voto do Ministro Relator, com as achegas do Ministro Revisor, para julgar procedente também no ponto.",
+                "fonte": "p. 85",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "também acompanho às inteiras o voto do Ministro Relator, com as achegas do Ministro Revisor",
+                "fonte": "p. 85",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "também acompanho às inteiras o voto do Ministro Relator, com as achegas do Ministro Revisor",
+                "fonte": "p. 85",
+                "confianca": "media",
+                "inferida_de": "Celso de Mello (com as achegas de Marco Aurélio)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Acompanho ambos os eminentes magistrados para condenar também o réu no que tange a este inciso, que é o V do artigo 1º do Decreto-lei nº 201/67.",
+                "fonte": "p. 86",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "esses acordos judiciais - pretensos acordos judiciais -, que são muito comuns, infelizmente, na administração pública e que são expedientes utilizados para exatamente frustrar a ordem cronológica dos credores de precatórios que a Constituição prevê.",
+                "fonte": "p. 86",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "o fato desse acordo ter sido judicialmente homologado não afasta nem o ilícito penal e muito menos o ilícito administrativo.",
+                "fonte": "p. 86",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Acompanho o eminente Relator.",
+                "fonte": "p. 87",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "a própria ordem estabelecida pela Constituição para pagamento dos precatórios também foi desatendida, foi desobedecida",
+                "fonte": "p. 87",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "a própria ordem estabelecida pela Constituição para pagamento dos precatórios também foi desatendida, foi desobedecida",
+                "fonte": "p. 87",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "afirma a quebra da ordem cronológica, sem tratar expressamente do acordo",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "por unanimidade de votos, em julgar procedente a ação penal concernente ao crime tipificado no inciso V do art. 1º do Decreto-lei nº 201/67",
+                "fonte": "p. 4",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null,
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "RDA 151/189",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "regime constitucional dos precatórios, estendem-se a todas as pessoas jurídicas de direito público interno, inclusive às entidades autárquicas (RDA 151/189).",
+          "fonte": "p. 55"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "RE 158.682/SP, Rel. Min. CELSO DE MELLO – RTJ 147/1082 - RTJ 150/337",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "as execuções patrimoniais por quantia certa contra a Fazenda Pública (RE 158.682/SP, Rel. Min. CELSO DE MELLO – RTJ 147/1082 - RTJ 150/337, v.g.).",
+          "fonte": "p. 56"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "RTJ 108/463",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "a dupla finalidade visada pelo legislador constituinte: de um lado, assegurar a igualdade entre os credores e, de outro, proclamar a inafastabilidade da obrigação do Poder Público de pagar os seus débitos que hajam sido judicialmente reconhecidos (RTJ 108/463).",
+          "fonte": "p. 57"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "AI 519.969/ES, Rel. Min. CEZAR PELUSO",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "o Supremo Tribunal Federal corrobora a orientação que venho de expor, como se vê, dentre outros julgados (AI 519.969/ES, Rel. Min. CEZAR PELUSO)",
+          "fonte": "p. 61"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "Rcl 1.893/RN, Rel. Min. MAURÍCIO CORRÊA",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "A conciliação, ainda que resulte em vantagem financeira para a Fazenda Pública, não possibilita a inobservância, pelo Estado, da regra constitucional de precedência [...] (Rcl 1.893/RN, Rel. Min. MAURÍCIO CORRÊA - grifei)",
+          "fonte": "p. 61"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "mudanca_lei",
+          "referencia": "Emendas Constitucionais nºs 30/2000, 37/2002 e 62/2009 (redação do art. 100 da CF)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "A disciplina constitucional desse processo de execução, na redação anterior à promulgação das Emendas Constitucionais nºs 30/2000, 37/2002 e 62/2009, tornava imprescindível a expedição do precatório, independentemente da natureza e do valor do crédito exequendo.",
+          "fonte": "p. 55-56"
+        }
+      ],
+      "obs": "Unânime (acórdão p. 4; ata p. 102). DIVERGÊNCIA COM O BANCO: o banco registra Marco Aurélio como 'Absolve' para o réu (sem separação por fato), mas no inciso V ele condena: fixa pena só para o delito 'em relação ao qual concluí pelo envolvimento', identificado por Ayres Britto como 'Inciso V' (p. 88), e o acórdão declara unanimidade no inciso V (p. 4). Não corrigido. O voto de mérito do Revisor sobre o inciso V não está transcrito no acórdão, embora Toffoli, Cármen Lúcia e Lewandowski se refiram a ele (p. 84-86). Duas questões principais pela R5b (unânime, mesma resposta 'nao' nas duas). Ausentes: Cezar Peluso, Ellen Gracie, Gilmar Mendes, Joaquim Barbosa."
+    },
+    {
+      "id_unidade": "AP-503-R01-I03",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "escopo Levcovitz já decidido no banco",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Celso de Mello",
+        "evidencia": "absolvo o réu no que se refere à acusação pertinente ao delito previsto no inciso XIV do art. 1º do Decreto-lei nº 201/67, fazendo-o com fundamento no art. 386, inciso III, do Código de Processo Penal, eis que destituído de tipicidade penal o comportamento que se lhe imputou.",
+        "fonte": "p. 42-43",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "a proposta de absolvição penal tem por suporte a ausência de tipicidade penal do comportamento imputado ao réu, eis que o preceito primário de incriminação, tal como definido no inciso XIV do art. 1º do Decreto-lei nº 201/67, supõe, para aperfeiçoar-se, a existência de decisão judicial impregnada de conteúdo jurisdicional.",
+            "fonte": "p. 33",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": "A ordem descumprida (ordem/requisição de pagamento de precatório expedida pelo Presidente do Tribunal) é 'ordem judicial' no sentido do tipo do art. 1º, XIV, do DL 201/67, isto é, decisão de conteúdo jurisdicional, de modo que a conduta é típica?",
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "e, também por unanimidade, em julgar improcedente a ação penal e absolver o réu quanto à conduta inscrita no inciso XIV do art. 1º do Decreto-lei nº 201/67.",
+            "fonte": "p. 4",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "o preceito primário de incriminação, tal como definido no inciso XIV do art. 1º do Decreto-lei nº 201/67, supõe, para aperfeiçoar-se, a existência de decisão judicial impregnada de conteúdo jurisdicional.",
+            "fonte": "p. 33"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "as decisões por ele proferidas com fundamento nessa específica competência apresentam-se desvestidas de conteúdo jurisdicional, circunstância esta que descaracteriza, por completo, a ocorrência do não cumprimento de “ordem judicial” prevista na descrição típica inscrita no inciso XIV do art. 1º do Decreto-lei nº 201/67.",
+            "fonte": "p. 37",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "absolvo o réu no que se refere à acusação pertinente ao delito previsto no inciso XIV do art. 1º do Decreto-lei nº 201/67, fazendo-o com fundamento no art. 386, inciso III, do Código de Processo Penal, eis que destituído de tipicidade penal o comportamento que se lhe imputou.",
+                "fonte": "p. 42-43",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Isso significa que não basta, para efeito da caracterização típica do delito ora em exame, que exista determinação emanada de autoridade judicial. Mostra-se igualmente necessário que o magistrado tenha proferido decisão em procedimento revestido de natureza jurisdicional.",
+                "fonte": "p. 40",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "o Presidente do Tribunal, ao desempenhar as suas atribuições no processamento dos precatórios, atua como autoridade administrativa, não exercendo, em consequência, nesse estrito contexto procedimental, qualquer parcela de poder jurisdicional",
+                "fonte": "p. 36-37",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "acolhe o pedido de absolvição da própria PGR (p. 42-43); absolvição com base no art. 386, III, CPP",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "também acompanho o Relator pela ausência de tipicidade demonstrada, na forma pedida pelo Ministério Público e acolhida.",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "também acompanho o Relator pela ausência de tipicidade demonstrada, na forma pedida pelo Ministério Público e acolhida.",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "também acompanho o Relator pela ausência de tipicidade demonstrada",
+                "fonte": "p. 76",
+                "confianca": "alta",
+                "inferida_de": "Celso de Mello"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Também dou pela atipicidade da conduta.",
+                "fonte": "p. 77",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Também acompanho o Relator. De fato, entendo que se toda ordem judicial é ordem de juiz, entretanto, nem toda ordem de juiz é ordem judicial.",
+                "fonte": "p. 77",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "se toda ordem judicial é ordem de juiz, entretanto, nem toda ordem de juiz é ordem judicial.",
+                "fonte": "p. 77",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "adere ao Relator acrescentando uma frase própria de fundamento",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "e, também por unanimidade, em julgar improcedente a ação penal e absolver o réu quanto à conduta inscrita no inciso XIV do art. 1º do Decreto-lei nº 201/67.",
+                "fonte": "p. 4",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null,
+                "inferida_de": null
+              },
+              "posicao_detalhe": "sem peça sobre o inciso XIV no acórdão; voto inferido da unanimidade declarada (p. 4, 102)",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "e, também por unanimidade, em julgar improcedente a ação penal e absolver o réu quanto à conduta inscrita no inciso XIV do art. 1º do Decreto-lei nº 201/67.",
+                "fonte": "p. 4",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null,
+                "inferida_de": null
+              },
+              "posicao_detalhe": "sem peça sobre o inciso XIV no acórdão; voto inferido da unanimidade declarada (p. 4, 102)",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "e, também por unanimidade, em julgar improcedente a ação penal e absolver o réu quanto à conduta inscrita no inciso XIV do art. 1º do Decreto-lei nº 201/67.",
+                "fonte": "p. 4",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null,
+                "inferida_de": null
+              },
+              "posicao_detalhe": "sem peça sobre o inciso XIV no acórdão; voto inferido da unanimidade declarada (p. 4, 102)",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "e, também por unanimidade, em julgar improcedente a ação penal e absolver o réu quanto à conduta inscrita no inciso XIV do art. 1º do Decreto-lei nº 201/67.",
+                "fonte": "p. 4",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "",
+                "fonte": null,
+                "confianca": null,
+                "inferida_de": null
+              },
+              "posicao_detalhe": "sem peça no acórdão; voto inferido da unanimidade declarada e da presença na sessão (p. 4, 102-103)",
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "RTJ 71/572, 575",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "“(...) a atribuição do Presidente do Tribunal, ao processar o precatório, não é sequer jurisdicional. É atividade puramente administrativa”, pois, consoante então ressaltado, “A atividade jurisdicional termina com a expedição do precatório (...)” (RTJ 71/572, 575 - grifei).",
+          "fonte": "p. 34"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "RTJ 80/691 (voto do Min. Rodrigues Alckmin)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "esse mesmo entendimento sobre o tema em análise veio a ser reiterado em voto proferido pelo saudoso Ministro RODRIGUES ALCKMIN, que expendeu lúcido magistério a propósito da matéria em questão (RTJ 80/691)",
+          "fonte": "p. 34"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "RTJ 71/574-575 (voto do Min. Rodrigues Alckmin)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "acentuando, também em voto da lavra do saudoso Min. RODRIGUES ALCKMIN (RTJ 71/574-575), o que se segue",
+          "fonte": "p. 35"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "AI 437.009-AgR/PE, Rel. Min. SEPÚLVEDA PERTENCE",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "natureza administrativa e, não jurisdicional, da decisão proferida pelo Presidente do Tribunal no processamento de precatório [...] (AI 437.009-AgR/PE, Rel. Min. SEPÚLVEDA PERTENCE - grifei)",
+          "fonte": "p. 38"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "AI 409.331-AgR/SP, Rel. Min. CARLOS VELLOSO",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "A atividade do Presidente do Tribunal de Justiça desenvolvida no processamento de precatório tem natureza administrativa e não jurisdicional [...] (AI 409.331-AgR/SP, Rel. Min. CARLOS VELLOSO - grifei)",
+          "fonte": "p. 38"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "RE 338.849/SP, Rel. Min. MOREIRA ALVES (que remete ao AGRRE 213.696, Plenário)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "O Plenário desta Corte, ao julgar o AGRRE 213.696, decidiu que a atividade do Presidente do Tribunal no processamento do precatório não é jurisdicional, mas administrativa [...] (RE 338.849/SP, Rel. Min. MOREIRA ALVES - grifei)",
+          "fonte": "p. 38"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "RE 205.182-AgR/PE, Rel. Min. NÉRI DA SILVEIRA",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "‘Não cabe recurso extraordinário contra decisão proferida no processamento de precatórios já que esta tem natureza administrativa e não jurisdicional’. [...] (RE 205.182-AgR/PE, Rel. Min. NÉRI DA SILVEIRA - grifei)",
+          "fonte": "p. 38-39"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "RE 215.208-AgR/SP, Rel. Min. MARCO AURÉLIO",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Uma vez expedido o precatório, a tramitação faz-se no âmbito simplesmente administrativo. [...] (RE 215.208-AgR/SP, Rel. Min. MARCO AURÉLIO - grifei)",
+          "fonte": "p. 39"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "ADI 1.098/SP, Rel. Min. MARCO AURÉLIO",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "A ordem judicial de pagamento (§ 2º do artigo 100 da Constituição Federal), bem como os demais atos necessários a tal finalidade, concernem ao campo administrativo e não jurisdicional. [...] (ADI 1.098/SP, Rel. Min. MARCO AURÉLIO - grifei)",
+          "fonte": "p. 39"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "REsp 96.847/SP, Rel. Min. PEÇANHA MARTINS (STJ)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "“A função do Presidente do Tribunal, no processamento do requisitório de pagamento, é de índole essencialmente administrativa, não abrangendo as decisões ou recursos de natureza jurisdicional” (REsp 96.847/SP, Rel. Min. PEÇANHA MARTINS - grifei).",
+          "fonte": "p. 40"
+        },
+        {
+          "ministro": "Celso de Mello",
+          "tipo": "precedente_citado",
+          "referencia": "Inq 2.605/SP, Rel. Min. MENEZES DIREITO",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "conforme destacou, nesta Corte, o saudoso Ministro MENEZES DIREITO, Relator, no julgamento do Inq 2.605/SP: [...] não está tipificado o crime definido no art. 1º, inciso XIV, segunda parte, do Decreto-Lei nº 201/67.",
+          "fonte": "p. 42"
+        }
+      ],
+      "obs": "Absolvição unânime por atipicidade (acórdão p. 4; ata p. 102), a pedido da própria PGR (p. 32-33). DIVERGÊNCIA COM O BANCO: o banco registra 'Condena' para todos os votantes do réu (sem separação por fato), exceto Marco Aurélio ('Absolve'); neste inciso todos os 7 votantes absolvem. Não corrigido. Só Celso de Mello, Cármen Lúcia e Ayres Britto têm peça sobre o inciso XIV; os demais votos são lidos da unanimidade declarada. A denúncia imputava o inciso XIV por 5 vezes e nas modalidades 'negar execução a lei' e 'deixar de cumprir ordem judicial' (p. 10-13); o voto condutor examina só a modalidade 'ordem judicial'. Ausentes: Cezar Peluso, Ellen Gracie, Gilmar Mendes, Joaquim Barbosa."
+    }
+  ],
+  "avisos": [
+    "Nenhuma das questões decisivas cabe em 'dolo': os votos não discutem dolo em nenhum dos incisos (a denúncia diz 'dolosamente', p. 7-13, e a defesa nega desvio doloso, p. 45, mas nenhum voto responde). As questões de mérito são de tipicidade/configuração do tipo (IV: desvio de finalidade; V: despesa sem autorização e acordo fora da ordem cronológica; XIV: natureza jurisdicional da ordem), todas classificadas como 'outra'. Sugere uma categoria de codebook para 'configuração dos elementos do tipo/tipicidade'.",
+    "Inciso IV: a divergência de Marco Aurélio mistura juízo de prova ('não tenho uma base maior para asseverar peremptoriamente') e juízo normativo (a desapropriação servia ao gênero 'aprimoramento do transporte público'); registrei como uma só questão 'outra' sobre o desvio de finalidade. 'concorreu' entrou como segunda questão (não principal) porque Dias Toffoli funda o voto na autoria, e Lewandowski e Ayres Britto a mencionam; a autoria não foi contestada pelo vencido.",
+    "Eros Grau votou (presente, ata p. 102-103) mas não tem nenhuma peça no acórdão; voto_resultado inferido da maioria/unanimidade declarada (confiança média) e enfrentou/posição = null em todas as questões.",
+    "Voto de mérito de Marco Aurélio sobre os incisos V e XIV não está transcrito no acórdão. No V, a posição dele sai das referências dos colegas (p. 84-86) e do aparte (p. 87), com confiança baixa; no XIV, null.",
+    "Divergências com o banco (não corrigidas): Marco Aurélio condena no inciso V (banco: Absolve); todos absolvem no XIV (banco: Condena para 6 votantes). O banco não separa por fato.",
+    "Precedentes e mudanças de regra citados só na dosimetria/prescrição foram deixados fora das listas por não fundamentarem a questão decisiva: Lei 12.234/2010 afastada por ser lex gravior (Celso de Mello, p. 73-74; Marco Aurélio, p. 88; ata p. 102); RTJ 136/627 e RTJ 139/885 (decisões do próprio Celso de Mello, p. 68), HCs do STJ e Súmula 444/STJ (p. 72-73) sobre maus antecedentes; Lewandowski cita 'o caso do Ceará, que julgamos recentemente' (p. 92) e Ayres Britto e Cármen Lúcia remetem ao julgamento 'da semana passada' (p. 98, 100). Se o projeto quiser essas referências, estão nessas páginas.",
+    "Ayres Britto no inciso XIV foi registrado como 'Sim' (fundamentou) por uma frase própria ('nem toda ordem de juiz é ordem judicial'); o mapa de votos o trata como adesão. É um caso limite.",
+    "RDA 151/189 (p. 55) foi registrado como precedente, mas a referência é a uma revista; não dá para saber pelo texto se é decisão judicial."
+  ]
+}

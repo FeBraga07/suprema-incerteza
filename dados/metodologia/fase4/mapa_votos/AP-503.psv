@@ -1,0 +1,33 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-503|1|ementa||1|4||AP-503-R01||||abrange os incisos IV, V e XIV; termina no alto da p.4
+AP-503|2|acordao||4|5||AP-503-R01||||dispositivo separado por inciso (IV, V, XIV), seguido de dosimetria e deliberação final; lista os 4 ausentes (p.4-5); assinado pelo Relator
+AP-503|3|relatorio|Celso de Mello|6|29||AP-503-R01||||relatório do Relator; abrange os três incisos
+AP-503|4|voto|Celso de Mello|30|75|Sim|AP-503-R01|Condena|Não|lido|trechos por inciso: pp.30-32 introdução comum; pp.32-43 inciso XIV; pp.43-52 inciso IV; pp.53-67 inciso V; pp.67-75 dosimetria (incisos IV e V) e dispositivo sobre os três incisos (p.75)
+AP-503|5|voto|Cármen Lúcia|76|76|Adesao|AP-503-R01|Condena|Não|sem_evidencia|inciso XIV (título: "Voto sobre o inciso XIV"); adesão ao Relator
+AP-503|6|voto|Ayres Britto|77|77|Adesao|AP-503-R01|Condena|Não|sem_evidencia|inciso XIV (título: "Voto s/inciso XIV"); adesão ao Relator com uma frase própria; fala como Presidente
+AP-503|7|voto|Marco Aurélio|78|78|Sim|AP-503-R01|Absolve|Sim|lido|inciso IV (peça sem título; o texto retoma o tipo do inciso IV transcrito pelo Relator); único voto do Revisor sobre o mérito presente no acórdão
+AP-503|8|voto|Dias Toffoli|79|79|Sim|AP-503-R01|Condena|Não|sem_evidencia|inciso IV (título: "Voto (s/inciso IV...)"); curto (1 página)
+AP-503|9|voto|Cármen Lúcia|80|80|Sim|AP-503-R01|Condena|Não|sem_evidencia|inciso IV (título: "Voto (s/inciso IV...)"); curto (1 parágrafo próprio)
+AP-503|10|voto|Ricardo Lewandowski|81|81|Sim|AP-503-R01|Condena|Não|lido|inciso IV (título: "Voto (s/inciso IV...)"); curto (1 página)
+AP-503|11|debate|Marco Aurélio;Ayres Britto|82|82||AP-503-R01||||inciso IV; troca de duas falas sobre a condução da votação por inciso
+AP-503|12|voto|Ayres Britto|83|83|Sim|AP-503-R01|Condena|Não|sem_evidencia|inciso IV (peça sem título; posição na sequência dos votos do inciso IV); curto; entremeado pelo aparte da linha 13
+AP-503|13|aparte|Marco Aurélio|83|83||AP-503-R01|Absolve|Sim|lido|inciso IV; aparte no voto de Ayres Britto
+AP-503|14|voto|Dias Toffoli|84|84|Adesao|AP-503-R01|Condena|Não|sem_evidencia|inciso V (título: "Voto (s/inciso V...)"); subscreve "os dois votos já proferidos" (Relator e Revisor)
+AP-503|15|voto|Cármen Lúcia|85|85|Adesao|AP-503-R01|Condena|Não|sem_evidencia|inciso V (título: "Voto (s/inciso V...)"); adesão ao Relator "com as achegas do Ministro Revisor"
+AP-503|16|voto|Ricardo Lewandowski|86|86|Sim|AP-503-R01|Condena|Não|lido|inciso V (título: "Voto (s/inciso V...)"); curto (1 página); acompanha Relator e Revisor
+AP-503|17|voto|Ayres Britto|87|87|Sim|AP-503-R01|Condena|Não|sem_evidencia|inciso V (peça sem título; posição na sequência dos votos do inciso V); curto; entremeado pelo aparte da linha 18
+AP-503|18|aparte|Marco Aurélio|87|87||AP-503-R01|Absolve|Sim|lido|inciso V; aparte de uma frase no voto de Ayres Britto
+AP-503|19|voto|Marco Aurélio|88|88|Sim|AP-503-R01|Absolve|Sim|lido|dosimetria, só quanto ao inciso V (o próprio texto declara fixar pena apenas para o delito em que concluiu pela condenação; Ayres Britto intervém: "Inciso V"); peça sem título
+AP-503|20|voto|Ricardo Lewandowski|89|93|Sim|AP-503-R01|Condena|Não|lido|dosimetria, incisos IV e V (título: "Voto (s/ a dosimetria da pena)"); breves intervenções de Ayres Britto e Cármen Lúcia nas pp.91 e 93
+AP-503|21|outro|Celso de Mello|94|95|Sim|AP-503-R01|Condena|Não|lido|peça intitulada "Voto - Explicação (s/ a dosimetria da pena)"; resposta ao voto de Lewandowski; termina com fala de Lewandowski (p.95); texto não separa por inciso
+AP-503|22|debate|Marco Aurélio;Celso de Mello;Cármen Lúcia|96|96||AP-503-R01||||dosimetria; começa no meio da discussão: a intervenção de Dias Toffoli a que o Relator responde não consta do acórdão; menciona os incisos IV e V em conjunto
+AP-503|23|voto|Dias Toffoli|97|97|Adesao|AP-503-R01|Condena|Não|sem_evidencia|dosimetria; uma frase de adesão à dosimetria do Relator; peça sem título
+AP-503|24|voto|Cármen Lúcia|98|99|Sim|AP-503-R01|Condena|Não|sem_evidencia|dosimetria (título: "Voto (s/ a dosimetria da pena)"); intervenções de Ayres Britto e do Relator; texto não separa por inciso
+AP-503|25|voto|Ayres Britto|100|100|Sim|AP-503-R01|Condena|Não|sem_evidencia|dosimetria; peça sem título, fala como Presidente; fixa pena única sem separar por inciso
+AP-503|26|debate|Marco Aurélio;Ayres Britto;Celso de Mello;Cármen Lúcia|100|101||AP-503-R01||||dosimetria, após o voto de Ayres Britto; duas falas do Relator marcadas "CANCELADO" (p.100)
+AP-503|27|extrato_ata||102|103||AP-503-R01||||decisão separada por inciso, dosimetria e deliberação final; presentes e ausentes nas pp.102-103
+AP-503|28|extrato_ata|Eros Grau|102|103|Nao|AP-503-R01|Condena|Não|sem_evidencia|sem peça no acórdão, em nenhum inciso nem na dosimetria; só contado entre os presentes (p.102-103) e nas votações unânimes/majoritárias da ata
+AP-503|29|extrato_ata|Cezar Peluso|102|102|Nao|AP-503-R01|Não votou|Não|sem_evidencia|ausente (ata p.102; acórdão p.4); não votou
+AP-503|30|extrato_ata|Ellen Gracie|102|102|Nao|AP-503-R01|Não votou|Não|sem_evidencia|ausente (ata p.102; acórdão p.4-5); não votou
+AP-503|31|extrato_ata|Gilmar Mendes|102|102|Nao|AP-503-R01|Não votou|Não|sem_evidencia|ausente (ata p.102; acórdão p.5); não votou
+AP-503|32|extrato_ata|Joaquim Barbosa|102|102|Nao|AP-503-R01|Não votou|Não|sem_evidencia|ausente (ata p.102; acórdão p.5); não votou

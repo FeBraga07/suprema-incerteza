@@ -1,0 +1,17 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-365|1|ementa||1|1||todos||||
+AP-365|2|acordao||1|2||todos||||presidência de Ellen Gracie; registra impedimento e ausências (p.2); assinado pelo relator
+AP-365|3|relatorio|Marco Aurélio|3|10||todos||||
+AP-365|4|voto|Marco Aurélio|11|13|Sim|todos|Absolve|Não|lido|relator; R01 até o meio da p.13, R02 no restante da p.13
+AP-365|5|voto|Ellen Gracie|14|15|Sim|AP-365-R01|Absolve|Não|lido|revisora; o texto da peça menciona expressamente só o parlamentar (R01); a abrangência de R02 consta do acórdão (p.1-2) e da ata (p.16): "nos termos do voto do Relator e da Revisora"
+AP-365|6|extrato_ata||16|16||todos||||decisão, impedimento, ausências e lista de presentes
+AP-365|7|extrato_ata|Sepúlveda Pertence|16|16|Nao|todos|Absolve|Não|lido|contado na unanimidade; consta entre os presentes (p.16)
+AP-365|8|extrato_ata|Celso de Mello|16|16|Nao|todos|Absolve|Não|lido|contado na unanimidade; consta entre os presentes (p.16)
+AP-365|9|extrato_ata|Cezar Peluso|16|16|Nao|todos|Absolve|Não|lido|contado na unanimidade; consta entre os presentes (p.16)
+AP-365|10|extrato_ata|Joaquim Barbosa|16|16|Nao|todos|Absolve|Não|lido|contado na unanimidade; consta entre os presentes (p.16)
+AP-365|11|extrato_ata|Ricardo Lewandowski|16|16|Nao|todos|Absolve|Não|lido|contado na unanimidade; consta entre os presentes (p.16)
+AP-365|12|extrato_ata|Ayres Britto|16|16|Nao|todos|Não votou|Não|lido|impedimento declarado (p.2, p.16; grafado "Carlos Britto")
+AP-365|13|extrato_ata|Gilmar Mendes|16|16|Nao|todos|Não votou|Não|lido|ausente justificadamente neste julgamento (p.2, p.16); consta entre os presentes à sessão
+AP-365|14|extrato_ata|Eros Grau|16|16|Nao|todos|Não votou|Não|lido|ausente justificadamente neste julgamento (p.2, p.16); consta entre os presentes à sessão
+AP-365|15|extrato_ata|Carlos Velloso|16|16|Nao|todos|Não votou|Não|lido|não aparece na ata (nem entre os presentes nem como ausente, p.16)
+AP-365|16|extrato_ata|Nelson Jobim|16|16|Nao|todos|Não votou|Não|lido|não aparece na ata (nem entre os presentes nem como ausente, p.16)

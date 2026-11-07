@@ -1,0 +1,590 @@
+{
+ "id_caso": "AP-348",
+ "lido_em": "2026-10-12",
+ "paginas_lidas": "1-25 (todas)",
+ "unidades": [
+  {
+   "id_unidade": "AP-348-R01-I01",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "Escopo Levcovitz já decidido no banco (art. 89 da Lei 8.666/1993); copiado do prompt do lote, sem busca de evidência.",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Eros Grau",
+    "evidencia": "por unanimidade de votos, absolver o réu das imputações que lhe foram feitas, nos termos voto do Relator. Brasília, 15 de dezembro de 2006. EROS GRAU RELATOR",
+    "fonte": "p. 2",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "Quanto ao elemento subjetivo do tipo, isto é, à ocorrência ou não de dolo, a questão resulta prejudicada pelo acolhimento da tese de legalidade do ato, do que decorre atipicidade da conduta.",
+      "fonte": "p. 16",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": "A contratação direta, sem licitação, ocorreu fora das hipóteses legais de dispensa ou de inexigibilidade, configurando o ilícito administrativo que é antecedente lógico do crime do art. 89 da Lei 8.666/1993? (No caso: a notória especialização dos contratados, aliada à confiança da Administração, caracterizava inexigibilidade de licitação?)",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Decisão: O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator. [Relator: 'absolvo, com fundamento no artigo 386, III do Código de processo Penal' (p. 17)]",
+      "fonte": "p. 25",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "o crime tipificado no artigo 89 da Lei n. 8.666/93 só se configura se ocorrer seu antecedente lógico, isto é, o ilícito administrativo --- que no caso concreto inexistiu.",
+      "fonte": "p. 15"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Há, no caso concreto, requisitos suficientes enquadramento em seja, de situação na qual não incide o dever de licitar, inexigibilidade de licitação: os profissionais contratados possuem notória especialização, comprovada nos autos, além de desfrutarem da confiança da Administração.",
+      "fonte": "p. 1",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Eros Grau",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "absolvo, com fundamento no artigo 386, III do Código de processo Penal, • Senador Leonel Arcângelo Pavan acusação crime descrito no artigo 89 da Lei n. 8.666/93.",
+        "fonte": "p. 17",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Efetivamente não reconheço, no caso, um autêntico caso de emergência para os efeitos da Lei n. 8.666/93. Vejo nele presentes, contudo, requisitos suficientes para o seu enquadramento em situação na qual não incide o dever de licitar, ou seja, de inexigibilidade de licitação",
+        "fonte": "p. 13",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "o crime tipificado no artigo 89 da Lei n. 8.666/93 só se configura se ocorrer seu antecedente lógico, isto é, o ilícito administrativo --- que no caso concreto inexistiu.",
+        "fonte": "p. 15",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Afasta a dispensa por emergência (art. 24, IV), mas enquadra a contratação na inexigibilidade (notória especialização + confiança); absolve com base no art. 386, III do CPP (atipicidade).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Também acompanho o eminente Relator e absolvo o réu.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Convenci-me de que está cumpridamente demonstrada a inexigibilidade da licitação no caso, afora os títulos dos advogados contratados, que correspondem ao conceito legal de notória especialização no Estado de Santa Catarina.",
+        "fonte": "p. 18",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Convenci-me de que está cumpridamente demonstrada a inexigibilidade da licitação no caso",
+        "fonte": "p. 18",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Registro próprio breve antes de aderir ao relator; classificação Sim/Adesao limítrofe.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Eu também absolvo, neste caso, denunciado e incriminado ju",
+        "fonte": "p. 20",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "No caso de contratação de advogados, tal como justificado, motivado, ocorreria realmente a situação prevista de inexigibilidade de licitação, pois não há, como disse o Ministro Eros Grau, condições de objetivamente cumprir-se o artigo 3º da Lei n. 8.666/93.",
+        "fonte": "p. 20",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Este é o típico caso, como mencionou o Ministro Eros Grau, de inexigibilidade de licitação - artigo 25 c/c artigo 13. Também. como ele, portanto, acho que a conclusão é perfeita: não há nada que possa penalmente ser imputado.",
+        "fonte": "p. 20",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Fundamenta pela impossibilidade de julgamento objetivo entre advogados (art. 3º da Lei 8.666/93). Registra ainda, em trecho truncado pelo OCR, que o réu 'não teria absolutamente participação alguma' na eventual alegação do procurador (p. 19).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "também acompanho o bem formulado voto do eminente Relator para absolver réu.",
+        "fonte": "p. 22",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Nao",
+        "evidencia": "Não vislumbrando, na espécie, o dolo específico, o dolo caracterizador do tipo penal sob consideração, também acompanho o bem formulado voto do eminente Relator para absolver réu.",
+        "fonte": "p. 22",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao_enfrentou",
+        "evidencia": "a decisão sobre a dispensa de licitação ou a inexigibilidade de licitação se situa dentro do âmbito das decisões discricionárias da administração pública. E ao Judiciário, como regra, é vedado penetrar nesse âmbito",
+        "fonte": "p. 21",
+        "confianca": "media",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Não conclui se havia dispensa ou inexigibilidade; afirma a deferência judicial à discricionariedade administrativa, registra que os serviços foram realizados sem prejuízo e com contas aprovadas pelo Tribunal de Contas, e decide pela ausência de dolo específico. Também declara acompanhar o relator, o que poderia ser lido como Adesao nesta questão.",
+       "fundamento_proprio": "Ausência de dolo específico (questão dolo).",
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Joaquim Barbosa",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "também julgo improcedente a ação penal para absolver voto do eminente Relator e dos que réu, nos termos do acompanharam.",
+        "fonte": "p. 23",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "também julgo improcedente a ação penal para absolver voto do eminente Relator e dos que réu, nos termos do acompanharam.",
+        "fonte": "p. 23",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "também julgo improcedente a ação penal para absolver voto do eminente Relator e dos que réu, nos termos do acompanharam.",
+        "fonte": "p. 23",
+        "confianca": "media",
+        "inferida_de": "Eros Grau (relator) — posição inferida da adesão 'nos termos do voto do eminente Relator'"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "acompanho o voto do relator, julgando improcedente o pedido formulado na denúncia.",
+        "fonte": "p. 24",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Está-se diante de uma situação concreta em que ocorre a inexigibilidade de licitação. No caso, contratou-se considerado o perfil específico e especializado do profissional, sem o intento de driblar-se a Lei de Licitações.",
+        "fonte": "p. 24",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Está-se diante de uma situação concreta em que ocorre a inexigibilidade de licitação.",
+        "fonte": "p. 24",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Peça curta; classificação Sim/Adesao limítrofe.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator. Presidência da Senhora Ministra Ellen Gracie. Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso de Mello, Marco Aurélio, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau, Ricardo Lewandowski e Cármen Lúcia.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "p. 25",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Eros Grau (relator) — sem voto escrito; inferida da decisão unânime 'nos termos do voto do Relator' no extrato de ata"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cezar Peluso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator. Presidência da Senhora Ministra Ellen Gracie. Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso de Mello, Marco Aurélio, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau, Ricardo Lewandowski e Cármen Lúcia.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "p. 25",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Eros Grau (relator) — sem voto escrito; inferida da decisão unânime 'nos termos do voto do Relator' no extrato de ata"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ellen Gracie",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator. Presidiu julgamento a Senhora Ministra Ellen Gracie.",
+        "fonte": "p. 25",
+        "confianca": "baixa"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator. Presidiu julgamento a Senhora Ministra Ellen Gracie.",
+        "fonte": "p. 25",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Eros Grau (relator) — presidente do julgamento, sem voto escrito; inferida da decisão unânime no extrato de ata"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "tipicidade",
+     "anotacao_tipicidade": "enquadramento",
+     "anotacoes": [],
+     "questao_outra_evidencia": {
+      "evidencia": "o crime tipificado no artigo 89 da Lei n. 8.666/93 só se configura se ocorrer seu antecedente lógico, isto é, o ilícito administrativo --- que no caso concreto inexistiu.",
+      "fonte": "p. 15",
+      "confianca": "alta"
+     },
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "categoria_v2",
+       "de": "outra",
+       "para": "tipicidade",
+       "regra": "G4-02",
+       "nota": ""
+      }
+     ]
+    },
+    {
+     "questao_decisiva": {
+      "valor": "dolo",
+      "evidencia": "Não vislumbrando, na espécie, o dolo específico, o dolo caracterizador do tipo penal sob consideração, também acompanho o bem formulado voto do eminente Relator para absolver réu.",
+      "fonte": "p. 22",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "Quanto ao elemento subjetivo do tipo, isto é, à ocorrência ou não de dolo, a questão resulta prejudicada pelo acolhimento da tese de legalidade do ato, do que decorre atipicidade da conduta. De todo modo, o dolo não existiu",
+      "fonte": "p. 16",
+      "confianca": "baixa"
+     },
+     "formulacao": {
+      "valor": "Quanto ao elemento subjetivo do tipo, isto é, à ocorrência ou não de dolo, a questão resulta prejudicada pelo acolhimento da tese de legalidade do ato, do que decorre atipicidade da conduta. De todo modo, o dolo não existiu",
+      "fonte": "p. 16"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "De todo modo, o dolo não existiu, porquanto o acusado contratou sem licitação na presunção de que estariar presentes os requisitos para a dispensa.",
+      "fonte": "p. 16",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": {
+      "valor": "especifico",
+      "evidencia": "Não vislumbrando, na espécie, o dolo específico, o dolo caracterizador do tipo penal sob consideração",
+      "fonte": "p. 22",
+      "confianca": "media"
+     },
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Eros Grau",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "absolvo, com fundamento no artigo 386, III do Código de processo Penal, • Senador Leonel Arcângelo Pavan acusação crime descrito no artigo 89 da Lei n. 8.666/93.",
+        "fonte": "p. 17",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "De todo modo, o dolo não existiu, porquanto o acusado contratou sem licitação na presunção de que estariar presentes os requisitos para a dispensa.",
+        "fonte": "p. 16",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "De todo modo, o dolo não existiu, porquanto o acusado contratou sem licitação na presunção de que estariar presentes os requisitos para a dispensa.",
+        "fonte": "p. 16",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Enfrenta o dolo como fundamento subsidiário: declara a questão 'prejudicada' pela atipicidade, mas afirma ausência de dolo (presunção de que os requisitos da dispensa estavam presentes).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Sepúlveda Pertence",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Também acompanho o eminente Relator e absolvo o réu.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Também acompanho o eminente Relator e absolvo o réu.",
+        "fonte": "p. 18",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Também acompanho o eminente Relator e absolvo o réu.",
+        "fonte": "p. 18",
+        "confianca": "baixa",
+        "inferida_de": "Eros Grau (relator) — adesão integral ao voto do relator, que também afastou o dolo"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "Fundamenta pessoalmente só a inexigibilidade (questão outra).",
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Eu também absolvo, neste caso, denunciado e incriminado ju",
+        "fonte": "p. 20",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Eu também, Senhora Presidente, acompanho o Relator.",
+        "fonte": "p. 19",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Eu também, Senhora Presidente, acompanho o Relator.",
+        "fonte": "p. 19",
+        "confianca": "baixa",
+        "inferida_de": "Eros Grau (relator) — adesão ao voto do relator, que também afastou o dolo"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": "Fundamenta pessoalmente só a inexigibilidade (questão outra).",
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "também acompanho o bem formulado voto do eminente Relator para absolver réu.",
+        "fonte": "p. 22",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Não vislumbrando, na espécie, o dolo específico, o dolo caracterizador do tipo penal sob consideração, também acompanho o bem formulado voto do eminente Relator para absolver réu.",
+        "fonte": "p. 22",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Não vislumbrando, na espécie, o dolo específico, o dolo caracterizador do tipo penal sob consideração",
+        "fonte": "p. 22",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Exige dolo específico; único fundamento próprio que leva à absolvição.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Joaquim Barbosa",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "também julgo improcedente a ação penal para absolver voto do eminente Relator e dos que réu, nos termos do acompanharam.",
+        "fonte": "p. 23",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "também julgo improcedente a ação penal para absolver voto do eminente Relator e dos que réu, nos termos do acompanharam.",
+        "fonte": "p. 23",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "também julgo improcedente a ação penal para absolver voto do eminente Relator e dos que réu, nos termos do acompanharam.",
+        "fonte": "p. 23",
+        "confianca": "media",
+        "inferida_de": "Eros Grau (relator) e os que o acompanharam"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "acompanho o voto do relator, julgando improcedente o pedido formulado na denúncia.",
+        "fonte": "p. 24",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "No caso, contratou-se considerado o perfil específico e especializado do profissional, sem o intento de driblar-se a Lei de Licitações.",
+        "fonte": "p. 24",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "contratou-se considerado o perfil específico e especializado do profissional, sem o intento de driblar-se a Lei de Licitações.",
+        "fonte": "p. 24",
+        "confianca": "baixa",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "A expressão 'sem o intento de driblar-se a Lei de Licitações' toca o elemento subjetivo, mas aparece como complemento da afirmação de inexigibilidade; leitura como enfrentamento do dolo é incerta.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Celso de Mello",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator. Presidência da Senhora Ministra Ellen Gracie. Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso de Mello, Marco Aurélio, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau, Ricardo Lewandowski e Cármen Lúcia.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "p. 25",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Eros Grau (relator) — sem voto escrito; inferida da decisão unânime no extrato de ata"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cezar Peluso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator. Presidência da Senhora Ministra Ellen Gracie. Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso de Mello, Marco Aurélio, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau, Ricardo Lewandowski e Cármen Lúcia.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "p. 25",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Eros Grau (relator) — sem voto escrito; inferida da decisão unânime no extrato de ata"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ellen Gracie",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator. Presidiu julgamento a Senhora Ministra Ellen Gracie.",
+        "fonte": "p. 25",
+        "confianca": "baixa"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator. Presidiu julgamento a Senhora Ministra Ellen Gracie.",
+        "fonte": "p. 25",
+        "confianca": "baixa"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Eros Grau (relator) — presidente do julgamento, sem voto escrito; inferida da decisão unânime no extrato de ata"
+       },
+       "posicao_detalhe": null,
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "excluida",
+     "motivo_status": "R10: o relator declara o dolo prejudicado pela atipicidade",
+     "categoria_v2": "dolo",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "status",
+       "de": "ativa",
+       "para": "excluida",
+       "regra": "G4-05/R10",
+       "nota": ""
+      }
+     ]
+    }
+   ],
+   "precedentes": [],
+   "obs": "Votantes: 9 (Eros Grau, Sepúlveda Pertence, Cármen Lúcia, Ricardo Lewandowski, Joaquim Barbosa, Marco Aurélio, Celso de Mello, Cezar Peluso, Ellen Gracie). Gilmar Mendes e Carlos (Ayres) Britto ausentes justificadamente neste julgamento (p. 25), por isso sem entrada em posicoes — coincide com 'Não votou' do banco. Nenhuma divergência de voto_resultado em relação ao banco. Celso de Mello, Cezar Peluso e Ellen Gracie não têm voto escrito: resultado deduzido da unanimidade do extrato de ata. Dispositivo do relator: art. 386, III do CPP (fato não constitui infração penal).",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": []
+  }
+ ],
+ "avisos": [
+  "Questão principal: caso unânime com duas questões que levam à absolvição; apliquei R5b e marquei as duas como principais. Ressalva: o relator declara o dolo 'prejudicado' pela atipicidade e absolve pelo art. 386, III do CPP, o que indicaria precedência lógica da questão 'outra'; mas Lewandowski decide só pelo dolo específico, e o relator também afirma que 'o dolo não existiu'. Um leitor que não aplique R5b marcaria só 'outra' como principal.",
+  "A questão 'outra' (existência do ilícito administrativo antecedente — enquadramento em dispensa/inexigibilidade) não cabe em 'dolo' nem em 'concorreu': é atipicidade objetiva, por legalidade da contratação direta. Candidata a categoria própria no codebook (ex.: 'licitude do ato administrativo' / 'hipótese legal de contratação direta').",
+  "padrao_dolo_exigido = especifico vem só de Lewandowski. O relator não nomeia o tipo de dolo; cita Justen Filho ('retratar o intento indevido reprovável do agente (visando produzir o resultado danoso)', p. 13-14), que é doutrina. O MPF sustentou dolo genérico e a defesa dolo específico (relatório, p. 7-8).",
+  "Lewandowski na questão 'outra': marcado 'Nao'/nao_enfrentou, mas ele também diz acompanhar o voto do relator; poderia ser lido como Adesao.",
+  "Pertence e Marco Aurélio: classificação Sim/Adesao limítrofe (peças curtas com registro próprio). Marco Aurélio no dolo: 'sem o intento de driblar-se a Lei de Licitações' lido como enfrentamento do dolo, com confiança baixa.",
+  "Ellen Gracie presidiu o julgamento; o texto não permite confirmar se ela votou. O resultado Absolve foi registrado por coerência com a unanimidade e com o banco, com confiança baixa.",
+  "Texto com OCR fragmentado (ordem de palavras trocada em vários trechos, ex. p. 1, 17, 23). As transcrições seguem literalmente o arquivo de texto, com seus erros (ex.: 'estariar', p. 16). O voto de Cármen Lúcia é cortado no fim das p. 19 e 20.",
+  "Nenhuma decisão anterior citada como precedente; só doutrina (Stocco, Cármen Lúcia Antunes Rocha, Justen Filho, o próprio Eros Grau), que fica fora da lista de precedentes."
+ ],
+ "consolidado_em": "2026-10-18",
+ "base": "leitura A; decisões do gate (D-048, D-049) aplicadas por consolidar_fase4.py"
+}

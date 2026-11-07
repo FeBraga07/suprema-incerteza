@@ -1,0 +1,119 @@
+# CLASSIFICAÇÃO DAS 105 AP PURAS DO PLENÁRIO (1991-2024) PELO QUADRO 1.1 DE LEVCOVITZ (2014)
+# Executada em 08/08/2026, sob o PROTOCOLO_CLASSIFICACAO.md (dados/metodologia/).
+# Fonte: ementa_texto integral + acordao_ata do índice de jurisprudência do STF,
+#        recuperados pela consulta documentada em censo_2026-08-08.md §3.
+# Decisões normativas aplicadas: DECISOES.md D-012 (lavagem/org. criminosa = variável, não critério)
+#        e D-013 (DL 201/67 entra por equivalência de bem jurídico, incisos I/II/IV/V).
+# Separador: | (pipe). Registro completo e narrativo em metodologia/CLASSIFICACAO_105.md
+#
+# decisao: incluir | excluir | verificar
+# regra_aplicada: inclusao_direta | inclusao_dl201 | exclusao_direta | desempate | indecidivel
+# merito_finalizado: sim | nao
+# depende_dl201: sim = sai do universo se o D-013 for revertido
+#
+id_caso|julgamento|decisao|modalidade_levcovitz|regra_aplicada|merito_finalizado|lavagem|org_criminosa|depende_dl201|fonte|justificativa
+AP-293|1992-05-13|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Arts. 177 §1º III e 299 do CP e art. 34 I da Lei 4.595/64 — fraude na administração de sociedade por ações e crime contra o sistema financeiro; corrupção estritamente privada, excluída por Levcovitz (p. 20).
+AP-303|1992-09-09|excluir|nenhuma|indecidivel|nao|nao|nao|nao|ementa+ata|STF declarou-se incompetente e remeteu os autos ao STJ; não houve juízo sobre imputação alguma e nenhum tipo penal é nomeado na ementa ou na ata.
+AP-296|1993-05-20|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ata|Condenação pelo art. 324 c/c art. 327 II do CÓDIGO ELEITORAL — calúnia eleitoral, não calúnia comum; crime eleitoral excluído por Levcovitz (p. 21). A ementa não revela o diploma; só a ata.
+AP-330|2002-10-24|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Art. 155 §4º IV do CP (furto qualificado por ligação clandestina de água) — crime patrimonial comum, fora do Quadro 1.1.
+AP-325|2002-11-20|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Art. 344 do CP (coação no curso do processo) — não consta do Quadro 1.1; bem jurídico é a administração da justiça, não a probidade administrativa.
+AP-355|2004-02-19|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa+ata|DL 201/67 art. 1º XIV (negar execução a lei ou descumprir ordem judicial) — inciso sem equivalente no Quadro 1.1; bem jurídico análogo à desobediência, que Levcovitz exclui (p. 21). Fora do alcance do D-013.
+AP-375|2004-10-27|incluir|1 (peculato, art. 312) + 5 (emprego irregular de verbas, art. 315)|inclusao_direta|sim|nao|nao|nao|ementa|Imputação expressa dos arts. 312 e 315 do CP contra agente público em razão da função; absolvição não altera a pertinência ao universo.
+AP-354|2004-10-27|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Lesão corporal dolosa — crime contra a pessoa, fora do Quadro 1.1.
+AP-340|2005-03-31|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa+ata|Crime de dano e contravenção do art. 40 da LCP em manifestação política contra privatização; bem jurídico é o patrimônio, e a conduta não é de agente público agindo em razão da função.
+AP-365|2006-03-30|incluir|1 (peculato, art. 312)|inclusao_direta|sim|nao|nao|nao|ementa|Imputação de peculato a agente público; absolvição por ausência de apropriação de dinheiro público.
+AP-348|2006-12-15|incluir|18 (Lei 8.666/93, art. 89)|inclusao_direta|sim|nao|nao|nao|ementa|Imputação de dispensa indevida de licitação em contratação municipal; caracterizada inexigibilidade, com absolvição.
+AP-423|2007-10-31|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|DL 201/67 art. 1º XIII (admissão de pessoal sem concurso) — não há apropriação, desvio nem vantagem indevida; bem jurídico é a regra do concurso público. Fora do alcance do D-013.
+AP-333|2007-12-05|excluir|nenhuma|exclusao_direta|nao|nao|nao|nao|ementa+ata|Crime doloso contra a vida; questão de ordem resolvida pela competência do Tribunal do Júri, com remessa ao primeiro grau. Sem mérito no STF.
+AP-439|2008-06-12|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Crime ambiental, absolvição por insignificância — bem jurídico é o meio ambiente, fora do Quadro 1.1.
+AP-428|2008-06-12|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Crimes eleitorais de injúria, difamação e calúnia — excluídos por Levcovitz (p. 21) e sem correspondência no Quadro 1.1.
+AP-430|2008-08-07|incluir|18 (Lei 8.666/93)|inclusao_direta|sim|nao|nao|nao|ementa|Frustração dolosa do caráter competitivo de licitação; absolvição por ausência de provas. Ausência do banco já apontada pelo censo — confirmada.
+AP-488|2008-09-11|excluir|nenhuma|indecidivel|nao|nao|nao|nao|ementa+ata|Julgamento de recurso em sentido estrito sobre cabimento de apelação; nenhum tipo penal apreciado e nenhum mérito de ação penal decidido.
+AP-426|2008-12-18|incluir|5 (equivalente ao emprego irregular de verbas, art. 315)|inclusao_dl201|sim|nao|nao|SIM|legislacao_citada|DL 201/67 art. 1º III — desvio ou aplicação indevida de rendas ou verbas públicas; réu ex-prefeito de Curitiba, absolvido por ausência de dolo (art. 18 par. ún. do CP, art. 386 IV do CPP). Ementa e ata não nomeiam o tipo; resolvido pelo campo documental_legislacao_citada_texto em 08/08/2026.
+AP-447|2009-02-18|incluir|10 (prevaricação, art. 319) + 19 (improbidade, Lei 8.429/92 arts. 9º e 11)|inclusao_direta|sim|nao|nao|nao|ementa+legislacao_citada|Imputação de prevaricação (art. 319 do CP) e de crime do DL 201/67 art. 1º XIV; a legislação citada registra também os arts. 9º e 11 da Lei 8.429/92. Absolvição por ausência do elemento subjetivo. Entra pelo art. 319, independentemente do D-013.
+AP-462|2009-06-25|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Art. 297 §4º do CP — omissão de dados na GFIP/INSS; bem jurídico é a arrecadação previdenciária, excluída por Levcovitz (p. 21). Não consta do Quadro 1.1.
+AP-480|2010-03-11|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Art. 168 §1º I do CP — apropriação indébita de veículo em negócio privado; patrimônio privado, fora do Quadro 1.1.
+AP-433|2010-03-11|incluir|18 (Lei 8.666/93, art. 92)|inclusao_direta|sim|nao|nao|nao|ementa|Imputação expressa do art. 92 da Lei 8.666/93 c/c art. 29 do CP; absolvição por atipicidade.
+AP-409|2010-05-13|incluir|5 (equivalente ao emprego irregular de verbas, art. 315)|inclusao_dl201|sim|nao|nao|SIM|ementa+ata|DL 201/67 art. 1º IV — verba de convênio federal empregada em obra diversa da pactuada; condenação. Bem jurídico idêntico ao do art. 315 do CP (D-013).
+AP-503|2010-05-20|incluir|5 (equivalente ao emprego irregular de verbas, art. 315)|inclusao_dl201|sim|nao|nao|SIM|ementa+ata|DL 201/67 art. 1º IV e V — emprego de recursos em desacordo com o programa e despesas não autorizadas; condenação. Absolvido quanto ao inciso XIV. AUSÊNCIA NÃO DETECTADA PELO CENSO.
+AP-516|2010-09-27|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa+ata|Arts. 168-A §1º I e 337-A III do CP — apropriação indébita e sonegação previdenciárias; Levcovitz exclui expressamente o art. 337-A e a matéria tributária (p. 21).
+AP-396|2010-10-28|incluir|1 (peculato, art. 312)|inclusao_direta|sim|nao|SIM|nao|ementa+ata|Condenação pelos arts. 288 e 312 do CP. Entra pelo peculato; a quadrilha é registrada como variável, não como critério (D-012).
+AP-427|2010-11-04|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Dano contra o patrimônio público (art. 163 do CP) — não consta do Quadro 1.1; lesão patrimonial, não captura da função pública.
+AP-372|2010-12-16|incluir|1 (peculato, art. 312)|inclusao_direta|sim|nao|nao|nao|ementa|Denúncia por peculato (art. 312 do CP), discutida emendatio para o DL 201/67 art. 1º I; absolvição por ausência dos elementos do tipo. Entra pelo art. 312, independentemente do D-013.
+AP-527|2010-12-16|incluir|18 (Lei 8.666/93, art. 89)|inclusao_direta|sim|nao|nao|nao|ementa|Dispensa ou inexigibilidade de licitação fora das hipóteses legais; absolvição por ausência do elemento subjetivo. Ausência do banco já apontada pelo censo — confirmada.
+AP-481|2011-09-08|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa+ata|Ementa aponta corrupção eleitoral (art. 299 do Código Eleitoral); a ata registra condenação pelo art. 15 da Lei 9.263/96. Nenhum dos dois consta do Quadro 1.1; eleitoral excluído por Levcovitz (p. 21).
+AP-441|2012-03-08|incluir|5 (equivalente a despesas não autorizadas / emprego irregular)|inclusao_dl201|sim|nao|nao|SIM|ementa+ata|Denúncia pelo DL 201/67 art. 1º II, com condenação pelo inciso V (ordenar despesas não autorizadas por lei); prescrição reconhecida na sequência.
+AP-416|2012-03-08|incluir|1 (equivalente ao peculato de uso)|inclusao_dl201|sim|nao|nao|SIM|ementa|DL 201/67 art. 1º I e II — uso indevido de linha telefônica pública ("peculato de uso"); absolvição. Bem jurídico é a probidade no uso de bem público.
+AP-474|2012-09-12|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa+ata|Difamação e injúria — crimes contra a honra, fora do Quadro 1.1.
+AP-470|2012-12-17|incluir|1 (peculato) + 8 (corrupção passiva, art. 317) + 15 (corrupção ativa, art. 333)|inclusao_direta|sim|SIM|SIM|nao|ementa|Mensalão. Condenações expressas pelos arts. 317 e 333 do CP, além de peculato e art. 288; lavagem de dinheiro imputada no mesmo conjunto de fatos. Lavagem e quadrilha entram como variáveis (D-012).
+AP-565|2013-08-08|incluir|18 (Lei 8.666/93)|inclusao_direta|sim|nao|SIM|nao|ementa|Fraude a licitação em concurso de pessoas, com quadrilha imputada. Entra pela Lei de Licitações; quadrilha registrada como variável (D-012).
+AP-609|2013-10-03|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Crime eleitoral do art. 39 §5º da Lei 9.504/97 (propaganda no dia do pleito) — excluído por Levcovitz (p. 21).
+AP-432|2013-10-10|incluir|1/5 (equivalente à utilização indevida de bens e rendas públicas)|inclusao_dl201|sim|nao|nao|SIM|ementa+ata|DL 201/67 art. 1º II — utilização indevida de recursos públicos em propaganda de governo promotora do governante; condenação, seguida de prescrição.
+AP-633|2013-10-24|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Falsidade ideológica e desobediência — a desobediência é excluída por Levcovitz (p. 21, arts. 328-331) e a falsidade ideológica não consta do Quadro 1.1.
+AP-596|2013-11-07|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Art. 347 do Código Eleitoral (desobediência a ordem da Justiça Eleitoral) — dupla exclusão: matéria eleitoral e desobediência.
+AP-567|2013-11-21|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Art. 350 do Código Eleitoral — crime eleitoral, excluído por Levcovitz (p. 21).
+AP-679|2014-02-06|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Art. 10 da Lei 7.347/85 — recusa de dados técnicos requisitados pelo MP; a própria ementa a trata como desobediência qualificada. Fora do Quadro 1.1.
+AP-541|2014-03-20|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Calúnia (art. 138 do CP) — crime contra a honra, fora do Quadro 1.1.
+AP-460|2014-04-10|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Uso de documento falso — não consta do Quadro 1.1; bem jurídico é a fé pública.
+AP-465|2014-04-24|incluir|1 (peculato) + 8 (corrupção passiva, art. 317)|inclusao_direta|sim|nao|nao|nao|ementa+ata|Imputação de peculato, corrupção passiva (art. 317) e falsidade ideológica; absolvição por insuficiência de provas, com voto vencido que reconhecia prescrição dos arts. 299 e 317.
+AP-689|2014-05-08|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Art. 168-A §1º I do CP — apropriação indébita previdenciária; matéria de arrecadação, excluída por Levcovitz (p. 21).
+AP-612|2014-05-22|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Estelionato (art. 171 do CP) em questão de esfera privada; atipicidade reconhecida. Fora do Quadro 1.1.
+AP-891|2021-02-24|excluir|nenhuma|exclusao_direta|sim|nao|nao|nao|ementa|Calúnia — crime contra a honra. A vítima ser detentora de cargo público não altera o bem jurídico protegido.
+AP-508|2021-08-03|incluir|8 (corrupção passiva, art. 317) + 10 (prevaricação, art. 319) + 18 (Lei 8.666/93, art. 92)|inclusao_direta|sim|nao|SIM|nao|ata|A ementa (164 caracteres) não nomeia crime algum; a ATA revela arts. 288, 319 e 317 do CP e art. 92 da Lei 8.666/93. Caso de corrupção que a classificação por ementa teria perdido.
+AP-973|2021-09-29|incluir|1 (equivalente ao peculato)|inclusao_dl201|sim|nao|nao|SIM|ementa+ata|DL 201/67 art. 1º I e II — aquisição de bens e uso de linhas celulares em proveito próprio à custa dos cofres municipais; condenação. A ementa nomeia a conduta como peculato.
+AP-940|2022-04-04|incluir|1 (peculato-desvio, art. 312) + 19 (improbidade, Lei 8.429/92 art. 9º IV)|inclusao_direta|sim|nao|nao|nao|ementa+ata+legislacao_citada|Acusação de peculato-desvio de recursos destinados a assessores parlamentares; absolvição por atipicidade e falta de provas. A legislação citada registra também o art. 9º IV da Lei 8.429/92.
+AP-1032|2022-04-22|incluir|8 (corrupção passiva, art. 317)|inclusao_direta|sim|SIM|nao|nao|ementa|Corrupção passiva e lavagem de dinheiro no mesmo conjunto de fatos; absolvição por insuficiência de provas. Entra pelo art. 317; lavagem como variável (D-012).
+AP-1025|2023-05-31|incluir|8 (corrupção passiva, art. 317) + 18 (Lei 8.666/93, art. 90)|inclusao_direta|sim|SIM|SIM|nao|ementa+legislacao_citada|Condenação por corrupção passiva (art. 317), lavagem (Lei 9.613/98) e associação criminosa (art. 288, prescrita); a legislação citada registra também o art. 90 da Lei 8.666/93. Entra pelo art. 317; lavagem e associação como variáveis (D-012).
+AP-1036|2023-09-25|incluir|8 (corrupção passiva, art. 317) + 15 (corrupção ativa, art. 333)|inclusao_direta|sim|nao|nao|nao|ementa+ata+legislacao_citada|Corrupção passiva (art. 317 caput e §1º) imputada a parlamentar estadual — recebimento de vantagem indevida por intercessão pela aprovação de lei; a legislação citada registra também o art. 333. Absolvição por insuficiência de provas.
+AP-1044|2022-04-20|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Deputado federal condenado por propagação de ideias contrárias à ordem constitucional (art. 18 da Lei 7.170/83, continuidade com o art. 359-L do CP) e art. 344 do CP. Bem jurídico é a ordem constitucional. Anterior ao 8 de janeiro; NÃO integra aquele bloco.
+AP-1183|2023-09-14|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Bem jurídico é a ordem constitucional; réus não são agentes públicos agindo em razão da função (§4 do protocolo).
+AP-1502|2023-09-14|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1060|2023-09-14|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1109|2023-10-03|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1413|2023-10-03|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1116|2023-10-18|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1498|2023-10-18|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1416|2023-10-18|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1147|2023-10-24|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — CASO SINGULAR: dano qualificado (art. 163 par. ún. I-IV do CP) e deterioração de patrimônio tombado (art. 62 I da Lei 9.605/98). A ementa NÃO menciona o art. 337. Confirma D-010 no resultado, não na causa alegada.
+AP-1075|2023-11-08|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Confirma D-010. A ementa não menciona o art. 337.
+AP-1403|2024-02-06|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1112|2024-02-06|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1133|2024-02-06|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1388|2024-02-06|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1405|2024-02-06|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1066|2024-02-06|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1421|2024-02-14|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1488|2024-02-14|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1057|2024-02-14|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1071|2024-02-21|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1113|2024-02-21|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1179|2024-02-26|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Confirma D-010. A ementa não menciona o art. 337.
+AP-1427|2024-03-04|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1173|2024-03-11|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1123|2024-03-11|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1268|2024-03-18|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1419|2024-03-18|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1423|2024-03-18|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — CASO SINGULAR: materialidade demonstrada, autoria não demonstrada, ação improcedente (art. 386 VII do CPP).
+AP-1176|2024-03-25|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1269|2024-03-25|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1380|2024-04-04|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1077|2024-04-09|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1381|2024-04-09|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1499|2024-04-15|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-2337|2024-04-29|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1512|2024-05-07|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1163|2024-05-07|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-2331|2024-07-01|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — template 1. Idem AP-1183.
+AP-1193|2024-10-21|excluir|nenhuma|desempate|sim|nao|SIM|nao|ementa|Atos antidemocráticos — template 2: acampamento ilegal em frente a quartel-general; associação criminosa (art. 288) e incitação de animosidade das Forças Armadas (art. 286 par. ún.). Nenhum crime do Quadro 1.1.
+AP-1373|2024-10-21|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos de 8/1 — CASO SINGULAR: materialidade demonstrada, autoria não demonstrada, ação improcedente.
+AP-1670|2024-10-21|excluir|nenhuma|desempate|sim|nao|SIM|nao|ementa|Atos antidemocráticos — template 2. Idem AP-1193.
+AP-1575|2024-10-21|excluir|nenhuma|desempate|sim|nao|SIM|nao|ementa|Atos antidemocráticos — template 2. Idem AP-1193.
+AP-1550|2024-10-28|excluir|nenhuma|desempate|sim|nao|SIM|nao|ementa|Atos antidemocráticos — template 2. Idem AP-1193.
+AP-1285|2024-11-06|excluir|nenhuma|desempate|sim|nao|SIM|nao|ementa|Atos antidemocráticos — template 2. Idem AP-1193.
+AP-1250|2024-11-06|excluir|nenhuma|desempate|sim|nao|SIM|nao|ementa|Atos antidemocráticos — template 2. Idem AP-1193.
+AP-1743|2024-11-06|excluir|nenhuma|desempate|sim|nao|SIM|nao|ementa|Atos antidemocráticos — template 2. Idem AP-1193.
+AP-1702|2024-12-09|excluir|nenhuma|desempate|sim|nao|SIM|nao|ementa|Atos antidemocráticos — template 2. Idem AP-1193.
+AP-1464|2024-12-16|excluir|nenhuma|desempate|sim|nao|SIM|nao|ementa|Atos antidemocráticos — template 2. Idem AP-1193.
+AP-2493|2024-12-16|excluir|nenhuma|desempate|sim|nao|nao|nao|ementa|Atos antidemocráticos — CASO SINGULAR: abolição violenta do Estado Democrático de Direito (art. 23 IV c/c art. 18 da Lei 7.170/83) e calúnia (art. 138 do CP). Confirma D-010. A ementa NÃO menciona o art. 337.
+AP-2219|2024-12-16|excluir|nenhuma|desempate|sim|nao|SIM|nao|ementa|Atos antidemocráticos — template 2. Idem AP-1193.
+AP-1764|2024-12-16|excluir|nenhuma|desempate|sim|nao|SIM|nao|ementa|Atos antidemocráticos — template 2. Idem AP-1193.

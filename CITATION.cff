@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se usar estes dados ou este código, cite o trabalho."
+title: "Suprema Incerteza: uma análise da estabilidade decisória do STF em casos de corrupção sob a ótica da economia institucional"
+type: dataset
+authors:
+  - family-names: "Braga Baldin"
+    given-names: "Felipe"
+    affiliation: "Insper"
+date-released: 2026-11-15
+url: "https://github.com/FeBraga07/suprema-incerteza"
+license: CC-BY-4.0
+keywords:
+  - insegurança jurídica
+  - Supremo Tribunal Federal
+  - economia institucional
+  - corrupção
+  - estabilidade decisória

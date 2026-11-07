@@ -1,0 +1,1674 @@
+{
+  "_validacao_gabarito": "DIVERGÊNCIA GRANDE, INVESTIGADA E RESOLVIDA A FAVOR DA EXTRAÇÃO NOVA. GABARITO_VALIDACAO.md registra 'resultado_reu = Condenação parcial' uniforme para 'Todos os 9 réus', com placar único 9x2 (vencidos Marco Aurélio e Ricardo Lewandowski). Conferido diretamente na ata (corpus/texto/AP-565.txt, linhas ~13479-13514): isso está ERRADO. A ata mostra um quadro heterogêneo — só 3 réus (Cassol, Silveira, Matt) condenados (unânime, 10x0) no art. 90; 2 réus (Ivalino Mezzomo, Ilva Mezzomo Crisóstomo) absolvidos por unanimidade no art. 90; 4 réus (Aníbal de Jesus Rodrigues, Neilton Soares dos Santos, Izalino Mezzomo, Josué Crisóstomo) absolvidos no art. 90 por EMPATE 5x5 desfeito a favor do réu; e TODOS os 9 réus absolvidos do art. 288 (quadrilha) por maioria 8x2, vencidos Marco Aurélio e Joaquim Barbosa (não Lewandowski). Nenhum placar '9x2' aparece em lugar algum da ata. Isso é, com alta probabilidade, o próprio padrão de erro que a Onda 2/3 cometia em casos multi-réu (ver AP-470: 'script não tentou separar resultado por réu') — aqui parece ter colapsado 9 resultados distintos numa única linha. Recomendo fortemente confirmar com o Felipe e corrigir GABARITO_VALIDACAO.md (não alterado aqui).",
+  "id_caso": "AP-565",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": [
+    "dados/corpus/texto/AP-565.txt"
+  ],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Ação Penal - crimes de fraude a licitação (art. 90 da Lei 8.666/93) e de quadrilha (art. 288 do Código Penal)",
+      "evidencia": "EMENTA: AÇÃO PENAL. CRIMES DE FRAUDE A LICITAÇÃO E DE QUADRILHA. CONCURSO DE PESSOAS.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "AÇÃO PENAL JULGADA PARCIALMENTE PROCEDENTE.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 9,
+      "evidencia": "RÉU(É)(S): IVO NARCISO CASSOL / ANÍBAL DE JESUS RODRIGUES / NEILTON SOARES DOS SANTOS / IZALINO MEZZOMO / IVALINO MEZZOMO / JOSUÉ CRISOSTOMO / SALOMÃO DA SILVEIRA / ILVA MEZZOMO CRISÓSTOMO / ERODI ANTONIO MATT",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": true,
+      "evidencia": "Falaram, pelo Ministério Público Federal, o Dr. Haroldo Ferraz da Nóbrega [...] Presidência do Ministro Joaquim Barbosa. Plenário, 07.8.2013. Decisão: Prosseguindo no julgamento [...] Plenário, 08.08.2013.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "modalidade_levcovitz": {
+      "valor": [
+        18
+      ],
+      "rotulos": [
+        "Crimes previstos na Lei 8.666/93 (licitações)"
+      ],
+      "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-565, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"18 (Lei 8.666/93)\"",
+      "regra_aplicada": "inclusao_direta",
+      "fonte": "ementa",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Ivo Narciso Cassol",
+        "evidencia": "RÉU(É)(S) : IVO NARCISO CASSOL",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "À época dos fatos (1998-2002): Prefeito de Rolim de Moura/RO; posteriormente Governador do Estado de Rondônia; ao tempo do julgamento (08/08/2013): Senador da República",
+        "evidencia": "\"No período de 1998 a 2002 os réus acima indicados associaram-se [...] com o propósito de burlar licitações feitas pela Prefeitura daquela Municipalidade, à época chefiada pelo hoje Governador do Estado Ivo Narciso Cassol.\" [...] \"O Réu Ivo Narciso Cassol exerce, atualmente, o cargo de Senador da República\" (p.178).",
+        "fonte": "acordao p.178",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação parcial",
+        "evidencia": "condenar os acusados Ivo Narciso Cassol, Salomão da Silveira e Erodi Antonio Matt como incursos, por 12 (doze) vezes, nas penas do art. 90 da Lei nº 8.666, de 21 de junho 1993 [...] o Tribunal, por maioria, absolveu os acusados Ivo Narciso Cassol [...] quanto ao delito de formação de quadrilha, previsto no art. 288 do Código Penal",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "condenar, por unanimidade, os acusados Ivo Narciso Cassol, Salomão da Silveira e Erodi Antonio Matt [quanto ao art. 90 da Lei 8.666/93]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "rejeitou [...] a prejudicialidade do mérito pela prescrição da pretensão punitiva. [...] Reconhecida a incidência da interrupção da prescrição nesta data, vencido o Ministro Marco Aurélio.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 90",
+          "diploma": "Lei 8.666/1993 (fraude ao caráter competitivo de licitação)",
+          "evidencia": "condenar os acusados Ivo Narciso Cassol, Salomão da Silveira e Erodi Antonio Matt como incursos, por 12 (doze) vezes, nas penas do art. 90 da Lei nº 8.666, de 21 de junho 1993 — condenação por unanimidade."
+        },
+        {
+          "artigo": "art. 288",
+          "diploma": "Código Penal (formação de quadrilha)",
+          "evidencia": "o Tribunal, por maioria, absolveu os acusados Ivo Narciso Cassol [...] com base no art. 386, III, do CPP [fato atípico — ausência do número mínimo de integrantes], vencidos os Ministros Marco Aurélio e Joaquim Barbosa (Presidente)."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux, Rosa Weber, Teori Zavascki e Roberto Barroso [+ Presidência do Ministro Joaquim Barbosa = 11]; Impedido o Ministro Luiz Fux (não vota) => 10 votantes.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 10,
+        "evidencia": "condenar, por unanimidade, os acusados Ivo Narciso Cassol, Salomão da Silveira e Erodi Antonio Matt (art. 90 da Lei 8.666/93).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 0,
+        "evidencia": "condenação por unanimidade no art. 90 — nenhum voto de absolvição nesse capítulo.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "condenar, por unanimidade, os acusados Ivo Narciso Cassol, Salomão da Silveira e Erodi Antonio Matt",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Salomão da Silveira",
+        "evidencia": "RÉU(É)(S) : SALOMÃO DA SILVEIRA",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "À época dos fatos: Presidente da Comissão de Licitação do Município de Rolim de Moura/RO; ao tempo do julgamento: Superintendente da Superintendência de Licitação do Estado de Rondônia",
+        "evidencia": "\"A fraude nas licitações apenas foi possível porque contou com a conivência e efetiva atuação dos então Presidente e Vice-Presidente da Comissão de Licitação do Município de Rolim de Moura, a saber, Salomão da Silveira e Erodi Antonio Matt.\" [...] \"Na atualidade, Salomão da Silveira é Superintendente da Superintendência de Licitação do Estado de Rondônia\".",
+        "fonte": "acordao p.20 (relatório)",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação parcial",
+        "evidencia": "condenar [...] Salomão da Silveira [...] art. 90 [...]; absolveu [...] Salomão da Silveira [...] art. 288",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "condenar, por unanimidade, os acusados Ivo Narciso Cassol, Salomão da Silveira e Erodi Antonio Matt",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Reconhecida a incidência da interrupção da prescrição nesta data, vencido o Ministro Marco Aurélio.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 90",
+          "diploma": "Lei 8.666/1993",
+          "evidencia": "condenar, por unanimidade, os acusados [...] Salomão da Silveira [...] por 12 (doze) vezes."
+        },
+        {
+          "artigo": "art. 288",
+          "diploma": "Código Penal",
+          "evidencia": "absolveu [...] Salomão da Silveira [...] com base no art. 386, III, do CPP, vencidos os Ministros Marco Aurélio e Joaquim Barbosa (Presidente)."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "ver n_votantes de Ivo Narciso Cassol (mesma sessão/composição).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 10,
+        "evidencia": "condenar, por unanimidade [...] Salomão da Silveira",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 0,
+        "evidencia": "condenação unânime no art. 90.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "condenar, por unanimidade [...] Salomão da Silveira",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Erodi Antonio Matt",
+        "evidencia": "RÉU(É)(S) : ERODI ANTONIO MATT",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "À época dos fatos: Vice-Presidente da Comissão de Licitação do Município de Rolim de Moura/RO; ao tempo do julgamento: assessor especial do Governo do Estado de Rondônia",
+        "evidencia": "\"[...] os então Presidente e Vice-Presidente da Comissão de Licitação do Município de Rolim de Moura, a saber, Salomão da Silveira e Erodi Antonio Matt.\" [...] \"Erodi Antonio Matt é assessor especial do Governo do Estado de Rondônia, auxiliando a Secretaria de Saúde em processos de licitação\".",
+        "fonte": "acordao p.20 (relatório)",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação parcial",
+        "evidencia": "condenar [...] Erodi Antonio Matt [...] art. 90 [...]; absolveu [...] Erodi Antonio Matt [...] art. 288",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "condenar, por unanimidade, os acusados Ivo Narciso Cassol, Salomão da Silveira e Erodi Antonio Matt",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Reconhecida a incidência da interrupção da prescrição nesta data, vencido o Ministro Marco Aurélio.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 90",
+          "diploma": "Lei 8.666/1993",
+          "evidencia": "condenar, por unanimidade, os acusados [...] Erodi Antonio Matt [...] por 12 (doze) vezes."
+        },
+        {
+          "artigo": "art. 288",
+          "diploma": "Código Penal",
+          "evidencia": "absolveu [...] Erodi Antonio Matt [...] com base no art. 386, III, do CPP, vencidos os Ministros Marco Aurélio e Joaquim Barbosa (Presidente)."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "ver n_votantes de Ivo Narciso Cassol (mesma sessão/composição).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 10,
+        "evidencia": "condenar, por unanimidade [...] Erodi Antonio Matt",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 0,
+        "evidencia": "condenação unânime no art. 90.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "condenar, por unanimidade [...] Erodi Antonio Matt",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Aníbal de Jesus Rodrigues",
+        "evidencia": "RÉU(É)(S) : ANÍBAL DE JESUS RODRIGUES",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Particular — sócio-proprietário de empresas do grupo (JK, Pedra Lisa, Strada) e contador de empresas do grupo Cassol; nenhum cargo público identificado no relatório",
+        "evidencia": "\"Neilton Soares Santos e Aníbal de Jesus Rodrigues são sócios-proprietários das empresas Pedra Lisa e Strada.\" [...] \"Segundo informações do Delegado da 5ª DRRE de Rolim de Moura, Aníbal de Jesus Rodrigues é quem faz a contabilidade dessas duas empresas [...] além de também ter essa atribuição com relação a várias outras empresas do grupo Cassol\".",
+        "fonte": "acordao p.19-20 (relatório)",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "absolver, em relação à imputação do art. 90 da Lei nº 8.666/93, os acusados Aníbal de Jesus Rodrigues [...] com base no art. 386, VII, do CPP [...] e para absolver, em relação à imputação do art. 288 [...] os acusados Aníbal de Jesus Rodrigues [...] com base no art. 386, VII, do CPP",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "art. 386, VII, do CPP (não existir prova suficiente para a condenação) — \"Ausência de prova da participação de Aníbal de Jesus Rodrigues [...] nos crimes de fraude à licitação narrados na inicial.\"",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "não houve condenação prévia deste réu — não se aplica.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 90",
+          "diploma": "Lei 8.666/1993",
+          "evidencia": "absolvido em votação empatada 5x5 (Cármen Lúcia, Teori Zavascki, Rosa Weber, Gilmar Mendes e Celso de Mello julgando improcedente x Dias Toffoli, Roberto Barroso, Ricardo Lewandowski, Marco Aurélio e Joaquim Barbosa julgando procedente), resolvido em favor do réu; vencido o Ministro Marco Aurélio quanto à regra regimental de desempate (art. 21, IX, 'a', do RISTF)."
+        },
+        {
+          "artigo": "art. 288",
+          "diploma": "Código Penal",
+          "evidencia": "absolvido por maioria (8x2), vencidos os Ministros Marco Aurélio e Joaquim Barbosa (Presidente), com base no art. 386, VII, do CPP."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "10 votantes na votação empatada do art. 90 (5+5).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 5,
+        "evidencia": "os votos dos Ministros Dias Toffoli (Revisor), Roberto Barroso, Ricardo Lewandowski, Marco Aurélio e Joaquim Barbosa (Presidente), julgando-a procedente",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 5,
+        "evidencia": "os votos dos Ministros Cármen Lúcia (Relatora), Teori Zavascki, Rosa Weber, Gilmar Mendes e Celso de Mello, julgando improcedente a ação penal",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "em face do empate [...] absolver os acusados Aníbal de Jesus Rodrigues, Neilton Soares dos Santos, Izalino Mezzomo e Josué Crisóstomo, vencido o Ministro Marco Aurélio",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Neilton Soares dos Santos",
+        "evidencia": "RÉU(É)(S) : NEILTON SOARES DOS SANTOS",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Particular — sócio-proprietário de empresas do grupo (Pedra Lisa, Strada) e responsável técnico registrado no CREA/RO das empresas JK, Pedra Lisa, Strada e TBM; nenhum cargo público identificado",
+        "evidencia": "\"Neilton Soares Santos e Aníbal de Jesus Rodrigues são sócios-proprietários das empresas Pedra Lisa e Strada.\" [...] \"Segundo informações do CREA/RO, Neilton Soares Santos é (ou já foi) responsável técnico das empresas JK, Pedra Lisa, Strada e TBM.\"",
+        "fonte": "acordao p.19-20 (relatório)",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "absolver, em relação à imputação do art. 90 [...] Neilton Soares dos Santos [...] com base no art. 386, VII, do CPP [...] e absolver [...] art. 288 [...] Neilton Soares dos Santos [...] com base no art. 386, VII, do CPP",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "\"Ausência de prova da participação de [...] Neilton Soares dos Santos [...] nos crimes de fraude à licitação narrados na inicial.\"",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "não houve condenação prévia deste réu — não se aplica.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 90",
+          "diploma": "Lei 8.666/1993",
+          "evidencia": "absolvido em votação empatada 5x5, resolvida a favor do réu; vencido o Ministro Marco Aurélio quanto à regra de desempate."
+        },
+        {
+          "artigo": "art. 288",
+          "diploma": "Código Penal",
+          "evidencia": "absolvido por maioria (8x2), vencidos os Ministros Marco Aurélio e Joaquim Barbosa (Presidente)."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "10 votantes na votação empatada do art. 90 (5+5).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 5,
+        "evidencia": "os votos dos Ministros Dias Toffoli (Revisor), Roberto Barroso, Ricardo Lewandowski, Marco Aurélio e Joaquim Barbosa (Presidente), julgando-a procedente",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 5,
+        "evidencia": "os votos dos Ministros Cármen Lúcia (Relatora), Teori Zavascki, Rosa Weber, Gilmar Mendes e Celso de Mello, julgando improcedente",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "em face do empate [...] absolver os acusados [...] Neilton Soares dos Santos [...], vencido o Ministro Marco Aurélio",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Izalino Mezzomo",
+        "evidencia": "RÉU(É)(S) : IZALINO MEZZOMO",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Particular — sócio-proprietário da empresa JK, cunhado de Ivo Cassol (irmão de Ivone Mezzomo Cassol); nenhum cargo público identificado",
+        "evidencia": "\"Izalino Mezzomo e Ivalino Mezzomo são sócios-proprietários da empresa JK [...] Ambos são irmãos de Ivone Mezzomo Cassol, esposa de Ivo Cassol.\"",
+        "fonte": "acordao p.20-21 (relatório)",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "absolver, em relação à imputação do art. 90 [...] Izalino Mezzomo [...] com base no art. 386, VII, do CPP [...] e absolver [...] art. 288 [...] Izalino Mezzomo [...] com base no art. 386, VII, do CPP",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "\"Ausência de prova da participação de [...] Izalino Mezzomo [...] nos crimes de fraude à licitação narrados na inicial.\"",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "não houve condenação prévia deste réu — não se aplica.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 90",
+          "diploma": "Lei 8.666/1993",
+          "evidencia": "absolvido em votação empatada 5x5, resolvida a favor do réu; vencido o Ministro Marco Aurélio quanto à regra de desempate."
+        },
+        {
+          "artigo": "art. 288",
+          "diploma": "Código Penal",
+          "evidencia": "absolvido por maioria (8x2), vencidos os Ministros Marco Aurélio e Joaquim Barbosa (Presidente)."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "10 votantes na votação empatada do art. 90 (5+5).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 5,
+        "evidencia": "os votos dos Ministros Dias Toffoli (Revisor), Roberto Barroso, Ricardo Lewandowski, Marco Aurélio e Joaquim Barbosa (Presidente), julgando-a procedente",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 5,
+        "evidencia": "os votos dos Ministros Cármen Lúcia (Relatora), Teori Zavascki, Rosa Weber, Gilmar Mendes e Celso de Mello, julgando improcedente",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "em face do empate [...] absolver os acusados [...] Izalino Mezzomo [...], vencido o Ministro Marco Aurélio",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Ivalino Mezzomo",
+        "evidencia": "RÉU(É)(S) : IVALINO MEZZOMO",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Particular — sócio-proprietário da empresa JK, cunhado de Ivo Cassol (irmão de Ivone Mezzomo Cassol); nenhum cargo público identificado",
+        "evidencia": "\"Izalino Mezzomo e Ivalino Mezzomo são sócios-proprietários da empresa JK [...] Ambos são irmãos de Ivone Mezzomo Cassol, esposa de Ivo Cassol.\"",
+        "fonte": "acordao p.20-21 (relatório)",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo [art. 90]; [...] o Tribunal, por maioria, absolveu os acusados [...] Ivalino Mezzomo [...] [art. 288]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "art. 386, VII, do CPP — \"Ausência de prova da participação de [...] Ivalino Mezzono [...] nos crimes de fraude à licitação narrados na inicial.\"",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "não houve condenação prévia deste réu — não se aplica.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 90",
+          "diploma": "Lei 8.666/1993",
+          "evidencia": "absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo."
+        },
+        {
+          "artigo": "art. 288",
+          "diploma": "Código Penal",
+          "evidencia": "absolvido por maioria (8x2), vencidos os Ministros Marco Aurélio e Joaquim Barbosa (Presidente)."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "condenar/absolver, por unanimidade — 10 votantes (Fux impedido).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo (art. 90)",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 10,
+        "evidencia": "absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo (art. 90)",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Josué Crisóstomo",
+        "evidencia": "RÉU(É)(S) : JOSUÉ CRISOSTOMO",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Particular — sócio-proprietário das empresas Sul Terraplanagem e Construtel Terraplanagem, casado com a corré Ilva Mezzomo Crisóstomo; nenhum cargo público identificado",
+        "evidencia": "\"As empresas Sul Terraplenagem Ltda [...] e Construtel Terraplenagem Ltda [...] são ambas de propriedade de Josué Crisóstomo e Ilva Mezzomo Crisóstomo, casados entre si.\"",
+        "fonte": "acordao p.21 (relatório)",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "absolver, em relação à imputação do art. 90 [...] Josué Crisóstomo [...] com base no art. 386, VII, do CPP [...] e absolver [...] art. 288 [...] Josué Crisóstomo [...] com base no art. 386, VII, do CPP",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "\"Ausência de prova da participação de [...] Josué Crisostomo [...] nos crimes de fraude à licitação narrados na inicial.\"",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "não houve condenação prévia deste réu — não se aplica.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 90",
+          "diploma": "Lei 8.666/1993",
+          "evidencia": "absolvido em votação empatada 5x5, resolvida a favor do réu; vencido o Ministro Marco Aurélio quanto à regra de desempate."
+        },
+        {
+          "artigo": "art. 288",
+          "diploma": "Código Penal",
+          "evidencia": "absolvido por maioria (8x2), vencidos os Ministros Marco Aurélio e Joaquim Barbosa (Presidente)."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "10 votantes na votação empatada do art. 90 (5+5).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 5,
+        "evidencia": "os votos dos Ministros Dias Toffoli (Revisor), Roberto Barroso, Ricardo Lewandowski, Marco Aurélio e Joaquim Barbosa (Presidente), julgando-a procedente",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 5,
+        "evidencia": "os votos dos Ministros Cármen Lúcia (Relatora), Teori Zavascki, Rosa Weber, Gilmar Mendes e Celso de Mello, julgando improcedente",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "em face do empate [...] absolver os acusados [...] Josué Crisóstomo, vencido o Ministro Marco Aurélio",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Ilva Mezzomo Crisóstomo",
+        "evidencia": "RÉU(É)(S) : ILVA MEZZOMO CRISÓSTOMO",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Particular — sócia-proprietária das empresas Sul Terraplanagem e Construtel Terraplanagem, casada com o corréu Josué Crisóstomo, parente de Ivone Mezzomo Cassol; nenhum cargo público identificado",
+        "evidencia": "\"As empresas Sul Terraplenagem Ltda [...] e Construtel Terraplenagem Ltda [...] são ambas de propriedade de Josué Crisóstomo e Ilva Mezzomo Crisóstomo, casados entre si, esta última parente de Ivone Mezzomo Cassol, esposa de Ivo Cassol.\"",
+        "fonte": "acordao p.21 (relatório)",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo [art. 90]; [...] o Tribunal, por maioria, absolveu os acusados [...] Ilva Mezzomo Crisóstomo [...] [art. 288]",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "art. 386, VII, do CPP — \"Ausência de prova da participação de [...] Ilva Mezzono Crisostomo nos crimes de fraude à licitação narrados na inicial.\"",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "não houve condenação prévia deste réu — não se aplica.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 90",
+          "diploma": "Lei 8.666/1993",
+          "evidencia": "absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo."
+        },
+        {
+          "artigo": "art. 288",
+          "diploma": "Código Penal",
+          "evidencia": "absolvido por maioria (8x2), vencidos os Ministros Marco Aurélio e Joaquim Barbosa (Presidente)."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "absolver, por unanimidade — 10 votantes (Fux impedido).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo (art. 90)",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 10,
+        "evidencia": "absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo (art. 90)",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "reu": "Ivo Narciso Cassol",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "reu": "Ivo Narciso Cassol",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "reu": "Ivo Narciso Cassol",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "reu": "Ivo Narciso Cassol",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "reu": "Ivo Narciso Cassol",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": true,
+      "reu": "Ivo Narciso Cassol",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Teori Zavascki",
+      "eh_relator": false,
+      "reu": "Ivo Narciso Cassol",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "reu": "Ivo Narciso Cassol",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "reu": "Ivo Narciso Cassol",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "reu": "Ivo Narciso Cassol",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "reu": "Ivo Narciso Cassol",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": "Impedido — presente à sessão, mas não votou por impedimento, não por ausência."
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "reu": "Salomão da Silveira",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "reu": "Salomão da Silveira",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "reu": "Salomão da Silveira",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "reu": "Salomão da Silveira",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "reu": "Salomão da Silveira",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": true,
+      "reu": "Salomão da Silveira",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Teori Zavascki",
+      "eh_relator": false,
+      "reu": "Salomão da Silveira",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "reu": "Salomão da Silveira",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "reu": "Salomão da Silveira",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "reu": "Salomão da Silveira",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "reu": "Salomão da Silveira",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": "Impedido — presente à sessão, mas não votou por impedimento, não por ausência."
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "reu": "Erodi Antonio Matt",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "reu": "Erodi Antonio Matt",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "reu": "Erodi Antonio Matt",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "reu": "Erodi Antonio Matt",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "reu": "Erodi Antonio Matt",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": true,
+      "reu": "Erodi Antonio Matt",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Teori Zavascki",
+      "eh_relator": false,
+      "reu": "Erodi Antonio Matt",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "reu": "Erodi Antonio Matt",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "reu": "Erodi Antonio Matt",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "reu": "Erodi Antonio Matt",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "reu": "Erodi Antonio Matt",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": "Impedido — presente à sessão, mas não votou por impedimento, não por ausência."
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "reu": "Aníbal de Jesus Rodrigues",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "reu": "Aníbal de Jesus Rodrigues",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "reu": "Aníbal de Jesus Rodrigues",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "reu": "Aníbal de Jesus Rodrigues",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "reu": "Aníbal de Jesus Rodrigues",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": true,
+      "reu": "Aníbal de Jesus Rodrigues",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Teori Zavascki",
+      "eh_relator": false,
+      "reu": "Aníbal de Jesus Rodrigues",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "reu": "Aníbal de Jesus Rodrigues",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "reu": "Aníbal de Jesus Rodrigues",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "reu": "Aníbal de Jesus Rodrigues",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "reu": "Aníbal de Jesus Rodrigues",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": "Impedido — presente à sessão, mas não votou por impedimento, não por ausência."
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "reu": "Neilton Soares dos Santos",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "reu": "Neilton Soares dos Santos",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "reu": "Neilton Soares dos Santos",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "reu": "Neilton Soares dos Santos",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "reu": "Neilton Soares dos Santos",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": true,
+      "reu": "Neilton Soares dos Santos",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Teori Zavascki",
+      "eh_relator": false,
+      "reu": "Neilton Soares dos Santos",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "reu": "Neilton Soares dos Santos",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "reu": "Neilton Soares dos Santos",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "reu": "Neilton Soares dos Santos",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "reu": "Neilton Soares dos Santos",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": "Impedido — presente à sessão, mas não votou por impedimento, não por ausência."
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "reu": "Izalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "reu": "Izalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "reu": "Izalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "reu": "Izalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "reu": "Izalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": true,
+      "reu": "Izalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Teori Zavascki",
+      "eh_relator": false,
+      "reu": "Izalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "reu": "Izalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "reu": "Izalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "reu": "Izalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "reu": "Izalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": "Impedido — presente à sessão, mas não votou por impedimento, não por ausência."
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "reu": "Josué Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "reu": "Josué Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "reu": "Josué Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "reu": "Josué Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "reu": "Josué Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "condena",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": true,
+      "reu": "Josué Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Teori Zavascki",
+      "eh_relator": false,
+      "reu": "Josué Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "reu": "Josué Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "reu": "Josué Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "reu": "Josué Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "reu": "Josué Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": "Impedido — presente à sessão, mas não votou por impedimento, não por ausência."
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "reu": "Ivalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "reu": "Ivalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "reu": "Ivalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "reu": "Ivalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "reu": "Ivalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Ata de 08/08/2013 (p. 314): 'absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo' (art. 90). Voto juntado de Joaquim Barbosa (p. 255) diverge: condena os nove réus, inclusive este. Prevalece a ata (D-042, 12/10/2026); não há no acórdão registro de reajuste oral do voto.",
+        "fonte": "ata (deducao: unanimidade proclamada)",
+        "confianca": "media"
+      },
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": true,
+      "reu": "Ivalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Teori Zavascki",
+      "eh_relator": false,
+      "reu": "Ivalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "reu": "Ivalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "reu": "Ivalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "reu": "Ivalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "reu": "Ivalino Mezzomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": "Impedido — presente à sessão, mas não votou por impedimento, não por ausência."
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "reu": "Ilva Mezzomo Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "reu": "Ilva Mezzomo Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "reu": "Ilva Mezzomo Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "reu": "Ilva Mezzomo Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "reu": "Ilva Mezzomo Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": {
+        "valor": "absolve",
+        "evidencia": "Ata de 08/08/2013 (p. 314): 'absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo' (art. 90). Voto juntado de Joaquim Barbosa (p. 255) diverge: condena os nove réus, inclusive este. Prevalece a ata (D-042, 12/10/2026); não há no acórdão registro de reajuste oral do voto.",
+        "fonte": "ata (deducao: unanimidade proclamada)",
+        "confianca": "media"
+      },
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": true,
+      "reu": "Ilva Mezzomo Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Teori Zavascki",
+      "eh_relator": false,
+      "reu": "Ilva Mezzomo Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "reu": "Ilva Mezzomo Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "reu": "Ilva Mezzomo Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "reu": "Ilva Mezzomo Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "reu": "Ilva Mezzomo Crisóstomo",
+      "fato": "art. 90, Lei 8.666/1993 (fraude ao caráter competitivo de licitação — instituto que enquadra o caso por equivalência de bem jurídico, D-013)",
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": "Impedido — presente à sessão, mas não votou por impedimento, não por ausência."
+    }
+  ],
+  "avisos": [
+    "O 'voto_resultado' registrado no array `votos` reflete a votação nominal mais granular disponível na ata — o empate 5x5 sobre o art. 90 da Lei 8.666/93 em relação aos réus Aníbal de Jesus Rodrigues, Neilton Soares dos Santos, Izalino Mezzomo e Josué Crisóstomo (Cármen Lúcia, Teori Zavascki, Rosa Weber, Gilmar Mendes e Celso de Mello julgando IMPROCEDENTE x Dias Toffoli, Roberto Barroso, Ricardo Lewandowski, Marco Aurélio e Joaquim Barbosa julgando PROCEDENTE). Esse NÃO é o voto de cada ministro em todos os capítulos do julgamento: (a) a condenação de Ivo Cassol, Salomão da Silveira e Erodi Antonio Matt no art. 90 foi UNÂNIME (10x0); (b) a absolvição de Ivalino Mezzomo e Ilva Mezzomo Crisóstomo no art. 90 foi UNÂNIME (10x0); (c) a absolvição de TODOS os 9 réus no art. 288 (quadrilha) foi por maioria 8x2, vencidos Marco Aurélio e Joaquim Barbosa (que votaram para condenar). Os campos de placar (n_votantes/votos_condenacao/votos_absolvicao/unanime) de cada réu, no array `reus`, refletem essas variações específicas — consultar ali para o placar exato por réu e por artigo.",
+    "O painel de votantes tem 11 ministros em exercício em 08/08/2013 (Joaquim Barbosa, Cármen Lúcia, Dias Toffoli, Celso de Mello, Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski, Rosa Weber, Teori Zavascki, Roberto Barroso e Luiz Fux), dos quais Luiz Fux estava impedido e não votou (10 votantes efetivos) — confere com a lista de 'Presentes à sessão' da ata mais a Presidência de Joaquim Barbosa.",
+    "O crime do art. 288 do Código Penal (formação de quadrilha, hoje 'associação criminosa') não consta das 19 modalidades do Quadro 1.1 de Levcovitz (2014) usadas como definição operacional de 'casos de corrupção' neste projeto — o CLAUDE.md do projeto exclui explicitamente 'associação criminosa' dessa lista. Registrando aqui para decisão da orientação sobre se a imputação de quadrilha deste caso deve ser tratada como comparável a outros casos do corpus ou apenas o capítulo do art. 90 da Lei 8.666/93 (fraude a licitação, que está dentro do escopo).",
+    "Marco Aurélio foi expressamente declarado 'vencido' em múltiplos pontos distintos do julgamento (regra de desempate do RISTF art. 21, IX, 'a'; absolvição no art. 288 de todos os réus; base de cálculo/regime da pena de Ivo Cassol, Salomão e Erodi; aplicação de multa; interrupção da prescrição; aplicação do art. 55, §2º, da CF quanto à perda de mandato de Ivo Cassol). No array `votos`, o campo 'vencido' para Marco Aurélio foi marcado 'true' com base no conjunto dessas derrotas, mas cada uma tem fundamento e votação própria — não é um único 'vencido' genérico. Ver texto integral do acórdão para o detalhamento de cada dissenso.",
+    "Joaquim Barbosa também foi declarado 'vencido' junto com Marco Aurélio na absolvição do art. 288 (quadrilha, todos os réus) e na aplicação do art. 55, §2º, CF (perda de mandato de Ivo Cassol) — mas não no ponto do desempate do art. 90 (onde seu voto 'procedente' não prevaleceu, sem que a ata o rotule expressamente como 'vencido' nesse capítulo específico, provavelmente por se tratar de empate resolvido por regra geral pró-réu, e não por voto de maioria contrária). Por isso, no array `votos`, Joaquim Barbosa aparece com 'vencido: false', refletindo literalmente a ata, embora ele tenha estado do lado que não prevaleceu no resultado final do art. 90 para 4 dos réus.",
+    "Ivo Narciso Cassol exerceu três cargos públicos em momentos distintos ao longo do processo: Prefeito de Rolim de Moura/RO (época dos fatos, 1998-2002), Governador do Estado de Rondônia (quando a ação penal foi ajuizada no STJ, com renúncia em 2010) e Senador da República (a partir de 01/01/2011, o que trouxe o processo ao STF por prerrogativa de foro, e cargo que ainda ocupava no julgamento de 08/08/2013). O campo cargo_funcao registra os três momentos.",
+    "Para os 6 réus que não são Cassol/Salomão/Erodi, nenhuma passagem do relatório, votos ou ata menciona cargo público — todos são descritos exclusivamente como sócios-proprietários ou responsáveis técnicos/contábeis de empresas do grupo, vários deles parentes por afinidade de Ivo Cassol (cunhados/parentes de sua esposa Ivone Mezzomo Cassol). Não há qualquer menção a cargo de magistrado neste processo.",
+    "A pena de Ivo Cassol, Salomão da Silveira e Erodi Antonio Matt foi fixada pelo Ministro Dias Toffoli (Revisor), e não pela Relatora Cármen Lúcia, que ficou vencida nesse ponto específico junto com Marco Aurélio, Celso de Mello e Joaquim Barbosa — isso não altera o resultado de mérito (Condenação parcial), apenas a dosimetria.",
+    "ATUALIZAÇÃO 09/08/2026 (D-021, decidido com o Felipe): o array `votos[]` foi reconstruído na granularidade `(ministro, réu, fato)` em vez de `(ministro, caso)`. Motivo: este caso tem TRÊS padrões de voto distintos para o mesmo fato (art. 90, Lei 8.666/93) — condenação unânime (Cassol/Silveira/Matt, 10x0), placar 5x5 com empate resolvido a favor do réu (Rodrigues/Santos/Mezzomo/Crisóstomo) e absolvição unânime (Ivalino Mezzomo/Ilva Mezzomo Crisóstomo, 0x10) — e a versão anterior do array só registrava o padrão 5x5, perdendo os outros dois. Os votos de quadrilha (art. 288, fora do escopo Levcovitz) não foram incluídos no novo array, mantendo o array focado no crime de escopo (art. 90). Nenhum dado novo foi lido do corpus — os 99 registros vieram da reorganização da evidência já levantada, presente nos campos `votos_condenacao`/`votos_absolvicao`/`n_votantes` de cada réu.",
+    "REVISÃO 12/10/2026 (D-042, decidido pelo Felipe): Ata de 08/08/2013 (p. 314): 'absolver, por unanimidade, os acusados Ivalino Mezzomo e Ilva Mezzomo Crisóstomo' (art. 90). Voto juntado de Joaquim Barbosa (p. 255) diverge: condena os nove réus, inclusive este. Prevalece a ata (D-042, 12/10/2026); não há no acórdão registro de reajuste oral do voto. Os dois votos passam de sem evidência a deduzidos da ata; nenhum resultado, placar ou unanimidade muda."
+  ]
+}

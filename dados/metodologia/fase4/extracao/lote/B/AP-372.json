@@ -1,0 +1,2427 @@
+{
+  "id_caso": "AP-372",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-64 (todas)",
+  "unidades": [
+    {
+      "id_unidade": "AP-372-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "Escopo Levcovitz já decidido no banco (fonte = banco), conforme instrução.",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": {
+        "valor": "Mesmo fato da imputação 2: o voto aplicou emendatio libelli e afastou o art. 312 do CP, reenquadrando o fato no art. 1º, I, do DL 201/67; o dispositivo absolve apenas da imputação do DL 201/67 c/c art. 29. Questões e posições replicadas da imputação 2, pois o voto diz que o núcleo do tipo está ausente 'seja ele do crime de peculato ou do crime específico'.",
+        "evidencia": "Neste caso, mediante uma simples emendatio libelli, afasta-se a norma do art. 312 do Código Penal, que define o crime de peculato, para enquadramento do fato narrado na denúncia na norma do art. 1º, inciso I, segunda parte, e §§ 1º e 2º, do Decreto-Lei n° 201/67",
+        "fonte": "p. 42",
+        "confianca": "alta"
+      },
+      "voto_condutor": {
+        "valor": "Dias Toffoli",
+        "evidencia": "por unanimidade de votos, em julgar improcedente a ação e absolver os acusados, nos termos dos votos do Relator e do Revisor. | Único voto escrito no acórdão é o do Relator: 'VOTO / O EXMO. SR. MINISTRO DIAS TOFFOLI'",
+        "fonte": "p. 3; p. 39",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "Há comprovação de que os recursos públicos foram apropriados ou desviados em proveito próprio ou alheio (núcleo objetivo do tipo de peculato / art. 1º, I, do DL 201/67), e não meramente empregados de forma irregular em benefício da própria Administração?",
+            "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio. | Não há, ademais, mesmo se cogitando de peculato-desvio, a tipificação dessa infração se o agente mudar o destino da coisa em • „Proveito da própria Administração, caso em que poderá configurar-se o crime de \"emprego irregular de verbas públicas\" (CP, art. 315).",
+            "fonte": "p. 57; p. 61-62",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "R5b: decisão unânime; esta questão e a do dolo tiveram a mesma resposta ('nao') e ambas constam da ementa como fundamento: 3. Ausência de comprovação de apropriação de bens ou de renda públicas, ou seu desvio em proveito próprio ou alheio. Núcleo essencial do tipo não demonstrado.",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 57"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Dos depoimentos das testemunhas de defesa, portanto, é possível abstrair-se que, de fato, foram executados esses serviços, que ensejaram a apontada compensação dos serviços contratados por outros não licitados, em valor compatível com o desembolso efetuado. / Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 55; p. 57",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Ante o exposto, com fundamento no art. 386, inciso III, do Código de Processo Penal, julgo improcedente o pedido para absolver os réus da imputação de violação do art. Iº, inciso I, do Decreto-Lei n° 201/67, c/c o art. 29 do Código Penal.",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+                "fonte": "p. 57",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Conclui, pela prova testemunhal, que houve compensação por serviços não contratados em valor compatível com o pago (p. 55); diferença de R$ 3.961,70 'perfeitamente compatível' com outros pequenos serviços; quando muito, emprego irregular de verbas em proveito da própria Administração (p. 62).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "O acórdão decide 'nos termos dos votos do Relator e do Revisor', mas o texto do voto do Revisor não consta do acórdão; não há evidência literal de como ele enfrentou a questão.",
+                "fonte": "p. 3; p. 64",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "Sem texto do voto do Revisor no acórdão. A ata indica apenas que a decisão seguiu os votos do Relator e do Revisor.",
+                "fonte": "p. 64",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": "Presidiu o julgamento ('Presidiu o julgamento o Senhor Ministro Cezar Peluso', p. 64); o acórdão registra unanimidade de votos (p. 3).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "R5b: decisão unânime; esta questão e a do núcleo objetivo do tipo tiveram a mesma resposta ('nao'). Ementa: Ausência de demonstração do dolo específico do delito, com reconhecimento de atipicidade da conduta dos agentes denunciados",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "especifico",
+            "evidencia": "Pressupõe o tipo, na modalidade do denominado peculato-desvio, além do necessário dolo simples (vontade consciente e livre de empregar a coisa em fim diverso daquele a que destinada), do dolo específico como denomina a doutrina clássica ou elemento subjetivo do tipo específico: a intenção de proveito próprio ou de outrem. | Ementa: a vontade livre e consciente (dolo) de lesar o Erário",
+            "fonte": "p. 57; p. 2",
+            "confianca": "alta"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Ante o exposto, com fundamento no art. 386, inciso III, do Código de Processo Penal, julgo improcedente o pedido para absolver os réus da imputação de violação do art. Iº, inciso I, do Decreto-Lei n° 201/67, c/c o art. 29 do Código Penal.",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+                "fonte": "p. 57",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Exige dolo específico (intenção de proveito próprio ou de outrem), apoiado no Inq. 2.646/RN (dolo de lesar o Erário).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "O acórdão decide 'nos termos dos votos do Relator e do Revisor', mas o texto do voto do Revisor não consta do acórdão; não há evidência literal de como ele enfrentou a questão.",
+                "fonte": "p. 3; p. 64",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "Sem texto do voto do Revisor no acórdão. A ata indica apenas que a decisão seguiu os votos do Relator e do Revisor.",
+                "fonte": "p. 64",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": "Presidiu o julgamento ('Presidiu o julgamento o Senhor Ministro Cezar Peluso', p. 64); o acórdão registra unanimidade de votos (p. 3).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC n° 70.671-1/PI, Tribunal Pleno, Rel. Min. Carlos Velloso; HC n° 71.991-1/MG; RHC nº 73.210-1/PA",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "enquadramento do fato narrado na denúncia na norma do art. 1º, inciso I, segunda parte, e §§ 1º e 2º, do Decreto-Lei n° 201/67, já definido nesta Suprema Corte como crime comum (HC n° 70.671-1/PI, Tribunal Pleno, Relator o Ministro Carlos Velloso, DJ de 19/5/95; HC n° 71.991-1/MG, Primeira Turma, ...)",
+          "fonte": "p. 42"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "RHC n° 80.711-9/PE, Primeira Turma, Rel. Min. Sydney Sanches; HC nº 75.793-8/RS, Primeira Turma, Rel. Min. Sepúlveda Pertence",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Sobre o tema, para encerrar, trago os seguintes precedentes desta Corte que viabilizam a emendatio libelli em hipótese como a presente",
+          "fonte": "p. 43-44"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC n° 71.319-0/PR; HC n° 85.744-2/RJ; HC n° 87.071-6/SP",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "são vários os precedentes desța Corte no sentido de dispensar a realização de prova pericial quando presentes outros elementos de prova, firmes, constantes dos autos, o que, entendo, é o caso dos autos.",
+          "fonte": "p. 47"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Penal n° 365-6/SE, Rel. Min. Marco Aurélio, DJ de 12/5/06",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "da Ação Penal n° 365-6/SE, Relator o Ministro Marco Aurélio, DJ de 12/5/06, em que o primeiro denunciado, Jackson Barreto de Lima, foi absolvido por crime análogo.",
+          "fonte": "p. 56-57"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Inq. nº 2.646/RN, Tribunal Pleno, Rel. Min. Ayres Britto, DJe de 7/5/10",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Em julgado no qual se discutiu a tipicidade de infração semelhanțe imputada a prefeito, destacou o Relator, Ministro Ayres Britto (Inq. nº 2.646/RN, Tribunal Pleno, DJe de 7/5/10)",
+          "fonte": "p. 57"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei n° 10.028/2000 (art. 359-D do Código Penal)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "Igualmente incabível cogitar-se de eventual subsunção da conduta imputada ao réu ao novo tipo penal previsto no art. 359-D do Código Penal, instituído que foi pelo art. 1ª da Lei n° 10.028, de 19 de outubro de 2000, inaplicável à hipótese por força do disposto no art. 1º do Código Penal.",
+          "fonte": "p. 62-63"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei n° 12.234/2010 (prazos prescricionais)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "na forma dos artigos 107, inciso IV, 109, inciso IV e parágrafo único, e 110, § 2°, do Código Penal (em conformidade com sua redação anteriormente à vigência da Lei n° 12.234, de 2010)",
+          "fonte": "p. 63"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Inquérito n° 2.027/RO (voto-vista do Min. Dias Toffoli)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "Em voto-vista de minha relatoria no Inquérito n° 2.027/RO, ao analisar igual questão atinente ao elemento volitivo do tipo, já tive a oportunidade de destacar",
+          "fonte": "p. 58"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "AP nº 430/RS, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 26/9/08",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "esta Suprema Corte decidiu, sendo Relatora a Ministra Cármen Lúcia, que a ausência de provas da frustração dolosa do caráter competitivo da licitação conduz ao resultado de improcedência da ação com a absolvição do réu (AP nº 430/RS, Tribunal Pleno, DJe de 26/9/08).",
+          "fonte": "p. 60"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC n° 84.620/RS, Rel. Min. Ellen Gracie, Segunda Turma, DJ de 12/10/04",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "No HC n° 84.620/RS, de relatoria da eminente Ministra Ellen Gracie, Segunda Turma, DJ de 12/10/04, ficou claro que, por \"eventual irregularidade (...) deve ser responsabilizado, penalmente, o funcionário responsável, e não o presidente da instituição\"",
+          "fonte": "p. 60"
+        }
+      ],
+      "obs": "Acórdão (p. 3) e ata (p. 64) decidem 'nos termos dos votos do Relator e do Revisor' (Celso de Mello), mas o voto do Revisor não consta do acórdão; só o Relator fundamenta no texto. Gilmar Mendes ausente ('Ausente, neste julgamento, o Senhor Ministro Gilmar', p. 64) e excluído das posições. voto_resultado lido coincide com o banco (todos Absolve). Terceiro fundamento, só para Jackson, NÃO registrado como questão pelo limite de duas (R4): o Relator afirma que não há indício de participação do prefeito, que não era o executor do contrato (responsabilidade objetiva) -- categoria 'concorreu' (R7, competência): 'não identifico, nos autos, indício de prova fora da responsabilidade penal objetiva, ou seja, indício concreto de que o denunciado tenha participado de qualquer ato que ensejasse sua intervenção corretiva para impedir a prática do delito (art. 13, § 2°, do Código Penal). De igual modo, não há indício algum de que tenha determinado esse procedimento irregular.' (p. 61); 'não era ele o executor do ajuste, e, portanto, não é ele o responsável direto pelo controle de sua execução.' (p. 61)."
+    },
+    {
+      "id_unidade": "AP-372-R01-I02",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "Escopo Levcovitz já decidido no banco (fonte = banco), conforme instrução.",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": {
+        "valor": "Imputação resultante da emendatio libelli (não constava da denúncia, que capitulou só o art. 312 c/c art. 29); mesmo fato da imputação 1.",
+        "evidencia": "Neste caso, mediante uma simples emendatio libelli, afasta-se a norma do art. 312 do Código Penal, que define o crime de peculato, para enquadramento do fato narrado na denúncia na norma do art. 1º, inciso I, segunda parte, e §§ 1º e 2º, do Decreto-Lei n° 201/67",
+        "fonte": "p. 42",
+        "confianca": "alta"
+      },
+      "voto_condutor": {
+        "valor": "Dias Toffoli",
+        "evidencia": "por unanimidade de votos, em julgar improcedente a ação e absolver os acusados, nos termos dos votos do Relator e do Revisor. | Único voto escrito no acórdão é o do Relator: 'VOTO / O EXMO. SR. MINISTRO DIAS TOFFOLI'",
+        "fonte": "p. 3; p. 39",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "Há comprovação de que os recursos públicos foram apropriados ou desviados em proveito próprio ou alheio (núcleo objetivo do tipo de peculato / art. 1º, I, do DL 201/67), e não meramente empregados de forma irregular em benefício da própria Administração?",
+            "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio. | Não há, ademais, mesmo se cogitando de peculato-desvio, a tipificação dessa infração se o agente mudar o destino da coisa em • „Proveito da própria Administração, caso em que poderá configurar-se o crime de \"emprego irregular de verbas públicas\" (CP, art. 315).",
+            "fonte": "p. 57; p. 61-62",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "R5b: decisão unânime; esta questão e a do dolo tiveram a mesma resposta ('nao') e ambas constam da ementa como fundamento: 3. Ausência de comprovação de apropriação de bens ou de renda públicas, ou seu desvio em proveito próprio ou alheio. Núcleo essencial do tipo não demonstrado.",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 57"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Dos depoimentos das testemunhas de defesa, portanto, é possível abstrair-se que, de fato, foram executados esses serviços, que ensejaram a apontada compensação dos serviços contratados por outros não licitados, em valor compatível com o desembolso efetuado. / Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 55; p. 57",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Ante o exposto, com fundamento no art. 386, inciso III, do Código de Processo Penal, julgo improcedente o pedido para absolver os réus da imputação de violação do art. Iº, inciso I, do Decreto-Lei n° 201/67, c/c o art. 29 do Código Penal.",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+                "fonte": "p. 57",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Conclui, pela prova testemunhal, que houve compensação por serviços não contratados em valor compatível com o pago (p. 55); diferença de R$ 3.961,70 'perfeitamente compatível' com outros pequenos serviços; quando muito, emprego irregular de verbas em proveito da própria Administração (p. 62).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "O acórdão decide 'nos termos dos votos do Relator e do Revisor', mas o texto do voto do Revisor não consta do acórdão; não há evidência literal de como ele enfrentou a questão.",
+                "fonte": "p. 3; p. 64",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "Sem texto do voto do Revisor no acórdão. A ata indica apenas que a decisão seguiu os votos do Relator e do Revisor.",
+                "fonte": "p. 64",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": "Presidiu o julgamento ('Presidiu o julgamento o Senhor Ministro Cezar Peluso', p. 64); o acórdão registra unanimidade de votos (p. 3).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "R5b: decisão unânime; esta questão e a do núcleo objetivo do tipo tiveram a mesma resposta ('nao'). Ementa: Ausência de demonstração do dolo específico do delito, com reconhecimento de atipicidade da conduta dos agentes denunciados",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "especifico",
+            "evidencia": "Pressupõe o tipo, na modalidade do denominado peculato-desvio, além do necessário dolo simples (vontade consciente e livre de empregar a coisa em fim diverso daquele a que destinada), do dolo específico como denomina a doutrina clássica ou elemento subjetivo do tipo específico: a intenção de proveito próprio ou de outrem. | Ementa: a vontade livre e consciente (dolo) de lesar o Erário",
+            "fonte": "p. 57; p. 2",
+            "confianca": "alta"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Ante o exposto, com fundamento no art. 386, inciso III, do Código de Processo Penal, julgo improcedente o pedido para absolver os réus da imputação de violação do art. Iº, inciso I, do Decreto-Lei n° 201/67, c/c o art. 29 do Código Penal.",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+                "fonte": "p. 57",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Exige dolo específico (intenção de proveito próprio ou de outrem), apoiado no Inq. 2.646/RN (dolo de lesar o Erário).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "O acórdão decide 'nos termos dos votos do Relator e do Revisor', mas o texto do voto do Revisor não consta do acórdão; não há evidência literal de como ele enfrentou a questão.",
+                "fonte": "p. 3; p. 64",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "Sem texto do voto do Revisor no acórdão. A ata indica apenas que a decisão seguiu os votos do Relator e do Revisor.",
+                "fonte": "p. 64",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": "Presidiu o julgamento ('Presidiu o julgamento o Senhor Ministro Cezar Peluso', p. 64); o acórdão registra unanimidade de votos (p. 3).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC n° 70.671-1/PI, Tribunal Pleno, Rel. Min. Carlos Velloso; HC n° 71.991-1/MG; RHC nº 73.210-1/PA",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "enquadramento do fato narrado na denúncia na norma do art. 1º, inciso I, segunda parte, e §§ 1º e 2º, do Decreto-Lei n° 201/67, já definido nesta Suprema Corte como crime comum (HC n° 70.671-1/PI, Tribunal Pleno, Relator o Ministro Carlos Velloso, DJ de 19/5/95; HC n° 71.991-1/MG, Primeira Turma, ...)",
+          "fonte": "p. 42"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "RHC n° 80.711-9/PE, Primeira Turma, Rel. Min. Sydney Sanches; HC nº 75.793-8/RS, Primeira Turma, Rel. Min. Sepúlveda Pertence",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Sobre o tema, para encerrar, trago os seguintes precedentes desta Corte que viabilizam a emendatio libelli em hipótese como a presente",
+          "fonte": "p. 43-44"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC n° 71.319-0/PR; HC n° 85.744-2/RJ; HC n° 87.071-6/SP",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "são vários os precedentes desța Corte no sentido de dispensar a realização de prova pericial quando presentes outros elementos de prova, firmes, constantes dos autos, o que, entendo, é o caso dos autos.",
+          "fonte": "p. 47"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Penal n° 365-6/SE, Rel. Min. Marco Aurélio, DJ de 12/5/06",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "da Ação Penal n° 365-6/SE, Relator o Ministro Marco Aurélio, DJ de 12/5/06, em que o primeiro denunciado, Jackson Barreto de Lima, foi absolvido por crime análogo.",
+          "fonte": "p. 56-57"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Inq. nº 2.646/RN, Tribunal Pleno, Rel. Min. Ayres Britto, DJe de 7/5/10",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Em julgado no qual se discutiu a tipicidade de infração semelhanțe imputada a prefeito, destacou o Relator, Ministro Ayres Britto (Inq. nº 2.646/RN, Tribunal Pleno, DJe de 7/5/10)",
+          "fonte": "p. 57"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei n° 10.028/2000 (art. 359-D do Código Penal)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "Igualmente incabível cogitar-se de eventual subsunção da conduta imputada ao réu ao novo tipo penal previsto no art. 359-D do Código Penal, instituído que foi pelo art. 1ª da Lei n° 10.028, de 19 de outubro de 2000, inaplicável à hipótese por força do disposto no art. 1º do Código Penal.",
+          "fonte": "p. 62-63"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei n° 12.234/2010 (prazos prescricionais)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "na forma dos artigos 107, inciso IV, 109, inciso IV e parágrafo único, e 110, § 2°, do Código Penal (em conformidade com sua redação anteriormente à vigência da Lei n° 12.234, de 2010)",
+          "fonte": "p. 63"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Inquérito n° 2.027/RO (voto-vista do Min. Dias Toffoli)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "Em voto-vista de minha relatoria no Inquérito n° 2.027/RO, ao analisar igual questão atinente ao elemento volitivo do tipo, já tive a oportunidade de destacar",
+          "fonte": "p. 58"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "AP nº 430/RS, Tribunal Pleno, Rel. Min. Cármen Lúcia, DJe de 26/9/08",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "esta Suprema Corte decidiu, sendo Relatora a Ministra Cármen Lúcia, que a ausência de provas da frustração dolosa do caráter competitivo da licitação conduz ao resultado de improcedência da ação com a absolvição do réu (AP nº 430/RS, Tribunal Pleno, DJe de 26/9/08).",
+          "fonte": "p. 60"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC n° 84.620/RS, Rel. Min. Ellen Gracie, Segunda Turma, DJ de 12/10/04",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "No HC n° 84.620/RS, de relatoria da eminente Ministra Ellen Gracie, Segunda Turma, DJ de 12/10/04, ficou claro que, por \"eventual irregularidade (...) deve ser responsabilizado, penalmente, o funcionário responsável, e não o presidente da instituição\"",
+          "fonte": "p. 60"
+        }
+      ],
+      "obs": "Acórdão (p. 3) e ata (p. 64) decidem 'nos termos dos votos do Relator e do Revisor' (Celso de Mello), mas o voto do Revisor não consta do acórdão; só o Relator fundamenta no texto. Gilmar Mendes ausente ('Ausente, neste julgamento, o Senhor Ministro Gilmar', p. 64) e excluído das posições. voto_resultado lido coincide com o banco (todos Absolve). Terceiro fundamento, só para Jackson, NÃO registrado como questão pelo limite de duas (R4): o Relator afirma que não há indício de participação do prefeito, que não era o executor do contrato (responsabilidade objetiva) -- categoria 'concorreu' (R7, competência): 'não identifico, nos autos, indício de prova fora da responsabilidade penal objetiva, ou seja, indício concreto de que o denunciado tenha participado de qualquer ato que ensejasse sua intervenção corretiva para impedir a prática do delito (art. 13, § 2°, do Código Penal). De igual modo, não há indício algum de que tenha determinado esse procedimento irregular.' (p. 61); 'não era ele o executor do ajuste, e, portanto, não é ele o responsável direto pelo controle de sua execução.' (p. 61)."
+    },
+    {
+      "id_unidade": "AP-372-R02-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "Escopo Levcovitz já decidido no banco (fonte = banco), conforme instrução.",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": {
+        "valor": "Mesmo fato da imputação 2: o voto aplicou emendatio libelli e afastou o art. 312 do CP, reenquadrando o fato no art. 1º, I, do DL 201/67; o dispositivo absolve apenas da imputação do DL 201/67 c/c art. 29. Questões e posições replicadas da imputação 2, pois o voto diz que o núcleo do tipo está ausente 'seja ele do crime de peculato ou do crime específico'.",
+        "evidencia": "Neste caso, mediante uma simples emendatio libelli, afasta-se a norma do art. 312 do Código Penal, que define o crime de peculato, para enquadramento do fato narrado na denúncia na norma do art. 1º, inciso I, segunda parte, e §§ 1º e 2º, do Decreto-Lei n° 201/67",
+        "fonte": "p. 42",
+        "confianca": "alta"
+      },
+      "voto_condutor": {
+        "valor": "Dias Toffoli",
+        "evidencia": "por unanimidade de votos, em julgar improcedente a ação e absolver os acusados, nos termos dos votos do Relator e do Revisor. | Único voto escrito no acórdão é o do Relator: 'VOTO / O EXMO. SR. MINISTRO DIAS TOFFOLI'",
+        "fonte": "p. 3; p. 39",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "Há comprovação de que os recursos públicos foram apropriados ou desviados em proveito próprio ou alheio (núcleo objetivo do tipo de peculato / art. 1º, I, do DL 201/67), e não meramente empregados de forma irregular em benefício da própria Administração?",
+            "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio. | Não há, ademais, mesmo se cogitando de peculato-desvio, a tipificação dessa infração se o agente mudar o destino da coisa em • „Proveito da própria Administração, caso em que poderá configurar-se o crime de \"emprego irregular de verbas públicas\" (CP, art. 315).",
+            "fonte": "p. 57; p. 61-62",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "R5b: decisão unânime; esta questão e a do dolo tiveram a mesma resposta ('nao') e ambas constam da ementa como fundamento: 3. Ausência de comprovação de apropriação de bens ou de renda públicas, ou seu desvio em proveito próprio ou alheio. Núcleo essencial do tipo não demonstrado.",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 57"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Dos depoimentos das testemunhas de defesa, portanto, é possível abstrair-se que, de fato, foram executados esses serviços, que ensejaram a apontada compensação dos serviços contratados por outros não licitados, em valor compatível com o desembolso efetuado. / Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 55; p. 57",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Ante o exposto, com fundamento no art. 386, inciso III, do Código de Processo Penal, julgo improcedente o pedido para absolver os réus da imputação de violação do art. Iº, inciso I, do Decreto-Lei n° 201/67, c/c o art. 29 do Código Penal.",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+                "fonte": "p. 57",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Conclui, pela prova testemunhal, que houve compensação por serviços não contratados em valor compatível com o pago (p. 55); diferença de R$ 3.961,70 'perfeitamente compatível' com outros pequenos serviços; quando muito, emprego irregular de verbas em proveito da própria Administração (p. 62).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "O acórdão decide 'nos termos dos votos do Relator e do Revisor', mas o texto do voto do Revisor não consta do acórdão; não há evidência literal de como ele enfrentou a questão.",
+                "fonte": "p. 3; p. 64",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "Sem texto do voto do Revisor no acórdão. A ata indica apenas que a decisão seguiu os votos do Relator e do Revisor.",
+                "fonte": "p. 64",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": "Presidiu o julgamento ('Presidiu o julgamento o Senhor Ministro Cezar Peluso', p. 64); o acórdão registra unanimidade de votos (p. 3).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "R5b: decisão unânime; esta questão e a do núcleo objetivo do tipo tiveram a mesma resposta ('nao'). Ementa: Ausência de demonstração do dolo específico do delito, com reconhecimento de atipicidade da conduta dos agentes denunciados",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "especifico",
+            "evidencia": "Pressupõe o tipo, na modalidade do denominado peculato-desvio, além do necessário dolo simples (vontade consciente e livre de empregar a coisa em fim diverso daquele a que destinada), do dolo específico como denomina a doutrina clássica ou elemento subjetivo do tipo específico: a intenção de proveito próprio ou de outrem. | Ementa: a vontade livre e consciente (dolo) de lesar o Erário",
+            "fonte": "p. 57; p. 2",
+            "confianca": "alta"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Ante o exposto, com fundamento no art. 386, inciso III, do Código de Processo Penal, julgo improcedente o pedido para absolver os réus da imputação de violação do art. Iº, inciso I, do Decreto-Lei n° 201/67, c/c o art. 29 do Código Penal.",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+                "fonte": "p. 57",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Exige dolo específico (intenção de proveito próprio ou de outrem), apoiado no Inq. 2.646/RN (dolo de lesar o Erário).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "O acórdão decide 'nos termos dos votos do Relator e do Revisor', mas o texto do voto do Revisor não consta do acórdão; não há evidência literal de como ele enfrentou a questão.",
+                "fonte": "p. 3; p. 64",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "Sem texto do voto do Revisor no acórdão. A ata indica apenas que a decisão seguiu os votos do Relator e do Revisor.",
+                "fonte": "p. 64",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": "Presidiu o julgamento ('Presidiu o julgamento o Senhor Ministro Cezar Peluso', p. 64); o acórdão registra unanimidade de votos (p. 3).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC n° 70.671-1/PI, Tribunal Pleno, Rel. Min. Carlos Velloso; HC n° 71.991-1/MG; RHC nº 73.210-1/PA",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "enquadramento do fato narrado na denúncia na norma do art. 1º, inciso I, segunda parte, e §§ 1º e 2º, do Decreto-Lei n° 201/67, já definido nesta Suprema Corte como crime comum (HC n° 70.671-1/PI, Tribunal Pleno, Relator o Ministro Carlos Velloso, DJ de 19/5/95; HC n° 71.991-1/MG, Primeira Turma, ...)",
+          "fonte": "p. 42"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "RHC n° 80.711-9/PE, Primeira Turma, Rel. Min. Sydney Sanches; HC nº 75.793-8/RS, Primeira Turma, Rel. Min. Sepúlveda Pertence",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Sobre o tema, para encerrar, trago os seguintes precedentes desta Corte que viabilizam a emendatio libelli em hipótese como a presente",
+          "fonte": "p. 43-44"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC n° 71.319-0/PR; HC n° 85.744-2/RJ; HC n° 87.071-6/SP",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "são vários os precedentes desța Corte no sentido de dispensar a realização de prova pericial quando presentes outros elementos de prova, firmes, constantes dos autos, o que, entendo, é o caso dos autos.",
+          "fonte": "p. 47"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Penal n° 365-6/SE, Rel. Min. Marco Aurélio, DJ de 12/5/06",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "da Ação Penal n° 365-6/SE, Relator o Ministro Marco Aurélio, DJ de 12/5/06, em que o primeiro denunciado, Jackson Barreto de Lima, foi absolvido por crime análogo.",
+          "fonte": "p. 56-57"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Inq. nº 2.646/RN, Tribunal Pleno, Rel. Min. Ayres Britto, DJe de 7/5/10",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Em julgado no qual se discutiu a tipicidade de infração semelhanțe imputada a prefeito, destacou o Relator, Ministro Ayres Britto (Inq. nº 2.646/RN, Tribunal Pleno, DJe de 7/5/10)",
+          "fonte": "p. 57"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei n° 10.028/2000 (art. 359-D do Código Penal)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "Igualmente incabível cogitar-se de eventual subsunção da conduta imputada ao réu ao novo tipo penal previsto no art. 359-D do Código Penal, instituído que foi pelo art. 1ª da Lei n° 10.028, de 19 de outubro de 2000, inaplicável à hipótese por força do disposto no art. 1º do Código Penal.",
+          "fonte": "p. 62-63"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei n° 12.234/2010 (prazos prescricionais)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "na forma dos artigos 107, inciso IV, 109, inciso IV e parágrafo único, e 110, § 2°, do Código Penal (em conformidade com sua redação anteriormente à vigência da Lei n° 12.234, de 2010)",
+          "fonte": "p. 63"
+        }
+      ],
+      "obs": "Acórdão (p. 3) e ata (p. 64) decidem 'nos termos dos votos do Relator e do Revisor' (Celso de Mello), mas o voto do Revisor não consta do acórdão; só o Relator fundamenta no texto. Gilmar Mendes ausente ('Ausente, neste julgamento, o Senhor Ministro Gilmar', p. 64) e excluído das posições. voto_resultado lido coincide com o banco (todos Absolve). Para Roberto Sales Cardoso (particular, representante da empreiteira), o voto não traz fundamento específico de autoria; a absolvição decorre das mesmas duas questões, enunciadas para 'os réus' (p. 57, p. 63)."
+    },
+    {
+      "id_unidade": "AP-372-R02-I02",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": "Escopo Levcovitz já decidido no banco (fonte = banco), conforme instrução.",
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": {
+        "valor": "Imputação resultante da emendatio libelli (não constava da denúncia, que capitulou só o art. 312 c/c art. 29); mesmo fato da imputação 1.",
+        "evidencia": "Neste caso, mediante uma simples emendatio libelli, afasta-se a norma do art. 312 do Código Penal, que define o crime de peculato, para enquadramento do fato narrado na denúncia na norma do art. 1º, inciso I, segunda parte, e §§ 1º e 2º, do Decreto-Lei n° 201/67",
+        "fonte": "p. 42",
+        "confianca": "alta"
+      },
+      "voto_condutor": {
+        "valor": "Dias Toffoli",
+        "evidencia": "por unanimidade de votos, em julgar improcedente a ação e absolver os acusados, nos termos dos votos do Relator e do Revisor. | Único voto escrito no acórdão é o do Relator: 'VOTO / O EXMO. SR. MINISTRO DIAS TOFFOLI'",
+        "fonte": "p. 3; p. 39",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "Há comprovação de que os recursos públicos foram apropriados ou desviados em proveito próprio ou alheio (núcleo objetivo do tipo de peculato / art. 1º, I, do DL 201/67), e não meramente empregados de forma irregular em benefício da própria Administração?",
+            "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio. | Não há, ademais, mesmo se cogitando de peculato-desvio, a tipificação dessa infração se o agente mudar o destino da coisa em • „Proveito da própria Administração, caso em que poderá configurar-se o crime de \"emprego irregular de verbas públicas\" (CP, art. 315).",
+            "fonte": "p. 57; p. 61-62",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "R5b: decisão unânime; esta questão e a do dolo tiveram a mesma resposta ('nao') e ambas constam da ementa como fundamento: 3. Ausência de comprovação de apropriação de bens ou de renda públicas, ou seu desvio em proveito próprio ou alheio. Núcleo essencial do tipo não demonstrado.",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 57"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Dos depoimentos das testemunhas de defesa, portanto, é possível abstrair-se que, de fato, foram executados esses serviços, que ensejaram a apontada compensação dos serviços contratados por outros não licitados, em valor compatível com o desembolso efetuado. / Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+            "fonte": "p. 55; p. 57",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Ante o exposto, com fundamento no art. 386, inciso III, do Código de Processo Penal, julgo improcedente o pedido para absolver os réus da imputação de violação do art. Iº, inciso I, do Decreto-Lei n° 201/67, c/c o art. 29 do Código Penal.",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Não se verifica, portanto, a presença, in casu, do núcleo essencial do tipo (seja ele do crime de peculato ou do crime específico previsto no inciso I do art. 1ª do Decreto-Lei n° 201/67), qual seja, apropriar-se o agente público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem posse em razão do cargo, ou desviá-lo em proveito próprio ou alheio.",
+                "fonte": "p. 57",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Conclui, pela prova testemunhal, que houve compensação por serviços não contratados em valor compatível com o pago (p. 55); diferença de R$ 3.961,70 'perfeitamente compatível' com outros pequenos serviços; quando muito, emprego irregular de verbas em proveito da própria Administração (p. 62).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "O acórdão decide 'nos termos dos votos do Relator e do Revisor', mas o texto do voto do Revisor não consta do acórdão; não há evidência literal de como ele enfrentou a questão.",
+                "fonte": "p. 3; p. 64",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "Sem texto do voto do Revisor no acórdão. A ata indica apenas que a decisão seguiu os votos do Relator e do Revisor.",
+                "fonte": "p. 64",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": "Presidiu o julgamento ('Presidiu o julgamento o Senhor Ministro Cezar Peluso', p. 64); o acórdão registra unanimidade de votos (p. 3).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "R5b: decisão unânime; esta questão e a do núcleo objetivo do tipo tiveram a mesma resposta ('nao'). Ementa: Ausência de demonstração do dolo específico do delito, com reconhecimento de atipicidade da conduta dos agentes denunciados",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+            "fonte": "p. 57",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "especifico",
+            "evidencia": "Pressupõe o tipo, na modalidade do denominado peculato-desvio, além do necessário dolo simples (vontade consciente e livre de empregar a coisa em fim diverso daquele a que destinada), do dolo específico como denomina a doutrina clássica ou elemento subjetivo do tipo específico: a intenção de proveito próprio ou de outrem. | Ementa: a vontade livre e consciente (dolo) de lesar o Erário",
+            "fonte": "p. 57; p. 2",
+            "confianca": "alta"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Ante o exposto, com fundamento no art. 386, inciso III, do Código de Processo Penal, julgo improcedente o pedido para absolver os réus da imputação de violação do art. Iº, inciso I, do Decreto-Lei n° 201/67, c/c o art. 29 do Código Penal.",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Igualmente ausente, na espécie, o elemento subjetivo do tipo essencial à configuração do delito imputado aos réus. Não restou demonstrada a vontade livre e conscientemente dirigida à apropriação do dinheiro, valor ou qualquer outro bem móvel, de que se tem a posse em razão do cargo.",
+                "fonte": "p. 57",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Exige dolo específico (intenção de proveito próprio ou de outrem), apoiado no Inq. 2.646/RN (dolo de lesar o Erário).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": "O acórdão decide 'nos termos dos votos do Relator e do Revisor', mas o texto do voto do Revisor não consta do acórdão; não há evidência literal de como ele enfrentou a questão.",
+                "fonte": "p. 3; p. 64",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": "Sem texto do voto do Revisor no acórdão. A ata indica apenas que a decisão seguiu os votos do Relator e do Revisor.",
+                "fonte": "p. 64",
+                "confianca": "baixa",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": "Presidiu o julgamento ('Presidiu o julgamento o Senhor Ministro Cezar Peluso', p. 64); o acórdão registra unanimidade de votos (p. 3).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu os acusados.",
+                "fonte": "p. 64",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: decisão unânime 'nos termos dos votos do Relator e do Revisor'; sem voto escrito deste ministro no acórdão.",
+                "fonte": "p. 64",
+                "confianca": "media",
+                "inferida_de": "Dias Toffoli (Relator)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC n° 70.671-1/PI, Tribunal Pleno, Rel. Min. Carlos Velloso; HC n° 71.991-1/MG; RHC nº 73.210-1/PA",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "enquadramento do fato narrado na denúncia na norma do art. 1º, inciso I, segunda parte, e §§ 1º e 2º, do Decreto-Lei n° 201/67, já definido nesta Suprema Corte como crime comum (HC n° 70.671-1/PI, Tribunal Pleno, Relator o Ministro Carlos Velloso, DJ de 19/5/95; HC n° 71.991-1/MG, Primeira Turma, ...)",
+          "fonte": "p. 42"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "RHC n° 80.711-9/PE, Primeira Turma, Rel. Min. Sydney Sanches; HC nº 75.793-8/RS, Primeira Turma, Rel. Min. Sepúlveda Pertence",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Sobre o tema, para encerrar, trago os seguintes precedentes desta Corte que viabilizam a emendatio libelli em hipótese como a presente",
+          "fonte": "p. 43-44"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "HC n° 71.319-0/PR; HC n° 85.744-2/RJ; HC n° 87.071-6/SP",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "são vários os precedentes desța Corte no sentido de dispensar a realização de prova pericial quando presentes outros elementos de prova, firmes, constantes dos autos, o que, entendo, é o caso dos autos.",
+          "fonte": "p. 47"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Penal n° 365-6/SE, Rel. Min. Marco Aurélio, DJ de 12/5/06",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "da Ação Penal n° 365-6/SE, Relator o Ministro Marco Aurélio, DJ de 12/5/06, em que o primeiro denunciado, Jackson Barreto de Lima, foi absolvido por crime análogo.",
+          "fonte": "p. 56-57"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Inq. nº 2.646/RN, Tribunal Pleno, Rel. Min. Ayres Britto, DJe de 7/5/10",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Em julgado no qual se discutiu a tipicidade de infração semelhanțe imputada a prefeito, destacou o Relator, Ministro Ayres Britto (Inq. nº 2.646/RN, Tribunal Pleno, DJe de 7/5/10)",
+          "fonte": "p. 57"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei n° 10.028/2000 (art. 359-D do Código Penal)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "Igualmente incabível cogitar-se de eventual subsunção da conduta imputada ao réu ao novo tipo penal previsto no art. 359-D do Código Penal, instituído que foi pelo art. 1ª da Lei n° 10.028, de 19 de outubro de 2000, inaplicável à hipótese por força do disposto no art. 1º do Código Penal.",
+          "fonte": "p. 62-63"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "mudanca_lei",
+          "referencia": "Lei n° 12.234/2010 (prazos prescricionais)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "na forma dos artigos 107, inciso IV, 109, inciso IV e parágrafo único, e 110, § 2°, do Código Penal (em conformidade com sua redação anteriormente à vigência da Lei n° 12.234, de 2010)",
+          "fonte": "p. 63"
+        }
+      ],
+      "obs": "Acórdão (p. 3) e ata (p. 64) decidem 'nos termos dos votos do Relator e do Revisor' (Celso de Mello), mas o voto do Revisor não consta do acórdão; só o Relator fundamenta no texto. Gilmar Mendes ausente ('Ausente, neste julgamento, o Senhor Ministro Gilmar', p. 64) e excluído das posições. voto_resultado lido coincide com o banco (todos Absolve). Para Roberto Sales Cardoso (particular, representante da empreiteira), o voto não traz fundamento específico de autoria; a absolvição decorre das mesmas duas questões, enunciadas para 'os réus' (p. 57, p. 63)."
+    }
+  ],
+  "avisos": [
+    "Só há um voto escrito (Relator Dias Toffoli, p. 39-63). O acórdão decide 'nos termos dos votos do Relator e do Revisor', mas o voto do Revisor Celso de Mello não consta: para ele, enfrentou_a_questao e posicao ficaram null (não há texto; não é adesão silenciosa declarada). Os demais 7 ministros presentes foram marcados como Adesao com posição inferida do Relator.",
+    "Escolha das duas questões (R4): o voto traz três fundamentos de mérito. Registrei (a) 'outra' -- ausência do núcleo objetivo do tipo (desvio em proveito próprio ou alheio vs. mero emprego irregular em benefício da Administração) e (b) 'dolo' (específico), ambos na ementa (itens 3 e 4) e enunciados para os dois réus; ambos principais por R5b. O terceiro fundamento, só para Jackson (falta de indício de participação do prefeito, que não era executor do contrato; responsabilidade objetiva, p. 58 e 60-61), é 'concorreu' e ficou descrito em obs. Se o codebook preferir 'concorreu' a 'outra' para R01, a evidência está lá.",
+    "O trecho da p. 58 mistura ciência (dolo) e participação: 'sem demonstração de sua ciência de que os serviços tenham sido substituídos'; o voto o apresenta como questão 'atinente ao elemento volitivo do tipo', mas o desenvolvimento das p. 60-61 é sobre quem executava/controlava o contrato (concorreu).",
+    "Candidata à revisão do codebook: a pergunta sobre o elemento objetivo 'proveito próprio ou alheio' (distinção peculato-desvio x emprego irregular de verbas, art. 315 CP / art. 1º, III, DL 201) não cabe em dolo nem em concorreu.",
+    "Imputações 1 (art. 312) e 2 (DL 201, art. 1º, I) são o mesmo fato: a 2 nasce da emendatio libelli aplicada pelo Relator (p. 42); o dispositivo absolve só da imputação do DL 201/67 c/c art. 29 (p. 63). Questões replicadas nas duas unidades.",
+    "Fundamento do dispositivo: art. 386, III, CPP ('não constituir o fato infração penal'), na redação vigente em 2010; o PGR pedira absolvição com base no 'art. 386, VI' (p. 23).",
+    "Preliminares afastadas e não tratadas como questão (R6): inépcia da denúncia (p. 39) e nulidade por falta de exame de corpo de delito (p. 44-47). Prescrição só aparece para dispensar a mutatio libelli quanto a tipos diversos (art. 1º, III, V ou XI do DL 201), não como fundamento da absolvição.",
+    "Cezar Peluso presidiu a sessão; a ata não individualiza voto dele, mas o acórdão diz 'por unanimidade de votos' -- voto_resultado com confiança média."
+  ]
+}

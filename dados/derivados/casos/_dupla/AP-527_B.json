@@ -1,0 +1,186 @@
+{
+  "id_caso": "AP-527",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-527.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Dispensa ou inexigibilidade de licitação fora das hipóteses previstas em lei (art. 89 da Lei n° 8.666/93)",
+      "evidencia": "Ação Penal. Ex-prefeito municipal. Atualmente, deputado federal. Dispensa ou inexigibilidade de licitação fora das hipóteses previstas em lei (Art. 89, da Lei n° 8.666/93).",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "REU(E) (s) : LUIZ CARLOS SETIM",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado. [...] Plenário, 16.12.2010.",
+      "fonte": "ata",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Luiz Carlos Setim",
+        "evidencia": "REU (E) (s): LUIZ CARLOS SETIM",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Ex-prefeito de São José dos Pinhais/PR; à época do julgamento, Deputado Federal",
+        "evidencia": "Luiz Carlos Setim, ex-prefeito de São José dos Pinhais/PR, atualmente no exercício do cargo de Deputado Federal, foi denunciado com base no art. 89, caput, da Lei n° 8.666/93",
+        "fonte": "acordao p.16",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "Ante o exposto, com fundamento no art. 386, inciso V, do Código de Processo Penal, julgo improcedente o pedido, absolvendo o réu da imputação de violação do art. 89, caput, da Lei n° 8.666/93.",
+        "fonte": "acordao p.24",
+        "confianca": "media"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "não houve condenação em nenhum momento do processo; o pedido foi julgado improcedente com absolvição do réu",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "89, caput (por duas vezes, art. 69 c/c)",
+          "diploma": "Lei n° 8.666/93",
+          "evidencia": "incorreu o denunciado Luiz Carlos Setim nas sanções do art. 89, \"caput\", da Lei n° 8.666/93, (duas vezes), observada a regra do art. 69, do Código Penal"
+        }
+      ],
+      "n_votantes": {
+        "valor": 9,
+        "evidencia": "Presidiu o julgamento o Senhor Ministro Cezar Peluso. [...] Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli. Ausente, neste julgamento, o Senhor Ministro Gilmar Mendes.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade [...] absolveu o acusado.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 9,
+        "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Dias Toffoli", "evidencia": "RELATOR : MIN. DIAS TOFFOLI", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": true, "evidencia": "RELATOR : MIN. DIAS TOFFOLI", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "julgo improcedente o pedido, absolvendo o réu da imputação de violação do art. 89, caput, da Lei n° 8.666/93. É o voto.", "fonte": "acordao p.24", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade e nos termos dos votos do Relator e do Revisor", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "não consta entre os ausentes na ata", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente e votante", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Celso de Mello", "evidencia": "REVISOR : MIN. CELSO DE MELLO", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "REVISOR : MIN. CELSO DE MELLO", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "O Tribunal, por unanimidade e nos termos dos votos do Relator e do Revisor, julgou improcedente a ação e absolveu o acusado.", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade e nos termos dos votos do Relator e do Revisor", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente e votante", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cezar Peluso", "evidencia": "Presidiu o julgamento o Senhor Ministro Cezar Peluso.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "Presidência do Senhor Ministro Cezar Peluso.", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "por unanimidade [...] julgou improcedente a ação e absolveu o acusado", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presidiu o julgamento o Senhor Ministro Cezar Peluso.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presidiu a sessão", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Marco Aurélio", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor na ata", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "por unanimidade [...] julgou improcedente a ação e absolveu o acusado", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Marco Aurélio [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ellen Gracie", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor na ata", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "por unanimidade [...] julgou improcedente a ação e absolveu o acusado", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Ellen Gracie [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministra presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ayres Britto", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor na ata", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "por unanimidade [...] julgou improcedente a ação e absolveu o acusado", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Ayres Britto [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Joaquim Barbosa", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor na ata", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "por unanimidade [...] julgou improcedente a ação e absolveu o acusado", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Joaquim Barbosa [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ricardo Lewandowski", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor na ata", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "por unanimidade [...] julgou improcedente a ação e absolveu o acusado", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Ricardo Lewandowski [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cármen Lúcia", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor na ata", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "por unanimidade [...] julgou improcedente a ação e absolveu o acusado", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros [...] Cármen Lúcia [...]", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministra presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Gilmar Mendes", "evidencia": "Ausente, neste julgamento, o Senhor Ministro Gilmar Mendes.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor na ata", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Ausente, neste julgamento, o Senhor Ministro Gilmar Mendes.", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não se aplica - ministro ausente, não computado no placar unânime", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "Ausente, neste julgamento, o Senhor Ministro Gilmar Mendes.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "a ata registra apenas \"Ausente, neste julgamento, o Senhor Ministro Gilmar Mendes\", sem declarar o motivo (não há menção de impedimento, suspeição ou licença)", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "avisos": [
+    "Composição do Plenário em 16/12/2010 confirmada pela ata como 10 ministros em exercício (Celso de Mello, Marco Aurélio, Ellen Gracie, Gilmar Mendes, Cezar Peluso, Ayres Britto, Joaquim Barbosa, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli), coerente com a nota da tabela de referência de que a cadeira de Eros Grau (saído em 18/08/2010) estava vaga e Luiz Fux ainda não havia tomado posse.",
+    "Classificação de 'motivo' como 'mérito' envolveu alguma ambiguidade: a ementa fala em 'Ausência do elemento subjetivo do tipo' (questão de tipicidade/dolo), mas o próprio acórdão funda a absolvição no art. 386, inciso V, do CPP (falta de prova de que o réu concorreu para a infração penal), que é uma absolvição por insuficiência de provas quanto à autoria/dolo, não uma extinção de punibilidade nem uma preliminar processual. Optou-se por 'mérito' por ser julgamento de fundo sobre a prova de autoria e dolo; um leitor poderia razoavelmente também sustentar 'atipicidade' dado o vocabulário da ementa.",
+    "Cezar Peluso presidiu a sessão; a ata não lista seu nome na relação de 'Presentes à sessão' (que cita separadamente os demais oito), mas a presidência por ele exercida implica presença. Voto dele foi deduzido por D-004.",
+    "Não há qualquer menção a impedimento, suspeição ou licença para a ausência de Gilmar Mendes — a ata apenas registra 'ausente', sem motivo declarado.",
+    "O réu foi denunciado por dois fatos (duas contratações sem licitação) capitulados como concurso material (art. 69 do CP) do mesmo tipo penal (art. 89, caput, Lei 8.666/93); tratou-se de um único processo com resultado único (absolvição) para ambos os fatos, não dois réus.",
+    "Processo tramitou por muitos anos na Justiça Estadual do Paraná antes de vir ao STF por prerrogativa de função (diplomação do réu como Deputado Federal em 19/12/2006); o texto trata longamente dessa questão de competência, mas isso não altera o mérito final, que foi decidido em sessão única do Plenário em 16/12/2010."
+  ]
+}

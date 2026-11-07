@@ -1,0 +1,99 @@
+{
+  "id_caso": "AP-348",
+  "extraido_em": "2026-08-08",
+  "fontes_lidas": ["dados/corpus/texto/AP-348.txt"],
+  "metodo_validacao": "dupla extração independente (L2-b) — concordância total nos campos estruturados entre AP-348_A.json e AP-348_B.json, preservados em dados/derivados/casos/_dupla/",
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Dispensa/inexigibilidade de licitação (art. 89 da Lei 8.666/93) — contratação direta de advogados por notória especialização",
+      "evidencia": "DISPENSA DE LICITAÇÃO NÃO CONFIGURADA. INEXIGIBILIDADE DE LICITAÇÃO CARACTERIZADA PELA NOTÓRIA ESPECIALIZAÇÃO DOS PROFISSIONAIS CONTRATADOS, COMPROVADA NOS AUTOS, ALIADA À CONFIANÇA DA ADMINISTRAÇÃO POR ELA DESFRUTADA.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, por unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU (É ) (S) LEONEL ARCÂNGELO PAVAN",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Todo o julgamento (relatório, votos e ata) está datado de 15/12/2006, sessão única do Plenário, com uma só votação de mérito registrada.",
+      "fonte": "acordao p.25",
+      "confianca": "media"
+    },
+    "modalidade_levcovitz": {"valor": [18], "rotulos": ["Crimes previstos na Lei 8.666/93 (licitações)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-348, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"18 (Lei 8.666/93, art. 89)\"", "regra_aplicada": "inclusao_direta", "fonte": "ementa", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Leonel Arcângelo Pavan",
+        "evidencia": "RÉU (É ) (S) LEONEL ARCÂNGELO PAVAN",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Senador da República ao tempo do julgamento (o que determinou o foro no STF); Prefeito Municipal de Balneário Camboriú à época dos fatos (1997)",
+        "evidencia": "O Ministério Público do Estado de Santa Catarina ofereceu denúncia contra o Senador da República Leonel Arcângelo Pavan, então prefeito Municipal de Balneário Camboriú, dando-o como incurso no artigo 89 da Lei n. 8.666/93.",
+        "fonte": "acordao p.3",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "por unanimidade de votos, absolver o réu das imputações que lhe foram feitas, nos termos do voto do Relator.",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "a questão resulta prejudicada pelo acolhimento da tese de legalidade do ato, do que decorre atipicidade da conduta. [...] absolvo, com fundamento no artigo 386, III do Código de processo Penal, o Senador Leonel Arcângelo Pavan da acusação do crime descrito no artigo 89 da Lei n. 8.666/93.",
+        "fonte": "acordao p.17",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não há qualquer menção a prescrição como fundamento da decisão; o réu foi absolvido por atipicidade da conduta, não havendo condenação prévia nem extinção de punibilidade.",
+        "fonte": "acordao p.17",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {"artigo": "89", "diploma": "Lei 8.666/1993", "evidencia": "dando-o como incurso no artigo 89 da Lei n. 8.666/93."}
+      ],
+      "n_votantes": {
+        "valor": 9,
+        "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso de Mello, Marco Aurélio, Gilmar Mendes, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau, Ricardo Lewandowski e Cármen Lúcia [+ presidência de Ellen Gracie = 11 em exercício na sessão]; Ausentes, justificadamente, neste julgamento, os Senhores Ministros Gilmar Mendes e Carlos Britto [11 - 2 = 9].",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {"valor": 0, "evidencia": "O Tribunal, por unanimidade, absolveu o réu das imputações que lhe foram feitas.", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 9, "evidencia": "O Tribunal, por unanimidade, absolveu o réu das imputações que lhe foram feitas, nos termos do voto do Relator.", "fonte": "ata", "confianca": "alta"},
+      "unanime": {"valor": true, "evidencia": "por unanimidade de votos, absolver o réu das imputações que lhe foram feitas", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "votos": [
+    {"ministro": {"valor": "Eros Grau"}, "eh_relator": {"valor": true}, "voto_resultado": {"valor": "absolve", "evidencia": "absolvo, com fundamento no artigo 386, III do CPP, o Senador Leonel Arcângelo Pavan da acusação do crime descrito no artigo 89 da Lei n. 8.666/93.", "fonte": "acordao p.17", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Sepúlveda Pertence"}, "eh_relator": {"valor": false, "evidencia": "atuou como Revisor"}, "voto_resultado": {"valor": "absolve", "evidencia": "Também acompanho o eminente Relator e absolvo o réu.", "fonte": "acordao p.18", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Cármen Lúcia"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "Eu também absolvo, neste caso, o denunciado e incriminado.", "fonte": "acordao p.19-20", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ricardo Lewandowski"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "também acompanho o bem formulado voto do eminente Relator para absolver o réu.", "fonte": "acordao p.22", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Joaquim Barbosa"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "também julgo improcedente a ação penal para absolver o réu, nos termos do voto do eminente Relator e dos que acompanharam.", "fonte": "acordao p.23", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Marco Aurélio"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "acompanho o voto do relator, julgando improcedente o pedido formulado na denúncia.", "fonte": "acordao p.24", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Celso de Mello"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "voto individual não transcrito; deduzido por presença nominal na ata + unanimidade + ausência não declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Cezar Peluso"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "voto individual não transcrito; deduzido por presença nominal na ata + unanimidade + ausência não declarada.", "fonte": "deducao D-004", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ellen Gracie"}, "eh_relator": {"valor": false, "evidencia": "presidiu o julgamento"}, "voto_resultado": {"valor": "absolve", "evidencia": "voto individual não transcrito (presidiu a sessão); deduzido por unanimidade e ausência de registro de voto vencido/impedimento.", "fonte": "deducao D-004", "confianca": "baixa"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Gilmar Mendes"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, neste julgamento, os Senhores Ministros Gilmar Mendes e Carlos Britto.", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": true}, "motivo_ausencia": {"valor": "ausência justificada", "evidencia": "Ausentes, justificadamente, neste julgamento, os Senhores Ministros Gilmar Mendes e Carlos Britto.", "fonte": "ata", "confianca": "alta"}},
+    {"ministro": {"valor": "Carlos Britto"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, neste julgamento, os Senhores Ministros Gilmar Mendes e Carlos Britto.", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": true}, "motivo_ausencia": {"valor": "ausência justificada", "evidencia": "Ausentes, justificadamente, neste julgamento, os Senhores Ministros Gilmar Mendes e Carlos Britto.", "fonte": "ata", "confianca": "alta"}}
+  ],
+  "avisos": [
+    "Dupla extração concorde em todos os campos estruturados (resultado, motivo, n_votantes, placar, unanimidade, ausentes, votos individuais). Nenhuma divergência a escalar.",
+    "Contradição na própria ata: a lista geral 'Presentes à sessão' nomeia Gilmar Mendes e Carlos Britto, mas o parágrafo específico do julgamento os declara 'Ausentes, justificadamente, neste julgamento'. Ambas as extrações seguiram o registro específico do caso (mais autoritativo que a lista geral da sessão do dia) — n_votantes=9.",
+    "Votos de Celso de Mello, Cezar Peluso e Ellen Gracie não aparecem transcritos individualmente — deduzidos por unanimidade + presença nominal na ata (D-004), confiança media/baixa.",
+    "O Relator reclassificou a conduta de 'dispensa' para 'inexigibilidade' de licitação (art. 24 vs. 25 da Lei 8.666/93), concluindo por atipicidade — relevante para quem for comparar institutos jurídicos entre casos.",
+    "OCR ruidoso em trechos do relatório e do voto do relator; os trechos usados como evidência foram conferidos e são legíveis."
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "id_caso": "AP-503",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-503.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Ação Penal (AP) — crimes de responsabilidade de prefeitos, art. 1º, incisos IV, V e XIV, do Decreto-lei nº 201/67",
+      "evidencia": "IMPUTAÇÕES PENAIS FUNDADAS NOS INCISOS IV, V E XIV DO ART. 1º DO DECRETO-LEI Nº 201/67",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "Decisão: O Tribunal, por maioria de votos, julgou procedente a ação penal quanto ao delito previsto no inciso IV do art. 1º do Decreto-lei nº 201/67 (...); por votação unânime, julgou procedente a ação penal concernente ao crime tipificado no inciso V (...); e, também por unanimidade, julgou improcedente a ação penal e absolveu o réu quanto à conduta inscrita no inciso XIV",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU(É)(S) : CÁSSIO TANIGUCHI",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Todo o texto (relatório, votos, acórdão e extrato de ata) referencia uma única data de julgamento: 20/05/2010 TRIBUNAL PLENO. Não há menção a adiamento, pedido de vista ou prosseguimento em sessão distinta.",
+      "fonte": "acordao p.1",
+      "confianca": "media"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "CÁSSIO TANIGUCHI",
+        "evidencia": "RÉU(É)(S) : CÁSSIO TANIGUCHI",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Deputado Federal no momento do julgamento; à época dos fatos, Prefeito Municipal de Curitiba/PR (gestão 1997/2000)",
+        "evidencia": "AÇÃO PENAL ORIGINÁRIA – DENÚNCIA FORMULADA CONTRA DEPUTADO FEDERAL POR FATOS PRATICADOS NO EXERCÍCIO DE MANDATO DE PREFEITO MUNICIPAL (...); 'Trata-se de ação penal promovida contra o Deputado Federal Cássio Taniguchi, pela suposta prática dos delitos tipificados no art. 1º, incisos IV, V e XIV (...), alegadamente cometidos quando o réu exercia o mandato de Prefeito Municipal de Curitiba/PR.'",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação parcial",
+        "evidencia": "AÇÃO PENAL JULGADA PARCIALMENTE PROCEDENTE – INCIDÊNCIA DO ART. 107, IV, DO CP. (ementa); no dispositivo: condenação nos incisos IV e V do art. 1º do DL 201/67 e absolvição quanto ao inciso XIV.",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "prescrição",
+        "evidencia": "O Tribunal, por maioria, vencido o Presidente, declarou extinta a pretensão punitiva do Estado, pela consumação da prescrição penal, com base no art. 109, inciso VI, c/c o art. 110, § 1º, e o art. 119, todos do Código Penal, na redação anterior à Lei nº 12.234, de 05/05/2010.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": true,
+        "evidencia": "Passando à dosimetria penal, o Tribunal, por maioria, condenou o réu à pena de 03 (três) meses de detenção, pela prática do delito previsto no inciso IV, e à pena de 03 (três) meses de detenção, pelo cometimento do crime tipificado no inciso V (...). O Tribunal, por maioria, vencido o Presidente, declarou extinta a pretensão punitiva do Estado, pela consumação da prescrição penal (...)",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 1º, inciso IV",
+          "diploma": "Decreto-lei nº 201/67",
+          "evidencia": "EMPREGO DE RECURSOS EM DESACORDO COM O PROGRAMA A QUE SE DESTINAVAM (DL Nº 201/67, ART. 1º, INCISO IV) (...) por maioria de votos, em julgar procedente a ação penal quanto ao delito previsto no inciso IV do art. 1º do Decreto-lei nº 201/67, vencido, no ponto, o Senhor Ministro Marco Aurélio (Revisor), que a julgava improcedente",
+          "resultado_inciso": "Condenação, por maioria (6x1), vencido Marco Aurélio (absolvia)"
+        },
+        {
+          "artigo": "art. 1º, inciso V",
+          "diploma": "Decreto-lei nº 201/67",
+          "evidencia": "EFETIVAÇÃO DE DESPESAS NÃO AUTORIZADAS POR LEI E EM DESACORDO COM NORMAS DE DIREITO FINANCEIRO (DL Nº 201/67, ART. 1º, INCISO V) (...) por unanimidade de votos, em julgar procedente a ação penal concernente ao crime tipificado no inciso V do art. 1º do Decreto-lei nº 201/67",
+          "resultado_inciso": "Condenação, unânime (7x0)"
+        },
+        {
+          "artigo": "art. 1º, inciso XIV",
+          "diploma": "Decreto-lei nº 201/67",
+          "evidencia": "ABSOLVIÇÃO QUANTO AO DESCUMPRIMENTO DE ORDEM JUDICIAL, POR ATIPICIDADE DA CONDUTA (...) e, também por unanimidade, em julgar improcedente a ação penal e absolver o réu quanto à conduta inscrita no inciso XIV do art. 1º do Decreto-lei nº 201/67",
+          "resultado_inciso": "Absolvição por atipicidade, unânime (0x7)"
+        }
+      ],
+      "n_votantes": {
+        "valor": 7,
+        "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Eros Grau, Ricardo Lewandowski, Cármen Lúcia e Dias Toffoli (...) Presidiu o julgamento o Senhor Ministro Ayres Britto (Vice-Presidente).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 6,
+        "evidencia": "Refere-se especificamente à votação do inciso IV (a única com divergência): por maioria de votos, vencido apenas o Ministro Marco Aurélio. Ver `crimes` para os placares dos incisos V (7x0 condenação) e XIV (0x7 absolvição), que diferem deste número.",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "votos_absolvicao": {
+        "valor": 1,
+        "evidencia": "vencido, no ponto, o Senhor Ministro Marco Aurélio (Revisor), que a julgava improcedente [refere-se ao inciso IV]. Ver `crimes` para os demais incisos.",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "O inciso IV foi decidido por maioria (vencido Marco Aurélio), enquanto os incisos V e XIV foram unânimes. Como o caso como um todo não foi unânime, o campo foi marcado false.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": true,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "Voto relativo ao inciso IV (único com divergência); Relator, não citado como vencido, logo vota com a maioria.",
+      "fonte": "deducao D-004"
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "Revisor. Vencido quanto ao inciso IV: julgava improcedente.",
+      "evidencia": "vencido, no ponto, o Senhor Ministro Marco Aurélio (Revisor), que a julgava improcedente",
+      "fonte": "ata"
+    },
+    {
+      "ministro": "Ayres Britto",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "Presidiu o julgamento como Vice-Presidente (Presidente titular Cezar Peluso ausente). Não consta como vencido quanto ao inciso IV (foi vencido apenas quanto à dosimetria da pena e à declaração de prescrição, questões distintas do mérito condenatório/absolutório).",
+      "fonte": "deducao D-004"
+    },
+    {
+      "ministro": "Eros Grau",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "deducao D-004"
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "Voto individual localizado no texto: 'Acompanho o eminente Relator' (quanto ao inciso IV), confirmando a dedução. Foi vencido apenas quanto à dosimetria da pena (queria 4 meses e 15 dias por crime), não quanto ao mérito condenatório.",
+      "fonte": "acordao p.2148"
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "Não vencida quanto ao mérito do inciso IV; vencida apenas quanto à dosimetria da pena.",
+      "fonte": "deducao D-004"
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "fonte": "deducao D-004"
+    },
+    {
+      "ministro": "Cezar Peluso",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "em representação do Tribunal na Primeira Assembléia da Conferência das Jurisdições Constitucionais dos Países de Língua Portuguesa, em Portugal",
+      "evidencia": "Ausentes o Senhor Ministro Cezar Peluso (Presidente), em representação do Tribunal na Primeira Assembléia da Conferência das Jurisdições Constitucionais dos Países de Língua Portuguesa, em Portugal",
+      "fonte": "ata"
+    },
+    {
+      "ministro": "Ellen Gracie",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "convidada pelo Escritório Econômico e Comercial da Embaixada da China no Brasil para participação na Exposição Universal – World Expo 2010, em Shangai",
+      "evidencia": "a Senhora Ministra Ellen Gracie, convidada pelo Escritório Econômico e Comercial da Embaixada da China no Brasil para participação na Exposição Universal – World Expo 2010, em Shangai",
+      "fonte": "ata"
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "acompanhando o Presidente",
+      "evidencia": "o Senhor Ministro Gilmar Mendes, acompanhando o Presidente",
+      "fonte": "ata"
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "licenciado",
+      "evidencia": "o Senhor Ministro Joaquim Barbosa, licenciado",
+      "fonte": "ata"
+    }
+  ],
+  "avisos": [
+    "O caso apresenta TRÊS resultados distintos por inciso do DL 201/67, imputados ao mesmo réu: inciso IV (condenação, por maioria 6x1, vencido Marco Aurélio), inciso V (condenação, unânime 7x0) e inciso XIV (absolvição por atipicidade, unânime 0x7). O campo `resultado` do réu foi preenchido como 'Condenação parcial', espelhando a própria ementa ('AÇÃO PENAL JULGADA PARCIALMENTE PROCEDENTE'). Não misturar os três desfechos: eles estão detalhados individualmente em `crimes[].resultado_inciso`.",
+    "Os campos votos_condenacao=6/votos_absolvicao=1/unanime=false no nível do réu refletem SOMENTE a votação do inciso IV, por ser a única com divergência de mérito (a mais informativa para a pergunta de pesquisa sobre estabilidade decisória). Os incisos V e XIV tiveram placares diferentes (7x0 e 0x7, ambos unânimes) — ver `crimes`.",
+    "Conforme a regra D-018, apesar de haver condenação de mérito nos incisos IV e V, o campo `motivo` do réu foi preenchido como 'prescrição' (não 'mérito'), porque o Tribunal, na mesma sessão, após condenar (3 meses de detenção por inciso, total 6 meses), declarou extinta a punibilidade por prescrição retroativa (CP art. 109, VI c/c 110 §1º c/c 119, redação anterior à Lei 12.234/2010). `prescricao_pos_condenacao` = true.",
+    "Na dosimetria da pena (etapa distinta da definição de condenação/absolvição), houve divergência quanto ao QUANTUM: a maioria fixou 3 meses de detenção para cada um dos incisos IV e V; ficaram vencidos, nesse ponto específico, os Ministros Ricardo Lewandowski e Cármen Lúcia (queriam 4 meses e 15 dias por crime) e o Ministro Ayres Britto, presidente da sessão (queria 2 anos e 2 meses). Essa divergência de pena NÃO foi contabilizada nos placares de condenação/absolvição do campo `votos`.",
+    "'O Presidente' citado como vencido na dosimetria e na declaração de prescrição refere-se ao Ministro Ayres Britto, que presidiu a sessão como Vice-Presidente na ausência do Presidente titular, Ministro Cezar Peluso — confirmado pela ata ('Presidiu o julgamento o Senhor Ministro Ayres Britto (Vice-Presidente)') e pelo acórdão ('sob a Presidência do Ministro Ayres Britto (RISTF, art. 37, I)'). Não há divergência com a tabela de composição de referência fornecida quanto a quem estava em exercício em 20/05/2010 — os 11 ministros da tabela estavam todos em exercício nessa data; a ata apenas nomeia os 7 presentes e os 4 ausentes desta sessão específica.",
+    "A denúncia original imputava o inciso XIV por 'cinco vezes' (cinco precatórios distintos não pagos), em concurso. O acórdão, contudo, trata a conduta do inciso XIV como um resultado único e consolidado de absolvição por atipicidade (decisão genérica sobre a natureza administrativa, não jurisdicional, do ato de processamento de precatórios pela Presidência do TJ), sem individualizar votos separados para cada um dos cinco precatórios. Não foi possível extrair 5 resultados distintos dentro do próprio inciso XIV a partir do texto disponível."
+  ]
+}

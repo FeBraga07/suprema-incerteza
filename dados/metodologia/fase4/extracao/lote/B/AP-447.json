@@ -1,0 +1,1857 @@
+{
+  "id_caso": "AP-447",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-102 (todas)",
+  "unidades": [
+    {
+      "id_unidade": "AP-447-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Ayres Britto",
+        "evidencia": "Também por maioria de votos, acordam em absolver os réus, o que fazem nos termos do voto do Relator, vencidos os Ministros Joaquim Barbosa (revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+        "fonte": "p. 2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Instrução criminal que não evidenciou o especial fim de agir a que os denunciados supostamente cederam. Elemento essencial cuja ausência impede o reconhecimento do tipo incriminador em causa.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "A configuração do crime de prevaricação requer a demonstração não só da vontade livre e consciente de deixar de praticar ato de ofício, como também do elemento subjetivo específico do tipo, qual seja, a vontade de satisfazer \"interesse\" ou \"sentimento pessoal\".",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Ora bem, mas que exato interesse pessoal motivou os acusados a tentar encobrir as infrações de trânsito da sua própria administração?",
+            "fonte": "p. 23"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Instrução criminal que não evidenciou o especial fim de agir a que os denunciados supostamente cederam.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "especifico",
+            "evidencia": "é necessária a demonstração não só da vontade livre e consciente do agente em retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, como também a de demonstrar o elemento subjetivo específico do tipo, qual seja, vontade de satisfazer \"interesse\" ou \"sentimento pessoal\".",
+            "fonte": "p. 21-22",
+            "confianca": "alta"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "dei pela insuficiência da prova judicialmente produzida, isso para absolver ambos os réus, seja pelo crime de prevaricação, seja por essa imputação, seja pelo delito de responsabilidade",
+                "fonte": "p. 52",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por outro ângulo de visada, entendo que a instrução criminal não evidenciou o especial fim de agir a que os denunciados supostamente cederam.",
+                "fonte": "p. 23",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "entendi que o elemento subjetivo do tipo \"prevaricação\" não estava presente porque não se demonstrou ganho pessoal, vantagem pessoal, interesse pessoal, de nenhum modo, por parte dos dois denunciados.",
+                "fonte": "p. 53",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Exige demonstração precisa do proveito, ganho ou vantagem, não necessariamente econômica (p. 23); a conduta sinalizaria apenas improbidade (p. 23-24).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Para mim, não houve crime de prevaricação",
+                "fonte": "p. 45",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Todavia, tais hipóteses não passam de especulações ou, no máximo, presunções, que sequer constam da denúncia.",
+                "fonte": "p. 47",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "acompanho o eminente relator no que diz respeito especificamente à conclusão de que não restou demonstrado o dolo específico exigido pelo art. 319 do Código Penal, consistente na vontade de \"satisfazer interesse ou sentimento pessoal\".",
+                "fonte": "p. 48",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Examina e descarta hipóteses de interesse pessoal (ônus político, ônus financeiro, art. 230, II, CTB) por falta de prova (p. 47-48).",
+              "fundamento_proprio": "Também afasta a prevaricação por enquadramento só no tipo especial: \"os fatos aqui apreciados se enquadram melhor (e apenas) na descrição do inciso XIV do art. 1º do Decreto-lei 201/1967, não havendo que se falar em concurso formal.\" (p. 45). O exame do dolo vem \"mesmo que se tenha como aplicável, no caso, a regra do art. 70 do Código Penal (concurso formal)\" (p. 46)."
+            },
+            {
+              "ministro": "Menezes Direito",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "tenho a sensação muito nítida de que não existe tipificação, porque carece do elemento essencial",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "No que concerne ao segundo ponto, com o crime de prevaricação, tenho a sensação muito nítida de que não existe tipificação, porque carece do elemento essencial, como foi demonstrado tanto pelo eminente Relator quanto pelo eminente Ministro Revisor",
+                "fonte": "p. 61",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não existe tipificação, porque carece do elemento essencial",
+                "fonte": "p. 61",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Não nomeia o dolo; \"elemento essencial\" remete à expressão do Relator sobre o especial fim de agir (p. 23: \"Elemento essencial, esse, cuja ausência impede o reconhecimento do crime de prevaricação\").",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Quanto à prevaricação, estamos todos de acordo, pelo menos os que se manifestaram até agora",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Quanto à prevaricação, estamos todos de acordo, pelo menos os que se manifestaram até agora",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Quanto à prevaricação, estamos todos de acordo, pelo menos os que se manifestaram até agora",
+                "fonte": "p. 63",
+                "confianca": "media",
+                "inferida_de": "Ayres Britto (e demais que se manifestaram, todos pela ausência do elemento subjetivo)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "para acompanhar o Relator em todos os seus aspectos, não apenas para descaracterizar o crime de prevaricação",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "para acompanhar o Relator em todos os seus aspectos, não apenas para descaracterizar o crime de prevaricação",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "para acompanhar o Relator em todos os seus aspectos, não apenas para descaracterizar o crime de prevaricação",
+                "fonte": "p. 66",
+                "confianca": "media",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Vou pedir vênia \"ao Ministro Carlos Brito e, no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "baixa",
+                "inferida_de": "Ayres Britto e Joaquim Barbosa (ambos negaram o dolo específico; a divergência de Eros Grau se restringe ao crime de responsabilidade)"
+              },
+              "posicao_detalhe": "Não há manifestação expressa sobre a prevaricação; adesão inferida da delimitação da divergência ao crime de responsabilidade.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Esse, sim, ficou em dúvida, donde não quis ser mais rigoroso com o réu a respeito",
+                "fonte": "p. 81",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "eu também vou pedir vênia ao eminente Relator e aos votos que o seguiram para acompanhar o eminente Revisor.",
+                "fonte": "p. 73",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "estamos recorrendo a outro tipo, porque ficou pequena dúvida sobre o crime mais grave que teria sido cometido, que é o de prevaricação!",
+                "fonte": "p. 81",
+                "confianca": "media",
+                "inferida_de": "Joaquim Barbosa"
+              },
+              "posicao_detalhe": "Em debate (p. 81-82) declara dúvida sobre a prevaricação sem nomear o elemento faltante; menciona \"deixar de cumprir a lei, para atender a sentimento de caráter pessoal, provavelmente ligado à sua administração\".",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Presidente, afasto a prevaricação, mas o faço pela especialidade, pela incidência da norma especial",
+                "fonte": "p. 85",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "afasto a prevaricação, mas o faço pela especialidade, pela incidência da norma especial, no caso - O Decreto-Lei n° 201/67.",
+                "fonte": "p. 85",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "afasto a prevaricação, mas o faço pela especialidade, pela incidência da norma especial",
+                "fonte": "p. 85",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "Especialidade (conflito aparente de normas): o fato se enquadra na norma especial do art. 1º, XIV, do DL 201/67, o que afasta o art. 319 do CP (p. 85)."
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "baixa",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": "Sem voto escrito no acórdão; contado na maioria pela ata (não listado entre os vencidos).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "media",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Ayres Britto",
+          "tipo": "precedente_citado",
+          "referencia": "HC 81.504, da relatoria do ministro Ilmar Galvão",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Tenho que a diretriz adotada no precedente se ajusta ao caso destes autos.",
+          "fonte": "p. 22"
+        }
+      ],
+      "obs": "Banco registra os votos por réu, sem separar fato: Joaquim Barbosa, Eros Grau, Cezar Peluso e Marco Aurélio como Condena. No texto, quanto à prevaricação, todos absolvem (a divergência é só no crime de responsabilidade: JB p. 45, 51; Eros p. 72; Peluso p. 81; MA p. 85). Divergência registrada, não corrigida. Ellen Gracie (banco: Não votou) ausente em 18/02/2009 (ata p. 102): não incluída entre os votantes. Celso de Mello sem voto escrito; posição inferida da ata (p. 102)."
+    },
+    {
+      "id_unidade": "AP-447-R01-I02",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Ayres Britto",
+        "evidencia": "Também por maioria de votos, acordam em absolver os réus, o que fazem nos termos do voto do Relator, vencidos os Ministros Joaquim Barbosa (revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+        "fonte": "p. 2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "dou pela ausência de prova suficiente quanto à autoria do Crime de Responsabilidade, afinal imputado ao Deputado Sérgio Ivan Moraes.",
+            "fonte": "p. 27",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O SENHOR MINISTRO GILMAR MENDES (PRESIDENTE) - Desde que houvesse prova que a ordem partiu do Prefeito. O SENHOR MINISTRO CEZAR PELUSO - Mas os fiscais todos confirmaram o que a Secretária disse.",
+            "fonte": "p. 82",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Daí porque discordo do Ministério Público Federal e dou pela ausência de prova suficiente quanto à autoria do Crime de Responsabilidade, afinal imputado ao Deputado Sérgio Ivan Moraes.",
+            "fonte": "p. 27"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Os depoimentos judicialmente colhidos não evidenciaram ordem pessoal do Prefeito de não-autuação dos veículos oficiais do Município de Santa Cruz do Sul/RS. A mera subordinação hierárquica dos secretários municipais não pode significar a automática responsabilização criminal do Prefeito.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "a denunciada Maria Neli Groff da Silva, a mando do denunciado Sérgio Ivan Moraes, determinou aos fiscais municipais de trânsito",
+            "fonte": "p. 50",
+            "confianca": "media"
+          },
+          "posicoes": [
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "absolvo por falta de provas os acusados Sérgio Ivan Moraes e Maria Neli Groff da Silva. O que faço com apoio no inciso VII do artigo 386 do Código de Processo Penal.",
+                "fonte": "p. 58",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "não se pode presumir a responsabilidade criminal do Prefeito, simplesmente com apoio na indicação de terceiros — por um \"ouvir dizer\" das testemunhas -; sabido que o nosso sistema jurídico penal não admite a culpa objetiva por presunção.",
+                "fonte": "p. 27",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Daí porque discordo do Ministério Público Federal e dou pela ausência de prova suficiente quanto à autoria do Crime de Responsabilidade, afinal imputado ao Deputado Sérgio Ivan Moraes.",
+                "fonte": "p. 27",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Seis de oito depoimentos negam ordem direta e expressa do Prefeito (p. 26); referências ao Prefeito são \"sempre por remissão\" à fala da Secretária (p. 76).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "voto pela condenação de Sergio Ivan Moraes e Maria Neli Groff da Silva nas penas previstas para o crime definido no art. , XIV, do Decreto-lei n° 201/1967.",
+                "fonte": "p. 51",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "A comprovar, especificamente, que essas ordens ilegais partiram do réu Sérgio Ivan, há a gravação ambiente (fls. 147-164), as declarações de fls. 167, os testemunhos supratranscritos",
+                "fonte": "p. 44",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "levam à conclusão inequívoca de que a denunciada Maria Neli Groff da Silva, a mando do denunciado Sérgio Ivan Moraes, determinou aos fiscais municipais de trânsito que não lavrassem auto de infração de veículos oficiais do Município.",
+                "fonte": "p. 50",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Rebate o memorial da promotoria na ação de improbidade: o comum é o subordinado assumir sozinho a culpa do superior, e não o contrário (p. 45).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Menezes Direito",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "acompanhar o voto do eminente Ministro Relator igualmente na sua conclusão, quanto à absolvicão de ambos os réus desta acão.",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "a prova testemunhal em que se apoiou o Ministério Público, a meu ver, é frágil. E frágil por uma razão muito simples: é que não se pode presumir por indicação de terceiro a existência dessa ordem direta",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não se pode presumir por indicação de terceiro a existência dessa ordem direta, porque essa presunção pode levar o administrador a uma responsabilização objetiva que o nosso Direito desconhece.",
+                "fonte": "p. 61",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Desqualifica a gravação ambiental por falta de perícia e degravação imprecisa (p. 60-61), o que enfraquece a prova testemunhal restante.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "razão pela qual acompanho, com as vênias do Ministro Joaquim Barbosa, o voto do Ministro-Relator",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "ficaria quanto ao crime de responsabilidade, para o que seria realmente necessária a perfeita identificação e comprovação de que houve, neste caso, um atuar do Prefeito, no sentido de negar aplicação da lei.",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não vejo provas suficientes, tal como posto no inciso VI do artigo 386 do Código de Processo Penal, para uma condenação",
+                "fonte": "p. 63",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Gravação sem perícia e com trechos \"inaudível\"; \"embora até haja um início de prova\" (p. 62-63). Cita o inciso VI do art. 386, mas a linguagem é de insuficiência de prova.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "como também assentar que não há provas suficientes para incriminar o prefeito no que tange ao artigo 1°, inciso XIV, do Decreto-Lei n° 201, assim como a solução que deu com relação à Secretária de Transportes, ou seja, a falta de tipificação.",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "a referência ao prefeito é sempre muito vaga, muito indireta",
+                "fonte": "p. 65",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "como também assentar que não há provas suficientes para incriminar o prefeito no que tange ao artigo 1°, inciso XIV, do Decreto-Lei n° 201",
+                "fonte": "p. 66",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Na gravação, a única alusão ao Prefeito é um trecho curto e lacunoso (p. 65).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Acompanhei | voto do Ministro Joaquim Barbosa nessa circunstancia e mais aquela outra, que foi a da página 167.",
+                "fonte": "p. 72",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "media",
+                "inferida_de": "Joaquim Barbosa"
+              },
+              "posicao_detalhe": "Diz que a declaração de Maria Neli ao MP (fls. 167, em que afirma que o Prefeito tinha conhecimento da ordem e a chancelava) é \"fundamental\" (p. 67); fundamentação própria mínima.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Por essas razões, Senhor Presidente, peço vênia ao eminente Relator e aos demais votos que o acompanharam, para aderir ao voto do Revisor.",
+                "fonte": "p. 78",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Se ela se referiu ao Prefeito, no teor do depoimento dos fiscais, é porque, de fato, teria recebido a ordem do Prefeito.",
+                "fonte": "p. 77",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "o conjunto do depoimento dos fiscais confirmando gravação lícita, só deixa claro que a ordem partiu da Secretária com expressa autorização do Prefeito.",
+                "fonte": "p. 78",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "\"Um único depoimento é suficiente, desde que seja convincente\" (p. 77-78); a falta de perícia é irrelevante porque os fiscais confirmaram o teor em juízo (p. 75).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Peço vênia ao relator e aos demais ministros que o acompanharam para assentar que está configurado o crime e demonstrada a culpa",
+                "fonte": "p. 88",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Quer dizer, a celeuma ganhou diapasão maior a tevelar que o fato, a veiculação da determinação não poderia ser estranha ao Prefeito.",
+                "fonte": "p. 87",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "e demonstrada, pelos depoimentos colhidos em Juízo, a culpa do próprio Prefeito.",
+                "fonte": "p. 88",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Considera a gravação ilícita e não se vale dela (p. 85; p. 94: \"Para concluir pela condenação, não me valho da gravação\"); apoia-se nos depoimentos judiciais.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "baixa",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": "Sem voto escrito; intervenção em debate: \"É muito precária essa prova.\" (p. 96).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Em geral, a prova testemunhal, aqui, terá que ser cruzada com outras provas, terá que ser alicerçada em outras provas sob pena de se conseguir, daqui a pouco, condenações decorrentes de um tipo de resolução plebiscitária",
+                "fonte": "p. 90",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Desde que houvesse prova que a ordem partiu do Prefeito.",
+                "fonte": "p. 82",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Também aponta precariedade da gravação (p. 90), o caráter aberto do tipo do inciso XIV e diz que \"teria que se provar, de fato, o dolo para a prática do delito\" (p. 92), sem desenvolver.",
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "Falta de uma precisa comprovação que impede dar pela materialidade do crime do inciso XIV do art. 1º do Decreto-Lei n° 201/67.",
+            "fonte": "p. 26",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": {
+            "valor": "Há comprovação de que a conduta imputada configurou negativa de execução de lei federal (materialidade do tipo do art. 1º, XIV, do DL 201/67)?",
+            "evidencia": "mera juntada aos autos de diversos talonários de infrações de trânsito não basta para evidenciar que houve negativa de execução da Lei 9.503/97.",
+            "fonte": "p. 25",
+            "confianca": "media"
+          },
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "Em primeiro lugar, anoto que mera juntada aos autos de diversos talonários de infrações de trânsito não basta para evidenciar que houve negativa de execução da Lei 9.503/97.",
+            "fonte": "p. 25",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "mera juntada aos autos de diversos talonários de infrações de trânsito não basta para evidenciar que houve negativa de execução da Lei 9.503/97.",
+            "fonte": "p. 25"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Falta de uma precisa comprovação que impede dar pela materialidade do crime do inciso XIV do art. 1º do Decreto-Lei n° 201/67.",
+            "fonte": "p. 26",
+            "confianca": "media"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "absolvo por falta de provas os acusados Sérgio Ivan Moraes e Maria Neli Groff da Silva. O que faço com apoio no inciso VII do artigo 386 do Código de Processo Penal.",
+                "fonte": "p. 58",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Aqui, faltou ao órgão acusatório demonstrar, com dados empíricos concretos, que as autuações lavradas pelos servidores efetivamente não foram Lançadas sistema informatizado do DETRAN.",
+                "fonte": "p. 25-26",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Falta de uma precisa comprovação que impede dar pela materialidade do crime do inciso XIV do art. 1º do Decreto-Lei n° 201/67.",
+                "fonte": "p. 26",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Fundamento aberto com \"Em primeiro lugar\" (p. 25); na confirmação do voto em 18/02 (p. 52-58) não é retomado, e a leitura se concentra na autoria.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "voto pela condenação de Sergio Ivan Moraes e Maria Neli Groff da Silva nas penas previstas para o crime definido no art. , XIV, do Decreto-lei n° 201/1967.",
+                "fonte": "p. 51",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Mesmo que se admita (apenas por hipótese, tendo vista o testemunho de José Ângelo Henrique Gass) não demonstração do primeiro fato, impõe reconhecer-se que não qualquer dúvida quanto à ocorrência do segundo.",
+                "fonte": "p. 49",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Ora, determinar que fiscais municipais de trânsito não autuem as infrações observadas em veículos oficiais do Município é negar execução a lei federal, no caso o Código de Trânsito Brasileiro",
+                "fonte": "p. 50",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Concorda com o Relator que os talonários não provam o não-lançamento (p. 48), mas considera provada a ordem de não lavrar autos de infração (segundo fato).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Menezes Direito",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "acompanhar o voto do eminente Ministro Relator igualmente na sua conclusão, quanto à absolvicão de ambos os réus desta acão.",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "não se pode presumir por indicação de terceiro a existência dessa ordem direta",
+                "fonte": "p. 61",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "não se pode presumir por indicação de terceiro a existência dessa ordem direta",
+                "fonte": "p. 61",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "concorreu: falta prova de que a ordem partiu do Prefeito (p. 61)."
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "razão pela qual acompanho, com as vênias do Ministro Joaquim Barbosa, o voto do Ministro-Relator",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "seria realmente necessária a perfeita identificação e comprovação de que houve, neste caso, um atuar do Prefeito, no sentido de negar aplicação da lei.",
+                "fonte": "p. 63",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "seria realmente necessária a perfeita identificação e comprovação de que houve, neste caso, um atuar do Prefeito",
+                "fonte": "p. 63",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "concorreu: falta comprovação de um atuar do Prefeito (p. 63)."
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "como também assentar que não há provas suficientes para incriminar o prefeito no que tange ao artigo 1°, inciso XIV, do Decreto-Lei n° 201, assim como a solução que deu com relação à Secretária de Transportes, ou seja, a falta de tipificação.",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "em nenhum momento eu vi uma determinação expressa do Prefeito, mesmo da Secretária, no sentido de que não se cumpra o Código Brasileiro de Trânsito.",
+                "fonte": "p. 78",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Portanto, aqui o crime consiste em negar execução, mas negar completamente é dizer: não cumpram o Código de Irânsito. Eu, data venia, não vi esta ordem defluir dos autos.",
+                "fonte": "p. 79",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Manifestação em aparte após o voto de Peluso (p. 78-79); sugere que a instrução da Secretária pode ter sido pedagógica (p. 79). No voto, acompanha o Relator \"em todos os seus aspectos\" (p. 66).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "baixa",
+                "inferida_de": "Joaquim Barbosa"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Por essas razões, Senhor Presidente, peço vênia ao eminente Relator e aos demais votos que o acompanharam, para aderir ao voto do Revisor.",
+                "fonte": "p. 78",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Mas veja, se a ordem fosse nesse sentido, não de um descumprimento, como me parece, com o devido respeito, ter ocorrido, mas, se fosse uma recomendação",
+                "fonte": "p. 79",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Se os fiscais tomaram a providência de gravar a conversa, é porque tal conversa lhes era suspeita, ou seja, ela estava determinando providência que eles, como fiscais, sabiam que era contrária à lei.",
+                "fonte": "p. 80",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Responde ao aparte de Lewandowski distinguindo recomendação educativa geral de ordem dirigida só aos veículos da prefeitura (p. 80).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Peço vênia ao relator e aos demais ministros que o acompanharam para assentar que está configurado o crime e demonstrada a culpa",
+                "fonte": "p. 88",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "E falta de observação, repito, não em um episódio isolado, mas de forma genérica durante dois anos: 2003 e 2004.",
+                "fonte": "p. 86",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "configurado o tipo do inciso XIV do artigo 1º do Decreto-Lei n° 201/67",
+                "fonte": "p. 88",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Em aparte a Gilmar Mendes: \"Há descumprimento e descumprimento de lei federal\" (p. 91).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "baixa",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Desde que houvesse prova que a ordem partiu do Prefeito.",
+                "fonte": "p. 82",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "esse tipo do inciso XIV, descumprir lei federal - o Ministro Carlos Britto chama a atenção, o Ministro Ricardo Lewandowski, também - é, na verdade, um tipo penal que permite englobar praticamente todas as condutas.",
+                "fonte": "p. 91",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Discute a abertura do tipo (p. 80-81, p. 91-92), mas não responde se a conduta comprovada configura negativa de execução.",
+              "fundamento_proprio": "concorreu: falta prova de que a ordem partiu do Prefeito (p. 82); prova testemunhal de \"ouvir dizer\" exige corroboração (p. 90)."
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Joaquim Barbosa",
+          "tipo": "precedente_citado",
+          "referencia": "AI 503.617-AgR, rel. min. Carlos Velloso, DJ 4.3.2005",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "como a gravação ambiente foi feita por interlocutores da reunião, não há ilicitude a ser declarada, conforme já afirmou Supremo Tribunal Federal, em diversos precedentes [preliminar de licitude da gravação]",
+          "fonte": "p. 35"
+        },
+        {
+          "ministro": "Joaquim Barbosa",
+          "tipo": "precedente_citado",
+          "referencia": "RE 402.035-AgR, rel. min. Ellen Gracie, DJ 6.2.2004",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Gravação de conversa. A gravação feita por um dos interlocutores, sem conhecimento do outro, nada tem de ilicitude, principalmente quando destinada a documentá-la em caso de negativa. [preliminar de licitude da gravação]",
+          "fonte": "p. 35"
+        },
+        {
+          "ministro": "Joaquim Barbosa",
+          "tipo": "precedente_citado",
+          "referencia": "HC 87.341, rel. min. Eros Grau, DJ 7.2.2006",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "(HC 87.341, rel. min. Eros Grau, DJ 7.2.2006). [citado entre os precedentes da licitude da gravação ambiente]",
+          "fonte": "p. 36"
+        },
+        {
+          "ministro": "Ricardo Lewandowski",
+          "tipo": "precedente_citado",
+          "referencia": "RE n° 402.717, de relatoria do eminente Ministro Cezar Peluso (Segunda Turma)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "a Segunda Turma desta Corte, no RE n° 402.717, de relatoria do eminente Ministro Cezar Peluso, já assentou que a gravação de conversa por um dos interlocutores sem o conhecimento de outro constitui prova clandestina, mas não prova ilícita",
+          "fonte": "p. 64"
+        },
+        {
+          "ministro": "Cezar Peluso",
+          "tipo": "precedente_citado",
+          "referencia": "decisão unânime da Segunda Turma (a mesma referida por Lewandowski, RE 402.717)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "o eminente Ministro Ricardo Lewandowski fez referência a uma decisão unânime da Segunda Turma, onde - aliás, à vista, não apenas da doutrina, mas também da jurisprudência do Tribunal - ficou acentuado que a gravação de conversa entre os interlocutores, por um deles conhecimento do outro ou dos outros, pode ser classificada como clandestina",
+          "fonte": "p. 73"
+        }
+      ],
+      "obs": "Votos lidos coincidem com o banco. Ellen Gracie ausente em 18/02/2009 (ata p. 102): não incluída. Celso de Mello sem voto escrito; contado na maioria pela ata (p. 102). Acórdão e ementa (p. 2) atribuem a absolvição ao inciso VII do art. 386 do CPP. Os precedentes listados referem-se à preliminar/primeira deliberação sobre a licitude da gravação ambiental (comum às unidades do DL 201/67)."
+    },
+    {
+      "id_unidade": "AP-447-R02-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Ayres Britto",
+        "evidencia": "Também por maioria de votos, acordam em absolver os réus, o que fazem nos termos do voto do Relator, vencidos os Ministros Joaquim Barbosa (revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+        "fonte": "p. 2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Instrução criminal que não evidenciou o especial fim de agir a que os denunciados supostamente cederam. Elemento essencial cuja ausência impede o reconhecimento do tipo incriminador em causa.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "A configuração do crime de prevaricação requer a demonstração não só da vontade livre e consciente de deixar de praticar ato de ofício, como também do elemento subjetivo específico do tipo, qual seja, a vontade de satisfazer \"interesse\" ou \"sentimento pessoal\".",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Ora bem, mas que exato interesse pessoal motivou os acusados a tentar encobrir as infrações de trânsito da sua própria administração?",
+            "fonte": "p. 23"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Instrução criminal que não evidenciou o especial fim de agir a que os denunciados supostamente cederam.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "especifico",
+            "evidencia": "é necessária a demonstração não só da vontade livre e consciente do agente em retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, como também a de demonstrar o elemento subjetivo específico do tipo, qual seja, vontade de satisfazer \"interesse\" ou \"sentimento pessoal\".",
+            "fonte": "p. 21-22",
+            "confianca": "alta"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "dei pela insuficiência da prova judicialmente produzida, isso para absolver ambos os réus, seja pelo crime de prevaricação, seja por essa imputação, seja pelo delito de responsabilidade",
+                "fonte": "p. 52",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por outro ângulo de visada, entendo que a instrução criminal não evidenciou o especial fim de agir a que os denunciados supostamente cederam.",
+                "fonte": "p. 23",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "entendi que o elemento subjetivo do tipo \"prevaricação\" não estava presente porque não se demonstrou ganho pessoal, vantagem pessoal, interesse pessoal, de nenhum modo, por parte dos dois denunciados.",
+                "fonte": "p. 53",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Exige demonstração precisa do proveito, ganho ou vantagem, não necessariamente econômica (p. 23); a conduta sinalizaria apenas improbidade (p. 23-24).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Para mim, não houve crime de prevaricação",
+                "fonte": "p. 45",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Todavia, tais hipóteses não passam de especulações ou, no máximo, presunções, que sequer constam da denúncia.",
+                "fonte": "p. 47",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "acompanho o eminente relator no que diz respeito especificamente à conclusão de que não restou demonstrado o dolo específico exigido pelo art. 319 do Código Penal, consistente na vontade de \"satisfazer interesse ou sentimento pessoal\".",
+                "fonte": "p. 48",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Examina e descarta hipóteses de interesse pessoal (ônus político, ônus financeiro, art. 230, II, CTB) por falta de prova (p. 47-48).",
+              "fundamento_proprio": "Também afasta a prevaricação por enquadramento só no tipo especial: \"os fatos aqui apreciados se enquadram melhor (e apenas) na descrição do inciso XIV do art. 1º do Decreto-lei 201/1967, não havendo que se falar em concurso formal.\" (p. 45). O exame do dolo vem \"mesmo que se tenha como aplicável, no caso, a regra do art. 70 do Código Penal (concurso formal)\" (p. 46)."
+            },
+            {
+              "ministro": "Menezes Direito",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "tenho a sensação muito nítida de que não existe tipificação, porque carece do elemento essencial",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "No que concerne ao segundo ponto, com o crime de prevaricação, tenho a sensação muito nítida de que não existe tipificação, porque carece do elemento essencial, como foi demonstrado tanto pelo eminente Relator quanto pelo eminente Ministro Revisor",
+                "fonte": "p. 61",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "não existe tipificação, porque carece do elemento essencial",
+                "fonte": "p. 61",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Não nomeia o dolo; \"elemento essencial\" remete à expressão do Relator sobre o especial fim de agir (p. 23: \"Elemento essencial, esse, cuja ausência impede o reconhecimento do crime de prevaricação\").",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Quanto à prevaricação, estamos todos de acordo, pelo menos os que se manifestaram até agora",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Quanto à prevaricação, estamos todos de acordo, pelo menos os que se manifestaram até agora",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Quanto à prevaricação, estamos todos de acordo, pelo menos os que se manifestaram até agora",
+                "fonte": "p. 63",
+                "confianca": "media",
+                "inferida_de": "Ayres Britto (e demais que se manifestaram, todos pela ausência do elemento subjetivo)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "para acompanhar o Relator em todos os seus aspectos, não apenas para descaracterizar o crime de prevaricação",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "para acompanhar o Relator em todos os seus aspectos, não apenas para descaracterizar o crime de prevaricação",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "para acompanhar o Relator em todos os seus aspectos, não apenas para descaracterizar o crime de prevaricação",
+                "fonte": "p. 66",
+                "confianca": "media",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Vou pedir vênia \"ao Ministro Carlos Brito e, no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "baixa",
+                "inferida_de": "Ayres Britto e Joaquim Barbosa (ambos negaram o dolo específico; a divergência de Eros Grau se restringe ao crime de responsabilidade)"
+              },
+              "posicao_detalhe": "Não há manifestação expressa sobre a prevaricação; adesão inferida da delimitação da divergência ao crime de responsabilidade.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Esse, sim, ficou em dúvida, donde não quis ser mais rigoroso com o réu a respeito",
+                "fonte": "p. 81",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "eu também vou pedir vênia ao eminente Relator e aos votos que o seguiram para acompanhar o eminente Revisor.",
+                "fonte": "p. 73",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "estamos recorrendo a outro tipo, porque ficou pequena dúvida sobre o crime mais grave que teria sido cometido, que é o de prevaricação!",
+                "fonte": "p. 81",
+                "confianca": "media",
+                "inferida_de": "Joaquim Barbosa"
+              },
+              "posicao_detalhe": "Em debate (p. 81-82) declara dúvida sobre a prevaricação sem nomear o elemento faltante; menciona \"deixar de cumprir a lei, para atender a sentimento de caráter pessoal, provavelmente ligado à sua administração\".",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Presidente, afasto a prevaricação, mas o faço pela especialidade, pela incidência da norma especial",
+                "fonte": "p. 85",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "afasto a prevaricação, mas o faço pela especialidade, pela incidência da norma especial, no caso - O Decreto-Lei n° 201/67.",
+                "fonte": "p. 85",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "afasto a prevaricação, mas o faço pela especialidade, pela incidência da norma especial",
+                "fonte": "p. 85",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "Especialidade (conflito aparente de normas): o fato se enquadra na norma especial do art. 1º, XIV, do DL 201/67, o que afasta o art. 319 do CP (p. 85)."
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "baixa",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": "Sem voto escrito no acórdão; contado na maioria pela ata (não listado entre os vencidos).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "media",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Ayres Britto",
+          "tipo": "precedente_citado",
+          "referencia": "HC 81.504, da relatoria do ministro Ilmar Galvão",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Tenho que a diretriz adotada no precedente se ajusta ao caso destes autos.",
+          "fonte": "p. 22"
+        }
+      ],
+      "obs": "Banco registra os votos por réu, sem separar fato: Joaquim Barbosa, Eros Grau, Cezar Peluso e Marco Aurélio como Condena. No texto, quanto à prevaricação, todos absolvem (a divergência é só no crime de responsabilidade: JB p. 45, 51; Eros p. 72; Peluso p. 81; MA p. 85). Divergência registrada, não corrigida. Ellen Gracie (banco: Não votou) ausente em 18/02/2009 (ata p. 102): não incluída entre os votantes. Celso de Mello sem voto escrito; posição inferida da ata (p. 102)."
+    },
+    {
+      "id_unidade": "AP-447-R02-I02",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Ayres Britto",
+        "evidencia": "Também por maioria de votos, acordam em absolver os réus, o que fazem nos termos do voto do Relator, vencidos os Ministros Joaquim Barbosa (revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+        "fonte": "p. 2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "Ausência de comprovação do vínculo subjetivo, ou psicológico, entre o prefeito e a Secretária de Transportes para a caracterização do concurso de pessoas, de que trata o artigo 29 do Código Penal.",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "O SENHOR MINISTRO CARLOS BRITTO (RELATOR) - Ministro Gilmar Mendes, ou há prova para condenar o prefeito, e aí se condena a Secretária; ou não há prova para condenar o prefeito, e não se condena a Secretária.",
+            "fonte": "p. 82",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "nem mesmo se comprovou nestes autos o vínculo subjetivo, ou psicológico, entre ela e o Deputado Sérgio Moraes.",
+            "fonte": "p. 29"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "Ausência de comprovação do vínculo subjetivo, ou psicológico, entre o prefeito e a Secretária de Transportes para a caracterização do concurso de pessoas",
+            "fonte": "p. 2",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "somente é passível de cometimento pelo Prefeito mesmo (unipessoalmente, portanto) ou, quando muito, em co-autoria com ele, por se tratar de crime de mão própria.",
+            "fonte": "p. 29",
+            "confianca": "media"
+          },
+          "posicoes": [
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "absolvo por falta de provas os acusados Sérgio Ivan Moraes e Maria Neli Groff da Silva. O que faço com apoio no inciso VII do artigo 386 do Código de Processo Penal.",
+                "fonte": "p. 58",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "embora a instrução criminal sinalize que a denunciada Maria Neli Groff da Silva pessoalmente expediu ordem de descumprimento do Código de Trânsito Brasileiro, o fato é que nem mesmo se comprovou nestes autos o vínculo subjetivo, ou psicológico, entre ela e o Deputado Sérgio Moraes.",
+                "fonte": "p. 29",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "nem mesmo se comprovou nestes autos o vínculo subjetivo, ou psicológico, entre ela e o Deputado Sérgio Moraes. Vínculo subjetivo, esse, que é indispensável para a configuração do concurso de pessoas, de que trata o artigo 29 do CP.",
+                "fonte": "p. 29",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Em debate: \"ou há prova para condenar o prefeito, e aí se condena a Secretária; ou não há prova para condenar o prefeito, e não se condena a Secretária.\" (p. 82).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "voto pela condenação de Sergio Ivan Moraes e Maria Neli Groff da Silva nas penas previstas para o crime definido no art. , XIV, do Decreto-lei n° 201/1967.",
+                "fonte": "p. 51",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "o conjunto de provas constante dos autos demonstra que a denunciada Maria Neli Groff da Silva, por ordem do denunciado Sérgio Ivan Moraes e em concurso com este, determinou aos fiscais municipais de trânsito que não lavrassem auto de infração de veículos do município de Santa Cruz do sul",
+                "fonte": "p. 44",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "levam à conclusão inequívoca de que a denunciada Maria Neli Groff da Silva, a mando do denunciado Sérgio Ivan Moraes, determinou aos fiscais municipais de trânsito que não lavrassem auto de infração de veículos oficiais do Município.",
+                "fonte": "p. 50",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Menezes Direito",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "acompanhar o voto do eminente Ministro Relator igualmente na sua conclusão, quanto à absolvicão de ambos os réus desta acão.",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "acompanhar o voto do eminente Ministro Relator igualmente na sua conclusão, quanto à absolvicão de ambos os réus desta acão.",
+                "fonte": "p. 61",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "quanto à absolvicão de ambos os réus desta acão.",
+                "fonte": "p. 61",
+                "confianca": "media",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": "Fundamenta apenas a falta de prova da ordem do Prefeito (p. 61), pressuposto do concurso; não trata da ré em separado.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "razão pela qual acompanho, com as vênias do Ministro Joaquim Barbosa, o voto do Ministro-Relator",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "razão pela qual acompanho, com as vênias do Ministro Joaquim Barbosa, o voto do Ministro-Relator",
+                "fonte": "p. 63",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "acompanho, com as vênias do Ministro Joaquim Barbosa, o voto do Ministro-Relator",
+                "fonte": "p. 63",
+                "confianca": "media",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": "Fundamenta só a falta de comprovação de \"um atuar do Prefeito\" (p. 63); não trata da ré em separado.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "como também assentar que não há provas suficientes para incriminar o prefeito no que tange ao artigo 1°, inciso XIV, do Decreto-Lei n° 201, assim como a solução que deu com relação à Secretária de Transportes, ou seja, a falta de tipificação.",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "assim como a solução que deu com relação à Secretária de Transportes, ou seja, a falta de tipificação.",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "assim como a solução que deu com relação à Secretária de Transportes, ou seja, a falta de tipificação.",
+                "fonte": "p. 66",
+                "confianca": "media",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Acompanhei | voto do Ministro Joaquim Barbosa nessa circunstancia e mais aquela outra, que foi a da página 167.",
+                "fonte": "p. 72",
+                "confianca": "media",
+                "inferida_de": "Joaquim Barbosa"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Por essas razões, Senhor Presidente, peço vênia ao eminente Relator e aos demais votos que o acompanharam, para aderir ao voto do Revisor.",
+                "fonte": "p. 78",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Em resumo, todos os fiscais confirmaram que ela atribuiu a ordem ao Prefeito.",
+                "fonte": "p. 77",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "só deixa claro que a ordem partiu da Secretária com expressa autorização do Prefeito.",
+                "fonte": "p. 78",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Peço vênia ao relator e aos demais ministros que o acompanharam para assentar que está configurado o crime e demonstrada a culpa",
+                "fonte": "p. 88",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "a transcrição de depoimentos, que se mostraram incontroversos, categóricos quanto à participação da secretária, a transmissão da ordem - com resistência, na reunião realizada - aos fiscais no sentido de não autuarem",
+                "fonte": "p. 87",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "a veiculação da determinação não poderia ser estranha ao Prefeito.",
+                "fonte": "p. 87",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "baixa",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Desde que houvesse prova que a ordem partiu do Prefeito.",
+                "fonte": "p. 82",
+                "confianca": "media",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": "Fundamenta a falta de prova da ordem do Prefeito (p. 82, p. 90); não trata da ré em separado.",
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "eu absolvo o Prefeito por falta de prova, mas a Secretária por atipicidade da conduta - eu vou deixar isso no voto.",
+            "fonte": "p. 63",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": {
+            "valor": "A conduta de quem não é Prefeito é típica, em concurso de pessoas, no crime de mão própria do art. 1º, XIV, do DL 201/67 (a coautoria depende da autoria comprovada do Prefeito)?",
+            "evidencia": "É que o delito do inciso XIV do art. 1e do Decreto-Lei nº 201/67 somente é passível de cometimento pelo Prefeito mesmo (unipessoalmente, portanto) ou, quando muito, em co-autoria com ele, por se tratar de crime de mão própria.",
+            "fonte": "p. 29",
+            "confianca": "media"
+          },
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "Por se tratar de crime de responsabilidade, a coautoria só se define no pressuposto da autoria. Se a autoria já foi afastada, como é que pode subsistir, prevalecer, a coautoria?",
+            "fonte": "p. 58",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Se a autoria já foi afastada, como é que pode subsistir, prevalecer, a coautoria?",
+            "fonte": "p. 58"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "também não será possível a incriminação da Secretária, por ausência de tipicidade.",
+            "fonte": "p. 29",
+            "confianca": "media"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "absolvo por falta de provas os acusados Sérgio Ivan Moraes e Maria Neli Groff da Silva. O que faço com apoio no inciso VII do artigo 386 do Código de Processo Penal.",
+                "fonte": "p. 58",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Logo, se não houve uma robusta comprovação da conduta típica imputada ao sujeito ativo do delito (no caso, o Prefeito), também não será possível a incriminação da Secretária, por ausência de tipicidade.",
+                "fonte": "p. 29",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "eu absolvo o Prefeito por falta de prova, mas a Secretária por atipicidade da conduta - eu vou deixar isso no voto.",
+                "fonte": "p. 63",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "\"Por se tratar de crime de responsabilidade, a coautoria só se define no pressuposto da autoria.\" (p. 58).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "voto pela condenação de Sergio Ivan Moraes e Maria Neli Groff da Silva nas penas previstas para o crime definido no art. , XIV, do Decreto-lei n° 201/1967.",
+                "fonte": "p. 51",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "trata-se de crime formal, que se refere especificamente a prefeito (o qual pode atuar em concurso de pessoas, como no caso sob exame)",
+                "fonte": "p. 46",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "que se refere especificamente a prefeito (o qual pode atuar em concurso de pessoas, como no caso sob exame)",
+                "fonte": "p. 46",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Menezes Direito",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "acompanhar o voto do eminente Ministro Relator igualmente na sua conclusão, quanto à absolvicão de ambos os réus desta acão.",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "acompanhar o voto do eminente Ministro Relator igualmente na sua conclusão",
+                "fonte": "p. 61",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "acompanhar o voto do eminente Ministro Relator igualmente na sua conclusão",
+                "fonte": "p. 61",
+                "confianca": "baixa",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "razão pela qual acompanho, com as vênias do Ministro Joaquim Barbosa, o voto do Ministro-Relator",
+                "fonte": "p. 63",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "acompanho, com as vênias do Ministro Joaquim Barbosa, o voto do Ministro-Relator",
+                "fonte": "p. 63",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "acompanho, com as vênias do Ministro Joaquim Barbosa, o voto do Ministro-Relator",
+                "fonte": "p. 63",
+                "confianca": "baixa",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": "O ajuste do Relator (atipicidade para a Secretária) é anunciado logo após o voto dela (p. 63).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "como também assentar que não há provas suficientes para incriminar o prefeito no que tange ao artigo 1°, inciso XIV, do Decreto-Lei n° 201, assim como a solução que deu com relação à Secretária de Transportes, ou seja, a falta de tipificação.",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "assim como a solução que deu com relação à Secretária de Transportes, ou seja, a falta de tipificação.",
+                "fonte": "p. 66",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "a solução que deu com relação à Secretária de Transportes, ou seja, a falta de tipificação.",
+                "fonte": "p. 66",
+                "confianca": "alta",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "no que concerne ao crime de responsabilidade, vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "vou acompanhar a divergência do Revisor.",
+                "fonte": "p. 72",
+                "confianca": "baixa",
+                "inferida_de": "Joaquim Barbosa"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Por essas razões, Senhor Presidente, peço vênia ao eminente Relator e aos demais votos que o acompanharam, para aderir ao voto do Revisor.",
+                "fonte": "p. 78",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "para aderir ao voto do Revisor.",
+                "fonte": "p. 78",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "para aderir ao voto do Revisor.",
+                "fonte": "p. 78",
+                "confianca": "baixa",
+                "inferida_de": "Joaquim Barbosa"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Peço vênia ao relator e aos demais ministros que o acompanharam para assentar que está configurado o crime e demonstrada a culpa",
+                "fonte": "p. 88",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Também assento que o artigo 29 do Código Penal, quanto à participação, de alguma forma, de terceiro no crime, é aplicável em se tratando de legislação esparsa que, tal como na espécie, considerado o Decreto-Lei n° 201/67, prevê tipos específícos le mesmo a envolver a prática por mão própria.",
+                "fonte": "p. 88",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "o artigo 29 do Código Penal, quanto à participação, de alguma forma, de terceiro no crime, é aplicável",
+                "fonte": "p. 88",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Reconhece tratar-se de \"crime realmente de mão própria\" (p. 88).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O Tribunal, também por maioria e nos termos do voto do Relator, absolveu os réus, vencidos os Senhores Ministros Joaquim Barbosa (Revisor), Eros Grau, Cezar Peluso e Marco Aurélio.",
+                "fonte": "p. 102",
+                "confianca": "baixa",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Por isso, acompanho também o eminente Relator.",
+                "fonte": "p. 92",
+                "confianca": "baixa",
+                "inferida_de": "Ayres Britto"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Joaquim Barbosa",
+          "tipo": "precedente_citado",
+          "referencia": "AI 503.617-AgR, rel. min. Carlos Velloso, DJ 4.3.2005",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "como a gravação ambiente foi feita por interlocutores da reunião, não há ilicitude a ser declarada, conforme já afirmou Supremo Tribunal Federal, em diversos precedentes [preliminar de licitude da gravação]",
+          "fonte": "p. 35"
+        },
+        {
+          "ministro": "Joaquim Barbosa",
+          "tipo": "precedente_citado",
+          "referencia": "RE 402.035-AgR, rel. min. Ellen Gracie, DJ 6.2.2004",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Gravação de conversa. A gravação feita por um dos interlocutores, sem conhecimento do outro, nada tem de ilicitude, principalmente quando destinada a documentá-la em caso de negativa. [preliminar de licitude da gravação]",
+          "fonte": "p. 35"
+        },
+        {
+          "ministro": "Joaquim Barbosa",
+          "tipo": "precedente_citado",
+          "referencia": "HC 87.341, rel. min. Eros Grau, DJ 7.2.2006",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "(HC 87.341, rel. min. Eros Grau, DJ 7.2.2006). [citado entre os precedentes da licitude da gravação ambiente]",
+          "fonte": "p. 36"
+        },
+        {
+          "ministro": "Ricardo Lewandowski",
+          "tipo": "precedente_citado",
+          "referencia": "RE n° 402.717, de relatoria do eminente Ministro Cezar Peluso (Segunda Turma)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "a Segunda Turma desta Corte, no RE n° 402.717, de relatoria do eminente Ministro Cezar Peluso, já assentou que a gravação de conversa por um dos interlocutores sem o conhecimento de outro constitui prova clandestina, mas não prova ilícita",
+          "fonte": "p. 64"
+        },
+        {
+          "ministro": "Cezar Peluso",
+          "tipo": "precedente_citado",
+          "referencia": "decisão unânime da Segunda Turma (a mesma referida por Lewandowski, RE 402.717)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "o eminente Ministro Ricardo Lewandowski fez referência a uma decisão unânime da Segunda Turma, onde - aliás, à vista, não apenas da doutrina, mas também da jurisprudência do Tribunal - ficou acentuado que a gravação de conversa entre os interlocutores, por um deles conhecimento do outro ou dos outros, pode ser classificada como clandestina",
+          "fonte": "p. 73"
+        }
+      ],
+      "obs": "Votos lidos coincidem com o banco. Ellen Gracie ausente em 18/02/2009 (ata p. 102): não incluída. Celso de Mello sem voto escrito; contado na maioria pela ata (p. 102). Acórdão e ementa (p. 2) atribuem a absolvição ao inciso VII do art. 386 do CPP. No aparte da p. 63, o Relator anuncia fundamento distinto para a ré (\"a Secretária por atipicidade da conduta - eu vou deixar isso no voto\"), mas o voto juntado (p. 29) e a confirmação (p. 58) absolvem ambos \"por falta de provas\" (art. 386, VII); a ementa (p. 2) registra mão própria + ausência de vínculo subjetivo e absolvição por falta de provas. Precedentes listados: preliminar de licitude da gravação."
+    }
+  ],
+  "avisos": [
+    "Prevaricação (I01 dos dois réus): Marco Aurélio afasta pela especialidade (norma especial do DL 201/67, p. 85) e Joaquim Barbosa também enquadra os fatos apenas no DL 201/67 antes de acompanhar o Relator no dolo (p. 45-48). Registrei isso como fundamento_proprio, e não como segunda questão, porque voto condutor e ementa decidem só pelo dolo específico. É candidato a categoria 'outra' (conflito aparente de normas/especialidade) na revisão do codebook.",
+    "O banco não separa fatos: os quatro vencidos (JB, Eros, Peluso, MA) aparecem como 'Condena' por réu, mas absolveram na prevaricação. Nas unidades I01, voto_resultado = Absolve para todos, divergência registrada em obs.",
+    "R02-I02 (Secretária): o Relator usa duas linguagens, a ausência de vínculo subjetivo com o Prefeito (concorreu, p. 29, ementa p. 2) e a atipicidade por crime de mão própria sem autoria comprovada do Prefeito (p. 29, 58, 63). O placar se separa nos mesmos votos nas duas. Marquei concorreu como principal porque a separação real é sobre a prova da participação do Prefeito (JB p. 44, Peluso p. 78), da qual a atipicidade deriva; a atipicidade ficou como 'outra' secundária.",
+    "R01-I02: registrei a materialidade (negativa de execução de lei federal, Relator p. 25-26; Lewandowski p. 78-79; JB p. 49-50; Peluso p. 79-80) como 'outra' secundária. Pelo limite de duas questões, ela não foi registrada em R02-I02, embora o voto de JB a aplique aos dois réus e o Relator admita que a ré 'pessoalmente expediu ordem' (p. 29).",
+    "Eros Grau: tratado como Adesao à divergência do Revisor; a fundamentação própria se resume a apontar como 'fundamental' a declaração de Maria Neli ao MP (fls. 167) (p. 67, 72). Na prevaricação não há manifestação expressa: adesão e Absolve inferidos da restrição da divergência ao crime de responsabilidade (confiança baixa ou média).",
+    "Cezar Peluso na prevaricação: a absolvição vem de um debate (p. 81: 'ficou pequena dúvida'), sem dizer qual elemento falta; registrei Adesao ao Revisor (dolo específico) com confiança média.",
+    "Menezes Direito na prevaricação: 'carece do elemento essencial' (p. 61), sem nomear o dolo; classifiquei como dolo pela remissão aos votos do Relator e do Revisor (confiança média).",
+    "Cármen Lúcia cita o 'inciso VI do artigo 386' (p. 63), mas a linguagem é de insuficiência de prova (inciso VII após a Lei 11.690/2008, que o Relator usa com a nova redação transcrita na p. 30). Provável lapso; não corrigi.",
+    "Celso de Mello não tem voto no acórdão; a posição dele vem da ata (p. 102: não está entre os vencidos), com confiança média ou baixa. Ellen Gracie, ausente em 18/02/2009, foi excluída das posições.",
+    "Gilmar Mendes no DL 201/67: o raciocínio mistura precariedade da gravação, prova de 'ouvir dizer', tipo aberto e menção genérica ao dolo (p. 90-92). Classifiquei como concorreu (p. 82: 'Desde que houvesse prova que a ordem partiu do Prefeito'), com confiança média. O caso do ex-prefeito de Camboriú (p. 92-93) vem depois da conclusão, como ilustração, e não entrou como precedente.",
+    "Precedentes da licitude da gravação (JB p. 35-36; Lewandowski p. 64; Peluso p. 73) foram listados só nas unidades do DL 201/67, onde a prova testemunhal e a gravação pesaram; referem-se à primeira deliberação do acórdão (licitude), que é preliminar (R6). Peluso marcado proprio_ministro = Sim porque Lewandowski atribui a ele a relatoria do RE 402.717 (p. 64), embora Peluso não o diga.",
+    "OCR: trechos embaralhados na p. 45 (frase de JB sobre a prevaricação), na p. 49 (palavra faltante em 'não qualquer dúvida') e na p. 66 (Lewandowski). As transcrições seguem o texto extraído; a ordem das palavras na p. 45 foi recortada para manter só o trecho legível."
+  ]
+}

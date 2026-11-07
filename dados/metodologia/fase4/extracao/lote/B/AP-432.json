@@ -1,0 +1,574 @@
+{
+  "id_caso": "AP-432",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-110: p. 1-84, 89-93, 98-100 e 107-110 lidas integralmente; p. 85-88, 94-97 e 101-106 (dosimetria e votos sobre a questão de ordem) por varredura dirigida",
+  "unidades": [
+    {
+      "id_unidade": "AP-432-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": {
+        "valor": "Unidade I01 lida como a imputação da propaganda televisiva de abril de 2000 (R$ 90.000,00), única em que houve condenação. O acórdão julgou três imputações; as duas relativas aos informativos 'Saúde Plena' (out. e nov. de 1999) foram julgadas improcedentes, vencidos Fux e Barroso, e não aparecem como unidade no banco.",
+        "evidencia": "Relativamente à distribuição dos panfletos, julgou-se improcedente a acusação, contra o voto do relator, nos termos do voto da Revisora, que absolveu o acusado quanto a esta imputação, por falta de provas da utilização indevida de rendas públicas em proveito próprio.",
+        "fonte": "p. 3",
+        "confianca": "alta"
+      },
+      "voto_condutor": {
+        "valor": "Luiz Fux",
+        "evidencia": "Pretensão punitiva julgada parcialmente procedente, para condenar o Réu como incurso nas penas do art. 1º, II, do Decreto-Lei nº 201/67, consistente na realização de propagandas televisivas de conteúdo autopromocional, às expensas do erário, conduta caracterizadora da utilização de rendas públicas em proveito próprio.",
+        "fonte": "p. 3",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "Presidente, apenas uma ponderação. Segundo a história narrada pelo Ministério Público, houve o desvirtuamento de publicidade institucional. A questão que se coloca é única: esse desvirtuamento é fato típico sob o ângulo penal?",
+            "fonte": "p. 51",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "O uso de recursos públicos em publicidade oficial de caráter autopromocional (em desacordo com o art. 37, § 1º, da CF) configura crime tipificado no art. 1º do Decreto-Lei nº 201/1967 (em especial, o inciso II, 'utilizar-se, indevidamente, em proveito próprio ou alheio, de bens, rendas ou serviços públicos')?",
+            "evidencia": "A questão a saber é se isso importa a tipificação do art. 1º, inciso II: \"utilizar-se, indevidamente, em proveito próprio ou alheio, de bens, rendas ou serviços públicos\". Essa é a acusação e essa é a tese do voto do Ministro Luis Fux.",
+            "fonte": "p. 39",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "por maioria de votos, em julgar parcialmente procedente a ação penal para condenar o réu pelo delito previsto no inciso II do art. 1º do Decreto-lei nº 201/1967, vencidos os Ministros Teori Zavascki, Gilmar Mendes e Marco Aurélio, que o absolviam.",
+            "fonte": "p. 4",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "A questão que se coloca é única: esse desvirtuamento é fato típico sob o ângulo penal?",
+            "fonte": "p. 51"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "A realização de propaganda de cariz eleitoral, exaltando a gestão do prefeito municipal e depreciando as administrações anteriores em época próxima ao pleito, custeada pelo Erário do Município, configura o delito previsto no art. 1º, II, do Decreto-Lei nº 201/67.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Ex positis, com supedâneo no art. 387 do CPP, julgo procedente a pretensão punitiva estatal e condeno o denunciado JAIRO ATAÍDE VIEIRA como incurso nas penas do art. 1º, II, do Decreto-Lei nº 201/67, por três vezes.",
+                "fonte": "p. 15",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Sendo assim, o Réu efetivamente utilizou, indevidamente, em proveito próprio, de bens, rendas ou serviços públicos, tipificando o delito previsto no art. 1º, II, do Decreto-Lei nº 201/67.",
+                "fonte": "p. 14",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Então, o que é desviar dinheiro público em proveito pessoal? É infringir aquilo que a Constituição Federal não admite: que é fazer uma propaganda, não em termos educativos ou sociais, mas uma propaganda de cunho pessoal.",
+                "fonte": "p. 41",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Enquadra no inciso II. Na p. 63-64 declarou aderir à requalificação de Toffoli para o inciso I ('adiro integralmente a essa nova qualificação jurídica dada pelo Ministro Toffoli'), mas na p. 90 voltou ao inciso II ('eu quero voltar à minha posição originária e vou manter o inciso II para dar essa maioria de quatro votos').",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Acompanho, portanto, o juízo condenatório do eminente Relator, Ministro Luiz Fux, em relação à imputação do art. 1°, II, do Decreto-Lei n° 201/67 envolvendo indevida utilização de rendas públicas municipais nos pagamentos das peças publicitárias dos programas de televisão aludidos.",
+                "fonte": "p. 28",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por isso, a utilização dos valores do erário em propaganda e peças publicitárias com o nítido interesse de autopromoção do gestor público implica a incidência do tipo previsto no art. 1º do Decreto-Lei nº 201 de 1967.",
+                "fonte": "p. 22",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Mas me pareceu que esse conceito de permanência, que utilizar-se poderia, a leitura do utilizar-se ser feita na forma proposta pelo eminente Ministro Fux, por isso é que acompanhei Sua Excelência.",
+                "fonte": "p. 50",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Enquadra no inciso II, adotando a leitura de 'utilizar-se' proposta pelo relator, embora registre a doutrina (Baltazar Júnior) que reserva o inciso II ao uso com devolução.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Roberto Barroso",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "De modo que, embora ache que a culpabilidade seja reduzida, quando não mínima, a tipificação, eu acho que está presente. E, por essa razão, eu vou acompanhar o Relator.",
+                "fonte": "p. 36",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Eu não tenho simpatia é pelo tipo tal como ele tem sido interpretado e aplicado, mas que a conduta se ajusta ao tipo do artigo 1º, inciso II, eu não tenho dúvida.",
+                "fonte": "p. 36",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "E, no caso do vídeo, é clamorosa a comparação com a Administração anterior. Aquilo é descarada publicidade, mesmo, com dinheiro público.",
+                "fonte": "p. 56",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Afirma a tipicidade (inciso II) com ressalvas sobre a legitimidade do DL 201/67 e o tratamento penal mais gravoso dos prefeitos (p. 42-45: 'Não estou retratando o meu voto, eu estou mantendo por enquanto'). O texto do voto da p. 36 refere-se aos 'informativos'; a referência expressa ao vídeo está em aparte (p. 56).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Teori Zavascki",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "De modo que vou pedir vênia aos eminentes Colegas para julgar improcedente a ação penal por atipicidade.",
+                "fonte": "p. 40",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "A pergunta que se faz: eventual descumprimento dessa regra constitucional importa necessariamente uma tipificação penal? Essa é a pergunta. Uma segunda pergunta: importa, especificamente, a tipificação penal prevista no artigo 1º, inciso II, do Decreto-Lei nº 201/67?",
+                "fonte": "p. 38",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Ainda que essa propaganda televisiva tenha tido um cunho pessoal - embora não tenha feito nenhuma menção ao nome do Prefeito, mas à Administração e ao Município -, não vejo como enquadrar na tipificação do inciso II do art. 1º do Decreto-Lei 201, que é peculato de uso e não tem correspondente no Código Penal.",
+                "fonte": "p. 39-40",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Inciso II é peculato de uso, incompatível com bens fungíveis; o bem jurídico do art. 1º é o patrimônio público, não a regularidade da publicidade. Remete a conduta à Lei de Improbidade (p. 52).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "também me levam a julgar a ação procedente, mas - aplicando o art. 383 do Código de Processo Penal – com base, em emendatio, no inciso I do artigo 1º.",
+                "fonte": "p. 62",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Ora, o que se está a analisar não é, no primeiro plano, a propaganda em si, é o recurso público. E ele usou o recurso público. E, ao desviar esse recurso público - para não utilizar o verbo “usar”, porque eu estou no inciso I e não no inciso II -, para a propaganda, ele incidiu, no meu modo de ver, no caso concreto, no inciso I do art. 1º do Decreto-Lei.",
+                "fonte": "p. 61",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Se não aplicarmos o inciso I do art. 1º para esses casos, realmente, não haverá desvalor penal para esta conduta. Só teríamos desvalor nas esferas cível, eleitoral e administrativa.",
+                "fonte": "p. 61",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Resposta 'sim' à tipicidade da conduta, mas pelo inciso I (peculato-desvio), via emendatio libelli (art. 383 CPP). Quanto ao inciso II, alinha-se à tese da atipicidade: 'O inciso II, eu descarto de imediato, porque o peculato de uso é atípico' (p. 47); 'eu divirjo do eminente Relator em relação ao inciso II, acompanhando, em relação ao inciso II, a posição da atipicidade' (p. 48).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por isso, vou pedir vênia ao Ministro Luiz Fux para adiantar o voto, assentando que o fato narrado na denúncia é atípico e que incide, portanto, o disposto no inciso III do artigo 386 do Código de Processo Penal.",
+                "fonte": "p. 51",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Segundo a história narrada pelo Ministério Público, houve o desvirtuamento de publicidade institucional. A questão que se coloca é única: esse desvirtuamento é fato típico sob o ângulo penal?",
+                "fonte": "p. 51",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "o tipo do inciso II do artigo 1º do Decreto-Lei nº 201/67 visa apanhar outras situações jurídicas, não a retratada no desrespeito ao que se contém no artigo 37, § 1º, da Constituição Federal.",
+                "fonte": "p. 51",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Bem protegido pelo inciso II não é a publicidade institucional (p. 54); também rejeita o enquadramento por emendatio: 'A emenda fica pior do que o soneto' (p. 49).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Então, adiantando o meu voto, e pedindo escusas novamente à Corte por ter me adiantado, eu estou julgando procedente em parte, acompanhando o voto da Ministra-Revisora",
+                "fonte": "p. 68",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "No tocante à veiculação da promoção pessoal na TV Gerais e na TV Grande Minas no ano de 2000, que foram transmitidas três meses antes da eleições, entendo que aqui, estamos diante de uma conduta típica.",
+                "fonte": "p. 67",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Ele não se apropriou, ele não incorporou ao seu patrimônio pessoal \"bens ou rendas públicas\". O que ele fez, a meu ver? Ele incidiu na conduta do inciso II",
+                "fonte": "p. 65",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Defende expressamente o enquadramento no inciso II contra a requalificação de Toffoli e afirma que o art. 37, § 1º, encontra proteção também no âmbito penal (p. 67).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "entendo que se deve reconhecer a atipicidade da conduta, tal como já o fizera o Ministro Teori Zavascki e depois o Ministro Marco Aurélio.",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Mas eu acho que é dar um entendimento extremamente alargado para o tipo penal, seja na forma do chamado peculato-uso, seja na forma do peculato-desvio",
+                "fonte": "p. 75-76",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Assim me parece que a melhor posição, aqui agora sustentada, é aquela defendida a partir do voto do Ministro Teori Zavascki, na linha, sem dúvida nenhuma, da atipicidade da conduta.",
+                "fonte": "p. 75",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Rejeita tanto o inciso II (peculato-uso) quanto o inciso I (peculato-desvio); o art. 37, § 1º, não contém mandado de criminalização (p. 71-72).",
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "O dolo do agente é inequívoco, pois, na qualidade de Prefeito, assinou o contrato, assim como os respectivos termos de aditamento, entre a Prefeitura Municipal de Montes Claros/MG e a agência de publicidade",
+            "fonte": "p. 2",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "De modo que vou pedir vênia aos eminentes Colegas para julgar improcedente a ação penal por atipicidade.",
+            "fonte": "p. 40",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Não procede a afirmação da defesa de que não haveria dolo na conduta, já que a a competência para os atos teria sido delegada aos Secretários Municipais.",
+            "fonte": "p. 14"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "O dolo do agente é inequívoco, pois, na qualidade de Prefeito, assinou o contrato, assim como os respectivos termos de aditamento",
+            "fonte": "p. 2",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "nao_dito",
+            "evidencia": "todos os elementos dos autos indicam a presença do elemento subjetivo do tipo penal, de modo que o Acusado agiu conscientemente na prática dos atos a ele imputados pelo parquet.",
+            "fonte": "p. 15",
+            "confianca": "media"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Ex positis, com supedâneo no art. 387 do CPP, julgo procedente a pretensão punitiva estatal e condeno o denunciado JAIRO ATAÍDE VIEIRA como incurso nas penas do art. 1º, II, do Decreto-Lei nº 201/67, por três vezes.",
+                "fonte": "p. 15",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Não procede a afirmação da defesa de que não haveria dolo na conduta, já que a a competência para os atos teria sido delegada aos Secretários Municipais.",
+                "fonte": "p. 14",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Dessa forma, todos os elementos dos autos indicam a presença do elemento subjetivo do tipo penal, de modo que o Acusado agiu conscientemente na prática dos atos a ele imputados pelo parquet.",
+                "fonte": "p. 15",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Prova: assinatura do contrato e aditamentos com a agência (fls. 666, 662 e 656) e veiculação em horário nobre, 'sendo extremamente improvável que o Acusado tenha permanecido completamente alheio à sua veiculação' (p. 15).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Acompanho, portanto, o juízo condenatório do eminente Relator, Ministro Luiz Fux, em relação à imputação do art. 1°, II, do Decreto-Lei n° 201/67 envolvendo indevida utilização de rendas públicas municipais nos pagamentos das peças publicitárias dos programas de televisão aludidos.",
+                "fonte": "p. 28",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Também não há como cogitar, na linha alegada pela Defesa, da falta de atuação decisiva, pelo Prefeito, na realização e divulgação dessas peças publicitárias de sua gestão à frente do Município de Montes Claros/MG.",
+                "fonte": "p. 27",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "afastam qualquer cogitação de ausência de atuação, de sua parte, como autor intelectual dos fatos.",
+                "fonte": "p. 27",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Não usa a linguagem do dolo; enfrenta a defesa pela autoria (quem determinou o ato).",
+              "fundamento_proprio": "concorreu (autoria intelectual): 'o simples fato de todas as propagandas de governo com caráter de autopromoção terem sido veiculadas, sem notícia de atuação do acusado no sentido de sustá-las, reforça a conclusão de que o réu determinou e orientou a elaboração e divulgação dos programas televisivos com recursos públicos municipais.' (p. 28)"
+            },
+            {
+              "ministro": "Roberto Barroso",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "De modo que, embora ache que a culpabilidade seja reduzida, quando não mínima, a tipificação, eu acho que está presente. E, por essa razão, eu vou acompanhar o Relator.",
+                "fonte": "p. 36",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "E, por essa razão, eu vou acompanhar o Relator.",
+                "fonte": "p. 36",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "E, por essa razão, eu vou acompanhar o Relator.",
+                "fonte": "p. 36",
+                "confianca": "baixa",
+                "inferida_de": "Luiz Fux (adesão genérica ao relator; Barroso não trata de dolo)"
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Teori Zavascki",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "De modo que vou pedir vênia aos eminentes Colegas para julgar improcedente a ação penal por atipicidade.",
+                "fonte": "p. 40",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "De modo que vou pedir vênia aos eminentes Colegas para julgar improcedente a ação penal por atipicidade.",
+                "fonte": "p. 40",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "De modo que vou pedir vênia aos eminentes Colegas para julgar improcedente a ação penal por atipicidade.",
+                "fonte": "p. 40",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "atipicidade da conduta (questão 1)"
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "também me levam a julgar a ação procedente, mas - aplicando o art. 383 do Código de Processo Penal – com base, em emendatio, no inciso I do artigo 1º.",
+                "fonte": "p. 62",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Por tudo o que foi trazido aos autos, pelo foi relatado pelo Ministro Fux, pelo voto de Sua Excelência e pelo voto da Revisora, quanto à parte da propaganda relativa à publicidade televisiva, não há dúvida de que ele sabia o que ia ao ar.",
+                "fonte": "p. 58",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "É evidente que o Prefeito sabia o que estava indo ao ar. É evidente a presença da vontade de colocar no ar, no ano das eleições, no mês de abril do ano eleitoral, aquela propaganda com referência a si mesmo.",
+                "fonte": "p. 59",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Reitera em aparte: 'ele tinha ciência do conteúdo do que ia ao ar' (p. 75).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por isso, vou pedir vênia ao Ministro Luiz Fux para adiantar o voto, assentando que o fato narrado na denúncia é atípico e que incide, portanto, o disposto no inciso III do artigo 386 do Código de Processo Penal.",
+                "fonte": "p. 51",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "assentando que o fato narrado na denúncia é atípico e que incide, portanto, o disposto no inciso III do artigo 386 do Código de Processo Penal.",
+                "fonte": "p. 51",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "assentando que o fato narrado na denúncia é atípico",
+                "fonte": "p. 51",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "atipicidade da conduta (questão 1)"
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Então, adiantando o meu voto, e pedindo escusas novamente à Corte por ter me adiantado, eu estou julgando procedente em parte, acompanhando o voto da Ministra-Revisora",
+                "fonte": "p. 68",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "Mas eu entendo que, tal como os fatos foram descritos pelo Ministério Público, houve, sim, em parte, a utilização indevida de verbas públicas, em proveito próprio, ou seja, na autopromoção do réu, então Prefeito, o Senhor Jairo Ataíde Vieira.",
+                "fonte": "p. 68",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "entendo que aqui, estamos diante de uma conduta típica.",
+                "fonte": "p. 67",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto centrado no enquadramento e na tipicidade; declara acompanhar a Revisora, que também não fundamentou por dolo.",
+              "fundamento_proprio": "tipicidade da conduta (questão 1)"
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "entendo que se deve reconhecer a atipicidade da conduta, tal como já o fizera o Ministro Teori Zavascki e depois o Ministro Marco Aurélio.",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Nao",
+                "evidencia": "entendo que se deve reconhecer a atipicidade da conduta",
+                "fonte": "p. 76",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao_enfrentou",
+                "evidencia": "entendo que se deve reconhecer a atipicidade da conduta",
+                "fonte": "p. 76",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": null,
+              "fundamento_proprio": "atipicidade da conduta (questão 1)"
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "RE 281012, Rel. Min. GILMAR MENDES, Rel. p/ Acórdão Min. JOAQUIM BARBOSA, Segunda Turma, julgado em 20/03/2012",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Em situações semelhantes, esta Corte já reconheceu a ilicitude da propaganda de governo que, sub-repticiamente, promove a figura do governante, in verbis:",
+          "fonte": "p. 12-13"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "RE 191668, Rel. Min. MENEZES DIREITO, Primeira Turma, julgado em 15/04/2008",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "O caput e o parágrafo 1º do artigo 37 da Constituição Federal impedem que haja qualquer tipo de identificação entre a publicidade e os titulares dos cargos alcançando os partidos políticos a que pertençam.",
+          "fonte": "p. 13"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "RE 217025 AgR, Rel. Min. MAURÍCIO CORRÊA, Segunda Turma, julgado em 27/04/1998",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Publicidade de caráter autopromocional do Governador e de seus correligionários, contendo nomes, símbolos e imagens, realizada às custas do erário.",
+          "fonte": "p. 14"
+        },
+        {
+          "ministro": "Luiz Fux",
+          "tipo": "precedente_citado",
+          "referencia": "AP 441, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 08/03/2012",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Há precedente desta Corte no sentido de que os efeitos da condenação previstos no aludido dispositivo não são automáticos, carecendo de motivação idônea na sentença (AP 441, Relator(a): Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 08/03/2012).",
+          "fonte": "p. 18"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Penal nº 441, do Estado de São Paulo (voto do próprio ministro, que prevaleceu)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "O inciso II, eu descarto de imediato, porque o peculato de uso é atípico. Disse eu - faço a leitura, agora, de parte da Ação Penal nº 441, do Estado de São Paulo:",
+          "fonte": "p. 47"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "distincao",
+          "referencia": "Ação Penal nº 441",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Sim",
+          "evidencia": "Então, a denúncia, naquele caso da Ação Penal nº 441, era imprestável para eu fazer a emendatio e enquadrar aquela conduta no inciso I. Por isso que fui ao inciso V",
+          "fonte": "p. 47"
+        },
+        {
+          "ministro": "Teori Zavascki",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus nº 82.426 (relatado pelo Ministro Gilmar)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Aliás, quero fazer referência, que não fiz no meu voto, a um precedente aqui relatado pelo Ministro Gilmar, onde também se discutia o enquadramento dessa inadequada publicidade. É o Habeas Corpus nº 82.426, em que foi confirmada uma decisão do Rio Grande do Sul, onde, na verdade, pelas circunstâncias daquele caso, enquadrou-se no inciso III do artigo 1º.",
+          "fonte": "p. 53"
+        },
+        {
+          "ministro": "Gilmar Mendes",
+          "tipo": "precedente_citado",
+          "referencia": "caso do painel eletrônico do Senado Federal (Plenário)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Quanto a termos fatos atípicos na ordem jurídica, que são deploráveis do ponto de vista moral, a história está prenhe desses elementos [...] Nós mesmos tivemos aqui no Plenário, não faz muito tempo, o caso constrangedor do painel eletrônico do Senado Federal.",
+          "fonte": "p. 69"
+        },
+        {
+          "ministro": "Marco Aurélio",
+          "tipo": "precedente_citado",
+          "referencia": "cola eletrônica em vestibular (declarada atípica pelo Tribunal)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Ministro Gilmar Mendes, o Tribunal declarou atípico um outro fato: a cola eletrônica em vestibular.",
+          "fonte": "p. 69"
+        }
+      ],
+      "obs": "Votantes: 8 (Celso de Mello e Joaquim Barbosa ausentes justificadamente; Cármen Lúcia 'ausente neste julgamento', p. 110), sem entrada nas posições. Votos lidos coincidem com o banco (5 Condena x 3 Absolve). Dias Toffoli condenou pelo inciso I (emendatio libelli), considerando o inciso II atípico (acórdão, p. 4: 'O Ministro Dias Toffoli condenou o réu com base no inciso I'). Fux oscilou no enquadramento: aderiu ao inciso I na p. 63-64 e voltou ao inciso II na p. 90, 'para dar essa maioria de quatro votos'. Barroso, na dosimetria, votou pela pena mínima e extinção da punibilidade por prescrição, sem retirar a condenação (p. 90-92). Questão de ordem (p. 89-103) decidiu que Toffoli participa da dosimetria, vencidos Gilmar e Marco Aurélio; não é questão decisiva do mérito."
+    }
+  ],
+  "avisos": [
+    "A questão principal (tipicidade da conduta sob o DL 201/67) não cabe em dolo nem em concorreu: registrada como 'outra'. Ninguém absolveu por falta de dolo ou de autoria; os três votos vencidos absolvem por atipicidade (Teori p. 40, Marco Aurélio p. 51, Gilmar p. 76). Lewandowski (p. 108) fala em 'extraordinária divisão do Plenário com relação à própria tipicidade da conduta'.",
+    "Ambiguidade de formulação: se a pergunta for 'a conduta se enquadra no inciso II?' em vez de 'a conduta é típica?', Toffoli passa para o lado do 'não' (p. 47-48) e o placar da questão fica 4 x 4 (Gilmar, p. 89: 'temos três votos, só, no sentido da condenação, inciso II', contagem feita quando Fux ainda estava no inciso I), embora o resultado seja 5 x 3 pela condenação. Optei pela formulação ampla (tipicidade sob o art. 1º), que corresponde ao resultado.",
+    "Segunda questão (dolo) é não principal: está na ementa (item 6, p. 2) e nos votos de Fux (p. 14-15) e Toffoli (p. 58-59), mas não separou votos. A Revisora fundamentou por autoria intelectual ('autor intelectual dos fatos', p. 27-28), o que seria 'concorreu'; como o limite é de duas questões, isso ficou em fundamento_proprio.",
+    "padrao_dolo_exigido = nao_dito: Fux fala em 'elemento subjetivo do tipo' e 'agiu conscientemente', sem dizer se exige finalidade específica; o 'proveito próprio' é tratado como elemento do tipo, não como dolo específico.",
+    "Barroso: o voto escrito da p. 36 fala dos 'informativos' (boletins), e não do vídeo; a referência ao vídeo vem em aparte (p. 56). Sua posição na questão do dolo é adesão inferida ao relator, com confiança baixa.",
+    "O precedente AP 441 citado por Fux (p. 18) refere-se aos efeitos da condenação (inabilitação), e não à questão decisiva; incluído por estar na fundamentação da unidade. O debate sobre a AP 470 (p. 79, 89-103) trata de quem participa da dosimetria e não foi registrado como precedente da unidade."
+  ]
+}

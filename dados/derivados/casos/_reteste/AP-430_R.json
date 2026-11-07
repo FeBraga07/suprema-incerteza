@@ -1,0 +1,199 @@
+{
+  "id_caso": "AP-430",
+  "extraido_em": "2026-09-27",
+  "fontes_lidas": ["dados/corpus/texto/AP-430.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Frustração dolosa do caráter competitivo de licitação (art. 90, Lei 8.666/93) e crime de responsabilidade de prefeito (art. 1º, I, DL 201/67)",
+      "evidencia": "AÇÃO PENAL. FRUSTRAÇÃO DOLOSA DO CARÁTER COMPETITIVO DE LICITAÇÃO. AUSÊNCIA DE PROVAS. ABSOLVIÇÃO.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "Pelo exposto, julgo improcedente a denúncia, por falta de prova suficiente para a condenação (Código de Processo Penal, art. 386, inciso VI), absolvendo o Réu. É o meu voto.",
+      "fonte": "acordao p.18",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "acolhi o parecer e determinei o desmembramento do presente processo (art. 80 do Código de Processo Penal), para que tão-somente o denunciado CASSIO TANIGUCHI fosse processado e julgado perante este Supremo Tribunal Federal",
+      "fonte": "acordao p.9",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Decisão: O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+      "fonte": "ata",
+      "confianca": "media"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "CASSIO TANIGUCHI",
+        "evidencia": "RÉU (É ) (S): CASSIO TANIGUCHI",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Prefeito Municipal de Curitiba-PR (à época dos fatos, ano 2000); Deputado Federal pelo Paraná (à época do julgamento)",
+        "evidencia": "CASSIO TANIGUCHI, atualmente investido no mandato de Deputado Federal, ocupava o cargo de Prefeito do Município de Curitiba/PR",
+        "fonte": "acordao p.14",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "julgou improcedente a ação, absolvendo o acusado, nos termos do voto da Relatora",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "julgo improcedente a denúncia, por falta de prova suficiente para a condenação (Código de Processo Penal, art. 386, inciso VI), absolvendo o Réu.",
+        "fonte": "acordao p.18",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não há, em todo o texto do acórdão, ata ou votos, qualquer menção a prescrição ou a extinção de punibilidade; o réu foi absolvido, não condenado.",
+        "fonte": "acordao",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "1º, I",
+          "diploma": "Decreto-Lei n. 201/67",
+          "evidencia": "pela suposta prática dos crimes previstos no art. 1º, inciso I, do Decreto-Lei n. 201/67"
+        },
+        {
+          "artigo": "90",
+          "diploma": "Lei n. 8.666/93",
+          "evidencia": "e no art. 90, da Lei n. 8.666/93"
+        }
+      ],
+      "n_votantes": {
+        "valor": 9,
+        "evidencia": "Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 9,
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Cármen Lúcia", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": true, "evidencia": "RELATORA: MIN. CÁRMEN LÚCIA", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Pelo exposto, julgo improcedente a denúncia, por falta de prova suficiente para a condenação (...), absolvendo o Réu.", "fonte": "acordao p.18", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "voto vencedor, seguido por unanimidade", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "presente e relatora do caso", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica — ministra presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Menezes Direito", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "REVISOR: MIN. MENEZES DIREITO", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Com isso, impõe-se a improcedência da denúncia e, em consequência, a absolvição do réu.", "fonte": "acordao p.19", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "voto convergente com a maioria unânime", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "presente, votou como revisor", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica — ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Marco Aurélio", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Acompanho integralmente a relatora no voto proferido.", "fonte": "acordao p.20", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "voto convergente com a maioria unânime", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "presente à sessão", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica — ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Carlos Britto (Ayres Britto)", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Senhor Presidente, também acompanho a relatora.", "fonte": "acordao p.21", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "voto convergente com a maioria unânime", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "presente à sessão", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica — ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cezar Peluso", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor; presidiu a sessão de julgamento como Vice-Presidente, na ausência do Presidente Gilmar Mendes", "fonte": "acordao p.1; ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "O réu é inocente, é só isso que importa!", "fonte": "acordao p.22", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "voto convergente com a maioria unânime", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "presente e presidiu a sessão", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica — ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ellen Gracie", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relatora ou revisora", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "dedução: ministra em exercício, listada como presente à sessão, não listada como ausente/impedida/suspeita nem como vencida, em decisão unânime pela absolvição", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "decisão unânime; nenhum ministro consta como vencido na ata", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros (...) Ellen Gracie (...)", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica — ministra presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Joaquim Barbosa", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "dedução: ministro em exercício, listado como presente à sessão, não listado como ausente/impedido/suspeito nem como vencido, em decisão unânime pela absolvição", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "decisão unânime; nenhum ministro consta como vencido na ata", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros (...) Joaquim Barbosa (...)", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica — ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Eros Grau", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "dedução: ministro em exercício, listado como presente à sessão, não listado como ausente/impedido/suspeito nem como vencido, em decisão unânime pela absolvição", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "decisão unânime; nenhum ministro consta como vencido na ata", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros (...) Eros Grau (...)", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica — ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ricardo Lewandowski", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "dedução: ministro em exercício, listado como presente à sessão, não listado como ausente/impedido/suspeito nem como vencido, em decisão unânime pela absolvição", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "decisão unânime; nenhum ministro consta como vencido na ata", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros (...) Ricardo Lewandowski (...)", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica — ministro presente", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Celso de Mello", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, o Senhor Ministro Celso de Mello", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não votou; não se aplica vencido/vencedor", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "Ausentes, justificadamente, o Senhor Ministro Celso de Mello", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "ausência justificada", "evidencia": "Ausentes, justificadamente, o Senhor Ministro Celso de Mello", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Gilmar Mendes", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "não consta como relator ou revisor; é o Presidente do Tribunal, mas não presidiu este julgamento específico", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "neste julgamento, o Senhor Ministro Gilmar Mendes (Presidente)", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não votou; não se aplica vencido/vencedor", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "Ausentes, justificadamente, o Senhor Ministro Celso de Mello e, neste julgamento, o Senhor Ministro Gilmar Mendes (Presidente).", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "ausência justificada, apenas neste julgamento (Presidente do Tribunal)", "evidencia": "neste julgamento, o Senhor Ministro Gilmar Mendes (Presidente). (...) julgamento (...) Presidência do Senhor Ministro Gilmar Mendes. (...) [sessão presidida, para este caso, pelo Vice-Presidente] Senhor Ministro Cezar Peluso (Vice-Presidente)", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "avisos": [
+    "O cabeçalho do acórdão lista 'PROCED.: RIO GRANDE DO SUL', mas todos os fatos narrados (licitação, cargo do réu, instrução processual) ocorreram em Curitiba/PR — possível rótulo administrativo divergente do conteúdo; mantido conforme consta no documento, sem reclassificação.",
+    "A denúncia original incluía os corréus CARLOS ANTÔNIO GUSSO e ARONI GRASSI GUSSO (proprietários da empresa Risotolândia). Em 23/08/2007 a Relatora acolheu parecer da PGR e determinou o desmembramento do processo, remetendo os corréus à Justiça do Paraná por não terem foro privilegiado — eles não constam desta AP nem desta extração (n_reus=1).",
+    "O Ministro Gilmar Mendes é o Presidente do STF, mas consta 'ausente, justificadamente, neste julgamento'; a sessão para este caso específico foi presidida pelo Vice-Presidente, Ministro Cezar Peluso — por isso ele aparece com voto e não como presidente da sessão.",
+    "A Relatora comenta em plenário que o processo 'já esteve até em pauta' antes desta sessão de 07/08/2008, mas não há na ata ou no texto disponibilizado registro de uma votação anterior com placar distinto — tratado como sessão única de mérito (multiplas_sessoes=false), com confiança média por não haver certeza sobre o que ocorreu na pauta anterior mencionada.",
+    "Os votos de Ellen Gracie, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski não aparecem individualizados/transcritos no texto disponibilizado (apenas Cármen Lúcia, Menezes Direito, Marco Aurélio, Carlos Britto e Cezar Peluso têm falas registradas) — foram deduzidos pela regra D-004, já que a ata registra decisão unânime e os cinco últimos constam apenas na lista de presentes.",
+    "Sepúlveda Pertence não consta na lista de presentes nem de ausentes da ata, consistente com a nota do prompt de que já havia deixado o Tribunal em 26/08/2007 — por isso não foi incluído no array de votos."
+  ]
+}

@@ -1,0 +1,867 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-470|1|ementa||1|22|Sim|todos|NA|NA|NA|cabeçalho da autuação p.1-2; ementa p.3-22; sessão final 17/12/2012; ~73k car. (peça conjunta com o acórdão)
+AP-470|2|acordao||22|43|Sim|todos|NA|NA|NA|dispositivo formal por réu/item; começa na p.22 após a ementa; fonte principal da extração do banco (ver JSON)
+AP-470|3|questao_ordem|Ayres Britto;Joaquim Barbosa;Celso de Mello|44|51|Sim|questão de ordem|NA|NA|NA|sessão 02/08/2012; suscitada da tribuna por advogado; ~9k car.
+AP-470|4|questao_ordem|Joaquim Barbosa|52|53|Sim|questão de ordem|NA|NA|NA|sessão 02/08/2012; voto s/ questão de ordem; ~2k car.
+AP-470|5|voto_aditamento|Ricardo Lewandowski|54|57|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; cabeçalho de página "Antecipação ao Voto", título "ADITAMENTO AO VOTO"; ~5k car.; ctx = peças de voto vizinhas
+AP-470|6|voto|Ricardo Lewandowski|58|92|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; cabeçalho de página "Voto s/ Questão de Ordem", título "VOTO"; ~62k car.; ctx = peças de voto vizinhas
+AP-470|7|debate|Ayres Britto;Ricardo Lewandowski;Cezar Peluso|93|94|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; ~1k car.; ctx = peças de voto vizinhas
+AP-470|8|debate|Joaquim Barbosa;Ricardo Lewandowski|95|95|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; ~930 car.; ctx = peças de voto vizinhas
+AP-470|9|aparte|Marco Aurélio|96|96|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; autor da peça: Marco Aurélio; também falam: Ricardo Lewandowski; ~440 car.; ctx = peças de voto vizinhas
+AP-470|10|aparte|Marco Aurélio|97|97|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; autor da peça: Marco Aurélio; também falam: Ricardo Lewandowski; ~534 car.; ctx = peças de voto vizinhas
+AP-470|11|voto_aditamento|Ricardo Lewandowski|98|98|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; peça curta; ~1k car.; ctx = peças de voto vizinhas
+AP-470|12|debate|Joaquim Barbosa;Ayres Britto;Ricardo Lewandowski;Marco Aurélio|99|105|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; ~5k car.; ctx = peças de voto vizinhas
+AP-470|13|outro|Rosa Weber|106|109|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; cabeçalho: Notas para o Voto; ~2k car.; ctx = peças de voto vizinhas
+AP-470|14|questao_ordem|Luiz Fux|110|110|Nao|questão de ordem|NA|NA|NA|sessão 02/08/2012; voto s/ questão de ordem; fala do autor marcada CANCELADO no início da peça; ~852 car.
+AP-470|15|outro|Dias Toffoli|111|118|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; cabeçalho: Antecipação ao Voto; ~14k car.; ctx = peças de voto vizinhas
+AP-470|16|questao_ordem|Cármen Lúcia|119|119|Adesao|questão de ordem|NA|NA|NA|sessão 02/08/2012; voto s/ questão de ordem; ~1k car.
+AP-470|17|questao_ordem|Cezar Peluso|120|125|Sim|questão de ordem|NA|NA|NA|sessão 02/08/2012; voto s/ questão de ordem; ~11k car.
+AP-470|18|questao_ordem|Gilmar Mendes|126|131|Sim|questão de ordem|NA|NA|NA|sessão 02/08/2012; voto s/ questão de ordem; ~10k car.
+AP-470|19|outro|Marco Aurélio|132|135|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; cabeçalho: Antecipação ao Voto; ~7k car.; ctx = peças de voto vizinhas
+AP-470|20|questao_ordem|Celso de Mello;Gilmar Mendes;Marco Aurélio|136|158|Sim|questão de ordem|NA|NA|NA|sessão 02/08/2012; cabeçalho: Antecipação ao Voto; ~39k car.
+AP-470|21|questao_ordem|Ayres Britto|159|160|Sim|questão de ordem|NA|NA|NA|sessão 02/08/2012; cabeçalho: Antecipação ao Voto; ~2k car.
+AP-470|22|questao_ordem|Ayres Britto|161|164|Sim|questão de ordem|NA|NA|NA|sessão 02/08/2012; voto s/ questão de ordem; ~6k car.
+AP-470|23|debate|Marco Aurélio;Ayres Britto;Rosa Weber;Celso de Mello;Dias Toffoli|165|166|Sim|ctx: questão de ordem|NA|NA|NA|sessão 02/08/2012; ~935 car.; ctx = peças de voto vizinhas
+AP-470|24|relatorio|Joaquim Barbosa|167|288|Sim|todos|NA|NA|NA|sessão 02/08/2012; ~233k car.
+AP-470|25|extrato_ata||289|291|Nao|todos|NA|NA|NA|sessão 02/08/2012; extrato de ata cumulativo da sessão de 02/08/2012; ~5k car.
+AP-470|26|aparte|Ayres Britto|292|296|Sim|ctx: questão de ordem|NA|NA|NA|sessão 03/08/2012; ~3k car.; ctx = peças de voto vizinhas
+AP-470|27|extrato_ata||297|299|Nao|todos|NA|NA|NA|sessão 06/08/2012; extrato de ata cumulativo da sessão de 06/08/2012; ~6k car.
+AP-470|28|aparte|Cármen Lúcia|300|300|Sim|ctx: questão de ordem|NA|NA|NA|sessão 07/08/2012; autor da peça: Cármen Lúcia; também falam: Ayres Britto; ~726 car.; ctx = peças de voto vizinhas
+AP-470|29|questao_ordem|Ayres Britto|301|305|Sim|questão de ordem|NA|NA|NA|sessão 07/08/2012; suscitada da tribuna por advogado; ~2k car.
+AP-470|30|questao_ordem|Ayres Britto|306|310|Sim|questão de ordem|NA|NA|NA|sessão 07/08/2012; suscitada da tribuna por advogado; ~2k car.
+AP-470|31|questao_ordem|Ayres Britto|311|311|Sim|questão de ordem|NA|NA|NA|sessão 07/08/2012; voto s/ questão de ordem; peça curta; ~413 car.
+AP-470|32|questao_ordem|Rosa Weber|312|312|Adesao|questão de ordem|NA|NA|NA|sessão 07/08/2012; voto s/ questão de ordem; ~538 car.
+AP-470|33|questao_ordem|Dias Toffoli|313|313|Adesao|questão de ordem|NA|NA|NA|sessão 07/08/2012; voto s/ questão de ordem; ~956 car.
+AP-470|34|questao_ordem|Ricardo Lewandowski|314|314|Adesao|questão de ordem|NA|NA|NA|sessão 07/08/2012; voto s/ questão de ordem; ~582 car.
+AP-470|35|questao_ordem|Joaquim Barbosa|315|315|Sim|questão de ordem|NA|NA|NA|sessão 07/08/2012; voto s/ questão de ordem; peça curta; ~196 car.
+AP-470|36|questao_ordem|Cezar Peluso|316|316|Adesao|questão de ordem|NA|NA|NA|sessão 07/08/2012; voto s/ questão de ordem; ~167 car.
+AP-470|37|questao_ordem|Gilmar Mendes|317|317|Adesao|questão de ordem|NA|NA|NA|sessão 07/08/2012; voto s/ questão de ordem; ~214 car.
+AP-470|38|questao_ordem|Marco Aurélio|318|318|Adesao|questão de ordem|NA|NA|NA|sessão 07/08/2012; voto s/ questão de ordem; ~1k car.
+AP-470|39|questao_ordem|Celso de Mello|319|321|Sim|questão de ordem|NA|NA|NA|sessão 07/08/2012; voto s/ questão de ordem; ~3k car.
+AP-470|40|aparte|Ayres Britto|322|322|Sim|ctx: questão de ordem / preliminares|NA|NA|NA|sessão 07/08/2012; ~758 car.; ctx = peças de voto vizinhas
+AP-470|41|extrato_ata||323|326|Nao|todos|NA|NA|NA|sessão 07/08/2012; extrato de ata cumulativo da sessão de 07/08/2012; ~6k car.
+AP-470|42|aparte|Dias Toffoli|327|327|Sim|ctx: questão de ordem / preliminares|NA|NA|NA|sessão 08/08/2012; ~734 car.; ctx = peças de voto vizinhas
+AP-470|43|extrato_ata||328|331|Nao|todos|NA|NA|NA|sessão 08/08/2012; extrato de ata cumulativo da sessão de 08/08/2012; ~7k car.
+AP-470|44|aparte|Joaquim Barbosa|332|337|Sim|ctx: questão de ordem / preliminares|NA|NA|NA|sessão 09/08/2012; ~5k car.; ctx = peças de voto vizinhas
+AP-470|45|extrato_ata||338|341|Nao|todos|NA|NA|NA|sessão 09/08/2012; extrato de ata cumulativo da sessão de 09/08/2012; ~7k car.
+AP-470|46|aparte|Cezar Peluso|342|346|Sim|ctx: questão de ordem / preliminares|NA|NA|NA|OCR vazio (p.342-346 são imagem sem camada de texto); autor e data (10/08/2012) lidos no PDF, p.342; ~4 car.; ctx = peças de voto vizinhas
+AP-470|47|extrato_ata||347|350|Nao|todos|NA|NA|NA|sessão 10/08/2012; extrato de ata cumulativo da sessão de 10/08/2012; ~8k car.
+AP-470|48|debate|Ayres Britto;Marco Aurélio;Gilmar Mendes;Joaquim Barbosa;Celso de Mello;Ricardo Lewandowski;Luiz Fux;Cármen Lúcia|351|354|Sim|ctx: questão de ordem / preliminares|NA|NA|NA|sessão 13/08/2012; ~5k car.; ctx = peças de voto vizinhas
+AP-470|49|extrato_ata||355|359|Nao|todos|NA|NA|NA|sessão 13/08/2012; extrato de ata cumulativo da sessão de 13/08/2012; ~9k car.
+AP-470|50|aparte|Marco Aurélio|360|360|Sim|ctx: questão de ordem / preliminares|NA|NA|NA|sessão 14/08/2012; autor da peça: Marco Aurélio; também falam: Ayres Britto; ~1k car.; ctx = peças de voto vizinhas
+AP-470|51|extrato_ata||361|365|Nao|todos|NA|NA|NA|sessão 14/08/2012; extrato de ata cumulativo da sessão de 14/08/2012; ~9k car.
+AP-470|52|outro|Ayres Britto|366|366|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; cabeçalho: Proposta; peça curta; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|53|outro|Marco Aurélio|367|367|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; cabeçalho: Voto s/ Proposta; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|54|aparte|Ricardo Lewandowski|368|368|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; autor da peça: Ricardo Lewandowski; também falam: Ayres Britto; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|55|outro|Gilmar Mendes|369|369|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; cabeçalho: Voto s/ Proposta; peça curta; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|56|outro|Joaquim Barbosa|370|370|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; cabeçalho: Voto s/ Proposta; peça curta; ~541 car.; ctx = itens votados na mesma sessão
+AP-470|57|outro|Rosa Weber|371|371|Adesao|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; cabeçalho: Voto s/ Proposta; ~401 car.; ctx = itens votados na mesma sessão
+AP-470|58|outro|Dias Toffoli|372|372|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; cabeçalho: Voto s/ Proposta; peça curta; ~394 car.; ctx = itens votados na mesma sessão
+AP-470|59|outro|Cármen Lúcia|373|374|Adesao|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; cabeçalho: Voto s/ Proposta; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|60|debate|Joaquim Barbosa;Gilmar Mendes;Luiz Fux|375|375|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~432 car.; ctx = itens votados na mesma sessão
+AP-470|61|aparte|Ricardo Lewandowski|376|377|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; autor da peça: Ricardo Lewandowski; também falam: Marco Aurélio; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|62|outro|Celso de Mello|378|378|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; cabeçalho: Voto s/ Proposta; peça curta; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|63|voto|Joaquim Barbosa|379|425|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; ~66k car.
+AP-470|64|voto|Ricardo Lewandowski|426|443|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; ~30k car.
+AP-470|65|voto|Marco Aurélio|444|444|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; peça curta; ~1k car.
+AP-470|66|voto_aditamento|Ricardo Lewandowski|445|445|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; peça curta; ~1k car.
+AP-470|67|aparte|Marco Aurélio|446|446|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; autor da peça: Marco Aurélio; também falam: Ricardo Lewandowski; ~445 car.; ctx = itens votados na mesma sessão
+AP-470|68|aparte|Joaquim Barbosa|447|447|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; autor da peça: Joaquim Barbosa; também falam: Ayres Britto; ~480 car.; ctx = itens votados na mesma sessão
+AP-470|69|voto_aditamento|Ricardo Lewandowski|448|448|Adesao|preliminares|NA|NA|NA|sessão 15/08/2012; ~1k car.
+AP-470|70|debate|Marco Aurélio;Celso de Mello;Joaquim Barbosa;Cezar Peluso;Ricardo Lewandowski;Ayres Britto|449|452|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|71|aparte|Joaquim Barbosa|453|453|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~432 car.; ctx = itens votados na mesma sessão
+AP-470|72|voto_aditamento|Ricardo Lewandowski|454|455|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; ~2k car.
+AP-470|73|debate|Ayres Britto;Joaquim Barbosa|456|458|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|74|voto|Rosa Weber|459|459|Adesao|preliminares|NA|NA|NA|sessão 15/08/2012; ~240 car.
+AP-470|75|voto|Luiz Fux|460|460|Nao|preliminares|NA|NA|NA|sessão 15/08/2012; fala do autor marcada CANCELADO no início da peça; ~295 car.
+AP-470|76|voto_aditamento|Dias Toffoli|461|461|Adesao|preliminares|NA|NA|NA|sessão 15/08/2012; ~698 car.
+AP-470|77|voto|Cármen Lúcia|462|462|Adesao|preliminares|NA|NA|NA|sessão 15/08/2012; ~324 car.
+AP-470|78|voto|Cezar Peluso|463|463|Adesao|preliminares|NA|NA|NA|sessão 15/08/2012; ~565 car.
+AP-470|79|voto|Gilmar Mendes|464|464|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; peça curta; ~334 car.
+AP-470|80|voto|Marco Aurélio|465|466|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; ~3k car.
+AP-470|81|questao_ordem|Celso de Mello;Ayres Britto;Joaquim Barbosa;Marco Aurélio;Gilmar Mendes|467|479|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; ~21k car.
+AP-470|82|voto_aditamento|Ayres Britto|480|481|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; ~2k car.
+AP-470|83|debate|Luiz Fux;Joaquim Barbosa;Ayres Britto;Cezar Peluso;Celso de Mello;Marco Aurélio;Gilmar Mendes|482|487|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; fala do autor marcada CANCELADO no início da peça; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|84|aparte|Joaquim Barbosa|488|489|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; autor da peça: Joaquim Barbosa; também falam: Marco Aurélio, Ayres Britto; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|85|debate|Marco Aurélio;Joaquim Barbosa;Gilmar Mendes;Ricardo Lewandowski;Ayres Britto;Celso de Mello;Dias Toffoli|490|494|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|86|voto_aditamento|Ricardo Lewandowski|495|495|Adesao|preliminares|NA|NA|NA|sessão 15/08/2012; ~937 car.
+AP-470|87|aparte|Dias Toffoli|496|496|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~289 car.; ctx = itens votados na mesma sessão
+AP-470|88|voto|Dias Toffoli|497|543|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; ~84k car.
+AP-470|89|voto_aditamento|Ricardo Lewandowski|544|544|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; peça curta; ~579 car.
+AP-470|90|aparte|Ayres Britto|545|545|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~178 car.; ctx = itens votados na mesma sessão
+AP-470|91|voto|Ayres Britto|546|557|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; ~22k car.
+AP-470|92|voto|Marco Aurélio|558|558|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; peça curta; ~278 car.
+AP-470|93|voto|Marco Aurélio|559|559|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; peça curta; ~321 car.
+AP-470|94|voto|Celso de Mello|560|561|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; cabeçalho de página "Aditamento ao Voto s/ Preliminar", título "VOTO"; ~3k car.
+AP-470|95|voto_aditamento|Ricardo Lewandowski|562|562|Adesao|preliminares|NA|NA|NA|sessão 15/08/2012; ~440 car.
+AP-470|96|voto|Marco Aurélio|563|563|Adesao|preliminares|NA|NA|NA|sessão 15/08/2012; ~447 car.
+AP-470|97|voto_aditamento|Ricardo Lewandowski|564|564|Adesao|preliminares|NA|NA|NA|sessão 15/08/2012; ~809 car.
+AP-470|98|voto|Marco Aurélio|565|565|Adesao|preliminares|NA|NA|NA|sessão 15/08/2012; ~1k car.
+AP-470|99|debate|Celso de Mello;Ayres Britto;Joaquim Barbosa;Ricardo Lewandowski;Gilmar Mendes|566|573|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~8k car.; ctx = itens votados na mesma sessão
+AP-470|100|debate|Joaquim Barbosa;Ayres Britto;Celso de Mello;Marco Aurélio|574|579|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|101|voto_aditamento|Joaquim Barbosa|580|580|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; peça curta; ~589 car.
+AP-470|102|debate|Ricardo Lewandowski;Marco Aurélio;Joaquim Barbosa;Ayres Britto;Dias Toffoli;Celso de Mello;Gilmar Mendes|581|585|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~6k car.; ctx = itens votados na mesma sessão
+AP-470|103|debate|Joaquim Barbosa;Ricardo Lewandowski;Ayres Britto;Marco Aurélio;Celso de Mello;Cezar Peluso|586|604|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~27k car.; ctx = itens votados na mesma sessão
+AP-470|104|voto_aditamento|Dias Toffoli|605|606|Sim|preliminares|NA|NA|NA|sessão 15/08/2012; ~2k car.
+AP-470|105|voto|Rosa Weber|607|607|Adesao|preliminares|NA|NA|NA|sessão 15/08/2012; ~1k car.
+AP-470|106|debate|Ayres Britto;Celso de Mello;Cezar Peluso;Ricardo Lewandowski;Joaquim Barbosa|608|611|Sim|ctx: preliminares|NA|NA|NA|sessão 15/08/2012; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|107|extrato_ata||612|617|Nao|todos|NA|NA|NA|sessão 15/08/2012; extrato de ata cumulativo da sessão de 15/08/2012; ~15k car.
+AP-470|108|aparte|Joaquim Barbosa|618|618|Sim|ctx: item III|NA|NA|NA|sessão 16/08/2012; ~318 car.; ctx = itens votados na mesma sessão
+AP-470|109|aparte|Joaquim Barbosa|619|625|Sim|ctx: item III|NA|NA|NA|sessão 16/08/2012; autor da peça: Joaquim Barbosa; também falam: Ricardo Lewandowski, Ayres Britto, Marco Aurélio; ~5k car.; ctx = itens votados na mesma sessão
+AP-470|110|outro|Ayres Britto;Marco Aurélio;Ricardo Lewandowski;Joaquim Barbosa|626|628|Sim|ctx: item III|NA|NA|NA|sessão 16/08/2012; cabeçalho: Proposta; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|111|outro|Rosa Weber|629|629|Adesao|ctx: item III|NA|NA|NA|sessão 16/08/2012; cabeçalho: Voto s/ Proposta; ~165 car.; ctx = itens votados na mesma sessão
+AP-470|112|outro|Dias Toffoli|630|630|Adesao|ctx: item III|NA|NA|NA|sessão 16/08/2012; cabeçalho: Voto s/ Proposta; ~906 car.; ctx = itens votados na mesma sessão
+AP-470|113|outro|Cármen Lúcia|631|632|Sim|ctx: item III|NA|NA|NA|sessão 16/08/2012; cabeçalho: Voto s/ Proposta; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|114|outro|Cezar Peluso|633|633|Adesao|ctx: item III|NA|NA|NA|sessão 16/08/2012; cabeçalho: Voto s/ Proposta; ~587 car.; ctx = itens votados na mesma sessão
+AP-470|115|outro|Marco Aurélio|634|636|Sim|ctx: item III|NA|NA|NA|sessão 16/08/2012; cabeçalho: Voto s/ Proposta; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|116|outro|Celso de Mello|637|640|Sim|ctx: item III|NA|NA|NA|sessão 16/08/2012; cabeçalho: Voto s/ Proposta; fala do autor marcada CANCELADO no início da peça; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|117|outro|Joaquim Barbosa|641|641|Sim|item III (?)|NA|NA|NA|sessão 16/08/2012; cabeçalho: Antecipação ao Voto; peça curta; ~401 car.; alcance inferido pela posição: adjacente ao voto p.642-812
+AP-470|118|voto|Joaquim Barbosa|642|812|Sim|item III|varia|varia|varia|sessão 16/08/2012; banco (18 linhas réu×fato): Condena 17, Absolve 1; vencido=Sim em 1; ~321k car.; subdivisão por títulos internos: Câmara dos Deputados (III.1) a partir da p.645; Banco do Brasil (III.2/III.3) a partir da p.709
+AP-470|119|voto_aditamento|Joaquim Barbosa|813|813|Sim|ctx: item III|NA|NA|NA|sessão 16/08/2012; peça curta; ~504 car.; ctx = peças de voto vizinhas
+AP-470|120|debate|Marco Aurélio;Joaquim Barbosa;Ayres Britto;Ricardo Lewandowski|814|823|Sim|ctx: item III|NA|NA|NA|sessão 16/08/2012; ~9k car.; ctx = itens votados na mesma sessão
+AP-470|121|extrato_ata||824|830|Nao|todos|NA|NA|NA|sessão 16/08/2012; extrato de ata cumulativo da sessão de 16/08/2012; ~15k car.
+AP-470|122|aparte|Joaquim Barbosa|831|831|Sim|ctx: item III|NA|NA|NA|sessão 20/08/2012; ~309 car.; ctx = peças de voto vizinhas
+AP-470|123|aparte|Ayres Britto|832|835|Sim|ctx: item III|NA|NA|NA|sessão 20/08/2012; ~521 car.; ctx = peças de voto vizinhas
+AP-470|124|debate|Ricardo Lewandowski;Joaquim Barbosa;Ayres Britto|836|837|Sim|ctx: item III|NA|NA|NA|sessão 20/08/2012; ~3k car.; ctx = peças de voto vizinhas
+AP-470|125|outro|Ayres Britto;Marco Aurélio;Celso de Mello;Joaquim Barbosa;Ricardo Lewandowski;Luiz Fux|838|848|Sim|ctx: item III|NA|NA|NA|sessão 20/08/2012; cabeçalho: Aditamento à proposta; ~12k car.; ctx = peças de voto vizinhas
+AP-470|126|aparte|Joaquim Barbosa|849|852|Sim|ctx: item III|NA|NA|NA|sessão 20/08/2012; ~736 car.; ctx = peças de voto vizinhas
+AP-470|127|outro|Marco Aurélio|853|853|Sim|ctx: item III|NA|NA|NA|sessão 20/08/2012; cabeçalho: Voto s/ Proposta; peça curta; ~851 car.; ctx = peças de voto vizinhas
+AP-470|128|extrato_ata||854|860|Nao|todos|NA|NA|NA|sessão 20/08/2012; extrato de ata cumulativo da sessão de 20/08/2012; ~17k car.
+AP-470|129|outro|Ricardo Lewandowski|861|861|Sim|item III (?)|NA|NA|NA|sessão 22/08/2012; cabeçalho: Antecipação ao Voto; peça curta; ~1k car.; alcance inferido pela posição: adjacente ao voto p.862-1019
+AP-470|130|voto|Ricardo Lewandowski|862|1019|Sim|item III|varia|varia|varia|sessão 22/08/2012; banco (18 linhas réu×fato): Absolve 10, Condena 8; vencido=Sim em 8; ~274k car.; ordem interna: abre por III.2/III.3 (p.862) e termina com III.1
+AP-470|131|aparte|Ricardo Lewandowski|1020|1020|Sim|ctx: item III|NA|NA|NA|sessão 22/08/2012; ~964 car.; ctx = itens votados na mesma sessão
+AP-470|132|aparte|Ricardo Lewandowski|1021|1021|Sim|ctx: item III|NA|NA|NA|sessão 22/08/2012; autor da peça: Ricardo Lewandowski; também falam: Joaquim Barbosa; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|133|debate|Ricardo Lewandowski;Joaquim Barbosa;Marco Aurélio;Cármen Lúcia|1022|1026|Sim|ctx: item III|NA|NA|NA|sessão 22/08/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|134|debate|Ayres Britto;Ricardo Lewandowski;Joaquim Barbosa;Marco Aurélio;Celso de Mello|1027|1031|Sim|ctx: item III|NA|NA|NA|sessão 22/08/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|135|extrato_ata||1032|1038|Nao|todos|NA|NA|NA|sessão 22/08/2012; extrato de ata cumulativo da sessão de 22/08/2012; ~17k car.
+AP-470|136|aparte|Ricardo Lewandowski|1039|1039|Sim|ctx: item III|NA|NA|NA|sessão 23/08/2012; ~544 car.; ctx = peças de voto vizinhas
+AP-470|137|aparte|Ricardo Lewandowski|1040|1040|Sim|ctx: item III|NA|NA|NA|sessão 23/08/2012; autor da peça: Ricardo Lewandowski; também falam: Ayres Britto; ~936 car.; ctx = peças de voto vizinhas
+AP-470|138|aparte|Gilmar Mendes|1041|1042|Sim|ctx: item III|NA|NA|NA|sessão 23/08/2012; autor da peça: Gilmar Mendes; também falam: Ayres Britto, Ricardo Lewandowski, Celso de Mello; ~2k car.; ctx = peças de voto vizinhas
+AP-470|139|aparte|Ayres Britto|1043|1043|Sim|ctx: item III|NA|NA|NA|sessão 23/08/2012; autor da peça: Ayres Britto; também falam: Ricardo Lewandowski; ~629 car.; ctx = peças de voto vizinhas
+AP-470|140|debate|Joaquim Barbosa;Ayres Britto;Ricardo Lewandowski;Gilmar Mendes;Marco Aurélio|1044|1051|Sim|ctx: item III|NA|NA|NA|sessão 23/08/2012; ~6k car.; ctx = peças de voto vizinhas
+AP-470|141|extrato_ata||1052|1059|Nao|todos|NA|NA|NA|sessão 23/08/2012; extrato de ata cumulativo da sessão de 23/08/2012; ~18k car.
+AP-470|142|voto|Rosa Weber|1060|1082|Sim|preliminares|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); introdução (A) p.1061; preliminares (B) p.1065; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|143|voto|Rosa Weber|1083|1099|Sim|mérito — parte inicial|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); título C.1 p.1083; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|144|voto|Rosa Weber|1099|1159|Sim|item III|varia|varia|varia|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); III.1 p.1105; III.3 p.1134; III.2 p.1148; banco (18 linhas réu×fato): Condena 16, Absolve 2; vencido=Sim em 0; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|145|voto|Rosa Weber|1159|1200|Sim|item V|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); título C.3; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|146|voto|Rosa Weber|1200|1260|Sim|item IV|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); título C.4; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|147|voto|Rosa Weber|1260|1267|Sim|AP-470-R01 (imputação sem linha no banco)|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); título C.5 (complementação, réu João Paulo Cunha); limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|148|voto|Rosa Weber|1267|1367|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); título C.6; subtítulo "VI.2, VI.3, VI.4 E VI.7" p.1365; banco (10 linhas réu×fato): Condena 10; vencido=Sim em 0; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|149|voto|Rosa Weber|1367|1405|Sim|item VI (corrupção ativa)|varia|varia|varia|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); título C.7; banco (10 linhas réu×fato): Condena 8, Absolve 2; vencido=Sim em 0; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|150|voto|Rosa Weber|1405|1409|Sim|item VII|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); título C.8; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|151|voto|Rosa Weber|1409|1425|Sim|item VIII|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); título C.9; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|152|voto|Rosa Weber|1425|1433|Sim|item II|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); título C.10; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|153|voto|Rosa Weber|1433|1438|Sim|dosimetria|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); título D; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|154|voto|Rosa Weber|1438|1478|Sim|perda de mandato|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1060-1478 (cabeçalho "Voto - MIN. ROSA WEBER"); título E; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|155|debate|Joaquim Barbosa;Rosa Weber;Ricardo Lewandowski;Ayres Britto;Cezar Peluso;Cármen Lúcia;Celso de Mello|1479|1486|Sim|ctx: item III|NA|NA|NA|sessão 27/08/2012; ~14k car.; ctx = itens votados na mesma sessão
+AP-470|156|outro|Luiz Fux|1487|1489|Nao|item III (?)|NA|NA|NA|sessão 27/08/2012; cabeçalho: Antecipação ao Voto; fala do autor marcada CANCELADO no início da peça; ~2k car.; alcance inferido pela posição: adjacente ao voto p.1490-1612
+AP-470|157|voto|Luiz Fux|1490|1612|Sim|item III|varia|varia|varia|sessão 27/08/2012; banco (18 linhas réu×fato): Condena 17, Absolve 1; vencido=Sim em 1; ~220k car.
+AP-470|158|outro|Dias Toffoli|1613|1613|Sim|item III (?)|NA|NA|NA|sessão 27/08/2012; cabeçalho: Antecipação ao Voto; peça curta; ~1k car.; alcance inferido pela posição: adjacente ao voto p.1614-1765
+AP-470|159|voto|Dias Toffoli|1614|1765|Sim|item III|varia|varia|varia|sessão 27/08/2012; banco (18 linhas réu×fato): Absolve 10, Condena 8; vencido=Sim em 8; ~277k car.; abre por III.1 (p.1614)
+AP-470|160|outro|Dias Toffoli|1766|1766|Sim|item III (?)|NA|NA|NA|sessão 27/08/2012; cabeçalho: Incidências ao Voto; peça curta; ~1k car.; alcance inferido pela posição: adjacente ao voto p.1614-1765
+AP-470|161|aparte|Joaquim Barbosa|1767|1773|Sim|ctx: item III|NA|NA|NA|sessão 27/08/2012; autor da peça: Joaquim Barbosa; também falam: Dias Toffoli, Ayres Britto, Ricardo Lewandowski; ~8k car.; ctx = itens votados na mesma sessão
+AP-470|162|outro|Cármen Lúcia|1774|1783|Sim|ctx: item III|NA|NA|NA|sessão 27/08/2012; cabeçalho: Antecipação ao Voto; ~18k car.; ctx = itens votados na mesma sessão
+AP-470|163|voto|Cármen Lúcia|1784|1796|Sim|preliminares|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1784-2147 (cabeçalho "Voto - MIN. CÁRMEN LÚCIA"); abertura; título "I - PRELIMINAR" p.1789; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|164|voto|Cármen Lúcia|1796|1876|Sim|item III|varia|varia|varia|sessão 27/08/2012; segmento do voto único p.1784-2147 (cabeçalho "Voto - MIN. CÁRMEN LÚCIA"); títulos II (III.1) p.1796; III (III.2) p.1821; IV (III.3) p.1834; banco (18 linhas réu×fato): Condena 17, Absolve 1; vencido=Sim em 1; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|165|voto|Cármen Lúcia|1876|1908|Sim|item V|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1784-2147 (cabeçalho "Voto - MIN. CÁRMEN LÚCIA"); título V; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|166|voto|Cármen Lúcia|1908|1940|Sim|item IV|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1784-2147 (cabeçalho "Voto - MIN. CÁRMEN LÚCIA"); título VI; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|167|voto|Cármen Lúcia|1940|2018|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 27/08/2012; segmento do voto único p.1784-2147 (cabeçalho "Voto - MIN. CÁRMEN LÚCIA"); título VII; 7.1 PP p.1953; 7.2 PL p.1975; 7.3 PTB p.1990; 7.4 PMDB p.2014; banco (10 linhas réu×fato): Condena 10; vencido=Sim em 0; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|168|voto|Cármen Lúcia|2018|2070|Sim|item VI (corrupção ativa)|varia|varia|varia|sessão 27/08/2012; segmento do voto único p.1784-2147 (cabeçalho "Voto - MIN. CÁRMEN LÚCIA"); título VIII; banco (10 linhas réu×fato): Condena 8, Absolve 2; vencido=Sim em 0; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|169|voto|Cármen Lúcia|2070|2111|Sim|item VII|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1784-2147 (cabeçalho "Voto - MIN. CÁRMEN LÚCIA"); título IX; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|170|voto|Cármen Lúcia|2111|2140|Sim|item VIII|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1784-2147 (cabeçalho "Voto - MIN. CÁRMEN LÚCIA"); títulos X p.2111 e XI p.2117; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|171|voto|Cármen Lúcia|2140|2147|Sim|item II|NA|NA|NA|sessão 27/08/2012; segmento do voto único p.1784-2147 (cabeçalho "Voto - MIN. CÁRMEN LÚCIA"); título XII; limites pelos títulos internos; página de fronteira pode ser compartilhada
+AP-470|172|extrato_ata||2148|2155|Nao|todos|NA|NA|NA|sessão 27/08/2012; extrato de ata cumulativo da sessão de 27/08/2012; ~20k car.
+AP-470|173|outro|Cezar Peluso|2156|2178|Sim|item III (?)|NA|NA|NA|sessão 29/08/2012; cabeçalho: Antecipação ao Voto; ~46k car.; alcance inferido pela posição: adjacente ao voto p.2179-2291
+AP-470|174|voto|Cezar Peluso|2179|2291|Sim|item III|varia|varia|varia|sessão 29/08/2012; banco (18 linhas réu×fato): Condena 16, Absolve 2; vencido=Sim em 0; ~192k car.
+AP-470|175|outro|Gilmar Mendes|2292|2292|Sim|item III (?)|NA|NA|NA|sessão 29/08/2012; cabeçalho: Antecipação ao Voto; peça curta; ~900 car.; alcance inferido pela posição: adjacente ao voto p.2293-2412
+AP-470|176|voto|Gilmar Mendes|2293|2412|Sim|item III|varia|varia|varia|sessão 29/08/2012; banco (18 linhas réu×fato): Condena 16, Absolve 2; vencido=Sim em 0; ~239k car.
+AP-470|177|aparte|Ricardo Lewandowski|2413|2414|Sim|ctx: item III|NA|NA|NA|sessão 29/08/2012; autor da peça: Ricardo Lewandowski; também falam: Gilmar Mendes, Cezar Peluso, Dias Toffoli, Ayres Britto; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|178|voto|Marco Aurélio|2415|2423|Sim|item III|varia|varia|varia|sessão 29/08/2012; banco (18 linhas réu×fato): Condena 17, Absolve 1; vencido=Sim em 1; ~19k car.
+AP-470|179|debate|Marco Aurélio;Ricardo Lewandowski;Celso de Mello;Dias Toffoli;Ayres Britto;Luiz Fux;Joaquim Barbosa;Rosa Weber|2424|2431|Sim|ctx: item III|NA|NA|NA|sessão 29/08/2012; ~6k car.; ctx = itens votados na mesma sessão
+AP-470|180|voto|Celso de Mello|2432|2450|Sim|item III|varia|varia|varia|sessão 29/08/2012; cabeçalho de página "Antecipação ao Voto", título "VOTO"; banco (18 linhas réu×fato): Condena 16, Absolve 2; vencido=Sim em 0; ~34k car.
+AP-470|181|voto_aditamento|Celso de Mello|2451|2451|Nao|ctx: item III|NA|NA|NA|sessão 29/08/2012; fala do autor marcada CANCELADO no início da peça; ~496 car.; ctx = peças de voto vizinhas
+AP-470|182|voto_aditamento|Gilmar Mendes|2452|2452|Sim|ctx: item III|NA|NA|NA|sessão 29/08/2012; peça curta; ~384 car.; ctx = peças de voto vizinhas
+AP-470|183|aparte|Celso de Mello|2453|2454|Sim|ctx: item III|NA|NA|NA|sessão 29/08/2012; autor da peça: Celso de Mello; também falam: Ayres Britto, Joaquim Barbosa; fala do autor marcada CANCELADO no início da peça; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|184|outro|Ricardo Lewandowski|2455|2455|Sim|AP-470-R01|Absolve|Não|lido|sessão 29/08/2012; cabeçalho: Retificação de Voto; peça curta; ~1k car.; trata só do fato peculato item III.1 (a.3) IFT de R01; banco copiado dessa linha (id_voto 243)
+AP-470|185|aparte|Joaquim Barbosa|2456|2459|Sim|ctx: item III|NA|NA|NA|sessão 29/08/2012; autor da peça: Joaquim Barbosa; também falam: Celso de Mello, Ayres Britto, Ricardo Lewandowski; ~6k car.; ctx = itens votados na mesma sessão
+AP-470|186|voto_aditamento|Marco Aurélio|2460|2461|Sim|ctx: item III|NA|NA|NA|sessão 29/08/2012; ~3k car.; ctx = peças de voto vizinhas
+AP-470|187|extrato_ata||2462|2470|Nao|todos|NA|NA|NA|sessão 29/08/2012; extrato de ata cumulativo da sessão de 29/08/2012; ~22k car.
+AP-470|188|voto|Ayres Britto|2471|2491|Sim|item III|varia|varia|varia|sessão 30/08/2012; banco (18 linhas réu×fato): Condena 17, Absolve 1; vencido=Sim em 1; ~43k car.
+AP-470|189|aparte|Ayres Britto|2492|2496|Sim|ctx: item III/item V|NA|NA|NA|sessão 30/08/2012; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|190|outro|Ayres Britto|2497|2505|Sim|ctx: item III/item V|NA|NA|NA|sessão 30/08/2012; cabeçalho: Incidências ao Voto; ~16k car.; ctx = itens votados na mesma sessão
+AP-470|191|debate|Ricardo Lewandowski;Rosa Weber;Joaquim Barbosa;Ayres Britto;Marco Aurélio;Cármen Lúcia;Gilmar Mendes;Celso de Mello|2506|2512|Sim|ctx: item III/item V|NA|NA|NA|sessão 30/08/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|192|voto|Joaquim Barbosa|2513|2579|Sim|item V|NA|NA|NA|sessão 30/08/2012; ~127k car.
+AP-470|193|extrato_ata||2580|2589|Nao|todos|NA|NA|NA|sessão 30/08/2012; extrato de ata cumulativo da sessão de 30/08/2012; ~24k car.
+AP-470|194|aparte|Ayres Britto|2590|2590|Sim|ctx: item V|NA|NA|NA|sessão 03/09/2012; autor da peça: Ayres Britto; também falam: Joaquim Barbosa; ~785 car.; ctx = itens votados na mesma sessão
+AP-470|195|debate|Cármen Lúcia;Joaquim Barbosa;Celso de Mello|2591|2592|Sim|ctx: item V|NA|NA|NA|sessão 03/09/2012; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|196|voto|Ricardo Lewandowski|2593|2665|Sim|item V|NA|NA|NA|sessão 03/09/2012; ~129k car.
+AP-470|197|extrato_ata||2666|2675|Nao|todos|NA|NA|NA|sessão 03/09/2012; extrato de ata cumulativo da sessão de 03/09/2012; ~25k car.
+AP-470|198|extrato_ata|Cezar Peluso|2675|2675|Nao|item VI (passiva e ativa)|varia|varia|varia|linha criada porque o banco registra votos deste ministro no item VI; banco (20 linhas réu×fato): Condena 18, Absolve 2; vencido=Sim em 0; DIVERGE: nenhuma peça de autoria de Cezar Peluso após a p.2291 (última fala localizada em peça alheia, p.2497-2505); ausente da lista de presentes a partir da ata de 03.09.2012 (p.2675) e das sessões do item VI (ex.: p.3715, p.4996); ata final do item VI (p.8380-8383) não o nomeia; não localizado como votante do item VI
+AP-470|199|aparte|Ricardo Lewandowski|2676|2676|Sim|ctx: item V|NA|NA|NA|sessão 05/09/2012; ~890 car.; ctx = itens votados na mesma sessão
+AP-470|200|aparte|Joaquim Barbosa|2677|2679|Sim|ctx: item V|NA|NA|NA|sessão 05/09/2012; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|201|debate|Ricardo Lewandowski;Joaquim Barbosa;Ayres Britto;Marco Aurélio;Gilmar Mendes;Celso de Mello|2680|2681|Sim|ctx: item V|NA|NA|NA|sessão 05/09/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|202|debate|Joaquim Barbosa;Ricardo Lewandowski;Celso de Mello|2682|2684|Sim|ctx: item V|NA|NA|NA|sessão 05/09/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|203|voto|Luiz Fux|2685|2743|Sim|item V|NA|NA|NA|sessão 05/09/2012; ~105k car.
+AP-470|204|voto_aditamento|Luiz Fux|2744|2746|Sim|item V|NA|NA|NA|sessão 05/09/2012; fala do autor marcada CANCELADO no início da peça; ~3k car.
+AP-470|205|voto|Dias Toffoli|2747|2813|Sim|item V|NA|NA|NA|sessão 05/09/2012; ~124k car.
+AP-470|206|aparte|Dias Toffoli|2814|2814|Sim|ctx: item V|NA|NA|NA|sessão 05/09/2012; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|207|debate|Dias Toffoli;Joaquim Barbosa;Ayres Britto;Cármen Lúcia|2815|2817|Sim|ctx: item V|NA|NA|NA|sessão 05/09/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|208|voto_aditamento|Cármen Lúcia|2818|2824|Sim|item V|NA|NA|NA|sessão 05/09/2012; ~12k car.
+AP-470|209|extrato_ata||2825|2834|Nao|todos|NA|NA|NA|sessão 05/09/2012; extrato de ata cumulativo da sessão de 05/09/2012; ~25k car.
+AP-470|210|voto|Gilmar Mendes|2835|2877|Sim|item V|NA|NA|NA|sessão 06/09/2012; ~85k car.
+AP-470|211|voto|Marco Aurélio|2878|2883|Sim|item V|NA|NA|NA|sessão 06/09/2012; ~12k car.
+AP-470|212|voto_aditamento|Celso de Mello|2884|2886|Nao|item V|NA|NA|NA|sessão 06/09/2012; fala do autor marcada CANCELADO no início da peça; ~2k car.
+AP-470|213|voto|Ayres Britto|2887|2910|Sim|item V|NA|NA|NA|sessão 06/09/2012; ~49k car.
+AP-470|214|voto_aditamento|Ayres Britto|2911|2924|Sim|item V|NA|NA|NA|sessão 06/09/2012; ~27k car.
+AP-470|215|extrato_ata||2925|2934|Nao|todos|NA|NA|NA|sessão 06/09/2012; extrato de ata cumulativo da sessão de 06/09/2012; ~26k car.
+AP-470|216|voto|Joaquim Barbosa|2935|3031|Sim|item IV|NA|NA|NA|sessão 10/09/2012; ~184k car.
+AP-470|217|aparte|Joaquim Barbosa|3032|3033|Sim|ctx: item IV|NA|NA|NA|sessão 10/09/2012; autor da peça: Joaquim Barbosa; também falam: Ayres Britto, Gilmar Mendes, Marco Aurélio; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|218|extrato_ata||3034|3044|Nao|todos|NA|NA|NA|sessão 06/09/2012; extrato de ata cumulativo da sessão de 06/09/2012; ~27k car.
+AP-470|219|questao_ordem|Ayres Britto;Joaquim Barbosa|3045|3045|Sim|questão de ordem|NA|NA|NA|sessão 12/09/2012; suscitada da tribuna por advogado; ~1k car.
+AP-470|220|outro|Ricardo Lewandowski|3046|3046|Sim|item IV|NA|NA|NA|sessão 12/09/2012; cabeçalho: Antecipação ao Voto; peça curta; ~844 car.
+AP-470|221|voto|Ricardo Lewandowski|3047|3124|Sim|item IV|NA|NA|NA|sessão 12/09/2012; ~139k car.
+AP-470|222|voto_aditamento|Ricardo Lewandowski|3125|3135|Sim|ctx: item IV|NA|NA|NA|sessão 12/09/2012; ~18k car.; ctx = peças de voto vizinhas
+AP-470|223|aparte|Ayres Britto|3136|3139|Sim|ctx: item IV|NA|NA|NA|sessão 12/09/2012; autor da peça: Ayres Britto; também falam: Joaquim Barbosa, Marco Aurélio, Celso de Mello, Ricardo Lewandowski; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|224|aparte|Ricardo Lewandowski|3140|3142|Sim|ctx: item IV|NA|NA|NA|sessão 12/09/2012; autor da peça: Ricardo Lewandowski; também falam: Celso de Mello, Ayres Britto, Luiz Fux; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|225|aparte|Ricardo Lewandowski|3143|3144|Sim|ctx: item IV|NA|NA|NA|sessão 12/09/2012; autor da peça: Ricardo Lewandowski; também falam: Joaquim Barbosa, Ayres Britto; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|226|aparte|Ricardo Lewandowski|3145|3147|Sim|ctx: item IV|NA|NA|NA|sessão 12/09/2012; autor da peça: Ricardo Lewandowski; também falam: Celso de Mello, Marco Aurélio, Luiz Fux, Ayres Britto, Joaquim Barbosa; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|227|aparte|Ricardo Lewandowski|3148|3150|Sim|ctx: item IV|NA|NA|NA|sessão 12/09/2012; autor da peça: Ricardo Lewandowski; também falam: Joaquim Barbosa, Ayres Britto, Marco Aurélio; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|228|aparte|Ricardo Lewandowski|3151|3151|Sim|ctx: item IV|NA|NA|NA|sessão 12/09/2012; autor da peça: Ricardo Lewandowski; também falam: Joaquim Barbosa; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|229|extrato_ata||3152|3162|Nao|todos|NA|NA|NA|sessão 12/09/2012; extrato de ata cumulativo da sessão de 12/09/2012; ~28k car.
+AP-470|230|aparte|Joaquim Barbosa|3163|3164|Sim|ctx: item IV|NA|NA|NA|sessão 13/09/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|231|aparte|Ricardo Lewandowski|3165|3169|Sim|item IV|NA|NA|NA|sessão 13/09/2012; autor da peça: Ricardo Lewandowski; também falam: Ayres Britto, Joaquim Barbosa; ~9k car.
+AP-470|232|debate|Joaquim Barbosa;Ricardo Lewandowski;Rosa Weber;Cármen Lúcia;Ayres Britto|3170|3176|Sim|item IV|NA|NA|NA|sessão 13/09/2012; ~6k car.
+AP-470|233|aparte|Rosa Weber|3177|3180|Sim|item IV|NA|NA|NA|sessão 13/09/2012; ~1k car.
+AP-470|234|voto|Luiz Fux|3181|3267|Sim|item IV|NA|NA|NA|sessão 13/09/2012; ~154k car.
+AP-470|235|outro|Dias Toffoli|3268|3276|Sim|item IV|NA|NA|NA|sessão 13/09/2012; cabeçalho: Antecipação ao Voto; ~14k car.
+AP-470|236|voto|Dias Toffoli|3277|3347|Sim|item IV|NA|NA|NA|sessão 13/09/2012; ~133k car.
+AP-470|237|aparte|Joaquim Barbosa|3348|3350|Sim|item IV|NA|NA|NA|sessão 13/09/2012; autor da peça: Joaquim Barbosa; também falam: Dias Toffoli, Ricardo Lewandowski, Ayres Britto; ~4k car.
+AP-470|238|voto_aditamento|Cármen Lúcia|3351|3360|Sim|item IV|NA|NA|NA|sessão 13/09/2012; ~18k car.
+AP-470|239|voto|Marco Aurélio|3361|3367|Sim|item IV|NA|NA|NA|sessão 13/09/2012; ~12k car.
+AP-470|240|debate|Gilmar Mendes;Marco Aurélio;Joaquim Barbosa;Ayres Britto|3368|3369|Sim|item IV|NA|NA|NA|sessão 13/09/2012; ~2k car.
+AP-470|241|voto|Gilmar Mendes|3370|3416|Sim|item IV|NA|NA|NA|sessão 13/09/2012; ~96k car.
+AP-470|242|voto_aditamento|Celso de Mello|3417|3417|Nao|item IV|NA|NA|NA|sessão 13/09/2012; fala do autor marcada CANCELADO no início da peça; ~753 car.
+AP-470|243|voto|Ayres Britto|3418|3453|Sim|item IV|NA|NA|NA|sessão 13/09/2012; ~74k car.
+AP-470|244|voto_aditamento|Ayres Britto|3454|3461|Sim|item IV|NA|NA|NA|sessão 13/09/2012; ~14k car.
+AP-470|245|outro|Joaquim Barbosa;Ayres Britto;Celso de Mello;Ricardo Lewandowski|3462|3463|Sim|ctx: item IV|NA|NA|NA|sessão 13/09/2012; cabeçalho: Proposta; peça curta; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|246|extrato_ata||3464|3475|Nao|todos|NA|NA|NA|sessão 13/09/2012; extrato de ata cumulativo da sessão de 13/09/2012; ~29k car.
+AP-470|247|voto|Joaquim Barbosa|3476|3703|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 17/09/2012; banco (10 linhas réu×fato): Condena 10; vencido=Sim em 0; ~427k car.
+AP-470|248|extrato_ata||3704|3715|Nao|todos|NA|NA|NA|sessão 19/09/2012; extrato de ata cumulativo da sessão de 19/09/2012; ~30k car.
+AP-470|249|debate|Marco Aurélio;Joaquim Barbosa;Ayres Britto;Rosa Weber;Gilmar Mendes;Luiz Fux|3716|3727|Sim|item VI|NA|NA|NA|sessão 20/09/2012; ~11k car.
+AP-470|250|voto|Ricardo Lewandowski|3728|3920|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 20/09/2012; banco (10 linhas réu×fato): Condena 8, Absolve 2; vencido=Sim em 2; ~318k car.
+AP-470|251|aparte|Luiz Fux|3921|3923|Sim|item VI|NA|NA|NA|sessão 20/09/2012; autor da peça: Luiz Fux; também falam: Ricardo Lewandowski, Celso de Mello; fala do autor marcada CANCELADO no início da peça; ~3k car.
+AP-470|252|aparte|Marco Aurélio|3924|3924|Sim|item VI|NA|NA|NA|sessão 20/09/2012; autor da peça: Marco Aurélio; também falam: Ricardo Lewandowski; ~538 car.
+AP-470|253|extrato_ata||3925|3937|Nao|todos|NA|NA|NA|sessão 20/09/2012; extrato de ata cumulativo da sessão de 20/09/2012; ~34k car.
+AP-470|254|aparte|Ricardo Lewandowski|3938|3946|Sim|ctx: item VI|NA|NA|NA|sessão 24/09/2012; autor da peça: Ricardo Lewandowski; também falam: Marco Aurélio, Ayres Britto, Luiz Fux, Cármen Lúcia; ~15k car.; ctx = peças de voto vizinhas
+AP-470|255|aparte|Joaquim Barbosa|3947|3948|Sim|ctx: item VI|NA|NA|NA|sessão 24/09/2012; autor da peça: Joaquim Barbosa; também falam: Ricardo Lewandowski, Ayres Britto; ~3k car.; ctx = peças de voto vizinhas
+AP-470|256|aparte|Ricardo Lewandowski|3949|3949|Sim|ctx: item VI|NA|NA|NA|sessão 24/09/2012; ~686 car.; ctx = peças de voto vizinhas
+AP-470|257|extrato_ata||3950|3963|Nao|todos|NA|NA|NA|sessão 24/09/2012; extrato de ata cumulativo da sessão de 24/09/2012; ~36k car.
+AP-470|258|debate|Ayres Britto;Ricardo Lewandowski;Luiz Fux;Cármen Lúcia;Marco Aurélio;Joaquim Barbosa;Gilmar Mendes;Celso de Mello;Rosa Weber|3964|3981|Sim|ctx: item VI|NA|NA|NA|sessão 26/09/2012; ~22k car.; ctx = peças de voto vizinhas
+AP-470|259|voto_aditamento|Ricardo Lewandowski|3982|3985|Sim|ctx: item VI|NA|NA|NA|sessão 26/09/2012; ~6k car.; ctx = peças de voto vizinhas
+AP-470|260|aparte|Ricardo Lewandowski|3986|3986|Sim|ctx: item VI|NA|NA|NA|sessão 26/09/2012; autor da peça: Ricardo Lewandowski; também falam: Joaquim Barbosa; ~1k car.; ctx = peças de voto vizinhas
+AP-470|261|debate|Ricardo Lewandowski;Joaquim Barbosa;Ayres Britto;Luiz Fux|3987|3988|Sim|ctx: item VI|NA|NA|NA|sessão 26/09/2012; ~3k car.; ctx = peças de voto vizinhas
+AP-470|262|debate|Joaquim Barbosa;Ricardo Lewandowski;Ayres Britto;Marco Aurélio;Celso de Mello|3989|4001|Sim|ctx: item VI|NA|NA|NA|sessão 26/09/2012; ~12k car.; ctx = peças de voto vizinhas
+AP-470|263|aparte|Ayres Britto|4002|4002|Sim|ctx: item VI|NA|NA|NA|sessão 26/09/2012; autor da peça: Ayres Britto; também falam: Ricardo Lewandowski; ~1k car.; ctx = peças de voto vizinhas
+AP-470|264|debate|Ricardo Lewandowski;Ayres Britto;Celso de Mello;Joaquim Barbosa|4003|4011|Sim|ctx: item VI|NA|NA|NA|sessão 26/09/2012; ~10k car.; ctx = peças de voto vizinhas
+AP-470|265|debate|Ayres Britto;Ricardo Lewandowski;Joaquim Barbosa|4012|4014|Sim|ctx: item VI|NA|NA|NA|sessão 26/09/2012; ~3k car.; ctx = peças de voto vizinhas
+AP-470|266|aparte|Joaquim Barbosa|4015|4020|Sim|ctx: item VI|NA|NA|NA|sessão 26/09/2012; autor da peça: Joaquim Barbosa; também falam: Ricardo Lewandowski, Marco Aurélio, Ayres Britto, Celso de Mello, Cármen Lúcia; ~3k car.; ctx = peças de voto vizinhas
+AP-470|267|extrato_ata||4021|4034|Nao|todos|NA|NA|NA|sessão 26/09/2012; extrato de ata cumulativo da sessão de 26/09/2012; ~37k car.
+AP-470|268|aparte|Ricardo Lewandowski|4035|4035|Sim|item VI|NA|NA|NA|sessão 27/09/2012; autor da peça: Ricardo Lewandowski; também falam: Ayres Britto; ~609 car.
+AP-470|269|aparte|Joaquim Barbosa|4036|4036|Sim|item VI|NA|NA|NA|sessão 27/09/2012; ~568 car.
+AP-470|270|voto_aditamento|Rosa Weber|4037|4038|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 27/09/2012; cabeçalho de página "Antecipação ao Voto", título "ADITAMENTO AO VOTO"; banco (10 linhas réu×fato): Condena 10; vencido=Sim em 0; ~2k car.
+AP-470|271|voto|Luiz Fux|4039|4135|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 27/09/2012; banco (10 linhas réu×fato): Condena 10; vencido=Sim em 0; ~180k car.; título DOSIMETRIA na p.4129 (penas, inclusive de réus do item VI ativa)
+AP-470|272|voto_aditamento|Luiz Fux|4136|4142|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 27/09/2012; fala do autor marcada CANCELADO no início da peça; banco (10 linhas réu×fato): Condena 10; vencido=Sim em 0; ~8k car.
+AP-470|273|voto_aditamento|Cármen Lúcia|4143|4157|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 27/09/2012; banco (10 linhas réu×fato): Condena 10; vencido=Sim em 0; ~27k car.
+AP-470|274|voto|Dias Toffoli|4158|4355|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 27/09/2012; banco (10 linhas réu×fato): Condena 8, Absolve 2; vencido=Sim em 2; ~362k car.
+AP-470|275|debate|Luiz Fux;Celso de Mello|4356|4356|Sim|item VI|NA|NA|NA|sessão 27/09/2012; fala do autor marcada CANCELADO no início da peça; ~405 car.
+AP-470|276|aparte|Dias Toffoli|4357|4358|Sim|ctx: item VI|NA|NA|NA|sessão 27/09/2012; autor da peça: Dias Toffoli; também falam: Ayres Britto, Ricardo Lewandowski, Celso de Mello, Gilmar Mendes; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|277|voto|Gilmar Mendes|4359|4442|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 27/09/2012; banco (10 linhas réu×fato): Condena 9, Absolve 1; vencido=Sim em 1; ~165k car.
+AP-470|278|debate|Ayres Britto;Celso de Mello;Joaquim Barbosa;Gilmar Mendes|4443|4447|Sim|item VI|NA|NA|NA|sessão 27/09/2012; ~3k car.
+AP-470|279|aparte|Gilmar Mendes|4448|4449|Sim|item VI|NA|NA|NA|sessão 27/09/2012; ~2k car.
+AP-470|280|aparte|Gilmar Mendes|4450|4450|Sim|item VI|NA|NA|NA|sessão 27/09/2012; autor da peça: Gilmar Mendes; também falam: Ayres Britto; ~1k car.
+AP-470|281|aparte|Gilmar Mendes|4451|4451|Sim|item VI|NA|NA|NA|sessão 27/09/2012; autor da peça: Gilmar Mendes; também falam: Ayres Britto; ~507 car.
+AP-470|282|aparte|Celso de Mello|4452|4452|Sim|item VI|NA|NA|NA|sessão 27/09/2012; autor da peça: Celso de Mello; também falam: Gilmar Mendes; ~576 car.
+AP-470|283|extrato_ata||4453|4468|Nao|todos|NA|NA|NA|sessão 26/09/2012; extrato de ata cumulativo da sessão de 26/09/2012; ~42k car.
+AP-470|284|voto|Marco Aurélio|4469|4474|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 01/10/2012; banco (10 linhas réu×fato): Condena 8, Absolve 2; vencido=Sim em 2; ~11k car.
+AP-470|285|voto|Celso de Mello|4475|4493|Sim|item VI (corrupção passiva)|varia|varia|varia|sessão 01/10/2012; cabeçalho de página "Antecipação ao Voto", título "VOTO"; banco (10 linhas réu×fato): Condena 10; vencido=Sim em 0; ~34k car.
+AP-470|286|aparte|Celso de Mello|4494|4497|Sim|item VI|NA|NA|NA|sessão 01/10/2012; autor da peça: Celso de Mello; também falam: Luiz Fux, Ayres Britto, Gilmar Mendes, Marco Aurélio, Rosa Weber, Ricardo Lewandowski, Joaquim Barbosa; fala do autor marcada CANCELADO no início da peça; ~6k car.
+AP-470|287|aparte|Ayres Britto|4498|4498|Sim|ctx: item VI|NA|NA|NA|sessão 01/10/2012; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|288|voto|Ayres Britto|4499|4590|Sim|item VI (passiva e ativa)|varia|varia|varia|sessão 01/10/2012; banco (20 linhas réu×fato): Condena 18, Absolve 2; vencido=Sim em 0; ~182k car.; fecho (p.4590) declara também as imputações de corrupção ativa
+AP-470|289|aparte|Celso de Mello|4591|4593|Sim|ctx: item VI|NA|NA|NA|sessão 01/10/2012; autor da peça: Celso de Mello; também falam: Ayres Britto; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|290|extrato_ata||4594|4610|Nao|todos|NA|NA|NA|sessão 01/10/2012; extrato de ata cumulativo da sessão de 01/10/2012; ~46k car.
+AP-470|291|voto|Joaquim Barbosa|4611|4733|Sim|item VI (corrupção ativa)|varia|varia|varia|sessão 03/10/2012; banco (10 linhas réu×fato): Condena 8, Absolve 2; vencido=Sim em 0; ~235k car.
+AP-470|292|aparte|Ayres Britto|4734|4734|Sim|ctx: item VI|NA|NA|NA|sessão 03/10/2012; autor da peça: Ayres Britto; também falam: Ricardo Lewandowski; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|293|voto|Ricardo Lewandowski|4735|4846|Sim|item VI (corrupção ativa)|varia|varia|varia|sessão 03/10/2012; banco (10 linhas réu×fato): Condena 5, Absolve 5; vencido=Sim em 3; ~184k car.
+AP-470|294|debate|Ayres Britto;Ricardo Lewandowski;Joaquim Barbosa|4847|4849|Sim|ctx: item VI|NA|NA|NA|sessão 03/10/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|295|debate|Ayres Britto;Ricardo Lewandowski;Marco Aurélio|4850|4852|Sim|ctx: item VI|NA|NA|NA|sessão 03/10/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|296|extrato_ata||4853|4870|Nao|todos|NA|NA|NA|sessão 03/10/2012; extrato de ata cumulativo da sessão de 03/10/2012; ~47k car.
+AP-470|297|aparte|Ricardo Lewandowski|4871|4872|Sim|ctx: item VI|NA|NA|NA|sessão 04/10/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|298|voto|Ricardo Lewandowski|4873|4954|Sim|item VI (corrupção ativa)|varia|varia|varia|sessão 04/10/2012; banco (10 linhas réu×fato): Condena 5, Absolve 5; vencido=Sim em 3; ~142k car.
+AP-470|299|aparte|Ayres Britto|4955|4957|Sim|ctx: item VI|NA|NA|NA|sessão 04/10/2012; autor da peça: Ayres Britto; também falam: Ricardo Lewandowski; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|300|aparte|Marco Aurélio|4958|4958|Sim|ctx: item VI|NA|NA|NA|sessão 04/10/2012; autor da peça: Marco Aurélio; também falam: Ricardo Lewandowski; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|301|debate|Ayres Britto;Ricardo Lewandowski;Marco Aurélio|4959|4960|Sim|ctx: item VI|NA|NA|NA|sessão 04/10/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|302|debate|Gilmar Mendes;Ricardo Lewandowski;Celso de Mello;Marco Aurélio;Luiz Fux|4961|4967|Sim|ctx: item VI|NA|NA|NA|sessão 04/10/2012; ~6k car.; ctx = itens votados na mesma sessão
+AP-470|303|debate|Ayres Britto;Ricardo Lewandowski;Celso de Mello|4968|4973|Sim|ctx: item VI|NA|NA|NA|sessão 04/10/2012; ~6k car.; ctx = itens votados na mesma sessão
+AP-470|304|voto_aditamento|Luiz Fux|4974|4976|Sim|ctx: item VI|NA|NA|NA|sessão 04/10/2012; fala do autor marcada CANCELADO no início da peça; ~3k car.; ctx = peças de voto vizinhas
+AP-470|305|aparte|Ricardo Lewandowski|4977|4978|Sim|ctx: item VI|NA|NA|NA|sessão 04/10/2012; autor da peça: Ricardo Lewandowski; também falam: Luiz Fux; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|306|extrato_ata||4979|4996|Nao|todos|NA|NA|NA|sessão 04/10/2012; extrato de ata cumulativo da sessão de 04/10/2012; ~49k car.
+AP-470|307|extrato_ata|Luiz Fux|4996|4996|Nao|item VI (corrupção ativa)|varia|varia|varia|sem peça própria de mérito localizada para o item VI (corrupção ativa): a única peça do ministro no bloco é o aditamento p.4974-4976, com fala marcada CANCELADO; o voto é registrado no extrato de ata de 04.10.2012 (p.4996) e na ata final (p.8382); banco (10 linhas réu×fato): Condena 8, Absolve 2; vencido=Sim em 0
+AP-470|308|aparte|Ricardo Lewandowski|4997|5002|Sim|ctx: item VI|NA|NA|NA|sessão 09/10/2012; autor da peça: Ricardo Lewandowski; também falam: Marco Aurélio, Ayres Britto; ~11k car.; ctx = itens votados na mesma sessão
+AP-470|309|voto|Dias Toffoli|5003|5098|Sim|item VI (corrupção ativa)|varia|varia|varia|sessão 09/10/2012; banco (10 linhas réu×fato): Condena 6, Absolve 4; vencido=Sim em 2; ~175k car.
+AP-470|310|voto_aditamento|Cármen Lúcia|5099|5108|Sim|item VI (corrupção ativa)|varia|varia|varia|sessão 09/10/2012; banco (10 linhas réu×fato): Condena 8, Absolve 2; vencido=Sim em 0; ~19k car.
+AP-470|311|voto|Gilmar Mendes|5109|5157|Sim|item VI (corrupção ativa)|varia|varia|varia|sessão 09/10/2012; banco (10 linhas réu×fato): Condena 8, Absolve 2; vencido=Sim em 0; ~97k car.
+AP-470|312|voto|Marco Aurélio|5158|5172|Sim|item VI (corrupção ativa)|varia|varia|varia|sessão 09/10/2012; banco (10 linhas réu×fato): Condena 9, Absolve 1; vencido=Sim em 1; ~26k car.
+AP-470|313|debate|Gilmar Mendes;Luiz Fux;Ricardo Lewandowski;Joaquim Barbosa;Rosa Weber;Ayres Britto|5173|5175|Sim|ctx: item VI|NA|NA|NA|sessão 09/10/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|314|extrato_ata||5176|5194|Nao|todos|NA|NA|NA|sessão 09/10/2012; extrato de ata cumulativo da sessão de 09/10/2012; ~50k car.
+AP-470|315|voto|Celso de Mello|5195|5209|Sim|item VI (corrupção ativa)|varia|varia|varia|sessão 10/10/2012; banco (10 linhas réu×fato): Condena 8, Absolve 2; vencido=Sim em 0; ~27k car.
+AP-470|316|voto_aditamento|Ayres Britto|5210|5231|Sim|item VI (corrupção ativa)|varia|varia|varia|sessão 10/10/2012; banco (10 linhas réu×fato): Condena 8, Absolve 2; vencido=Sim em 0; ~38k car.
+AP-470|317|voto|Joaquim Barbosa|5232|5258|Sim|item VII|NA|NA|NA|sessão 10/10/2012; ~50k car.
+AP-470|318|extrato_ata||5259|5277|Nao|todos|NA|NA|NA|sessão 10/10/2012; extrato de ata cumulativo da sessão de 10/10/2012; ~52k car.
+AP-470|319|outro|Joaquim Barbosa;Ayres Britto;Marco Aurélio;Ricardo Lewandowski|5278|5280|Sim|ctx: item VII|NA|NA|NA|sessão 11/10/2012; cabeçalho: Proposta; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|320|voto|Ricardo Lewandowski|5281|5312|Sim|item VII|NA|NA|NA|sessão 11/10/2012; ~54k car.
+AP-470|321|voto|Marco Aurélio|5313|5316|Sim|item VII|NA|NA|NA|sessão 11/10/2012; ~7k car.
+AP-470|322|voto|Luiz Fux|5317|5330|Sim|item VII|NA|NA|NA|sessão 11/10/2012; fala do autor marcada CANCELADO no início da peça; ~15k car.
+AP-470|323|voto|Luiz Fux|5331|5372|Sim|item VII|NA|NA|NA|sessão 11/10/2012; ~79k car.
+AP-470|324|voto|Rosa Weber|5373|5375|Sim|item VII|NA|NA|NA|sessão 11/10/2012; ~6k car.
+AP-470|325|aparte|Joaquim Barbosa|5376|5377|Sim|ctx: item VII|NA|NA|NA|sessão 11/10/2012; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|326|aparte|Rosa Weber|5378|5378|Sim|ctx: item VII|NA|NA|NA|sessão 11/10/2012; ~647 car.; ctx = itens votados na mesma sessão
+AP-470|327|voto|Cármen Lúcia|5379|5381|Sim|item VII|NA|NA|NA|sessão 11/10/2012; ~4k car.
+AP-470|328|voto|Dias Toffoli|5382|5448|Sim|item VII|NA|NA|NA|sessão 11/10/2012; ~126k car.
+AP-470|329|voto_aditamento|Dias Toffoli|5449|5450|Sim|item VII|NA|NA|NA|sessão 11/10/2012; ~3k car.
+AP-470|330|aparte|Ayres Britto|5451|5451|Sim|ctx: item VII|NA|NA|NA|sessão 11/10/2012; autor da peça: Ayres Britto; também falam: Celso de Mello; ~350 car.; ctx = itens votados na mesma sessão
+AP-470|331|extrato_ata||5452|5468|Nao|todos|NA|NA|NA|sessão 11/10/2012; extrato de ata cumulativo da sessão de 11/10/2012; ~53k car.
+AP-470|332|voto|Joaquim Barbosa|5469|5505|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; ~65k car.
+AP-470|333|aparte|Joaquim Barbosa|5506|5511|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; autor da peça: Joaquim Barbosa; também falam: Marco Aurélio, Celso de Mello, Luiz Fux, Cármen Lúcia, Ricardo Lewandowski; ~6k car.
+AP-470|334|voto|Ricardo Lewandowski|5512|5540|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; ~49k car.
+AP-470|335|debate|Joaquim Barbosa;Ricardo Lewandowski;Ayres Britto;Dias Toffoli;Cármen Lúcia|5541|5547|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; ~11k car.
+AP-470|336|debate|Joaquim Barbosa;Ricardo Lewandowski|5548|5549|Sim|ctx: item VIII|NA|NA|NA|sessão 15/10/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|337|outro|Rosa Weber|5550|5551|Sim|ctx: item VIII|NA|NA|NA|sessão 15/10/2012; cabeçalho: Antecipação ao Voto; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|338|aparte|Joaquim Barbosa|5552|5555|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; autor da peça: Joaquim Barbosa; também falam: Rosa Weber; ~7k car.
+AP-470|339|voto|Luiz Fux|5556|5582|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; ~47k car.
+AP-470|340|voto|Dias Toffoli|5583|5603|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; ~37k car.
+AP-470|341|aparte|Dias Toffoli|5604|5607|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; autor da peça: Dias Toffoli; também falam: Joaquim Barbosa, Ayres Britto, Cármen Lúcia, Gilmar Mendes; ~6k car.
+AP-470|342|voto|Cármen Lúcia|5608|5610|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; ~4k car.
+AP-470|343|aparte|Ricardo Lewandowski|5611|5612|Sim|ctx: item VIII|NA|NA|NA|sessão 15/10/2012; autor da peça: Ricardo Lewandowski; também falam: Cármen Lúcia, Joaquim Barbosa; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|344|voto|Gilmar Mendes|5613|5643|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; ~59k car.
+AP-470|345|voto|Marco Aurélio|5644|5654|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; ~17k car.
+AP-470|346|voto|Celso de Mello|5655|5665|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; fala do autor marcada CANCELADO no início da peça; ~13k car.
+AP-470|347|voto|Ayres Britto|5666|5674|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; ~16k car.
+AP-470|348|debate|Marco Aurélio;Ayres Britto;Joaquim Barbosa;Gilmar Mendes|5675|5679|Sim|item VIII|NA|NA|NA|sessão 15/10/2012; ~2k car.
+AP-470|349|extrato_ata||5680|5699|Nao|todos|NA|NA|NA|sessão 15/10/2012; extrato de ata cumulativo da sessão de 15/10/2012; ~55k car.
+AP-470|350|outro|Joaquim Barbosa|5700|5701|Sim|item VIII|NA|NA|NA|sessão 17/10/2012; cabeçalho: Retificação de Voto; ~2k car.
+AP-470|351|debate|Luiz Fux;Ayres Britto;Joaquim Barbosa;Celso de Mello;Gilmar Mendes;Marco Aurélio|5702|5711|Sim|item VIII|NA|NA|NA|sessão 17/10/2012; fala do autor marcada CANCELADO no início da peça; ~8k car.
+AP-470|352|aparte|Rosa Weber|5712|5715|Sim|item VIII|NA|NA|NA|sessão 17/10/2012; ~431 car.
+AP-470|353|voto|Gilmar Mendes|5716|5743|Sim|item VII|NA|NA|NA|sessão 17/10/2012; ~56k car.
+AP-470|354|voto|Celso de Mello|5744|5746|Sim|item VII|NA|NA|NA|sessão 17/10/2012; ~5k car.
+AP-470|355|voto|Ayres Britto|5747|5758|Sim|item VII|NA|NA|NA|sessão 17/10/2012; ~24k car.
+AP-470|356|aparte|Gilmar Mendes|5759|5764|Sim|item VII|NA|NA|NA|sessão 17/10/2012; autor da peça: Gilmar Mendes; também falam: Ayres Britto, Joaquim Barbosa, Celso de Mello; ~11k car.
+AP-470|357|outro|Joaquim Barbosa;Celso de Mello;Ayres Britto;Ricardo Lewandowski;Gilmar Mendes;Rosa Weber;Dias Toffoli;Cármen Lúcia;Marco Aurélio|5765|5770|Sim|ctx: item II/item VII|NA|NA|NA|sessão 17/10/2012; cabeçalho: Proposta; ~7k car.; ctx = itens votados na mesma sessão
+AP-470|358|voto|Joaquim Barbosa|5771|5831|Sim|item II|NA|NA|NA|sessão 17/10/2012; ~114k car.
+AP-470|359|extrato_ata||5832|5852|Nao|todos|NA|NA|NA|sessão 17/10/2012; extrato de ata cumulativo da sessão de 17/10/2012; ~56k car.
+AP-470|360|voto|Ricardo Lewandowski|5853|5866|Sim|item II|NA|NA|NA|sessão 18/10/2012; ~23k car.
+AP-470|361|outro|Ricardo Lewandowski|5867|5867|Sim|AP-470-R14;AP-470-R16;AP-470-R17;AP-470-R18;fora do banco: Enivaldo Quadrado|NA|NA|NA|sessão 18/10/2012; cabeçalho: Retificação de Voto; título "(S/ ITEM VI)"; imputação citada: formação de quadrilha (art. 288), sem linha no banco; peça curta; ~950 car.
+AP-470|362|aparte|Ayres Britto|5868|5870|Sim|item II|NA|NA|NA|sessão 18/10/2012; autor da peça: Ayres Britto; também falam: Ricardo Lewandowski, Celso de Mello; ~4k car.
+AP-470|363|extrato_ata||5871|5891|Nao|todos|NA|NA|NA|sessão 18/10/2012; extrato de ata cumulativo da sessão de 18/10/2012; ~58k car.
+AP-470|364|voto_aditamento|Joaquim Barbosa|5892|5894|Sim|item II|NA|NA|NA|sessão 22/10/2012; ~3k car.
+AP-470|365|voto_aditamento|Cármen Lúcia|5895|5899|Sim|item II|NA|NA|NA|sessão 22/10/2012; ~8k car.
+AP-470|366|voto|Luiz Fux|5900|6134|Sim|item II|NA|NA|NA|sessão 22/10/2012; ~407k car.; autor identificado na p.5933 (a peça abre com ementa própria p.5900-5932; título "VOTO ITEM II DA DENÚNCIA" na p.5933)
+AP-470|367|voto_aditamento|Luiz Fux|6135|6136|Nao|item II|NA|NA|NA|sessão 22/10/2012; fala do autor marcada CANCELADO no início da peça; ~2k car.
+AP-470|368|voto|Dias Toffoli|6137|6154|Sim|item II|NA|NA|NA|sessão 22/10/2012; ~33k car.
+AP-470|369|aparte|Rosa Weber|6155|6158|Sim|item II|NA|NA|NA|sessão 22/10/2012; ~856 car.
+AP-470|370|voto|Gilmar Mendes|6159|6173|Sim|item II|NA|NA|NA|sessão 22/10/2012; ~31k car.
+AP-470|371|voto|Marco Aurélio|6174|6186|Sim|item II|NA|NA|NA|sessão 22/10/2012; ~26k car.
+AP-470|372|voto|Celso de Mello|6187|6194|Sim|item II|NA|NA|NA|sessão 22/10/2012; ~13k car.
+AP-470|373|voto|Ayres Britto|6195|6221|Sim|item II|NA|NA|NA|sessão 22/10/2012; ~56k car.
+AP-470|374|voto_aditamento|Ayres Britto|6222|6228|Sim|ctx: item II / questão de ordem|NA|NA|NA|sessão 22/10/2012; ~12k car.; ctx = peças de voto vizinhas
+AP-470|375|extrato_ata||6229|6250|Nao|todos|NA|NA|NA|sessão 22/10/2012; extrato de ata cumulativo da sessão de 22/10/2012; ~59k car.
+AP-470|376|questao_ordem|Ayres Britto;Celso de Mello;Luiz Fux|6251|6254|Sim|questão de ordem|NA|NA|NA|sessão 23/10/2012; ~2k car.
+AP-470|377|questao_ordem|Joaquim Barbosa|6255|6256|Sim|questão de ordem|NA|NA|NA|sessão 23/10/2012; voto s/ questão de ordem; peça curta; ~1k car.
+AP-470|378|questao_ordem|Marco Aurélio|6257|6260|Sim|questão de ordem|NA|NA|NA|sessão 23/10/2012; voto s/ questão de ordem; ~6k car.
+AP-470|379|aparte|Ayres Britto|6261|6265|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 23/10/2012; autor da peça: Ayres Britto; também falam: Joaquim Barbosa, Celso de Mello, Gilmar Mendes; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|380|questao_ordem|Ricardo Lewandowski|6266|6267|Sim|questão de ordem|NA|NA|NA|sessão 23/10/2012; voto s/ questão de ordem; ~2k car.
+AP-470|381|aparte|Marco Aurélio|6268|6270|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 23/10/2012; ~391 car.; ctx = itens votados na mesma sessão
+AP-470|382|questao_ordem|Joaquim Barbosa;Marco Aurélio;Gilmar Mendes|6271|6272|Sim|questão de ordem|NA|NA|NA|sessão 23/10/2012; ~2k car.
+AP-470|383|questao_ordem|Dias Toffoli|6273|6276|Sim|questão de ordem|NA|NA|NA|sessão 23/10/2012; voto s/ questão de ordem; ~5k car.
+AP-470|384|aparte|Ayres Britto|6277|6280|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 23/10/2012; autor da peça: Ayres Britto; também falam: Celso de Mello; ~458 car.; ctx = itens votados na mesma sessão
+AP-470|385|questao_ordem|Rosa Weber|6281|6281|Adesao|questão de ordem|NA|NA|NA|sessão 23/10/2012; voto s/ questão de ordem; ~665 car.
+AP-470|386|confirmacao_voto|Dias Toffoli|6282|6282|Sim|questão de ordem|NA|NA|NA|sessão 23/10/2012; fase pós-mérito (penas e efeitos); peça curta; ~323 car.
+AP-470|387|questao_ordem|Cármen Lúcia|6283|6283|Adesao|questão de ordem|NA|NA|NA|sessão 23/10/2012; voto s/ questão de ordem; ~408 car.
+AP-470|388|questao_ordem|Ricardo Lewandowski|6284|6284|Sim|questão de ordem|NA|NA|NA|sessão 23/10/2012; voto s/ questão de ordem; ~2k car.
+AP-470|389|questao_ordem|Gilmar Mendes|6285|6285|Sim|questão de ordem|NA|NA|NA|sessão 23/10/2012; voto s/ questão de ordem; peça curta; ~787 car.
+AP-470|390|questao_ordem|Marco Aurélio|6286|6286|Adesao|questão de ordem|NA|NA|NA|sessão 23/10/2012; voto s/ questão de ordem; ~130 car.
+AP-470|391|questao_ordem|Ayres Britto|6287|6288|Sim|questão de ordem|NA|NA|NA|sessão 23/10/2012; voto s/ questão de ordem; ~2k car.
+AP-470|392|voto|Joaquim Barbosa|6289|6562|Sim|dosimetria (condenados em geral)|NA|NA|NA|sessão 23/10/2012; fase pós-mérito (penas e efeitos); ~483k car.
+AP-470|393|voto|Ricardo Lewandowski|6563|6651|Sim|dosimetria (condenados em geral)|NA|NA|NA|sessão 23/10/2012; fase pós-mérito (penas e efeitos); ~129k car.
+AP-470|394|outro|Joaquim Barbosa|6652|6654|Sim|item II|NA|NA|NA|sessão 23/10/2012; cabeçalho: Antecipação ao Voto; fase pós-mérito (penas e efeitos); título cita: item II; ~4k car.
+AP-470|395|aparte|Celso de Mello|6655|6656|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 23/10/2012; autor da peça: Celso de Mello; também falam: Joaquim Barbosa, Marco Aurélio, Ayres Britto; fala do autor marcada CANCELADO no início da peça; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|396|debate|Luiz Fux;Joaquim Barbosa;Celso de Mello;Ayres Britto;Gilmar Mendes;Marco Aurélio;Cármen Lúcia;Ricardo Lewandowski;Rosa Weber|6657|6665|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 23/10/2012; fala do autor marcada CANCELADO no início da peça; ~9k car.; ctx = itens votados na mesma sessão
+AP-470|397|voto|Marco Aurélio|6666|6666|Adesao|AP-470-R04|NA|NA|NA|sessão 23/10/2012; fase pós-mérito (penas e efeitos); título cita: item II; ~285 car.
+AP-470|398|debate|Ayres Britto;Luiz Fux;Joaquim Barbosa;Ricardo Lewandowski;Cármen Lúcia|6667|6668|Sim|item III|NA|NA|NA|sessão 23/10/2012; ~2k car.
+AP-470|399|voto|Marco Aurélio|6669|6670|Sim|AP-470-R04|NA|NA|NA|sessão 23/10/2012; fase pós-mérito (penas e efeitos); título cita: item III; ~2k car.
+AP-470|400|voto|Celso de Mello|6671|6673|Nao|AP-470-R04|NA|NA|NA|sessão 23/10/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item III; ~2k car.
+AP-470|401|aparte|Ricardo Lewandowski|6674|6674|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 23/10/2012; autor da peça: Ricardo Lewandowski; também falam: Joaquim Barbosa, Ayres Britto, Marco Aurélio; ~952 car.; ctx = itens votados na mesma sessão
+AP-470|402|debate|Ayres Britto;Joaquim Barbosa;Marco Aurélio;Celso de Mello;Ricardo Lewandowski;Luiz Fux|6675|6679|Sim|item III|NA|NA|NA|sessão 23/10/2012; ~2k car.
+AP-470|403|aparte|Ricardo Lewandowski|6680|6690|Sim|item III|NA|NA|NA|sessão 23/10/2012; autor da peça: Ricardo Lewandowski; também falam: Ayres Britto, Joaquim Barbosa, Dias Toffoli, Marco Aurélio; ~14k car.
+AP-470|404|aparte|Ayres Britto|6691|6699|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 23/10/2012; autor da peça: Ayres Britto; também falam: Joaquim Barbosa, Celso de Mello, Luiz Fux, Rosa Weber, Marco Aurélio, Gilmar Mendes, Ricardo Lewandowski; ~7k car.; ctx = itens votados na mesma sessão
+AP-470|405|aparte|Ricardo Lewandowski|6700|6702|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 23/10/2012; autor da peça: Ricardo Lewandowski; também falam: Ayres Britto, Joaquim Barbosa, Marco Aurélio, Celso de Mello; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|406|voto|Marco Aurélio|6703|6703|Adesao|AP-470-R04|NA|NA|NA|sessão 23/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~554 car.
+AP-470|407|outro|Ricardo Lewandowski|6704|6704|Sim|AP-470-R04|NA|NA|NA|sessão 23/10/2012; cabeçalho: Antecipação ao Voto; fase pós-mérito (penas e efeitos); título cita: item III.3; peça curta; ~794 car.
+AP-470|408|debate|Joaquim Barbosa;Ricardo Lewandowski;Marco Aurélio;Cármen Lúcia;Ayres Britto;Celso de Mello|6705|6715|Sim|AP-470-R04|NA|NA|NA|sessão 23/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~12k car.
+AP-470|409|aparte|Joaquim Barbosa|6716|6717|Sim|AP-470-R04|NA|NA|NA|sessão 23/10/2012; autor da peça: Joaquim Barbosa; também falam: Ricardo Lewandowski, Ayres Britto, Celso de Mello, Luiz Fux, Rosa Weber; fase pós-mérito (penas e efeitos); título cita: item III.3; ~2k car.
+AP-470|410|extrato_ata||6718|6736|Nao|todos|NA|NA|NA|sessão 23/10/2012; extrato de ata cumulativo da sessão de 23/10/2012; ~62k car.
+AP-470|411|questao_ordem|Ayres Britto;Joaquim Barbosa|6737|6739|Sim|questão de ordem|NA|NA|NA|sessão 24/10/2012; suscitada da tribuna por advogado; ~4k car.
+AP-470|412|aparte|Marco Aurélio|6740|6740|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; ~597 car.; ctx = itens votados na mesma sessão
+AP-470|413|aparte|Ricardo Lewandowski|6741|6741|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; ~394 car.; ctx = itens votados na mesma sessão
+AP-470|414|aparte|Ayres Britto|6742|6743|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; autor da peça: Ayres Britto; também falam: Joaquim Barbosa, Marco Aurélio; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|415|aparte|Joaquim Barbosa|6744|6747|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; ~519 car.; ctx = itens votados na mesma sessão
+AP-470|416|aparte|Ricardo Lewandowski|6748|6756|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; autor da peça: Ricardo Lewandowski; também falam: Ayres Britto, Joaquim Barbosa, Marco Aurélio, Celso de Mello, Luiz Fux; ~11k car.; ctx = itens votados na mesma sessão
+AP-470|417|voto|Rosa Weber|6757|6758|Sim|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~2k car.
+AP-470|418|voto|Dias Toffoli|6759|6761|Sim|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~3k car.
+AP-470|419|voto|Cármen Lúcia|6762|6762|Adesao|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~834 car.
+AP-470|420|voto|Gilmar Mendes|6763|6763|Adesao|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~1k car.
+AP-470|421|voto|Marco Aurélio|6764|6766|Sim|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~4k car.
+AP-470|422|voto|Celso de Mello|6767|6768|Nao|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item III.3; ~2k car.
+AP-470|423|voto|Ayres Britto|6769|6770|Sim|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~3k car.
+AP-470|424|aparte|Joaquim Barbosa|6771|6777|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; autor da peça: Joaquim Barbosa; também falam: Ricardo Lewandowski, Ayres Britto, Luiz Fux, Dias Toffoli, Celso de Mello, Marco Aurélio; ~9k car.; ctx = itens votados na mesma sessão
+AP-470|425|voto_aditamento|Ricardo Lewandowski|6778|6778|Adesao|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.2; III.3; ~1k car.
+AP-470|426|voto|Rosa Weber|6779|6779|Adesao|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.2; III.3; ~823 car.
+AP-470|427|aparte|Ayres Britto|6780|6780|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; ~530 car.; ctx = itens votados na mesma sessão
+AP-470|428|aparte|Joaquim Barbosa|6781|6784|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; ~482 car.; ctx = itens votados na mesma sessão
+AP-470|429|debate|Luiz Fux;Joaquim Barbosa;Ricardo Lewandowski;Celso de Mello;Ayres Britto|6785|6786|Sim|item IV|NA|NA|NA|sessão 24/10/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item IV; ~2k car.
+AP-470|430|aparte|Ricardo Lewandowski|6787|6787|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; autor da peça: Ricardo Lewandowski; também falam: Ayres Britto; ~564 car.; ctx = itens votados na mesma sessão
+AP-470|431|voto|Luiz Fux|6788|6788|Nao|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item IV; ~398 car.
+AP-470|432|voto|Marco Aurélio|6789|6790|Sim|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~3k car.
+AP-470|433|aparte|Joaquim Barbosa|6791|6791|Sim|item IV|NA|NA|NA|sessão 24/10/2012; autor da peça: Joaquim Barbosa; também falam: Marco Aurélio; ~1k car.
+AP-470|434|aparte|Ricardo Lewandowski|6792|6792|Sim|item IV|NA|NA|NA|sessão 24/10/2012; ~941 car.
+AP-470|435|voto|Celso de Mello|6793|6793|Adesao|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~482 car.
+AP-470|436|voto|Ayres Britto|6794|6794|Sim|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item IV; peça curta; ~772 car.
+AP-470|437|debate|Ayres Britto;Marco Aurélio;Ricardo Lewandowski;Rosa Weber;Joaquim Barbosa;Celso de Mello;Cármen Lúcia;Luiz Fux;Dias Toffoli|6795|6804|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; ~7k car.; ctx = itens votados na mesma sessão
+AP-470|438|aparte|Ricardo Lewandowski|6805|6806|Sim|item VI|NA|NA|NA|sessão 24/10/2012; ~2k car.
+AP-470|439|aparte|Celso de Mello|6807|6808|Sim|item VI|NA|NA|NA|sessão 24/10/2012; autor da peça: Celso de Mello; também falam: Joaquim Barbosa, Ayres Britto; ~2k car.
+AP-470|440|aparte|Joaquim Barbosa|6809|6810|Sim|item VI|NA|NA|NA|sessão 24/10/2012; ~2k car.
+AP-470|441|aparte|Ricardo Lewandowski|6811|6811|Sim|item VI|NA|NA|NA|sessão 24/10/2012; autor da peça: Ricardo Lewandowski; também falam: Ayres Britto; ~1k car.
+AP-470|442|voto|Dias Toffoli|6812|6814|Sim|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~3k car.
+AP-470|443|voto|Gilmar Mendes|6815|6815|Adesao|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~512 car.
+AP-470|444|voto|Ayres Britto|6816|6816|Adesao|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~458 car.
+AP-470|445|aparte|Ricardo Lewandowski|6817|6818|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; autor da peça: Ricardo Lewandowski; também falam: Celso de Mello, Luiz Fux, Joaquim Barbosa, Ayres Britto, Cármen Lúcia, Gilmar Mendes; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|446|voto_aditamento|Joaquim Barbosa|6819|6822|Sim|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~3k car.
+AP-470|447|outro|Celso de Mello;Ayres Britto;Luiz Fux;Joaquim Barbosa;Cármen Lúcia|6823|6824|Nao|item VIII|NA|NA|NA|sessão 24/10/2012; cabeçalho: Proposta; fala do autor marcada CANCELADO no início da peça; ~2k car.
+AP-470|448|aparte|Ayres Britto|6825|6825|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 24/10/2012; autor da peça: Ayres Britto; também falam: Ricardo Lewandowski; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|449|voto|Dias Toffoli|6826|6829|Sim|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~5k car.
+AP-470|450|voto|Cármen Lúcia|6830|6830|Adesao|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~639 car.
+AP-470|451|voto|Gilmar Mendes|6831|6831|Adesao|AP-470-R04|NA|NA|NA|sessão 24/10/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~1k car.
+AP-470|452|extrato_ata||6832|6855|Nao|todos|NA|NA|NA|sessão 24/10/2012; extrato de ata cumulativo da sessão de 24/10/2012; ~66k car.
+AP-470|453|aparte|Marco Aurélio|6856|6859|Sim|fora do banco: Duda Mendonça|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); ~876 car.
+AP-470|454|outro|Ayres Britto;Ricardo Lewandowski|6860|6860|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 25/10/2012; cabeçalho: Proposta; fase pós-mérito (penas e efeitos); peça curta; ~1k car.; ctx = peças de voto vizinhas
+AP-470|455|outro|Ricardo Lewandowski|6861|6861|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 25/10/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); peça curta; ~447 car.; ctx = peças de voto vizinhas
+AP-470|456|debate|Joaquim Barbosa;Luiz Fux;Ayres Britto;Marco Aurélio;Rosa Weber;Ricardo Lewandowski|6862|6866|Sim|fora do banco: Duda Mendonça|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item II; ~2k car.
+AP-470|457|aparte|Celso de Mello|6867|6870|Sim|AP-470-R05;fora do banco: Duda Mendonça|NA|NA|NA|sessão 25/10/2012; autor da peça: Celso de Mello; também falam: Ayres Britto, Rosa Weber, Joaquim Barbosa, Ricardo Lewandowski; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item II; ~677 car.
+AP-470|458|voto|Rosa Weber|6871|6871|Adesao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~838 car.
+AP-470|459|confirmacao_voto|Rosa Weber|6872|6872|Adesao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~1k car.
+AP-470|460|voto|Rosa Weber|6873|6873|Adesao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~305 car.
+AP-470|461|voto|Marco Aurélio|6874|6874|Adesao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~318 car.
+AP-470|462|voto|Ayres Britto|6875|6875|Adesao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~472 car.
+AP-470|463|voto|Ricardo Lewandowski|6876|6880|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~8k car.
+AP-470|464|voto|Marco Aurélio|6881|6882|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~2k car.
+AP-470|465|aparte|Ricardo Lewandowski|6883|6890|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; autor da peça: Ricardo Lewandowski; também falam: Marco Aurélio, Joaquim Barbosa, Celso de Mello, Cármen Lúcia, Ayres Britto, Gilmar Mendes, Luiz Fux, Rosa Weber; fase pós-mérito (penas e efeitos); título cita: item III.3; ~8k car.
+AP-470|466|aparte|Marco Aurélio|6891|6892|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; autor da peça: Marco Aurélio; também falam: Celso de Mello, Joaquim Barbosa, Cármen Lúcia, Luiz Fux, Ayres Britto; fase pós-mérito (penas e efeitos); título cita: item III.3; ~1k car.
+AP-470|467|outro|Joaquim Barbosa|6893|6893|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); título cita: item III.3; peça curta; ~344 car.
+AP-470|468|voto_aditamento|Ricardo Lewandowski|6894|6894|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; peça curta; ~1k car.
+AP-470|469|voto|Rosa Weber|6895|6897|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~3k car.
+AP-470|470|debate|Ricardo Lewandowski;Marco Aurélio;Celso de Mello;Ayres Britto;Joaquim Barbosa;Cármen Lúcia|6898|6902|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~5k car.
+AP-470|471|voto|Dias Toffoli|6903|6903|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; peça curta; ~384 car.
+AP-470|472|voto|Cármen Lúcia|6904|6904|Adesao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~547 car.
+AP-470|473|voto|Gilmar Mendes|6905|6906|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~2k car.
+AP-470|474|confirmacao_voto|Marco Aurélio|6907|6907|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; peça curta; ~386 car.
+AP-470|475|debate|Ricardo Lewandowski;Joaquim Barbosa;Gilmar Mendes;Marco Aurélio;Ayres Britto|6908|6910|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~4k car.
+AP-470|476|debate|Ayres Britto;Celso de Mello;Joaquim Barbosa;Luiz Fux;Cármen Lúcia;Ricardo Lewandowski|6911|6915|Sim|AP-470-R05;fora do banco: Duda Mendonça|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.2; ~2k car.
+AP-470|477|aparte|Ricardo Lewandowski|6916|6916|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.2; ~751 car.
+AP-470|478|voto|Rosa Weber|6917|6917|Adesao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.2; ~746 car.
+AP-470|479|debate|Celso de Mello;Ayres Britto;Joaquim Barbosa;Ricardo Lewandowski;Luiz Fux|6918|6923|Sim|AP-470-R05;fora do banco: Duda Mendonça|NA|NA|NA|sessão 25/10/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item III.2; ~3k car.
+AP-470|480|aparte|Joaquim Barbosa|6924|6925|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.2; ~535 car.
+AP-470|481|voto|Dias Toffoli|6926|6926|Adesao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.2; ~538 car.
+AP-470|482|voto|Marco Aurélio|6927|6927|Adesao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item III.2; ~708 car.
+AP-470|483|voto|Celso de Mello|6928|6928|Nao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item III.2; ~333 car.
+AP-470|484|outro|Joaquim Barbosa|6929|6932|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); título cita: item III.2; ~4k car.
+AP-470|485|aparte|Celso de Mello|6933|6935|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 25/10/2012; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|486|debate|Celso de Mello;Rosa Weber;Ayres Britto;Joaquim Barbosa;Cármen Lúcia;Marco Aurélio;Ricardo Lewandowski;Gilmar Mendes;Luiz Fux;Dias Toffoli|6936|6960|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item IV; ~26k car.
+AP-470|487|voto|Rosa Weber|6961|6961|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item IV; peça curta; ~1k car.
+AP-470|488|voto|Luiz Fux|6962|6962|Nao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item IV; ~284 car.
+AP-470|489|voto|Dias Toffoli|6963|6963|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item IV; peça curta; ~328 car.
+AP-470|490|voto|Celso de Mello|6964|6965|Adesao|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~1k car.
+AP-470|491|voto|Ricardo Lewandowski|6966|6966|Sim|AP-470-R05|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item IV; peça curta; ~451 car.
+AP-470|492|aparte|Dias Toffoli|6967|6970|Sim|AP-470-R05;fora do banco: Duda Mendonça|NA|NA|NA|sessão 25/10/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~333 car.
+AP-470|493|extrato_ata||6971|6995|Nao|todos|NA|NA|NA|sessão 25/10/2012; extrato de ata cumulativo da sessão de 25/10/2012; ~69k car.
+AP-470|494|debate|Marco Aurélio;Ayres Britto;Joaquim Barbosa;Cármen Lúcia|6996|7000|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; ~6k car.; ctx = itens votados na mesma sessão
+AP-470|495|aparte|Ricardo Lewandowski|7001|7002|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; autor da peça: Ricardo Lewandowski; também falam: Ayres Britto, Joaquim Barbosa; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|496|aparte|Joaquim Barbosa|7003|7006|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; ~942 car.; ctx = itens votados na mesma sessão
+AP-470|497|aparte|Joaquim Barbosa|7007|7010|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; ~422 car.; ctx = itens votados na mesma sessão
+AP-470|498|debate|Ayres Britto;Joaquim Barbosa;Ricardo Lewandowski;Marco Aurélio;Gilmar Mendes;Celso de Mello;Cármen Lúcia;Luiz Fux;Rosa Weber|7011|7030|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; ~20k car.; ctx = itens votados na mesma sessão
+AP-470|499|voto|Rosa Weber|7031|7031|Adesao|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~369 car.
+AP-470|500|voto|Dias Toffoli|7032|7032|Adesao|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~375 car.
+AP-470|501|voto|Cármen Lúcia|7033|7035|Sim|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~3k car.
+AP-470|502|voto|Gilmar Mendes|7036|7036|Adesao|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~994 car.
+AP-470|503|voto|Marco Aurélio|7037|7041|Sim|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~9k car.
+AP-470|504|debate|Ricardo Lewandowski;Marco Aurélio|7042|7042|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|505|aparte|Joaquim Barbosa|7043|7045|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; autor da peça: Joaquim Barbosa; também falam: Marco Aurélio, Ayres Britto; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|506|voto|Celso de Mello|7046|7053|Sim|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~13k car.
+AP-470|507|voto|Ayres Britto|7054|7055|Sim|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~2k car.
+AP-470|508|aparte|Celso de Mello|7056|7059|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; autor da peça: Celso de Mello; também falam: Ayres Britto; fala do autor marcada CANCELADO no início da peça; ~377 car.; ctx = itens votados na mesma sessão
+AP-470|509|voto|Cármen Lúcia|7060|7060|Adesao|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~338 car.
+AP-470|510|voto|Marco Aurélio|7061|7063|Sim|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~4k car.
+AP-470|511|aparte|Luiz Fux|7064|7064|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; autor da peça: Luiz Fux; também falam: Joaquim Barbosa, Ayres Britto; fala do autor marcada CANCELADO no início da peça; ~495 car.; ctx = itens votados na mesma sessão
+AP-470|512|voto_aditamento|Ricardo Lewandowski|7065|7066|Sim|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~3k car.
+AP-470|513|aparte|Joaquim Barbosa|7067|7068|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|514|debate|Ricardo Lewandowski;Joaquim Barbosa;Ayres Britto|7069|7071|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|515|voto|Rosa Weber|7072|7072|Adesao|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~411 car.
+AP-470|516|debate|Joaquim Barbosa;Ricardo Lewandowski;Celso de Mello;Marco Aurélio|7073|7075|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|517|voto|Dias Toffoli|7076|7077|Sim|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~3k car.
+AP-470|518|voto|Cármen Lúcia|7078|7078|Adesao|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~764 car.
+AP-470|519|voto|Gilmar Mendes|7079|7079|Adesao|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~489 car.
+AP-470|520|voto|Marco Aurélio|7080|7084|Sim|AP-470-R04;AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~6k car.
+AP-470|521|voto|Celso de Mello|7085|7085|Nao|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VIII; ~463 car.
+AP-470|522|voto|Ayres Britto|7086|7086|Adesao|AP-470-R05|NA|NA|NA|sessão 07/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~351 car.
+AP-470|523|debate|Ayres Britto;Ricardo Lewandowski;Joaquim Barbosa;Celso de Mello;Dias Toffoli;Luiz Fux;Gilmar Mendes;Marco Aurélio;Rosa Weber|7087|7111|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 07/11/2012; ~22k car.; ctx = itens votados na mesma sessão
+AP-470|524|extrato_ata||7112|7133|Nao|todos|NA|NA|NA|sessão 07/11/2012; extrato de ata cumulativo da sessão de 07/11/2012; ~71k car.
+AP-470|525|outro|Celso de Mello;Luiz Fux;Marco Aurélio|7134|7134|Nao|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; cabeçalho: Proposta; fala do autor marcada CANCELADO no início da peça; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|526|outro|Ricardo Lewandowski|7135|7137|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; cabeçalho: Voto s/ Proposta; fase pós-mérito (penas e efeitos); ~4k car.; ctx = peças de voto vizinhas
+AP-470|527|outro|Dias Toffoli|7138|7140|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; cabeçalho: Voto s/ Proposta; fase pós-mérito (penas e efeitos); ~3k car.; ctx = peças de voto vizinhas
+AP-470|528|aparte|Marco Aurélio|7141|7145|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; autor da peça: Marco Aurélio; também falam: Ricardo Lewandowski, Ayres Britto, Celso de Mello, Luiz Fux, Joaquim Barbosa; ~5k car.; ctx = itens votados na mesma sessão
+AP-470|529|outro|Rosa Weber|7146|7147|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; cabeçalho: Voto s/ Proposta; fase pós-mérito (penas e efeitos); ~3k car.; ctx = peças de voto vizinhas
+AP-470|530|aparte|Marco Aurélio|7148|7149|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; autor da peça: Marco Aurélio; também falam: Ayres Britto; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|531|debate|Ricardo Lewandowski;Marco Aurélio;Celso de Mello;Ayres Britto;Joaquim Barbosa;Dias Toffoli;Cármen Lúcia|7150|7152|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|532|aparte|Celso de Mello|7153|7154|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; autor da peça: Celso de Mello; também falam: Marco Aurélio, Luiz Fux, Cármen Lúcia, Ayres Britto; fala do autor marcada CANCELADO no início da peça; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|533|outro|Cármen Lúcia|7155|7155|Adesao|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; cabeçalho: Voto s/ Proposta; fase pós-mérito (penas e efeitos); ~296 car.; ctx = peças de voto vizinhas
+AP-470|534|debate|Joaquim Barbosa;Marco Aurélio;Ricardo Lewandowski;Ayres Britto;Dias Toffoli;Luiz Fux|7156|7162|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; ~5k car.; ctx = itens votados na mesma sessão
+AP-470|535|voto|Marco Aurélio|7163|7163|Sim|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item II; peça curta; ~895 car.
+AP-470|536|aparte|Ayres Britto|7164|7167|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; ~358 car.; ctx = itens votados na mesma sessão
+AP-470|537|voto|Rosa Weber|7168|7168|Adesao|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item III; ~407 car.
+AP-470|538|voto|Celso de Mello|7169|7169|Nao|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item III; ~455 car.
+AP-470|539|outro|Joaquim Barbosa|7170|7170|Sim|AP-470-R06|NA|NA|NA|sessão 08/11/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); título cita: item III.1; peça curta; ~462 car.
+AP-470|540|aparte|Luiz Fux|7171|7177|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; autor da peça: Luiz Fux; também falam: Celso de Mello, Cármen Lúcia, Ayres Britto, Joaquim Barbosa, Rosa Weber; fala do autor marcada CANCELADO no início da peça; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|541|voto|Rosa Weber|7178|7178|Sim|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; peça curta; ~732 car.
+AP-470|542|voto|Cármen Lúcia|7179|7179|Adesao|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~186 car.
+AP-470|543|voto|Marco Aurélio|7180|7182|Sim|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~5k car.
+AP-470|544|voto|Ayres Britto|7183|7183|Adesao|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~518 car.
+AP-470|545|aparte|Ricardo Lewandowski|7184|7186|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|546|debate|Ayres Britto;Ricardo Lewandowski|7187|7188|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|547|voto|Rosa Weber|7189|7189|Adesao|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~562 car.
+AP-470|548|voto|Marco Aurélio|7190|7190|Adesao|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.3; ~1k car.
+AP-470|549|aparte|Ricardo Lewandowski|7191|7191|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; ~990 car.; ctx = itens votados na mesma sessão
+AP-470|550|voto|Rosa Weber|7192|7192|Adesao|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.2; ~279 car.
+AP-470|551|voto|Marco Aurélio|7193|7193|Sim|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.2; peça curta; ~460 car.
+AP-470|552|aparte|Ricardo Lewandowski|7194|7196|Sim|AP-470-R06|NA|NA|NA|sessão 08/11/2012; autor da peça: Ricardo Lewandowski; também falam: Marco Aurélio, Joaquim Barbosa; fase pós-mérito (penas e efeitos); título cita: item IV; ~3k car.
+AP-470|553|voto|Rosa Weber|7197|7197|Adesao|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~623 car.
+AP-470|554|voto|Luiz Fux|7198|7198|Nao|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item IV; ~408 car.
+AP-470|555|voto|Marco Aurélio|7199|7199|Sim|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~2k car.
+AP-470|556|voto|Rosa Weber|7200|7200|Adesao|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~301 car.
+AP-470|557|voto|Marco Aurélio|7201|7201|Sim|AP-470-R06|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; peça curta; ~538 car.
+AP-470|558|voto|Marco Aurélio|7202|7202|Sim|AP-470-R11|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item II; peça curta; ~1k car.
+AP-470|559|voto|Celso de Mello|7203|7203|Nao|AP-470-R11|NA|NA|NA|sessão 08/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item II; ~401 car.
+AP-470|560|outro|Joaquim Barbosa|7204|7204|Sim|AP-470-R11|NA|NA|NA|sessão 08/11/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); título cita: item II; peça curta; ~429 car.
+AP-470|561|outro|Gilmar Mendes|7205|7205|Sim|AP-470-R11|NA|NA|NA|sessão 08/11/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); título cita: item II; peça curta; ~164 car.
+AP-470|562|aparte|Ayres Britto|7206|7206|Sim|AP-470-R11|NA|NA|NA|sessão 08/11/2012; autor da peça: Ayres Britto; também falam: Joaquim Barbosa; fase pós-mérito (penas e efeitos); título cita: item II; ~347 car.
+AP-470|563|debate|Ayres Britto;Joaquim Barbosa;Gilmar Mendes;Cármen Lúcia;Marco Aurélio;Celso de Mello;Luiz Fux|7207|7213|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|564|voto|Rosa Weber|7214|7214|Adesao|AP-470-R11|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~308 car.
+AP-470|565|voto|Luiz Fux|7215|7215|Nao|AP-470-R11|NA|NA|NA|sessão 08/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI; ~335 car.
+AP-470|566|voto|Marco Aurélio|7216|7217|Adesao|AP-470-R11|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~1k car.
+AP-470|567|voto|Celso de Mello|7218|7219|Nao|AP-470-R11|NA|NA|NA|sessão 08/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI; ~2k car.
+AP-470|568|voto|Marco Aurélio|7220|7221|Sim|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item II; ~2k car.
+AP-470|569|aparte|Joaquim Barbosa|7222|7222|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; autor da peça: Joaquim Barbosa; também falam: Marco Aurélio; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|570|voto|Celso de Mello|7223|7223|Nao|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item II; ~355 car.
+AP-470|571|voto|Ayres Britto|7224|7225|Sim|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item I; ~2k car.
+AP-470|572|voto|Rosa Weber|7226|7226|Adesao|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~647 car.
+AP-470|573|voto|Dias Toffoli|7227|7227|Adesao|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~208 car.
+AP-470|574|voto|Cármen Lúcia|7228|7228|Adesao|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~594 car.
+AP-470|575|voto|Gilmar Mendes|7229|7229|Adesao|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~478 car.
+AP-470|576|voto|Marco Aurélio|7230|7231|Sim|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~2k car.
+AP-470|577|voto|Ayres Britto|7232|7233|Sim|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~2k car.
+AP-470|578|aparte|Joaquim Barbosa|7234|7235|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; autor da peça: Joaquim Barbosa; também falam: Ricardo Lewandowski, Ayres Britto, Celso de Mello; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|579|voto|Rosa Weber|7236|7236|Adesao|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~460 car.
+AP-470|580|voto|Gilmar Mendes|7237|7237|Sim|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; peça curta; ~644 car.
+AP-470|581|voto|Ayres Britto|7238|7238|Sim|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; peça curta; ~1k car.
+AP-470|582|aparte|Joaquim Barbosa|7239|7243|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 08/11/2012; autor da peça: Joaquim Barbosa; também falam: Ayres Britto, Celso de Mello, Gilmar Mendes, Luiz Fux; ~7k car.; ctx = itens votados na mesma sessão
+AP-470|583|voto|Rosa Weber|7244|7244|Adesao|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~288 car.
+AP-470|584|voto|Gilmar Mendes|7245|7245|Adesao|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~551 car.
+AP-470|585|voto|Ayres Britto|7246|7246|Adesao|AP-470-R10|NA|NA|NA|sessão 08/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~458 car.
+AP-470|586|extrato_ata||7247|7275|Nao|todos|NA|NA|NA|sessão 08/11/2012; extrato de ata cumulativo da sessão de 08/11/2012; ~81k car.
+AP-470|587|aparte|Marco Aurélio|7276|7276|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 12/11/2012; autor da peça: Marco Aurélio; também falam: Ayres Britto; ~285 car.; ctx = itens votados na mesma sessão
+AP-470|588|voto|Cármen Lúcia|7277|7277|Adesao|AP-470-R10|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~250 car.
+AP-470|589|voto|Cármen Lúcia|7278|7278|Adesao|AP-470-R10|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~221 car.
+AP-470|590|voto|Marco Aurélio|7279|7279|Adesao|AP-470-R10|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~220 car.
+AP-470|591|debate|Ricardo Lewandowski;Ayres Britto;Joaquim Barbosa;Marco Aurélio|7280|7290|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 12/11/2012; ~11k car.; ctx = itens votados na mesma sessão
+AP-470|592|voto|Gilmar Mendes|7291|7291|Adesao|AP-470-R07|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item II; ~511 car.
+AP-470|593|voto|Rosa Weber|7292|7292|Adesao|AP-470-R07|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~691 car.
+AP-470|594|voto|Cármen Lúcia|7293|7294|Sim|AP-470-R07|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~2k car.
+AP-470|595|voto|Marco Aurélio|7295|7295|Sim|AP-470-R07|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~2k car.
+AP-470|596|voto|Ayres Britto|7296|7296|Adesao|AP-470-R07|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~425 car.
+AP-470|597|voto|Gilmar Mendes|7297|7297|Sim|AP-470-R08|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item II; peça curta; ~602 car.
+AP-470|598|voto|Ayres Britto|7298|7298|Adesao|AP-470-R08|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item II; ~1k car.
+AP-470|599|outro|Gilmar Mendes|7299|7299|Adesao|AP-470-R08|NA|NA|NA|sessão 12/11/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); título cita: item II; ~192 car.
+AP-470|600|voto|Rosa Weber|7300|7300|Adesao|AP-470-R08|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~1k car.
+AP-470|601|voto|Dias Toffoli|7301|7304|Sim|item VI|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~7k car.
+AP-470|602|voto|Cármen Lúcia|7305|7305|Adesao|AP-470-R08|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~805 car.
+AP-470|603|aparte|Joaquim Barbosa|7306|7309|Sim|AP-470-R08;fora do banco: Duda Mendonça|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~517 car.
+AP-470|604|voto|Gilmar Mendes|7310|7311|Sim|AP-470-R08|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~2k car.
+AP-470|605|debate|Luiz Fux;Celso de Mello;Joaquim Barbosa;Gilmar Mendes|7312|7312|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 12/11/2012; fala do autor marcada CANCELADO no início da peça; ~642 car.; ctx = itens votados na mesma sessão
+AP-470|606|outro|Joaquim Barbosa|7313|7314|Sim|AP-470-R08|NA|NA|NA|sessão 12/11/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); título cita: item VI; ~2k car.
+AP-470|607|outro|Gilmar Mendes|7315|7315|Adesao|AP-470-R08|NA|NA|NA|sessão 12/11/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); título cita: item VI; ~318 car.
+AP-470|608|voto|Marco Aurélio|7316|7316|Sim|AP-470-R08|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; peça curta; ~1k car.
+AP-470|609|voto|Celso de Mello|7317|7317|Nao|AP-470-R08|NA|NA|NA|sessão 12/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI; ~515 car.
+AP-470|610|voto|Ayres Britto|7318|7319|Sim|AP-470-R08|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~2k car.
+AP-470|611|outro|Rosa Weber|7320|7320|Adesao|AP-470-R08|NA|NA|NA|sessão 12/11/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); título cita: item VI; ~338 car.
+AP-470|612|debate|Joaquim Barbosa;Celso de Mello;Ayres Britto;Marco Aurélio;Cármen Lúcia|7321|7322|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 12/11/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|613|debate|Luiz Fux;Joaquim Barbosa;Marco Aurélio;Celso de Mello;Ayres Britto|7323|7323|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 12/11/2012; fala do autor marcada CANCELADO no início da peça; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|614|aparte|Ayres Britto|7324|7325|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 12/11/2012; autor da peça: Ayres Britto; também falam: Joaquim Barbosa, Ricardo Lewandowski; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|615|voto|Rosa Weber|7326|7326|Adesao|AP-470-R09|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~872 car.
+AP-470|616|voto|Cármen Lúcia|7327|7327|Adesao|AP-470-R09|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~617 car.
+AP-470|617|voto|Gilmar Mendes|7328|7328|Adesao|AP-470-R09|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~471 car.
+AP-470|618|voto|Ayres Britto|7329|7330|Sim|AP-470-R09|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~2k car.
+AP-470|619|aparte|Ricardo Lewandowski|7331|7331|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 12/11/2012; ~489 car.; ctx = itens votados na mesma sessão
+AP-470|620|aparte|Joaquim Barbosa|7332|7332|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 12/11/2012; autor da peça: Joaquim Barbosa; também falam: Ricardo Lewandowski, Ayres Britto; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|621|voto|Rosa Weber|7333|7333|Adesao|fora do banco: Kátia Rabello|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~763 car.
+AP-470|622|voto|Dias Toffoli|7334|7334|Adesao|fora do banco: Kátia Rabello|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~256 car.
+AP-470|623|voto|Cármen Lúcia|7335|7335|Adesao|fora do banco: Kátia Rabello|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~332 car.
+AP-470|624|voto|Marco Aurélio|7336|7337|Sim|fora do banco: Kátia Rabello|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~2k car.
+AP-470|625|voto|Celso de Mello|7338|7339|Nao|fora do banco: Kátia Rabello|NA|NA|NA|sessão 12/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item IV; ~1k car.
+AP-470|626|voto|Ayres Britto|7340|7340|Adesao|fora do banco: Kátia Rabello|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~275 car.
+AP-470|627|voto|Cármen Lúcia|7341|7341|Adesao|fora do banco: Kátia Rabello|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item V; ~226 car.
+AP-470|628|voto|Rosa Weber|7342|7343|Adesao|fora do banco: Kátia Rabello|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item V; ~1k car.
+AP-470|629|aparte|Ricardo Lewandowski|7344|7345|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 12/11/2012; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|630|voto|Dias Toffoli|7346|7346|Adesao|fora do banco: Kátia Rabello|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~625 car.
+AP-470|631|voto|Cármen Lúcia|7347|7347|Adesao|fora do banco: Kátia Rabello|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~238 car.
+AP-470|632|voto|Marco Aurélio|7348|7348|Adesao|fora do banco: Kátia Rabello|NA|NA|NA|sessão 12/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~1k car.
+AP-470|633|extrato_ata||7349|7379|Nao|todos|NA|NA|NA|sessão 12/11/2012; extrato de ata cumulativo da sessão de 12/11/2012; ~88k car.
+AP-470|634|voto_aditamento|Ricardo Lewandowski|7380|7382|Sim|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); ~4k car.
+AP-470|635|voto|Rosa Weber|7383|7383|Adesao|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~963 car.
+AP-470|636|voto|Dias Toffoli|7384|7386|Sim|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~5k car.
+AP-470|637|aparte|Ricardo Lewandowski|7387|7388|Sim|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~2k car.
+AP-470|638|voto|Cármen Lúcia|7389|7389|Adesao|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~1k car.
+AP-470|639|voto|Gilmar Mendes|7390|7392|Sim|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~4k car.
+AP-470|640|voto|Marco Aurélio|7393|7395|Sim|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~5k car.
+AP-470|641|voto|Celso de Mello|7396|7396|Nao|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item IV; ~224 car.
+AP-470|642|voto|Ayres Britto|7397|7397|Adesao|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~269 car.
+AP-470|643|aparte|Ricardo Lewandowski|7398|7398|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 14/11/2012; ~766 car.; ctx = itens votados na mesma sessão
+AP-470|644|voto|Rosa Weber|7399|7399|Adesao|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item V; ~757 car.
+AP-470|645|voto|Dias Toffoli|7400|7400|Adesao|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item V; ~1k car.
+AP-470|646|voto|Cármen Lúcia|7401|7401|Adesao|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item V; ~202 car.
+AP-470|647|voto|Gilmar Mendes|7402|7402|Adesao|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item V; ~535 car.
+AP-470|648|voto|Marco Aurélio|7403|7403|Adesao|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item V; ~501 car.
+AP-470|649|aparte|Ricardo Lewandowski|7404|7404|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 14/11/2012; ~976 car.; ctx = itens votados na mesma sessão
+AP-470|650|voto|Gilmar Mendes|7405|7405|Adesao|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~317 car.
+AP-470|651|voto|Marco Aurélio|7406|7406|Adesao|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; ~569 car.
+AP-470|652|voto|Ayres Britto|7407|7407|Sim|fora do banco: José Roberto Salgado|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item VIII; peça curta; ~269 car.
+AP-470|653|debate|Marco Aurélio;Ayres Britto;Joaquim Barbosa;Ricardo Lewandowski;Celso de Mello|7408|7416|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 14/11/2012; ~9k car.; ctx = itens votados na mesma sessão
+AP-470|654|voto|Rosa Weber|7417|7417|Adesao|fora do banco: Vinícius Samarane|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~1k car.
+AP-470|655|voto|Dias Toffoli|7418|7418|Adesao|fora do banco: Vinícius Samarane|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~266 car.
+AP-470|656|voto|Cármen Lúcia|7419|7419|Adesao|fora do banco: Vinícius Samarane|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~187 car.
+AP-470|657|voto|Ayres Britto|7420|7420|Adesao|fora do banco: Vinícius Samarane|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~296 car.
+AP-470|658|voto|Rosa Weber|7421|7421|Sim|fora do banco: Vinícius Samarane|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item V; peça curta; ~829 car.
+AP-470|659|voto|Luiz Fux|7422|7422|Nao|fora do banco: Vinícius Samarane|NA|NA|NA|sessão 14/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item V; ~239 car.
+AP-470|660|voto|Dias Toffoli|7423|7423|Adesao|fora do banco: Vinícius Samarane|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item V; ~234 car.
+AP-470|661|voto|Rosa Weber|7424|7426|Sim|AP-470-R11|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~4k car.
+AP-470|662|voto|Ayres Britto|7427|7427|Adesao|AP-470-R11|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~609 car.
+AP-470|663|debate|Ayres Britto;Joaquim Barbosa;Ricardo Lewandowski;Luiz Fux;Celso de Mello;Cármen Lúcia;Dias Toffoli|7428|7432|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 14/11/2012; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|664|voto|Ayres Britto|7433|7480|Sim|dosimetria (condenados em geral)|NA|NA|NA|sessão 14/11/2012; fase pós-mérito (penas e efeitos); ~96k car.
+AP-470|665|extrato_ata||7481|7512|Nao|todos|NA|NA|NA|sessão 14/11/2012; extrato de ata cumulativo da sessão de 14/11/2012; ~92k car.
+AP-470|666|questao_ordem|Joaquim Barbosa|7513|7517|Sim|questão de ordem|NA|NA|NA|sessão 21/11/2012; suscitada da tribuna por advogado; ~2k car.
+AP-470|667|voto|Rosa Weber|7518|7518|Adesao|fora do banco: Breno Fischberg|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~560 car.
+AP-470|668|voto|Cármen Lúcia|7519|7519|Adesao|fora do banco: Breno Fischberg|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~451 car.
+AP-470|669|voto|Rosa Weber|7520|7520|Sim|fora do banco: Enivaldo Quadrado|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; peça curta; ~1k car.
+AP-470|670|voto|Dias Toffoli|7521|7521|Adesao|fora do banco: Enivaldo Quadrado|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~1k car.
+AP-470|671|voto|Cármen Lúcia|7522|7522|Adesao|fora do banco: Enivaldo Quadrado|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~476 car.
+AP-470|672|voto|Luiz Fux|7523|7523|Nao|fora do banco: Breno Fischberg|NA|NA|NA|sessão 21/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI; ~496 car.
+AP-470|673|voto|Gilmar Mendes|7524|7524|Sim|AP-470-R16|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; peça curta; ~204 car.
+AP-470|674|voto|Marco Aurélio|7525|7525|Sim|AP-470-R16|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; peça curta; ~905 car.
+AP-470|675|voto|Celso de Mello|7526|7526|Nao|AP-470-R16|NA|NA|NA|sessão 21/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI; ~586 car.
+AP-470|676|aparte|Ricardo Lewandowski|7527|7527|Sim|AP-470-R16|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); ~1k car.
+AP-470|677|aparte|Cármen Lúcia|7528|7531|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 21/11/2012; autor da peça: Cármen Lúcia; também falam: Ricardo Lewandowski, Joaquim Barbosa, Celso de Mello, Marco Aurélio; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|678|voto|Rosa Weber|7532|7533|Sim|AP-470-R16|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~2k car.
+AP-470|679|voto|Cármen Lúcia|7534|7534|Adesao|AP-470-R16|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~388 car.
+AP-470|680|voto|Gilmar Mendes|7535|7535|Adesao|AP-470-R16|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~260 car.
+AP-470|681|voto|Marco Aurélio|7536|7536|Adesao|AP-470-R16|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~433 car.
+AP-470|682|aparte|Ricardo Lewandowski|7537|7537|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 21/11/2012; ~300 car.; ctx = itens votados na mesma sessão
+AP-470|683|voto|Cármen Lúcia|7538|7538|Adesao|AP-470-R16|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~264 car.
+AP-470|684|voto|Gilmar Mendes|7539|7539|Sim|AP-470-R16|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; peça curta; ~347 car.
+AP-470|685|voto|Rosa Weber|7540|7540|Sim|AP-470-R18|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; peça curta; ~238 car.
+AP-470|686|voto|Cármen Lúcia|7541|7541|Adesao|AP-470-R18|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); ~392 car.
+AP-470|687|voto|Gilmar Mendes|7542|7542|Sim|AP-470-R18|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; peça curta; ~503 car.
+AP-470|688|voto|Marco Aurélio|7543|7543|Adesao|AP-470-R18|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~654 car.
+AP-470|689|aparte|Joaquim Barbosa|7544|7547|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 21/11/2012; autor da peça: Joaquim Barbosa; também falam: Cármen Lúcia, Ricardo Lewandowski; ~996 car.; ctx = itens votados na mesma sessão
+AP-470|690|voto|Rosa Weber|7548|7548|Adesao|AP-470-R18|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~555 car.
+AP-470|691|voto|Dias Toffoli|7549|7549|Adesao|AP-470-R18|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~350 car.
+AP-470|692|voto|Cármen Lúcia|7550|7550|Adesao|AP-470-R18|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~400 car.
+AP-470|693|voto|Gilmar Mendes|7551|7551|Adesao|AP-470-R18|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); ~193 car.
+AP-470|694|voto|Dias Toffoli|7552|7552|Adesao|AP-470-R18|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI; ~473 car.
+AP-470|695|voto|Cármen Lúcia|7553|7554|Sim|AP-470-R11|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~2k car.
+AP-470|696|voto|Gilmar Mendes|7555|7555|Adesao|AP-470-R11|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~572 car.
+AP-470|697|voto|Marco Aurélio|7556|7556|Adesao|AP-470-R11|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item IV; ~731 car.
+AP-470|698|voto|Gilmar Mendes|7557|7557|Adesao|fora do banco: Vinícius Samarane|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item V; ~327 car.
+AP-470|699|questao_ordem|Joaquim Barbosa|7558|7565|Sim|questão de ordem|NA|NA|NA|sessão 21/11/2012; suscitada da tribuna por advogado; ~5k car.
+AP-470|700|debate|Joaquim Barbosa;Ricardo Lewandowski;Marco Aurélio;Luiz Fux;Celso de Mello;Cármen Lúcia|7566|7567|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 21/11/2012; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|701|outro|Joaquim Barbosa|7568|7568|Sim|AP-470-R03|NA|NA|NA|sessão 21/11/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); peça curta; ~1k car.
+AP-470|702|voto|Rosa Weber|7569|7570|Sim|AP-470-R03|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item III; peça curta; ~1k car.
+AP-470|703|voto|Dias Toffoli|7571|7571|Adesao|AP-470-R03|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item III; ~233 car.
+AP-470|704|voto|Cármen Lúcia|7572|7572|Adesao|AP-470-R03|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item III; ~244 car.
+AP-470|705|voto|Gilmar Mendes|7573|7573|Adesao|AP-470-R03|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item III; ~288 car.
+AP-470|706|voto|Marco Aurélio|7574|7574|Adesao|AP-470-R03|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item III; ~1k car.
+AP-470|707|voto|Celso de Mello|7575|7576|Nao|AP-470-R03|NA|NA|NA|sessão 21/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item III; ~1k car.
+AP-470|708|voto|Rosa Weber|7577|7577|Adesao|AP-470-R03|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item III; ~551 car.
+AP-470|709|voto|Dias Toffoli|7578|7578|Adesao|AP-470-R03|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item III; ~258 car.
+AP-470|710|voto|Cármen Lúcia|7579|7579|Adesao|AP-470-R03|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item III; ~212 car.
+AP-470|711|voto|Gilmar Mendes|7580|7580|Adesao|AP-470-R03|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item III; ~232 car.
+AP-470|712|voto|Marco Aurélio|7581|7581|Adesao|AP-470-R03|NA|NA|NA|sessão 21/11/2012; fase pós-mérito (penas e efeitos); título cita: item III; ~427 car.
+AP-470|713|debate|Marco Aurélio;Joaquim Barbosa;Celso de Mello;Rosa Weber;Cármen Lúcia|7582|7582|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 21/11/2012; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|714|aparte|Ricardo Lewandowski|7583|7584|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 21/11/2012; autor da peça: Ricardo Lewandowski; também falam: Celso de Mello, Luiz Fux, Marco Aurélio, Joaquim Barbosa; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|715|aparte|Ricardo Lewandowski|7585|7586|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 21/11/2012; autor da peça: Ricardo Lewandowski; também falam: Joaquim Barbosa, Cármen Lúcia; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|716|extrato_ata||7587|7615|Nao|todos|NA|NA|NA|sessão 21/11/2012; extrato de ata cumulativo da sessão de 21/11/2012; ~99k car.
+AP-470|717|outro|Rosa Weber|7616|7616|Adesao|AP-470-R23|NA|NA|NA|sessão 26/11/2012; cabeçalho: Notas para o Voto; fase pós-mérito (penas e efeitos); título cita: item VI.4; ~766 car.
+AP-470|718|voto|Cármen Lúcia|7617|7617|Adesao|AP-470-R23|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.4; ~316 car.
+AP-470|719|voto|Gilmar Mendes|7618|7618|Adesao|AP-470-R23|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.4; ~716 car.
+AP-470|720|debate|Joaquim Barbosa;Celso de Mello;Gilmar Mendes;Rosa Weber;Ricardo Lewandowski|7619|7620|Sim|AP-470-R23|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.4; ~1k car.
+AP-470|721|voto|Marco Aurélio|7621|7621|Adesao|AP-470-R23|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.4; ~490 car.
+AP-470|722|voto|Celso de Mello|7622|7623|Nao|AP-470-R23|NA|NA|NA|sessão 26/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI.4; ~1k car.
+AP-470|723|voto_aditamento|Rosa Weber|7624|7624|Adesao|AP-470-R23|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.4; ~298 car.
+AP-470|724|voto|Dias Toffoli|7625|7625|Adesao|AP-470-R23|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.4; ~249 car.
+AP-470|725|outro|Celso de Mello;Joaquim Barbosa;Marco Aurélio|7626|7627|Nao|AP-470-R23|NA|NA|NA|sessão 26/11/2012; cabeçalho: Proposta; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI.4; ~1k car.
+AP-470|726|debate|Joaquim Barbosa;Marco Aurélio;Cármen Lúcia|7628|7629|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 26/11/2012; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|727|voto_aditamento|Ricardo Lewandowski|7630|7630|Sim|AP-470-R19|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; peça curta; ~845 car.
+AP-470|728|voto|Rosa Weber|7631|7631|Adesao|AP-470-R19|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~335 car.
+AP-470|729|voto|Dias Toffoli|7632|7632|Adesao|AP-470-R19|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~262 car.
+AP-470|730|voto|Cármen Lúcia|7633|7633|Adesao|AP-470-R19|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~441 car.
+AP-470|731|voto|Gilmar Mendes|7634|7634|Adesao|AP-470-R19|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~309 car.
+AP-470|732|voto|Dias Toffoli|7635|7635|Adesao|AP-470-R19|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~383 car.
+AP-470|733|outro|Rosa Weber|7636|7639|Adesao|AP-470-R21;fora do banco: Duda Mendonça|NA|NA|NA|sessão 26/11/2012; cabeçalho: Notas para o Voto; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~428 car.
+AP-470|734|debate|Dias Toffoli;Joaquim Barbosa;Cármen Lúcia;Rosa Weber;Celso de Mello;Marco Aurélio;Ricardo Lewandowski|7640|7646|Sim|AP-470-R21;fora do banco: Duda Mendonça|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~4k car.
+AP-470|735|voto|Dias Toffoli|7647|7647|Adesao|AP-470-R21|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~249 car.
+AP-470|736|voto|Gilmar Mendes|7648|7648|Adesao|AP-470-R21|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~198 car.
+AP-470|737|voto|Marco Aurélio|7649|7649|Adesao|AP-470-R21|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~1k car.
+AP-470|738|outro|Rosa Weber|7650|7653|Adesao|AP-470-R21;fora do banco: Duda Mendonça|NA|NA|NA|sessão 26/11/2012; cabeçalho: Notas para o Voto; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~326 car.
+AP-470|739|debate|Marco Aurélio;Luiz Fux;Joaquim Barbosa;Cármen Lúcia;Gilmar Mendes;Celso de Mello|7654|7656|Sim|AP-470-R17|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~4k car.
+AP-470|740|outro|Rosa Weber|7657|7660|Adesao|AP-470-R17;fora do banco: Duda Mendonça|NA|NA|NA|sessão 26/11/2012; cabeçalho: Notas para o Voto; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~756 car.
+AP-470|741|voto|Dias Toffoli|7661|7661|Adesao|AP-470-R17|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~375 car.
+AP-470|742|voto|Gilmar Mendes|7662|7662|Adesao|AP-470-R17|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~244 car.
+AP-470|743|voto|Marco Aurélio|7663|7663|Adesao|AP-470-R17|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~1k car.
+AP-470|744|voto|Celso de Mello|7664|7664|Nao|AP-470-R17|NA|NA|NA|sessão 26/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~532 car.
+AP-470|745|outro|Rosa Weber|7665|7668|Adesao|AP-470-R17;fora do banco: Duda Mendonça|NA|NA|NA|sessão 26/11/2012; cabeçalho: Notas para o Voto; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~376 car.
+AP-470|746|voto|Dias Toffoli|7669|7669|Sim|AP-470-R17|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; peça curta; ~385 car.
+AP-470|747|voto|Cármen Lúcia|7670|7670|Adesao|AP-470-R17|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.2; ~324 car.
+AP-470|748|voto|Rosa Weber|7671|7671|Adesao|AP-470-R15|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~484 car.
+AP-470|749|voto|Dias Toffoli|7672|7672|Adesao|AP-470-R15|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~464 car.
+AP-470|750|voto|Cármen Lúcia|7673|7673|Adesao|AP-470-R15|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~328 car.
+AP-470|751|voto|Rosa Weber|7674|7674|Sim|AP-470-R15|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; peça curta; ~448 car.
+AP-470|752|voto|Dias Toffoli|7675|7675|Adesao|AP-470-R15|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~243 car.
+AP-470|753|voto|Cármen Lúcia|7676|7676|Adesao|AP-470-R15|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~353 car.
+AP-470|754|debate|Celso de Mello;Marco Aurélio;Joaquim Barbosa;Luiz Fux|7677|7679|Sim|AP-470-R14|NA|NA|NA|sessão 26/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~3k car.
+AP-470|755|voto|Gilmar Mendes|7680|7680|Adesao|AP-470-R14|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~661 car.
+AP-470|756|voto|Marco Aurélio|7681|7681|Sim|AP-470-R14|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; peça curta; ~981 car.
+AP-470|757|aparte|Ricardo Lewandowski|7682|7682|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 26/11/2012; autor da peça: Ricardo Lewandowski; também falam: Joaquim Barbosa, Marco Aurélio; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|758|voto|Rosa Weber|7683|7683|Adesao|AP-470-R14|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~369 car.
+AP-470|759|voto|Luiz Fux|7684|7684|Nao|AP-470-R14|NA|NA|NA|sessão 26/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~388 car.
+AP-470|760|voto|Dias Toffoli|7685|7685|Adesao|AP-470-R14|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~285 car.
+AP-470|761|voto|Rosa Weber|7686|7686|Sim|AP-470-R14|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; peça curta; ~435 car.
+AP-470|762|voto|Cármen Lúcia|7687|7687|Adesao|AP-470-R14|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~404 car.
+AP-470|763|voto|Gilmar Mendes|7688|7688|Adesao|AP-470-R14|NA|NA|NA|sessão 26/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.1; ~239 car.
+AP-470|764|extrato_ata||7689|7725|Nao|todos|NA|NA|NA|sessão 26/11/2012; extrato de ata cumulativo da sessão de 26/11/2012; ~106k car.
+AP-470|765|debate|Joaquim Barbosa;Celso de Mello;Rosa Weber;Luiz Fux;Ricardo Lewandowski;Marco Aurélio;Cármen Lúcia;Gilmar Mendes|7726|7733|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 28/11/2012; ~11k car.; ctx = itens votados na mesma sessão
+AP-470|766|aparte|Marco Aurélio|7734|7736|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 28/11/2012; autor da peça: Marco Aurélio; também falam: Joaquim Barbosa, Ricardo Lewandowski, Dias Toffoli, Celso de Mello; ~5k car.; ctx = itens votados na mesma sessão
+AP-470|767|voto|Rosa Weber|7737|7737|Adesao|AP-470-R20|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~1k car.
+AP-470|768|voto|Dias Toffoli|7738|7740|Sim|AP-470-R20|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~4k car.
+AP-470|769|voto|Cármen Lúcia|7741|7741|Adesao|AP-470-R20|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~1k car.
+AP-470|770|voto|Marco Aurélio|7742|7748|Sim|AP-470-R20|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~10k car.
+AP-470|771|aparte|Luiz Fux|7749|7752|Sim|AP-470-R20;fora do banco: Duda Mendonça|NA|NA|NA|sessão 28/11/2012; autor da peça: Luiz Fux; também falam: Joaquim Barbosa; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~554 car.
+AP-470|772|voto|Rosa Weber|7753|7753|Adesao|AP-470-R20|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~1k car.
+AP-470|773|voto|Luiz Fux|7754|7755|Nao|AP-470-R20|NA|NA|NA|sessão 28/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~2k car.
+AP-470|774|voto|Dias Toffoli|7756|7756|Adesao|AP-470-R20|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~539 car.
+AP-470|775|voto|Cármen Lúcia|7757|7757|Adesao|AP-470-R20|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~419 car.
+AP-470|776|voto|Rosa Weber|7758|7758|Sim|AP-470-R22|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; peça curta; ~601 car.
+AP-470|777|debate|Joaquim Barbosa;Celso de Mello;Luiz Fux;Ricardo Lewandowski;Gilmar Mendes;Cármen Lúcia|7759|7762|Sim|AP-470-R22|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item VI.3; ~6k car.
+AP-470|778|debate|Joaquim Barbosa;Celso de Mello;Marco Aurélio;Ricardo Lewandowski|7763|7764|Sim|AP-470-R23|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); ~2k car.
+AP-470|779|debate|Rosa Weber;Cármen Lúcia;Joaquim Barbosa;Celso de Mello;Marco Aurélio;Luiz Fux|7765|7771|Sim|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~7k car.
+AP-470|780|voto|Rosa Weber|7772|7773|Sim|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~2k car.
+AP-470|781|voto|Luiz Fux|7774|7775|Nao|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item III.1; ~2k car.
+AP-470|782|voto|Cármen Lúcia|7776|7776|Adesao|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~365 car.
+AP-470|783|voto|Marco Aurélio|7777|7777|Adesao|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~837 car.
+AP-470|784|debate|Marco Aurélio;Joaquim Barbosa;Rosa Weber;Celso de Mello;Cármen Lúcia;Luiz Fux|7778|7781|Sim|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~3k car.
+AP-470|785|voto|Rosa Weber|7782|7782|Sim|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; peça curta; ~381 car.
+AP-470|786|voto|Cármen Lúcia|7783|7784|Adesao|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~1k car.
+AP-470|787|voto|Gilmar Mendes|7785|7785|Adesao|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~638 car.
+AP-470|788|voto|Marco Aurélio|7786|7786|Adesao|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~312 car.
+AP-470|789|debate|Joaquim Barbosa;Rosa Weber;Cármen Lúcia;Ricardo Lewandowski;Gilmar Mendes;Celso de Mello;Luiz Fux;Marco Aurélio|7787|7795|Sim|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~10k car.
+AP-470|790|outro|Joaquim Barbosa|7796|7796|Sim|AP-470-R01|NA|NA|NA|sessão 28/11/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); título cita: item III.1; peça curta; ~721 car.
+AP-470|791|debate|Cármen Lúcia;Joaquim Barbosa;Rosa Weber;Luiz Fux;Gilmar Mendes;Celso de Mello;Marco Aurélio;Ricardo Lewandowski;Dias Toffoli|7797|7814|Sim|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~21k car.
+AP-470|792|voto|Gilmar Mendes|7815|7816|Sim|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fase pós-mérito (penas e efeitos); título cita: item III.1; ~2k car.
+AP-470|793|voto|Celso de Mello|7817|7821|Sim|AP-470-R01|NA|NA|NA|sessão 28/11/2012; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); título cita: item III.1; ~4k car.
+AP-470|794|questao_ordem|Marco Aurélio;Celso de Mello;Luiz Fux;Joaquim Barbosa|7822|7822|Sim|questão de ordem|NA|NA|NA|sessão 28/11/2012; ~617 car.
+AP-470|795|questao_ordem|Joaquim Barbosa|7823|7824|Sim|questão de ordem|NA|NA|NA|sessão 28/11/2012; voto s/ questão de ordem; ~2k car.
+AP-470|796|questao_ordem|Rosa Weber|7825|7828|Sim|questão de ordem|NA|NA|NA|sessão 28/11/2012; voto s/ questão de ordem; ~5k car.
+AP-470|797|questao_ordem|Dias Toffoli|7829|7831|Sim|questão de ordem|NA|NA|NA|sessão 28/11/2012; voto s/ questão de ordem; ~4k car.
+AP-470|798|questao_ordem|Cármen Lúcia|7832|7832|Sim|questão de ordem|NA|NA|NA|sessão 28/11/2012; voto s/ questão de ordem; peça curta; ~986 car.
+AP-470|799|questao_ordem|Ricardo Lewandowski|7833|7833|Adesao|questão de ordem|NA|NA|NA|sessão 28/11/2012; voto s/ questão de ordem; ~1k car.
+AP-470|800|questao_ordem|Gilmar Mendes|7834|7834|Adesao|questão de ordem|NA|NA|NA|sessão 28/11/2012; voto s/ questão de ordem; ~1k car.
+AP-470|801|aparte|Dias Toffoli|7835|7835|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 28/11/2012; ~248 car.; ctx = itens votados na mesma sessão
+AP-470|802|questao_ordem|Marco Aurélio|7836|7837|Sim|questão de ordem|NA|NA|NA|sessão 28/11/2012; voto s/ questão de ordem; ~3k car.
+AP-470|803|extrato_ata||7838|7876|Nao|todos|NA|NA|NA|sessão 28/11/2012; extrato de ata cumulativo da sessão de 28/11/2012; ~112k car.
+AP-470|804|aparte|Rosa Weber|7877|7877|Sim|AP-470-R11|NA|NA|NA|sessão 05/12/2012; fase pós-mérito (penas e efeitos); ~655 car.
+AP-470|805|aparte|Marco Aurélio|7878|7878|Sim|AP-470-R04|NA|NA|NA|sessão 05/12/2012; fase pós-mérito (penas e efeitos); ~350 car.
+AP-470|806|aparte|Joaquim Barbosa|7879|7881|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 05/12/2012; autor da peça: Joaquim Barbosa; também falam: Marco Aurélio, Celso de Mello, Ricardo Lewandowski; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|807|voto|Joaquim Barbosa|7882|7898|Sim|fora do banco: Duda Mendonça|NA|NA|NA|sessão 05/12/2012; fase pós-mérito (penas e efeitos); ~26k car.
+AP-470|808|aparte|Celso de Mello|7899|7900|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 05/12/2012; autor da peça: Celso de Mello; também falam: Joaquim Barbosa, Luiz Fux; fala do autor marcada CANCELADO no início da peça; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|809|outro|Marco Aurélio|7901|7901|Sim|continuidade delitiva (art. 71 CP)|NA|NA|NA|sessão 05/12/2012; cabeçalho: Antecipação ao Voto; fase pós-mérito (penas e efeitos); peça curta; ~1k car.
+AP-470|810|voto|Marco Aurélio|7902|7931|Sim|continuidade delitiva (art. 71 CP)|NA|NA|NA|sessão 05/12/2012; fase pós-mérito (penas e efeitos); ~48k car.
+AP-470|811|aparte|Joaquim Barbosa|7932|7932|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 05/12/2012; autor da peça: Joaquim Barbosa; também falam: Marco Aurélio; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|812|outro|Ricardo Lewandowski|7933|7943|Sim|continuidade delitiva (art. 71 CP)|NA|NA|NA|sessão 05/12/2012; cabeçalho: Antecipação ao Voto; fase pós-mérito (penas e efeitos); ~22k car.
+AP-470|813|aparte|Joaquim Barbosa|7944|7945|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 05/12/2012; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|814|voto|Rosa Weber|7946|7947|Sim|continuidade delitiva (art. 71 CP)|NA|NA|NA|sessão 05/12/2012; fase pós-mérito (penas e efeitos); ~3k car.
+AP-470|815|outro|Luiz Fux|7948|7948|Nao|continuidade delitiva (art. 71 CP)|NA|NA|NA|sessão 05/12/2012; cabeçalho: Antecipação ao Voto; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); ~539 car.
+AP-470|816|voto|Dias Toffoli|7949|7951|Sim|continuidade delitiva (art. 71 CP)|NA|NA|NA|sessão 05/12/2012; fase pós-mérito (penas e efeitos); ~4k car.
+AP-470|817|outro|Cármen Lúcia|7952|7953|Sim|continuidade delitiva (art. 71 CP)|NA|NA|NA|sessão 05/12/2012; cabeçalho: Antecipação ao Voto; fase pós-mérito (penas e efeitos); ~3k car.
+AP-470|818|voto|Gilmar Mendes|7954|7958|Sim|continuidade delitiva (art. 71 CP)|NA|NA|NA|sessão 05/12/2012; fase pós-mérito (penas e efeitos); ~8k car.
+AP-470|819|voto|Celso de Mello|7959|7962|Sim|continuidade delitiva (art. 71 CP)|NA|NA|NA|sessão 05/12/2012; fase pós-mérito (penas e efeitos); ~6k car.
+AP-470|820|debate|Marco Aurélio;Joaquim Barbosa;Gilmar Mendes;Cármen Lúcia;Celso de Mello|7963|7965|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 05/12/2012; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|821|aparte|Joaquim Barbosa|7966|7967|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 05/12/2012; autor da peça: Joaquim Barbosa; também falam: Ricardo Lewandowski; ~4k car.; ctx = itens votados na mesma sessão
+AP-470|822|aparte|Joaquim Barbosa|7968|7971|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 05/12/2012; autor da peça: Joaquim Barbosa; também falam: Celso de Mello, Cármen Lúcia, Marco Aurélio; ~5k car.; ctx = itens votados na mesma sessão
+AP-470|823|extrato_ata||7972|8010|Nao|todos|NA|NA|NA|sessão 05/12/2012; extrato de ata cumulativo da sessão de 05/12/2012; ~113k car.
+AP-470|824|outro|Ricardo Lewandowski|8011|8012|Adesao|pena de multa|NA|NA|NA|sessão 06/12/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); ~1k car.
+AP-470|825|voto|Ricardo Lewandowski|8013|8022|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 06/12/2012; cabeçalho de página "Proposta", título "VOTO"; ~12k car.; ctx = peças de voto vizinhas
+AP-470|826|debate|Joaquim Barbosa;Ricardo Lewandowski;Celso de Mello;Luiz Fux;Gilmar Mendes|8023|8028|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 06/12/2012; ~8k car.; ctx = itens votados na mesma sessão
+AP-470|827|aparte|Ricardo Lewandowski|8029|8030|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 06/12/2012; autor da peça: Ricardo Lewandowski; também falam: Joaquim Barbosa, Gilmar Mendes, Celso de Mello, Marco Aurélio; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|828|outro|Marco Aurélio|8031|8032|Sim|pena de multa|NA|NA|NA|sessão 06/12/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); ~3k car.
+AP-470|829|outro|Cármen Lúcia|8033|8033|Adesao|pena de multa|NA|NA|NA|sessão 06/12/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); ~757 car.
+AP-470|830|aparte|Joaquim Barbosa|8034|8035|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 06/12/2012; autor da peça: Joaquim Barbosa; também falam: Ricardo Lewandowski, Luiz Fux; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|831|outro|Rosa Weber|8036|8036|Adesao|pena de multa|NA|NA|NA|sessão 06/12/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); ~899 car.
+AP-470|832|aparte|Dias Toffoli|8037|8037|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 06/12/2012; autor da peça: Dias Toffoli; também falam: Joaquim Barbosa; ~631 car.; ctx = itens votados na mesma sessão
+AP-470|833|voto|Joaquim Barbosa|8038|8053|Sim|perda de mandato|NA|NA|NA|sessão 06/12/2012; fase pós-mérito (penas e efeitos); ~32k car.
+AP-470|834|voto|Ricardo Lewandowski|8054|8074|Sim|perda de mandato|NA|NA|NA|sessão 06/12/2012; fase pós-mérito (penas e efeitos); ~37k car.
+AP-470|835|aparte|Joaquim Barbosa|8075|8076|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 06/12/2012; autor da peça: Joaquim Barbosa; também falam: Ricardo Lewandowski, Cármen Lúcia; ~2k car.; ctx = itens votados na mesma sessão
+AP-470|836|debate|Gilmar Mendes;Ricardo Lewandowski;Joaquim Barbosa;Dias Toffoli|8077|8080|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 06/12/2012; ~6k car.; ctx = itens votados na mesma sessão
+AP-470|837|aparte|Gilmar Mendes|8081|8081|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 06/12/2012; autor da peça: Gilmar Mendes; também falam: Ricardo Lewandowski; ~1k car.; ctx = itens votados na mesma sessão
+AP-470|838|aparte|Joaquim Barbosa|8082|8087|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 06/12/2012; autor da peça: Joaquim Barbosa; também falam: Ricardo Lewandowski, Marco Aurélio, Gilmar Mendes; ~8k car.; ctx = itens votados na mesma sessão
+AP-470|839|aparte|Luiz Fux|8088|8088|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 06/12/2012; autor da peça: Luiz Fux; também falam: Ricardo Lewandowski; fala do autor marcada CANCELADO no início da peça; ~426 car.; ctx = itens votados na mesma sessão
+AP-470|840|debate|Joaquim Barbosa;Ricardo Lewandowski;Gilmar Mendes;Celso de Mello;Luiz Fux|8089|8093|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 06/12/2012; ~6k car.; ctx = itens votados na mesma sessão
+AP-470|841|extrato_ata||8094|8133|Nao|todos|NA|NA|NA|sessão 06/12/2012; extrato de ata cumulativo da sessão de 06/12/2012; ~114k car.
+AP-470|842|voto|Luiz Fux|8134|8134|Nao|AP-470-R01;AP-470-R15;AP-470-R17;AP-470-R23|NA|NA|NA|sessão 10/12/2012; cabeçalho de página "Antecipação ao Voto", título "VOTO"; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); ~869 car.
+AP-470|843|voto|Dias Toffoli|8135|8160|Sim|AP-470-R01;AP-470-R15;AP-470-R17;AP-470-R23|NA|NA|NA|sessão 10/12/2012; fase pós-mérito (penas e efeitos); ~36k car.
+AP-470|844|voto|Cármen Lúcia|8161|8165|Sim|AP-470-R01;AP-470-R15;AP-470-R17;AP-470-R23|NA|NA|NA|sessão 10/12/2012; fase pós-mérito (penas e efeitos); ~8k car.
+AP-470|845|voto|Gilmar Mendes|8166|8173|Sim|AP-470-R01;AP-470-R15;AP-470-R17;AP-470-R23|NA|NA|NA|sessão 10/12/2012; fase pós-mérito (penas e efeitos); ~15k car.
+AP-470|846|voto|Gilmar Mendes|8174|8212|Sim|perda de mandato|NA|NA|NA|sessão 10/12/2012; fase pós-mérito (penas e efeitos); ~75k car.
+AP-470|847|outro|Marco Aurélio|8213|8216|Sim|AP-470-R11;AP-470-R14;AP-470-R16;fora do banco: Enivaldo Quadrado|NA|NA|NA|sessão 10/12/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); ~5k car.
+AP-470|848|voto|Marco Aurélio|8217|8229|Sim|AP-470-R01;AP-470-R15;AP-470-R17;AP-470-R23|NA|NA|NA|sessão 10/12/2012; fase pós-mérito (penas e efeitos); ~23k car.
+AP-470|849|extrato_ata||8230|8269|Nao|todos|NA|NA|NA|sessão 06/12/2012; extrato de ata cumulativo da sessão de 06/12/2012; ~115k car.
+AP-470|850|aparte|Joaquim Barbosa|8270|8277|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 13/12/2012; autor da peça: Joaquim Barbosa; também falam: Cármen Lúcia, Ricardo Lewandowski, Marco Aurélio, Dias Toffoli, Luiz Fux, Rosa Weber; ~9k car.; ctx = peças de voto vizinhas
+AP-470|851|outro|Rosa Weber|8278|8279|Adesao|ctx: fase pós-mérito|NA|NA|NA|sessão 13/12/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); ~1k car.; ctx = peças de voto vizinhas
+AP-470|852|extrato_ata||8280|8319|Nao|todos|NA|NA|NA|sessão 13/12/2012; extrato de ata cumulativo da sessão de 13/12/2012; ~116k car.
+AP-470|853|voto|Celso de Mello|8320|8337|Sim|perda de mandato|NA|NA|NA|sessão 17/12/2012; cabeçalho de página "Aditamento ao Voto", título "VOTO"; fase pós-mérito (penas e efeitos); ~30k car.
+AP-470|854|outro|Cármen Lúcia|8338|8339|Sim|fora do banco: Kátia Rabello|NA|NA|NA|sessão 17/12/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); ~2k car.
+AP-470|855|aparte|Marco Aurélio|8340|8340|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 17/12/2012; autor da peça: Marco Aurélio; também falam: Joaquim Barbosa; ~578 car.; ctx = itens votados na mesma sessão
+AP-470|856|outro|Dias Toffoli|8341|8347|Sim|pena de multa|NA|NA|NA|sessão 17/12/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); ~9k car.
+AP-470|857|outro|Rosa Weber|8348|8348|Sim|AP-470-R11|NA|NA|NA|sessão 17/12/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); peça curta; ~1k car.
+AP-470|858|debate|Joaquim Barbosa;Luiz Fux;Cármen Lúcia;Rosa Weber|8349|8351|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 17/12/2012; ~3k car.; ctx = itens votados na mesma sessão
+AP-470|859|outro|Cármen Lúcia|8352|8352|Adesao|AP-470-R11|NA|NA|NA|sessão 17/12/2012; cabeçalho: Retificação de Voto; fase pós-mérito (penas e efeitos); ~329 car.
+AP-470|860|confirmacao_voto|Ricardo Lewandowski|8353|8354|Adesao|AP-470-R11|NA|NA|NA|sessão 17/12/2012; fase pós-mérito (penas e efeitos); ~1k car.
+AP-470|861|aparte|Dias Toffoli|8355|8358|Sim|ctx: fase pós-mérito|NA|NA|NA|sessão 17/12/2012; ~530 car.; ctx = itens votados na mesma sessão
+AP-470|862|voto_aditamento|Joaquim Barbosa|8359|8360|Sim|reparação de danos (valor mínimo)|NA|NA|NA|sessão 17/12/2012; fase pós-mérito (penas e efeitos); ~3k car.
+AP-470|863|voto|Luiz Fux|8361|8361|Nao|reparação de danos (valor mínimo)|NA|NA|NA|sessão 17/12/2012; cabeçalho de página anômalo "Tipo Texto 298"; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); ~841 car.
+AP-470|864|voto|Ricardo Lewandowski|8362|8362|Adesao|reparação de danos (valor mínimo)|NA|NA|NA|sessão 17/12/2012; cabeçalho de página anômalo "Tipo Texto 298"; fase pós-mérito (penas e efeitos); ~342 car.
+AP-470|865|voto|Celso de Mello|8363|8364|Nao|reparação de danos (valor mínimo)|NA|NA|NA|sessão 17/12/2012; cabeçalho de página anômalo "Tipo Texto 298"; fala do autor marcada CANCELADO no início da peça; fase pós-mérito (penas e efeitos); ~2k car.
+AP-470|866|extrato_ata||8365|8405|Nao|todos|NA|NA|NA|sessão 17/12/2012; extrato de ata cumulativo da sessão de 17/12/2012; extrato final consolidado (sessões 02.08 a 17.12.2012); ~118k car.

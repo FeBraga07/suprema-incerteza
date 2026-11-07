@@ -1,0 +1,287 @@
+{
+  "id_caso": "AP-409",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-109 (todas)",
+  "unidades": [
+    {
+      "id_unidade": "AP-409-R01-I01",
+      "escopo_levcovitz": {"valor": "Sim", "evidencia": null, "fonte": "banco", "confianca": "alta"},
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Ayres Britto",
+        "evidencia": "acordam os Ministros do Supremo Tribunal Federal, por maioria de votos, em julgar procedente a ação, condenando o réu [...] o que fazem nos termos dos votos dos Ministros Ayres Britto (Relator), Joaquim Barbosa (Revisor), Eros Grau, Cármen Lúcia e Ricardo Lewandowski",
+        "fonte": "p. 4",
+        "confianca": "media"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "Senhor Presidente, só para fixar entendimento em relação à materialidade da existência do fato típico do inciso IV do artigo 1º, estou plenamente de acordo com o contido no voto do eminente Relator e do Revisor que o acompanhou. Mas a minha divergência se manifesta quanto à autoria.",
+            "fonte": "p. 68",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Coerente, Senhor Presidente, com o que votei no Inquérito nº 2.027, entendo que a simples assinatura do convênio não implica na comprovação de autoria pelo desvio de finalidade da aplicação dos recursos recebidos pelo ente público.",
+            "fonte": "p. 70",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Pois bem, comprovada a materialidade delitiva, passo ao exame da respectiva autoria. Autoria contestada pela defesa, sob fundamento de ilegitimidade do deputado José Gerardo Oliveira de Arruda Filho para figurar no pólo passivo da presente demanda.",
+            "fonte": "p. 23"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "Pelo que se comprova que réu empregou os recursos financeiros em desconformidade com o objeto da avença. Improcedência da tese de que a alteração contratual partiu exclusivamente da vontade particular do Secretário de Infra-estrutura. [...] Autoria delitiva comprovada.",
+            "fonte": "p. 2-3",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "Motivo pelo qual dou por comprovada a autoria delitiva que é atribuída ao deputado José Gerardo Oliveira de Arruda Filho",
+            "fonte": "p. 32-33",
+            "confianca": "media"
+          },
+          "posicoes": [
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Por tudo quanto posto, voto pela condenação do deputado federal José Gerardo Oliveira de Arruda Filho nas sanções do inciso IV do art. 1º do Decreto-Lei 201/67.", "fonte": "p. 39", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Pelo que não me convence o argumento de que a ordem de alteração do objeto pactuado partiu exclusivamente do então Secretário de Infra-estrutura municipal.", "fonte": "p. 27", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "Motivo pelo qual dou por comprovada a autoria delitiva que é atribuída ao deputado José Gerardo Oliveira de Arruda Filho, inclusive porque depoimento do então Secretário de Infra-estrutura, apontado pela defesa como o exclusivo autor do delito, e único responsável pelo emprego irregular da verba, contraria essa imputação.", "fonte": "p. 32-33", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Afasta expressamente a responsabilidade pela mera titularidade do cargo (p. 25) e distingue o caso da AP 447 por peculiaridades: assinatura pessoal do convênio e dos sete termos aditivos, notas fiscais de nov/2000 anteriores ao 7º aditivo, nome do prefeito na minuta do pedido de alteração (p. 26-29).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Daí por que voto pela condenação de José Gerardo Oliveira de Arruda Filho, nos termos da denúncia.", "fonte": "p. 59", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "No que concerne à autoria, entendo que também não sustenta a alegação do réu no sentido de que \"o suposto desvio de finalidade descrito na denúncia não contou com qualquer participação de sua parte\" (fls. 1.072).", "fonte": "p. 56", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "Em suma, o conjunto de provas constante dos autos demonstra que o acusado, então prefeito de Caucaia/CE, empregou recursos públicos oriundos do convênio de fls. 13-24, firmado com o Ministério do Meio Ambiente, em desacordo com os planos que se destinavam", "fonte": "p. 58-59", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Fundamenta na assinatura do convênio, na subordinação hierárquica do secretariado e nos pagamentos (notas fiscais e recibos de nov-dez/2000) feitos fora dos períodos de afastamento do prefeito (p. 57-58).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Fixo a pena em um ano e seis meses e, tendo em conta a que foi concretizada, assento a prescrição da pretensão punitiva.", "fonte": "p. 65", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "quanto às premissas do voto relativamente à imputação, acompanho o relator e o revisor", "fonte": "p. 64", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "quanto às premissas do voto relativamente à imputação, acompanho o relator e o revisor", "fonte": "p. 64", "confianca": "media", "inferida_de": "Ayres Britto e Joaquim Barbosa (adesão declarada às premissas da imputação)"},
+              "posicao_detalhe": "Diverge só na dosimetria e decreta a prescrição pela pena em concreto. Em apartes ao voto (não transcrito) de Celso de Mello, diz \"quem personifica a prefeitura é o prefeito\" e também \"a defesa tem uma razão de ser, porque o crime é de mão própria\" (p. 89).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {"valor": "Condena", "evidencia": "o Ministro Eros condena, e não há prescrição", "fonte": "p. 97", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "vou pedir vênia para me antecipar a eles e acompanhar o Relator e o Revisor, inclusive, na dosimetria.", "fonte": "p. 66", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "acompanhar o Relator e o Revisor, inclusive, na dosimetria.", "fonte": "p. 66", "confianca": "media", "inferida_de": "Ayres Britto e Joaquim Barbosa"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {"valor": "Absolve", "evidencia": "julgo improcedente a ação penal, Senhor Presidente, e absolvo acusado com fundamento no artigo 386, IV, do Código Penal.", "fonte": "p. 71", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Mas a minha divergência se manifesta quanto à autoria.", "fonte": "p. 68", "confianca": "alta"},
+              "posicao": {"valor": "nao", "evidencia": "Entendo que foi buscar a acusação a imputação da autoria do delito, que materialmente está comprovado, naquele contra o qual não há uma única prova de tê-la realizado, a não ser a assinatura de convênio e os aditamentos formalizados. No meu entendimento isso caracteriza imputacão objetiva.", "fonte": "p. 70", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Invoca a descentralização administrativa (lei municipal), a ausência de ato formal do prefeito ordenando a despesa e o afastamento do prefeito na data do pedido de mudança do objeto (p. 70-71, 83). Absolve pelo 'art. 386, IV' (sic, 'do Código Penal'); em 2010, já sob a Lei 11.690/2008, o IV do CPP é 'estar provado que o réu não concorreu', o que se harmoniza com 'a defesa se desimcumbiu, sim, de demonstrar que o Prefeito não praticou nenhum ato' (p. 69).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {"valor": "Condena", "evidencia": "a Ministra Cármen Lúcia condena, e não há prescrição", "fonte": "p. 97", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "Sim. Com fundamentação total do Relator, que é idêntica.", "fonte": "p. 74", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "vou pedir vênia ao Ministro Dias Toffoli para acompanhar o voto, porém a conclusão do Ministro Revisor", "fonte": "p. 72", "confianca": "media", "inferida_de": "Ayres Britto (fundamentação) e Joaquim Barbosa (conclusão/pena)"},
+              "posicao_detalhe": "O trecho da p. 73 sobre o prefeito afastado ('ninguém, em sã consciência pode imaginar [...] sem conhecimento, anuência e determinação do prefeito') está no texto sob o rótulo de Ricardo Lewandowski, mas dentro da seção do voto de Cármen Lúcia; a atribuição é ambígua (ver avisos), por isso registrado como Adesao.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {"valor": "Condena", "evidencia": "acompanho o Relator, o Revisor e a Ministra Cármen Lúcia no que tange ao decreto condenatório.", "fonte": "p. 77", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "A meu ver, também, com a devida vênia do Ministro Dias Toffoli, a autoria está sobejamente comprovada, não apenas porque o prefeito assinou os convênios e seus aditivos, mas, também, conforme consta do memorial que recebi do advogado, os pagamentos.", "fonte": "p. 75-76", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "Portanto, o prefeito estava em pleno exercício do cargo quando essas passagens molhadas foram construídas. De maneira que, para mim, a autoria é inconteste.", "fonte": "p. 76", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Reforça com experiência pessoal: 'não saía um prego do almoxarifado sem que o prefeito tivesse conhecimento' (p. 77).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Julgo procedente a ação e condeno o réu à pena de nove meses de detenção. E, diante dessa pena, acompanho o Ministro Marco Aurélio e decreto a prescrição, à vista da pena em concreto.", "fonte": "p. 95", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Enfim, o crime já estava consumado. O problema é saber quem autorizou o desvio. A defesa, alguma vez, alegou que foi o secretário? Não alegou. Provou que foi o secretário? Tampouco provou.", "fonte": "p. 93-94", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "Ou seja, as sucessivas prorrogações são o indício que remata o conjunto de provas de que ele tinha conhecimento do fato e, portanto, autorizou com consciência o emprego em desconformidade com o objeto do convênio. A mim parece, então, que não há dúvida tampouco de que ele é o autor do delito também nesse ponto.", "fonte": "p. 94", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Diverge só na dosimetria (9 meses) e decreta a prescrição pela pena em concreto.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {"valor": "Absolve", "evidencia": "julgo improcedente a ação, nos termos já manifestados pelo Ministro Toffoli", "fonte": "p. 87-88", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Não vejo como fazer a caracterização da responsabilidade penal, pessoal, a partir dos dados existentes nos autos. [...] Se houvesse espaço para maiores considerações, era preciso que se indicasse, realmente, a participação direta do prefeito na destinação.", "fonte": "p. 81", "confianca": "alta"},
+              "posicao": {"valor": "nao", "evidencia": "Crime formal não significa que nós dispensamos a análise dos elementos do tipo, é preciso que, de fato, se indique a autoria, a participação, e que se demonstre o dolo. Não vejo aqui demonstrada essa participação.", "fonte": "p. 87", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Acompanha Dias Toffoli e qualifica a condenação como responsabilidade penal objetiva.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {"valor": "Absolve", "evidencia": "e dos votos dos Senhores Ministros Dias Toffoli, Gilmar Mendes e Celso de Mello, que julgavam improcedente a ação, absolvendo réu.", "fonte": "p. 109", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": null, "evidencia": "O SENHOR MINISTRO MARCO AURÉLIO - Ministro Celso de Mello (inserido ante o cancelamento do aparte por Sua Excelência)", "fonte": "p. 89", "confianca": "baixa"},
+              "posicao": {"valor": null, "evidencia": null, "fonte": null, "confianca": null, "inferida_de": null},
+              "posicao_detalhe": "O voto de Celso de Mello não consta do inteiro teor; só aparecem apartes de Marco Aurélio dirigidos a ele, com a nota de cancelamento. Sem evidência da razão de decidir.",
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "Improcedência da tese de que a alteração contratual partiu exclusivamente da vontade particular do Secretário de Infra-estrutura. Dolo configurado, porquanto decorrente da vontade livre e consciente de empregar recursos em desacordo com a respectiva programação.",
+            "fonte": "p. 2",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "Mas a minha divergência se manifesta quanto à autoria.",
+            "fonte": "p. 68",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "No que diz respeito à tese de ausência de dolo, fundada na afirmação de que \"a alteração de finalidade apenas ocorreu porquanto Estado do Ceará comprometeu com a realização da obra do açude\" (fls. 1.096)",
+            "fonte": "p. 55"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "Dolo configurado, porquanto decorrente da vontade livre e consciente de empregar recursos em desacordo com a respectiva programação.",
+            "fonte": "p. 2",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "generico",
+            "evidencia": "exige-se apenas o dolo simples ou genérico, não se reclamando qualquer finalidade específica, bastando a vontade livre e consciente de aplicar recursos públicos em desacordo com os planos ou programas a que se destinam.",
+            "fonte": "p. 55",
+            "confianca": "media"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Por tudo quanto posto, voto pela condenação do deputado federal José Gerardo Oliveira de Arruda Filho nas sanções do inciso IV do art. 1º do Decreto-Lei 201/67.", "fonte": "p. 39", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Nessas condições, não se me afigura razoável exigir a presença, nos autos, de um documento assinado de próprio punho pelo réu, alterando indevidamente o emprego da verba federal. A não deixar nenhuma dúvida quanto à configuração do dolo; isto é, a vontade livre e consciente de empregar recursos de qualquer natureza em desacordo com a destinação contratual.", "fonte": "p. 29", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "No caso, não tenho hesitação em afirmar que a conduta atribuída ao acusado extrapolou o campo da mera irregularidade administrativa para incursionar pela esfera da ilicitude penal. Acusado que deliberadamente lançou mão de recursos públicos para uma finalidade movida por sentimento exclusivamente pessoal.", "fonte": "p. 36-37", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Afasta também o erro de tipo (p. 34-35). Padrão de dolo ambíguo no próprio voto: na p. 29 descreve dolo como vontade de empregar recursos em desacordo com a destinação (genérico), mas na p. 36 diz que a incidência da norma 'está a depender da presença de um claro elemento subjetivo - a vontade livre e consciente (dolo) - de lesar o interesse público'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Daí por que voto pela condenação de José Gerardo Oliveira de Arruda Filho, nos termos da denúncia.", "fonte": "p. 59", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "No que diz respeito à tese de ausência de dolo, [...] destaco que - para a configuração do tipo penal previsto no art. 10, IV, do Decreto-lei 201/1967 - exige-se apenas o dolo simples ou genérico, não se reclamando qualquer finalidade específica", "fonte": "p. 55", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "Ora, tal manifestação, à evidência, não induz qualquer espécie de \"erro sobre elemento constitutivo do tipo legal\" imputado ao réu (art. 1º, IV, do Decreto-lei 201/1967), conforme exige o art. 20 do Código Penal, não havendo que se falar, portanto, em erro de tipo.", "fonte": "p. 53", "confianca": "media", "inferida_de": null},
+              "posicao_detalhe": "Rejeita a tese de ausência de dolo e o erro de tipo; não há frase afirmativa isolada de 'dolo comprovado', a resposta decorre do afastamento das teses defensivas.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Fixo a pena em um ano e seis meses e, tendo em conta a que foi concretizada, assento a prescrição da pretensão punitiva.", "fonte": "p. 65", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "quanto às premissas do voto relativamente à imputação, acompanho o relator e o revisor", "fonte": "p. 64", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "quanto às premissas do voto relativamente à imputação, acompanho o relator e o revisor", "fonte": "p. 64", "confianca": "media", "inferida_de": "Ayres Britto e Joaquim Barbosa"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Eros Grau",
+              "voto_resultado": {"valor": "Condena", "evidencia": "o Ministro Eros condena, e não há prescrição", "fonte": "p. 97", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "acompanhar o Relator e o Revisor, inclusive, na dosimetria.", "fonte": "p. 66", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "acompanhar o Relator e o Revisor, inclusive, na dosimetria.", "fonte": "p. 66", "confianca": "media", "inferida_de": "Ayres Britto e Joaquim Barbosa"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {"valor": "Absolve", "evidencia": "julgo improcedente a ação penal, Senhor Presidente, e absolvo acusado com fundamento no artigo 386, IV, do Código Penal.", "fonte": "p. 71", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Nao", "evidencia": "Estou falando quanto à autoria. Quanto à materialidade, ela se encontra presente.", "fonte": "p. 70", "confianca": "media"},
+              "posicao": {"valor": "nao_enfrentou", "evidencia": "Mas a minha divergência se manifesta quanto à autoria.", "fonte": "p. 68", "confianca": "media", "inferida_de": null},
+              "posicao_detalhe": "Em aparte diz que 'a responsabilização penal depende da ação pessoal subjetiva' (p. 83), mas no contexto de ausência de ato formal do prefeito, isto é, de autoria.",
+              "fundamento_proprio": "concorreu: ausência de prova de que o réu concorreu para o desvio (p. 70)."
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {"valor": "Condena", "evidencia": "a Ministra Cármen Lúcia condena, e não há prescrição", "fonte": "p. 97", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "Sim. Com fundamentação total do Relator, que é idêntica.", "fonte": "p. 74", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "Com fundamentação total do Relator, que é idêntica.", "fonte": "p. 74", "confianca": "media", "inferida_de": "Ayres Britto"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {"valor": "Condena", "evidencia": "acompanho o Relator, o Revisor e a Ministra Cármen Lúcia no que tange ao decreto condenatório.", "fonte": "p. 77", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "acompanho o Relator, o Revisor e a Ministra Cármen Lúcia no que tange ao decreto condenatório.", "fonte": "p. 77", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "acompanho o Relator, o Revisor e a Ministra Cármen Lúcia no que tange ao decreto condenatório.", "fonte": "p. 77", "confianca": "media", "inferida_de": "Ayres Britto e Joaquim Barbosa"},
+              "posicao_detalhe": "Não fundamenta o dolo de forma autônoma; menciona que 'não saía um prego do almoxarifado sem que o prefeito tivesse conhecimento' (p. 77), argumento de ciência usado para a autoria.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Julgo procedente a ação e condeno o réu à pena de nove meses de detenção.", "fonte": "p. 95", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "as sucessivas prorrogações são o indício que remata o conjunto de provas de que ele tinha conhecimento do fato e, portanto, autorizou com consciência o emprego em desconformidade com o objeto do convênio.", "fonte": "p. 94", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "O dolo foi intenso, vamos dizer, no contexto do delito, mas esse dolo intenso também não justifica exacerbação, a meu ver, desproporcional.", "fonte": "p. 94", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Ciência e autorização consciente inferidas das sucessivas prorrogações assinadas.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {"valor": "Absolve", "evidencia": "julgo improcedente a ação, nos termos já manifestados pelo Ministro Toffoli", "fonte": "p. 87-88", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Se houvesse ainda espaço para outras considerações, ter-se-ia que demonstrar o elemento subjetivo, o dolo. E onde está o dolo?", "fonte": "p. 81", "confianca": "media"},
+              "posicao": {"valor": "nao", "evidencia": "Crime formal não significa que nós dispensamos a análise dos elementos do tipo, é preciso que, de fato, se indique a autoria, a participação, e que se demonstre o dolo.", "fonte": "p. 87", "confianca": "baixa", "inferida_de": null},
+              "posicao_detalhe": "Argumento subsidiário e condicional ('se houvesse ainda espaço'); a razão central do voto é a falta de demonstração da participação.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Celso de Mello",
+              "voto_resultado": {"valor": "Absolve", "evidencia": "e dos votos dos Senhores Ministros Dias Toffoli, Gilmar Mendes e Celso de Mello, que julgavam improcedente a ação, absolvendo réu.", "fonte": "p. 109", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": null, "evidencia": null, "fonte": null, "confianca": null},
+              "posicao": {"valor": null, "evidencia": null, "fonte": null, "confianca": null, "inferida_de": null},
+              "posicao_detalhe": "Voto não transcrito no inteiro teor.",
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Ayres Britto",
+          "tipo": "distincao",
+          "referencia": "Ação Penal 447/RS, julgada por este nosso Tribunal na Sessão de 18/02/2009",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Sim",
+          "evidencia": "Assim me pronunciei na Ação Penal 447/RS, julgada por este nosso Tribunal na Sessão de 18/02/2009. [...] Isso não obstante, o caso dos autos ostenta peculiaridades que não me permitem chegar à mesma conclusão daquele julgamento.",
+          "fonte": "p. 25-26"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "Inquérito nº 2.027 (voto-vista do próprio ministro)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "Coerente, Senhor Presidente, com o que votei no Inquérito nº 2.027, entendo que a simples assinatura do convênio não implica na comprovação de autoria pelo desvio de finalidade da aplicação dos recursos recebidos pelo ente público.",
+          "fonte": "p. 70"
+        },
+        {
+          "ministro": "Gilmar Mendes",
+          "tipo": "precedente_citado",
+          "referencia": "outro caso, que foi por ele [Toffoli] referido",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "julgo improcedente a ação, nos termos já manifestados pelo Ministro Toffoli e na linha que ele e eu já adotávamos em outro caso, que foi por ele referido, no qual se dizia que também estava a ocorrer uma manifestação de responsabilização objetiva no âmbito do Direito Penal.",
+          "fonte": "p. 88"
+        }
+      ],
+      "obs": "Acórdão (p. 4-5) e extrato de ata (p. 109) atribuem a decisão aos votos de Ayres Britto (Relator), Joaquim Barbosa (Revisor), Eros Grau, Cármen Lúcia e Ricardo Lewandowski; quem fundamenta a razão de decidir sobre autoria e dolo é o Relator (Revisor fundamenta em paralelo). Na pena prevaleceu o Revisor ('o voto de Vossa Excelência é vencedor quanto à pena', p. 96), e o Relator ajustou o voto. Marco Aurélio e Cezar Peluso julgaram procedente a ação mas aplicaram pena menor e decretaram a prescrição: registrados como 'Condena', conforme o texto ('são sete votos de condenação, dois de prescrição e três de absolvição', p. 98) e o banco. Ellen Gracie ausente (p. 109), sem posição; coincide com 'Não votou' do banco. Votos lidos coincidem com o banco nos 10 votantes."
+    }
+  ],
+  "avisos": [
+    "O voto de Celso de Mello não está no inteiro teor: só há apartes de Marco Aurélio 'inserido ante o cancelamento do aparte por Sua Excelência' (p. 89). Sua posição nas duas questões ficou null; o resultado (Absolve) vem só do extrato de ata (p. 109).",
+    "Atribuição ambígua na p. 73: o trecho 'Então, fazendo brevíssima incursão no tema, estou de acordo com a condenação [...] sem conhecimento, anuência e determinação do prefeito [...] acompanho o Relator às inteiras quanto à condenação e com as achegas do Revisor' aparece sob o rótulo de Ricardo Lewandowski, mas está na seção do voto de Cármen Lúcia (p. 72-74, nota de texto sem revisão dela), Peluso logo pergunta a ela 'Vossa [Excelência] acompanha o voto do Revisor?', e Lewandowski depois diz acompanhar 'a Ministra Cármen Lúcia' (p. 77). Não usei esse trecho como fundamentação de nenhum dos dois.",
+    "Padrão de dolo divergente entre Relator e Revisor: o Revisor exige 'apenas o dolo simples ou genérico' (p. 55); o Relator, numa passagem, exige vontade 'de lesar o interesse público' (p. 36), mas a ementa (p. 2) e a p. 29 descrevem dolo genérico. Registrei 'generico' com confiança média.",
+    "Questão não registrada (limite de duas): se o emprego da verba em outra finalidade pública / atingimento da finalidade última do convênio exclui o crime (materialidade, bem jurídico). Foi tese defensiva rejeitada por Relator (p. 37-38), Revisor (p. 55-56) e Peluso (p. 92), mas nenhum ministro absolveu por ela; Toffoli concordou com a materialidade (p. 68) e só em aparte disse 'se eu fosse entrar na questão do objeto do desvio de finalidade, eu também não veria aí nenhuma ofensa a nenhum bem jurídico' (p. 94).",
+    "Toffoli absolve pelo 'artigo 386, IV, do Código Penal' (sic; é o CPP). Na redação vigente em 2010 (pós-Lei 11.690/2008), o IV é 'estar provado que o réu não concorreu', coerente com a linguagem do voto; a categoria vem da linguagem (autoria), não do inciso.",
+    "Precedentes usados só na dosimetria (RE 591.054 e AP 433 sobre antecedentes, AI 379.392-QO sobre inabilitação, julgado da Primeira Turma citado por Lewandowski sobre arts. 44/59) não foram listados, por não fundamentarem as questões decisivas.",
+    "Ruído de transcrição: Lewandowski fala em 'artigo 1º, inciso VI do Decreto-lei nº 2.001/67' (p. 75) e o Revisor em 'art. 10, IV' (p. 55), ambos referindo-se ao art. 1º, IV, do DL 201/67."
+  ]
+}

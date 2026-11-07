@@ -1,0 +1,16 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-348|1|ementa||1|1||todos||||
+AP-348|2|acordao||2|2||todos||||assinado pelo relator; presidência de Ellen Gracie
+AP-348|3|relatorio|Eros Grau|3|8||todos||||
+AP-348|4|voto|Eros Grau|9|17|Sim|todos|Absolve|Não|lido|relator
+AP-348|5|voto|Sepúlveda Pertence|18|18|Adesao|todos|Absolve|Não|lido|revisor; peça curta (poucas linhas) com breve registro próprio antes da adesão ao relator
+AP-348|6|voto|Cármen Lúcia|19|20|Sim|todos|Absolve|Não|lido|
+AP-348|7|voto|Ricardo Lewandowski|21|22|Sim|todos|Absolve|Não|lido|peça sem título "VOTO" no texto
+AP-348|8|voto|Joaquim Barbosa|23|23|Adesao|todos|Absolve|Não|lido|
+AP-348|9|voto|Marco Aurélio|24|24|Sim|todos|Absolve|Não|lido|peça curta (1 pág.); classificação Sim/Adesao limítrofe
+AP-348|10|extrato_ata||25|25||todos||||decisão, ausências, sustentações orais e lista de presentes
+AP-348|11|extrato_ata|Celso de Mello|25|25|Nao|todos|Absolve|Não|deduzido|contado na unanimidade; consta entre os presentes (p.25)
+AP-348|12|extrato_ata|Cezar Peluso|25|25|Nao|todos|Absolve|Não|deduzido|contado na unanimidade; consta entre os presentes (p.25)
+AP-348|13|extrato_ata|Ellen Gracie|25|25|Nao|todos|Absolve|Não|deduzido|presidente do julgamento (p.25)
+AP-348|14|extrato_ata|Gilmar Mendes|25|25|Nao|todos|Não votou|Não|lido|ausente justificadamente neste julgamento (p.25); consta entre os presentes à sessão
+AP-348|15|extrato_ata|Ayres Britto|25|25|Nao|todos|Não votou|Não|lido|ausente justificadamente neste julgamento (p.25; grafado "Carlos Britto"); consta entre os presentes à sessão

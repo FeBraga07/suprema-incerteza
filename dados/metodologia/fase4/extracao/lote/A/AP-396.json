@@ -1,0 +1,512 @@
+{
+  "id_caso": "AP-396",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-16 (ementa, acórdão, relatório), 55-70 (fim das preliminares, mérito e início da dosimetria da Relatora), 94-125 (debates, votos de mérito e de dosimetria), 126-127 e 134-145 (voto escrito do Revisor: relatório, fim das preliminares, mérito e início da dosimetria), 151-152 (extrato de ata); p. 78-93 (votos sobre a questão de ordem de competência) só varridas por busca textual, por tratarem de preliminar (R6)",
+  "unidades": [
+    {
+      "id_unidade": "AP-396-R01-I01",
+      "escopo_levcovitz": {"valor": "Sim", "evidencia": null, "fonte": "banco", "confianca": "alta"},
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Cármen Lúcia",
+        "evidencia": "69. Dessa forma, a prova dos autos é clara para se afirmar que foram reunidos elementos de convicção suficientes para a formação de um juízo de certeza de ter o réu praticado os crimes de peculato a ele imputados [...] sendo a condenação medida que se impõe.",
+        "fonte": "p. 65",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "64. Quanto à autoria, tem-se que o acervo probatório, produzido sob o crivo do contraditório, apresenta elementos de convicção suficientes para a formação de um juízo de certeza sobre o envolvimento do acusado Natan Donadon na empreitada criminosa.",
+            "fonte": "p. 60",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Unânime no peculato (R5b): \"E, no mérito, por maioria de votos, julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal. Vencido o Senhor Ministro Cezar Peluso, que absolvia o réu pelo crime do artigo 288.\"",
+            "fonte": "p. 3",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "O denunciado nega os fatos que lhe são imputados, contudo as provas documentais e testemunhais deixam clara a sua responsabilidade. Os cheques destinados ao pagamento dos serviços não prestados pela empresa MPJ - Marketing Propaganda e Jornalismo Ltda. foram assinados pelo réu Natan Donadon",
+            "fonte": "p. 60"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "8. As provas documentais e testemunhais revelam que o réu, no cargo de diretor financeiro da Assembléia Legislativa do Estado de Rondônia, praticou os crimes de peculato, na forma continuada, e de quadrilha narrados na denúncia, o que impõe a sua condenação.",
+            "fonte": "p. 2",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "o réu, na função de Diretor Financeiro, agindo como executor direto do delito idealizado adrede por seu irmão, então Presidente da Assembleia Legislativa, Marcos Antônio Donadon, assinou os cheques e liberou os recursos em favor da MPJ",
+            "fonte": "p. 139",
+            "confianca": "media"
+          },
+          "posicoes": [
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {"valor": "Condena", "evidencia": "77. Pelo exposto, julgo procedente a pretensão punitiva estatal deduzida na denúncia, para condenar o réu Natan Donadon como incurso nas penas dos arts. 288 e 312, esse na forma do art. 71, c/e art. 69, todos do Código Penal.", "fonte": "p. 69", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Quanto à autoria, tem-se que o acervo probatório, produzido sob o crivo do contraditório, apresenta elementos de convicção suficientes para a formação de um juízo de certeza sobre o envolvimento do acusado Natan Donadon na empreitada criminosa.", "fonte": "p. 60", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "Os cheques destinados ao pagamento dos serviços não prestados pela empresa MPJ - Marketing Propaganda e Jornalismo Ltda. foram assinados pelo réu Natan Donadon", "fonte": "p. 60", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Prova documental (cheques assinados pelo réu) e testemunhal em juízo, corroborada por declarações do corréu Omar colhidas no inquérito civil; a Relatora afirma que a delação não é o fundamento exclusivo (p. 63).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Nessa conformidade, é o caso de reconhecer-se a subsunção da conduta do agente ao tipo elementar, para condená-lo pela prática de reiterados crimes de peculato (CP, art. 312 c/c o art. 29).", "fonte": "p. 142", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "o réu, na função de Diretor Financeiro, agindo como executor direto do delito idealizado adrede por seu irmão, então Presidente da Assembleia Legislativa, Marcos Antônio Donadon, assinou os cheques e liberou os recursos em favor da MPJ", "fonte": "p. 139", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "assinou os cheques e liberou os recursos em favor da MPJ Marketing Propaganda e Jornalismo Ltda., conforme atestam os documentos da Assembleia Legislativa", "fonte": "p. 139", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Voto escrito do Revisor juntado ao fim do acórdão; o cabeçalho grafa \"DIAS TOFFOLI (RELATOR)\" (p. 126).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Acompanho a relatora e voto pela procedência da ação penal e condenação do réu.", "fonte": "p. 109", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Portanto, as provas constantes dos autos conduzem a uma única conclusão possível: de que o Réu, no exercício do cargo de Diretor Financeiro da ALE/RO, emitiu cheques em favor da empresa MPJ, contratada por seu irmão através de fraude à licitação, sem prestação de qualquer serviço à ALE/RO", "fonte": "p. 108-109", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "de que o Réu, no exercício do cargo de Diretor Financeiro da ALE/RO, emitiu cheques em favor da empresa MPJ", "fonte": "p. 108", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Afasta a objeção à prova colhida no inquérito civil: testemunhas reouvidas em juízo e declarações do corréu Omar valoráveis (p. 107-108).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {"valor": "Condena", "evidencia": "com as razões que já expus, também entendo que estão configurados os crimes dos artigos 288 e 312, formação de quadrilha e peculato.", "fonte": "p. 105", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "Senhor Presidente, com a devida vênia, com as razões que já expus, também entendo que estão configurados os crimes dos artigos 288 e 312, formação de quadrilha e peculato.", "fonte": "p. 105", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "também entendo que estão configurados os crimes dos artigos 288 e 312", "fonte": "p. 105", "confianca": "baixa", "inferida_de": "Cármen Lúcia (as \"razões que já expus\", p. 98-99, tratam só do crime de quadrilha; sobre o peculato não há fundamentação própria)"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {"valor": "Condena", "evidencia": "peço vênia para acompanhar a relatora, ou seja, voto no sentido de que o Ministério Público se desincumbiu de provar a tipologia do artigo 288 do Código Penal", "fonte": "p. 111", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "peço vênia para acompanhar a relatora", "fonte": "p. 111", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "peço vênia para acompanhar a relatora", "fonte": "p. 111", "confianca": "baixa", "inferida_de": "Cármen Lúcia (o voto de mérito do ministro trata só do art. 288; o peculato não é discutido)"},
+              "posicao_detalhe": "Na dosimetria, trata da pena do peculato (p. 123), o que confirma a condenação por esse crime.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Vencidos, quanto à fixação da pena pelo crime de peculato, [...] e o Presidente, que aplicava a pena de 11 (onze) anos 1 (um) mês e 10 (dez) dias de reclusão e 66 (sessenta e seis) dias-multa", "fonte": "p. 3", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "Vou pedir vênia à douta maioria, mantenho o meu ponto de vista e voto pela absolvição do réu quanto ao delito de quadrilha.", "fonte": "p. 112", "confianca": "baixa"},
+              "posicao": {"valor": "sim", "evidencia": "voto pela absolvição do réu quanto ao delito de quadrilha.", "fonte": "p. 112", "confianca": "baixa", "inferida_de": "Cármen Lúcia (o ministro não tem peça sobre o art. 312; diverge só quanto ao art. 288 e fixa pena para o peculato, p. 3)"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312 do Código Penal, contra o voto do Senhor Ministro Cezar Peluso", "fonte": "p. 151", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "Presidente, eu peço vênia à divergência para acompanhar integralmente a Relatora, tanto quanto à dosimetria, quanto à forma de cumprimento da pena.", "fonte": "p. 122", "confianca": "baixa"},
+              "posicao": {"valor": "sim", "evidencia": "acompanhar integralmente a Relatora, tanto quanto à dosimetria", "fonte": "p. 122", "confianca": "baixa", "inferida_de": "Cármen Lúcia (não há peça de mérito da ministra; a adesão é deduzida da contagem da ata e do voto de dosimetria)"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312 do Código Penal, contra o voto do Senhor Ministro Cezar Peluso", "fonte": "p. 151", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312 do Código Penal, contra o voto do Senhor Ministro Cezar Peluso", "fonte": "p. 151", "confianca": "baixa"},
+              "posicao": {"valor": "sim", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312", "fonte": "p. 151", "confianca": "baixa", "inferida_de": "Cármen Lúcia (não há peça de mérito do ministro; só a contagem da ata e o voto de dosimetria, p. 120-121)"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "dolo",
+            "evidencia": "O que se afirma é não é crível que o réu não tivesse conhecimento da não realização de serviços que custaram milhões de reais aos cofres públicos e foram pagos indevidamente durante meses.",
+            "fonte": "p. 64",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Unânime no peculato (R5b): \"Vencido o Senhor Ministro Cezar Peluso, que absolvia o réu pelo crime do artigo 288.\"",
+            "fonte": "p. 3",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "Assim, o conjunto probatório dos autos revela que o réu conhecia e estava diretamente envolvido com o esquema criminoso narrado na denúncia, o que viabiliza a sua condenação.",
+            "fonte": "p. 64"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "Assim, o conjunto probatório dos autos revela que o réu conhecia e estava diretamente envolvido com o esquema criminoso narrado na denúncia, o que viabiliza a sua condenação.",
+            "fonte": "p. 64",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": {
+            "valor": "nao_dito",
+            "evidencia": "O elemento subjetivo, como ressalta Cezar Roberto Bitencourt [...] \"é o 'dolo', constituido pela vontade de transformar a posse em domínio [...] ou seja, é a 'vontade livre e consciente de apropriar-se' de coisa móvel pertencente ao Estado\"",
+            "fonte": "p. 136",
+            "confianca": "baixa"
+          },
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {"valor": "Condena", "evidencia": "julgo procedente a pretensão punitiva estatal deduzida na denúncia, para condenar o réu Natan Donadon como incurso nas penas dos arts. 288 e 312", "fonte": "p. 69", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Fugiria do limite do razoável imaginar que uma pessoa que exerce o importante cargo de diretor financeiro da Assembleia Legislativa do Estado de Rondônia, ao efetuar o pagamento de serviços que custaram milhões de reais, não tivesse a obrigação de se informar se eles estariam sendo devidamente prestados.", "fonte": "p. 64", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "o conjunto probatório dos autos revela que o réu conhecia e estava diretamente envolvido com o esquema criminoso narrado na denúncia", "fonte": "p. 64", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Ciência inferida do cargo e da magnitude/duração dos pagamentos por serviços de publicidade nunca veiculados (p. 64-65); na dosimetria: \"Tem-se que o réu agiu com dolo, com consciência plena da ilicitude de seus atos\" (p. 69).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {"valor": "Condena", "evidencia": "para condená-lo pela prática de reiterados crimes de peculato (CP, art. 312 c/c o art. 29).", "fonte": "p. 142", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Não poderia o réu, ademais, salvo se previamente ajustado com os demais integrantes do esquema criminoso, fazer a liberação de vultosos recursos destinados à publicidade em favor de uma Assembleia Legislativa sem exigir, no mínimo, as pertinentes notas fiscais daquilo que pagava", "fonte": "p. 142", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "A alegação de que os pagamentos eram regulares e que, portanto, eram normais os atos de adimplemento das obrigações contratuais do ente do qual o réu era diretor financeiro, mais do que subestimar a inteligência dos Ministros desta Suprema Corte, revela a deturpada apreensão que tem o réu sobre o conceito de moralidade e zelo com a coisa pública.", "fonte": "p. 139", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Ajuste prévio inferido da liberação de vultosos recursos sem notas fiscais nem comprovação de serviço.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Acompanho a relatora e voto pela procedência da ação penal e condenação do réu.", "fonte": "p. 109", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "Acompanho a relatora e voto pela procedência da ação penal e condenação do réu.", "fonte": "p. 109", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "Acompanho a relatora", "fonte": "p. 109", "confianca": "baixa", "inferida_de": "Cármen Lúcia (o voto do ministro trata da autoria e da prova, não do conhecimento do réu)"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {"valor": "Condena", "evidencia": "também entendo que estão configurados os crimes dos artigos 288 e 312, formação de quadrilha e peculato.", "fonte": "p. 105", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "com as razões que já expus, também entendo que estão configurados os crimes dos artigos 288 e 312", "fonte": "p. 105", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "também entendo que estão configurados os crimes dos artigos 288 e 312", "fonte": "p. 105", "confianca": "baixa", "inferida_de": "Cármen Lúcia"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {"valor": "Condena", "evidencia": "peço vênia para acompanhar a relatora", "fonte": "p. 111", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "peço vênia para acompanhar a relatora", "fonte": "p. 111", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "peço vênia para acompanhar a relatora", "fonte": "p. 111", "confianca": "baixa", "inferida_de": "Cármen Lúcia"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {"valor": "Condena", "evidencia": "e o Presidente, que aplicava a pena de 11 (onze) anos 1 (um) mês e 10 (dez) dias de reclusão e 66 (sessenta e seis) dias-multa", "fonte": "p. 3", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "voto pela absolvição do réu quanto ao delito de quadrilha.", "fonte": "p. 112", "confianca": "baixa"},
+              "posicao": {"valor": "sim", "evidencia": "voto pela absolvição do réu quanto ao delito de quadrilha.", "fonte": "p. 112", "confianca": "baixa", "inferida_de": "Cármen Lúcia (sem peça sobre o art. 312)"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312 do Código Penal, contra o voto do Senhor Ministro Cezar Peluso", "fonte": "p. 151", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "eu peço vênia à divergência para acompanhar integralmente a Relatora, tanto quanto à dosimetria, quanto à forma de cumprimento da pena.", "fonte": "p. 122", "confianca": "baixa"},
+              "posicao": {"valor": "sim", "evidencia": "acompanhar integralmente a Relatora", "fonte": "p. 122", "confianca": "baixa", "inferida_de": "Cármen Lúcia"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312 do Código Penal, contra o voto do Senhor Ministro Cezar Peluso", "fonte": "p. 151", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312", "fonte": "p. 151", "confianca": "baixa"},
+              "posicao": {"valor": "sim", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312", "fonte": "p. 151", "confianca": "baixa", "inferida_de": "Cármen Lúcia"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "HC 75.226, Rel. Min. Marco Aurélio, DJ 19.9.1997; HC 71.813, Rel. Min. Marco Aurélio, DJ 17.2.1995; e RE 213.937, Rel. Min. Ilmar Galvão, DJ 25.6.1999",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "A jurisprudência firmada no Supremo Tribunal Federal admite a invocação da delação, desde que não constitua o fundamento exclusivo da condenação (HC 75.226, Rel. Min. Marco Aurélio, DJ 19.9.1997; HC 71.813, Rel. Min. Marco Aurélio, DJ 17.2.1995; e RE 213.937, Rel. Min. Ilmar Galvão, DJ 25.6.1999), conforme ocorre na espécie vertente.",
+          "fonte": "p. 63"
+        },
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Habeas Corpus 81.618, Relatora a Ministra Ellen Gracie, DJ 28.6.2002",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Igualmente, o Habeas Corpus 81.618, Relatora a Ministra Ellen Gracie, DJ 28.6.2002: \"EMENTA: Habeas corpus. Pretendida declaração de nulidade da sentença condenatória, que estaria bascada apenas na delação feita por co-réu.",
+          "fonte": "p. 64"
+        }
+      ],
+      "obs": "Banco registra votos por réu sem separação por fato; no peculato todos os 8 votantes condenam, o que confere com o banco. Gilmar Mendes não votou no mérito (\"Não votou no mérito e na dosimetria da pena o Senhor Ministro Gilmar Mendes\", p. 3) e Celso de Mello esteve ausente (p. 3): sem entradas em posicoes. Ellen Gracie e Ayres Britto não têm peça de mérito no acórdão; Cezar Peluso e Marco Aurélio só escreveram sobre o art. 288; Ricardo Lewandowski remete a razões que tratam só da quadrilha. Para esses cinco, a posição no peculato é adesão inferida à Relatora."
+    },
+    {
+      "id_unidade": "AP-396-R01-I02",
+      "escopo_levcovitz": {"valor": "Nao", "evidencia": null, "fonte": "banco", "confianca": "alta"},
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Cármen Lúcia",
+        "evidencia": "75. Finalmente, vale ressaltar que, quanto ao réu Natan Donadon, o delito de formação de quadrilha tem prova autônoma e independente, de modo que nada impede a condenação do acusado por esse crime, independentemente de se apurar nesses autos a responsabilidade dos demais envolvidos.",
+        "fonte": "p. 68",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "Como os demais membros, cujos números comporiam o número mínimo de quadrilha, não são réus neste processo, tenho certa dificuldade - a menos que eles já tenham sido condenados definitivamente em outro juízo - de reconhecer a caracterização desse crime.",
+            "fonte": "p. 94",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": {
+            "valor": "É possível reconhecer o crime de quadrilha (crime plurissubjetivo) contra um único réu julgado em processo desmembrado, sem que haja juízo definitivo, no órgão competente, sobre a atividade criminosa dos demais supostos membros da associação?",
+            "evidencia": "A minha dúvida é: como nós podemos reconhecer um crime de quadrilha, sem reconhecer atividade criminosa de todos os membros?",
+            "fonte": "p. 99",
+            "confianca": "alta"
+          },
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "Vencido o Senhor Ministro Cezar Peluso, que absolvia o réu pelo crime do artigo 288.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Ora, este réu sozinho, como objeto do juízo do Supremo, não pode ter cometido o delito de quadrilha, a menos que o juízo competente, que examina a atividade dos demais supostos membros da quadrilha, os tenha definitivamente condenado por essa mesma suposta associação.",
+            "fonte": "p. 112"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "E, no mérito, por maioria de votos, julgou procedente a ação e reconheceu a prática dos delitos previstos nos artigos 288 e 312 do Código Penal. Vencido o Senhor Ministro Cezar Peluso, que absolvia o réu pelo crime do artigo 288.",
+            "fonte": "p. 3",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {"valor": "Condena", "evidencia": "para condenar o réu Natan Donadon como incurso nas penas dos arts. 288 e 312", "fonte": "p. 69", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "o delito de formação de quadrilha tem prova autônoma e independente, de modo que nada impede a condenação do acusado por esse crime, independentemente de se apurar nesses autos a responsabilidade dos demais envolvidos.", "fonte": "p. 68", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "Por isso eu disse que a prova era independente e autônoma de todos os fatos. Claro que não poderia me manifestar sobre um juízo, sobre os fatos imputados aos outros pela singela circunstância de que há desmembramento.", "fonte": "p. 94", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Invoca a AP 336 (desmembramento cabível também na quadrilha) e argumenta com o esvaziamento da competência do STF (p. 95, 99).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {"valor": "Condena", "evidencia": "É o que também basta para o reconhecimento do crime tipificado no art. 288 do Código Penal, pelo qual deve o réu ser igualmente condenado.", "fonte": "p. 144", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Eu acompanho a eminente Relatora, Senhor Presidente, pedindo vênia a Vossa Excelência. Entendo que é possível esse desmembramento.", "fonte": "p. 102", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "entendo que não há nenhum imperativo normativo ou lógico a impedir que se julgue isoladamente esse réu por formação de quadrilha.", "fonte": "p. 104", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Exemplos de quadrilha com inimputáveis ou com corréus beneficiados por prescrição; eventual absolvição posterior dos demais teria solução no sistema (p. 102-104). Fecha o aditamento com \"É como voto, Presidente, nessa questão de ordem\" (p. 104).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Acompanho a relatora e voto pela procedência da ação penal e condenação do réu.", "fonte": "p. 109", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Quanto ao desmembramento, a jurisprudência do STF é remansosa no sentido da sua possibilidade, mesmo em caso de formação de quadrilha, não havendo obstáculo ao julgamento isolado de um de seus membros.", "fonte": "p. 107", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "Também entendo que há solução no sistema jurídico, e mais há solução na jurisprudência do Supremo.", "fonte": "p. 106", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Trata o ponto como \"preliminar\" (\"Então rejeito essa preliminar\", p. 106); eventual incompatibilidade entre decisões corrigível por recurso ou no juízo da execução (p. 107).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {"valor": "Condena", "evidencia": "também entendo que estão configurados os crimes dos artigos 288 e 312, formação de quadrilha e peculato.", "fonte": "p. 105", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "caso ocorresse essa possibilidade, ou caso ela venha a ocorrer, de haver a absolvição quanto ao crime de quadrilha no tocante aos demais réus, caberia sempre uma ação revisional.", "fonte": "p. 98", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "Portanto, ainda que ocorra essa hipótese, penso que existem instrumentos processuais para reverter uma eventual injustiça.", "fonte": "p. 99", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Fundamentação dada no debate (p. 98-99), à qual o voto de mérito remete (\"com as razões que já expus\", p. 105).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {"valor": "Condena", "evidencia": "peço vênia para acompanhar a relatora, ou seja, voto no sentido de que o Ministério Público se desincumbiu de provar a tipologia do artigo 288 do Código Penal, a partir do que articulado neste processo e da prova coligida quanto a esse réu.", "fonte": "p. 111", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Presidente, penso que importante, na espécie, é atentar para a causa de pedir apontada na inicial do Ministério Público e que acabou - ante a prova e sem que se possa assentar, porque há fundamento, a culpa dos demais - por levar ao convencimento sobre a configuração do tipo do artigo 288.", "fonte": "p. 110", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "voto no sentido de que o Ministério Público se desincumbiu de provar a tipologia do artigo 288 do Código Penal, a partir do que articulado neste processo e da prova coligida quanto a esse réu.", "fonte": "p. 111", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Reconhece a \"perplexidade\" de uma condenação isolada por quadrilha; apoia-se no art. 469, I, do CPC (fundamentos da sentença não fazem coisa julgada) e na competência estrita do STF (p. 110-111).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {"valor": "Absolve", "evidencia": "Razão por que peço vênia para absolver o réu do delito de formação de quadrilha.", "fonte": "p. 113", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Trata-se de crime evidentemente plurisubjetivo, e, em se tratando desse tipo de crime, em que é preciso que, para a sua tipificação, fique provada a associação, ou seja, a ação de pelo menos quatro pessoas, a mim me parece, do ponto de vista jurídico, que não há tipificação, se se biparte ou fragmenta o juízo sobre atividade de todos aqueles aos quais se imputa o fato da associação.", "fonte": "p. 112", "confianca": "alta"},
+              "posicao": {"valor": "nao", "evidencia": "Ora, este réu sozinho, como objeto do juízo do Supremo, não pode ter cometido o delito de quadrilha, a menos que o juízo competente, que examina a atividade dos demais supostos membros da quadrilha, os tenha definitivamente condenado por essa mesma suposta associação.", "fonte": "p. 112", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "Ressalva que haveria outros remédios (conexão, rejeição da denúncia, avocação) e que o problema decorre do desmembramento (p. 113).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312 do Código Penal, contra o voto do Senhor Ministro Cezar Peluso", "fonte": "p. 151", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Ou então seria o caso de mudarmos radicalmente a jurisprudência e não admitirmos qualquer desmembramento.", "fonte": "p. 96", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "Já que as participações estão perfeitamente delimitadas.", "fonte": "p. 103", "confianca": "media", "inferida_de": null},
+              "posicao_detalhe": "Só intervenções no debate (p. 96-97, 103); sem peça de mérito.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312 do Código Penal, contra o voto do Senhor Ministro Cezar Peluso", "fonte": "p. 151", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Mas aqui é o contrário: nós estamos julgando primeiro. Eles não foram julgados lá.", "fonte": "p. 97", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "O desmembramento passaria a operar como um bill de indenidade contra a...", "fonte": "p. 99", "confianca": "media", "inferida_de": null},
+              "posicao_detalhe": "Só intervenções no debate (p. 97, 99, 100); sem peça de mérito.",
+              "fundamento_proprio": null
+            }
+          ]
+        },
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "71. A tipificação do crime de formação de quadrilha exige que pelo menos quatro pessoas se associem, em caráter estável e permanente, com a finalidade de cometer crimes.",
+            "fonte": "p. 66",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": {
+            "valor": "Há prova de que o réu se associou a pelo menos outras três pessoas, em caráter estável e permanente, com a finalidade de cometer crimes?",
+            "evidencia": "Assim, está comprovado o envolvimento de pelo menos quatro pessoas no esquema criminoso. 73. O caráter estável e permanente da associação criminosa ficou demonstrado.",
+            "fonte": "p. 67",
+            "confianca": "media"
+          },
+          "principal": {
+            "valor": "Nao",
+            "evidencia": "O SENHOR MINISTRO CEZAR PELUSO (PRESIDENTE) - Eu sei, Ministra. Mas aí se trata de mera motivação da decisão. O que vale é o juízo a respeito dessa atividade no juízo competente.",
+            "fonte": "p. 100",
+            "confianca": "media"
+          },
+          "formulacao": {
+            "valor": "71. A tipificação do crime de formação de quadrilha exige que pelo menos quatro pessoas se associem, em caráter estável e permanente, com a finalidade de cometer crimes.",
+            "fonte": "p. 66"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "A prova produzida no curso da instrução processual, como já salientado, é firme e segura em demonstrar a efetiva associação estável e permanente entre o réu Natan Donadon, seu irmão Marcos Antônio, o procurador da empresa MPJ, Omar Miguel da Cunha, além de outros denunciados, para o fim de cometimento de múltiplos crimes de peculato",
+            "fonte": "p. 143",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {"valor": "Condena", "evidencia": "para condenar o réu Natan Donadon como incurso nas penas dos arts. 288 e 312", "fonte": "p. 69", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "Assim, está comprovado o envolvimento de pelo menos quatro pessoas no esquema criminoso.", "fonte": "p. 67", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "73. O caráter estável e permanente da associação criminosa ficou demonstrado. Foram efetuados, pelo menos, vinte e dois pagamentos indevidos em um período de quase um ano. Trata-se, portanto, de atuação duradoura e organizada.", "fonte": "p. 67", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": "A finalidade de cometer crimes é tida por demonstrada pela prática de peculato em continuidade delitiva, com apoio em doutrina (Nucci) (p. 67-68).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {"valor": "Condena", "evidencia": "É o que também basta para o reconhecimento do crime tipificado no art. 288 do Código Penal, pelo qual deve o réu ser igualmente condenado.", "fonte": "p. 144", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "A prova produzida no curso da instrução processual, como já salientado, é firme e segura em demonstrar a efetiva associação estável e permanente entre o réu Natan Donadon, seu irmão Marcos Antônio, o procurador da empresa MPJ, Omar Miguel da Cunha, além de outros denunciados", "fonte": "p. 143", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "Perfeitamente amoldada ao tipo a conduta do réu e de seus comparsas.", "fonte": "p. 144", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Acompanho a relatora e voto pela procedência da ação penal e condenação do réu.", "fonte": "p. 109", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "No mérito, relativamente ao crime de formação de quadrilha, a conduta narrada na denúncia se enquadra no tipo penal: os acusados se reuniram previamente à prática do crime de peculato, com o fim de cometer os crimes contra o patrimônio público posteriormente verificados", "fonte": "p. 107", "confianca": "alta"},
+              "posicao": {"valor": "sim", "evidencia": "os acusados se reuniram previamente à prática do crime de peculato, com o fim de cometer os crimes contra o patrimônio público posteriormente verificados", "fonte": "p. 107", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {"valor": "Condena", "evidencia": "também entendo que estão configurados os crimes dos artigos 288 e 312, formação de quadrilha e peculato.", "fonte": "p. 105", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "com as razões que já expus, também entendo que estão configurados os crimes dos artigos 288 e 312", "fonte": "p. 105", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "também entendo que estão configurados os crimes dos artigos 288 e 312", "fonte": "p. 105", "confianca": "media", "inferida_de": "Cármen Lúcia (as razões expostas no debate tratam da possibilidade jurídica, não da prova da associação)"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {"valor": "Condena", "evidencia": "peço vênia para acompanhar a relatora", "fonte": "p. 111", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Sim", "evidencia": "voto no sentido de que o Ministério Público se desincumbiu de provar a tipologia do artigo 288 do Código Penal, a partir do que articulado neste processo e da prova coligida quanto a esse réu.", "fonte": "p. 111", "confianca": "media"},
+              "posicao": {"valor": "sim", "evidencia": "o Ministério Público se desincumbiu de provar a tipologia do artigo 288 do Código Penal", "fonte": "p. 111", "confianca": "media", "inferida_de": null},
+              "posicao_detalhe": "Afirma a prova da tipologia sem examinar os elementos; o mesmo trecho serve à questão principal.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {"valor": "Absolve", "evidencia": "Razão por que peço vênia para absolver o réu do delito de formação de quadrilha.", "fonte": "p. 113", "confianca": "alta"},
+              "enfrentou_a_questao": {"valor": "Nao", "evidencia": "Eu sei, Ministra. Mas aí se trata de mera motivação da decisão. O que vale é o juízo a respeito dessa atividade no juízo competente.", "fonte": "p. 100", "confianca": "alta"},
+              "posicao": {"valor": "nao_enfrentou", "evidencia": "Porque o Supremo, no caso, não tem competência alguma para decidir se a atividade dos demais membros é, ou não, criminosa.", "fonte": "p. 112", "confianca": "alta", "inferida_de": null},
+              "posicao_detalhe": null,
+              "fundamento_proprio": "Absolve pela impossibilidade de reconhecer a associação em juízo que só examina um dos supostos membros (questão principal desta unidade)."
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312 do Código Penal, contra o voto do Senhor Ministro Cezar Peluso", "fonte": "p. 151", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312", "fonte": "p. 151", "confianca": "baixa"},
+              "posicao": {"valor": "sim", "evidencia": "Já que as participações estão perfeitamente delimitadas.", "fonte": "p. 103", "confianca": "baixa", "inferida_de": "Cármen Lúcia (sem peça de mérito; a fala no debate é compatível, mas não examina a prova)"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ayres Britto",
+              "voto_resultado": {"valor": "Condena", "evidencia": "Por maioria, o Tribunal julgou procedente ação e reconheceu prática dos delitos previstos nos artigos 288 e 312 do Código Penal, contra o voto do Senhor Ministro Cezar Peluso", "fonte": "p. 151", "confianca": "media"},
+              "enfrentou_a_questao": {"valor": "Adesao", "evidencia": "Havendo provas suficientes [...] Para tipificar o crime de quadrilha.", "fonte": "p. 100", "confianca": "baixa"},
+              "posicao": {"valor": "sim", "evidencia": "Havendo provas suficientes [...] Para tipificar o crime de quadrilha.", "fonte": "p. 100", "confianca": "baixa", "inferida_de": "Cármen Lúcia (fala condicional no debate; sem peça de mérito)"},
+              "posicao_detalhe": null,
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Cármen Lúcia",
+          "tipo": "precedente_citado",
+          "referencia": "Ação Penal 336",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Mas lembrou bem o Procurador-Geral, e como eu disse, o Supremo fixou, na Ação Penal 336, exatamente esta conclusão: \"A possibilidade de separação dos processos quando conveniente à instrução penal é aplicável também em relação no crime de quadrilha ou bando (art. 288 do Código Penal).",
+          "fonte": "p. 95"
+        },
+        {
+          "ministro": "Joaquim Barbosa",
+          "tipo": "precedente_citado",
+          "referencia": "\"mensalão\" / Ação Penal 470",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Na Ação Penal 470, esta Corte recebeu a denúncia numa situação em que nem se configurava o crime de quadrilha \"em tese\". Por quê? Porque dois foram denunciados e dois formularam delação premiada, e o Tribunal acolheu a denúncia por formação de quadrilha.",
+          "fonte": "p. 106"
+        },
+        {
+          "ministro": "Cezar Peluso",
+          "tipo": "distincao",
+          "referencia": "caso do \"mensalão\" (citado por Joaquim Barbosa)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "Mas aí é diferente; é um pouco diferente. [...] Na delação premiada, há implícita a admissibilidade da prática do crime.",
+          "fonte": "p. 97"
+        },
+        {
+          "ministro": "Joaquim Barbosa",
+          "tipo": "precedente_citado",
+          "referencia": "Inq. 2527, rel. min. Ellen Gracie; AP-AgR n° 336/TO, rel. Min. Carlos Velloso; Inq. 2051, AP 493 e AP 336",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Quanto ao desmembramento, a jurisprudência do STF é remansosa no sentido da sua possibilidade, mesmo em caso de formação de quadrilha, não havendo obstáculo ao julgamento isolado de um de seus membros. Neste sentido, Inq. 2527, rel. min. Ellen Gracie [...] Outros precedentes, todos do plenário: Inq. 2051, AP 493 e AP 336.",
+          "fonte": "p. 107"
+        },
+        {
+          "ministro": "Dias Toffoli",
+          "tipo": "precedente_citado",
+          "referencia": "jurisprudência deste Tribunal (sem identificação dos julgados)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "reitero que a possibilidade de se processar em juízos distintos pessoas acusadas de formar uma mesma quadrilha é da jurisprudência não só do Supremo Tribunal Federal, mas de várias instâncias do Poder Judiciário brasileiro, conforme julgados trazidos em diversos códigos penais comentados. Deixo de citá-los aqui para não aborrecer os Colegas.",
+          "fonte": "p. 103"
+        },
+        {
+          "ministro": "Ellen Gracie",
+          "tipo": "precedente_citado",
+          "referencia": "jurisprudência tranquila da Corte (sobre desmembramento); decisão da própria ministra que manteve o desmembramento (fl. 1922)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Sim",
+          "evidencia": "E mantive o processo assim desmembrado com base na jurisprudência tranquila da Corte.",
+          "fonte": "p. 103"
+        }
+      ],
+      "obs": "Divergência com o banco: o banco registra Cezar Peluso como \"Condena\" para o réu, sem separação por fato; no texto, ele absolve no art. 288 (\"Razão por que peço vênia para absolver o réu do delito de formação de quadrilha\", p. 113; acórdão p. 3 e ata p. 151). Não corrigido. Gilmar Mendes não votou no mérito e Celso de Mello esteve ausente (p. 3): sem entradas. O ponto levantado por Peluso aparece em peças com rótulos diferentes (\"questão de ordem\" no aditamento de Dias Toffoli, p. 104; \"preliminar\" no aditamento de Joaquim Barbosa, p. 106), mas o acórdão o trata como mérito: o ministro fica vencido por absolver no art. 288 (p. 3). Por isso foi tratado como questão decisiva, e não como preliminar (R6)."
+    }
+  ],
+  "avisos": [
+    "AP-396-R01-I02 (quadrilha): a questão em que o placar se separou não cabe em dolo nem em concorreu. É a possibilidade de reconhecer crime plurissubjetivo contra um só réu, em processo desmembrado, sem juízo definitivo sobre os demais membros. Foi registrada como 'outra' e marcada como principal. Pode ser candidata a categoria nova do codebook (tipicidade de crime de concurso necessário em processo desmembrado).",
+    "AP-396-R01-I02: a segunda questão (prova da associação estável de 4 ou mais pessoas com fim criminoso) também foi registrada como 'outra'. Ela fica na fronteira com 'concorreu', porque inclui a participação do réu na associação. Optei por 'outra' porque os votos raciocinam pelos elementos do tipo (número, estabilidade, finalidade), e não por quem praticou o ato.",
+    "AP-396-R01-I01 (peculato): concorreu e dolo foram marcadas ambas principais pela R5b (caso unânime, mesma resposta). O dolo aparece como resposta à tese defensiva de que o réu só cumpria o dever de pagar (p. 14), mas a ênfase textual da Relatora está na autoria. 'padrao_dolo_exigido' ficou nao_dito: nenhum voto diz qual dolo exige. A única definição é doutrinária (Bitencourt, citado por Dias Toffoli, p. 136: 'vontade livre e consciente de apropriar-se'), e citação de doutrina não fixa padrão do voto.",
+    "Cinco ministros não têm fundamentação própria sobre o peculato: Ellen Gracie, Ayres Britto, Cezar Peluso, Marco Aurélio e Ricardo Lewandowski. Os dois primeiros não têm nenhuma peça de mérito; o voto deles existe só na contagem do acórdão e da ata (p. 3, p. 151). Todas essas posições são 'Adesao' com inferência declarada à Relatora, confiança baixa.",
+    "Ellen Gracie e Ayres Britto na I02: a posição na questão principal foi tirada de falas no debate (p. 96-103), não de voto escrito. Por isso, confiança média.",
+    "O voto escrito de Dias Toffoli (p. 126) e o voto de mérito de Joaquim Barbosa (p. 107) trazem o cabeçalho '(RELATOR)'. Pelo contexto, Toffoli é o Revisor e a Relatora é Cármen Lúcia. Parece erro de cabeçalho ou de OCR; não conferi no PDF.",
+    "OCR: na ata (p. 151) a pena dos vencidos aparece ilegível ('2 20 8 novey oes meses'). Usei o acórdão (p. 3) para as citações da contagem de votos. Não afeta resultado nem questão."
+  ]
+}

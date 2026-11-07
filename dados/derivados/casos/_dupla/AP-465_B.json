@@ -1,0 +1,209 @@
+{
+  "id_caso": "AP-465",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-465.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Ação Penal",
+      "evidencia": "AÇÃO PENAL 465 DISTRITO FEDERAL",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "No mérito, o Tribunal julgou improcedente a ação penal para absolver o réu com base no art. 386, inciso VII, do Código de Processo Penal, nos termos do voto da Relatora",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU(É)(S) : FERNANDO AFFONSO COLLOR DE MELLO",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Todas as datas registradas no acórdão (cabeçalhos de página, ementa, acórdão e Extrato de Ata) referem-se a 24/04/2014; não há menção a sessão anterior, pedido de vista ou continuação de julgamento em outra data.",
+      "fonte": "ata",
+      "confianca": "media"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Fernando Affonso Collor de Mello",
+        "evidencia": "RÉU(É)(S) : FERNANDO AFFONSO COLLOR DE MELLO",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Ex-Presidente da República (à época dos fatos, 1991-1992); Senador da República (à época do julgamento, 2014)",
+        "evidencia": "Fernando Affonso Collor de Mello, ex-Presidente da República, atualmente exercendo o cargo de Senador da República",
+        "fonte": "acordao p.65",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "julgar improcedente a ação penal para absolver o réu com base no art. 386, inc. VII, do Código de Processo Penal, nos termos do voto da Relatora",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "Os depoimentos e laudos acostados aos autos não apresentam elementos de convicção suficientes para a formação de juízo de certeza sobre a responsabilização criminal do Réu pelos crimes de peculato, corrupção passiva e falsidade ideológica. Falta nos autos prova irrefutável a demonstrar a materialidade e autoria dos crimes a ele imputados.",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não houve condenação em nenhum momento do processo; o próprio dispositivo final absolve o réu com base em insuficiência de provas (art. 386, VII, CPP). Quatro ministros (Lewandowski, Teori Zavascki, Rosa Weber e Joaquim Barbosa) ficaram vencidos em parte, preferindo reconhecer a prescrição quanto a dois dos três delitos (falsidade ideológica e corrupção passiva) em vez de julgar o mérito, mas essa não foi a posição vencedora.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "art. 312, caput",
+          "diploma": "Código Penal",
+          "evidencia": "conduta esta tipificada no art. 312, caput, do Código Penal (peculato)"
+        },
+        {
+          "artigo": "art. 317",
+          "diploma": "Código Penal",
+          "evidencia": "recebeu, indireta e reiteradamente, vantagem indevida, conduta esta tipificada no art. 317 do Código Penal (corrupção passiva)"
+        },
+        {
+          "artigo": "art. 299",
+          "diploma": "Código Penal",
+          "evidencia": "foi co-responsável pela abertura de várias contas correntes bancárias e falsificações de cheques, em cujos documentos foram inseridos falsos elementos, conduta esta tipificada no art. 299 do Código Penal (falsidade ideológica)"
+        }
+      ],
+      "n_votantes": {
+        "valor": 8,
+        "evidencia": "Presidência do Senhor Ministro Joaquim Barbosa. Presentes à sessão os Senhores Ministros Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Luiz Fux, Rosa Weber, Teori Zavascki e Roberto Barroso.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "Nenhum dos oito ministros presentes votou por condenar; todos concluíram pela absolvição do réu, ainda que por fundamentos jurídicos distintos (art. 386, VII, para a maioria; art. 386, V, para Lewandowski; reconhecimento de prescrição quanto a dois delitos para Teori, Rosa Weber e Joaquim Barbosa, mantendo a absolvição por insuficiência de provas quanto ao peculato).",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 8,
+        "evidencia": "julgar improcedente a ação penal para absolver o réu ... vencidos, em parte, o Ministro Ricardo Lewandowski, que o absolvia com fundamento no inciso V do art. 386 do Código de Processo Penal, e os Ministros Teori Zavascki, Rosa Weber e Joaquim Barbosa (Presidente), que reconheciam a prescrição da pretensão punitiva em relação aos delitos de falsidade ideológica (art. 299 do Código Penal) e de corrupção passiva (art. 317 do Código Penal)",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "vencidos, em parte, o Ministro Ricardo Lewandowski ... e os Ministros Teori Zavascki, Rosa Weber e Joaquim Barbosa (Presidente)",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": true,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "Atuou como Revisor; votou nos exatos termos da Relatora, absolvendo o réu quanto aos três delitos com base no art. 386, VII, do CPP ('julgo improcedente a denúncia e absolvo o réu Fernando Collor de Mello, por ausência de prova suficiente para a condenação, nos termos do art. 386, inc. VII, do Código de Processo Penal')."
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "'não tenho nenhuma objeção às conclusões de Sua Excelência, que acompanho.'"
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "'Por essa razão, eu acompanho integralmente o voto da Relatora.'"
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "Vencido em parte: absolveu com fundamento no art. 386, V, do CPP (e não no inciso VII, adotado pela Relatora e pela maioria) — 'eu, a rigor, absolveria com fundamento no artigo 386, V do CPP, segundo o qual não existem provas de ter o réu concorrido para a infração penal.'"
+    },
+    {
+      "ministro": "Teori Zavascki",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "Vencido em parte: quanto ao peculato acompanhou a Relatora ('eu, quanto ao crime de peculato e desvio, eu acompanho a Ministra-Relatora e os demais votos'), mas divergiu quanto aos delitos de falsidade ideológica e corrupção passiva, por entender que, verificada a prescrição em abstrato, o exame de mérito ficaria prejudicado, devendo ser decretada a extinção da punibilidade quanto a esses dois delitos."
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "Vencido em parte, acompanhando a divergência de Teori Zavascki quanto à prescrição dos delitos de falsidade ideológica e corrupção passiva, e acompanhando a Relatora quanto ao peculato-desvio: 'é como voto, com a divergência quanto à prescrição, e com a Relatora quanto ao delito remanescente.'"
+    },
+    {
+      "ministro": "Joaquim Barbosa",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "observacao": "Presidente. Vencido em parte: quanto ao peculato, acompanhou a Relatora pela insuficiência de prova ('eu vou acompanhar a Relatora na exata capitulação feita por Sua Excelência, ou seja, por insuficiência de prova'); quanto à prescrição dos demais delitos, acompanhou o Ministro Teori."
+    },
+    {
+      "ministro": "Celso de Mello",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "Ausentes, justificadamente, os Ministros Celso de Mello, Marco Aurélio e Gilmar Mendes."
+    },
+    {
+      "ministro": "Marco Aurélio",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "Ausentes, justificadamente, os Ministros Celso de Mello, Marco Aurélio e Gilmar Mendes."
+    },
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": false,
+      "voto_resultado": "não votou",
+      "vencido": false,
+      "ausente": true,
+      "motivo_ausencia": "Ausentes, justificadamente, os Ministros Celso de Mello, Marco Aurélio e Gilmar Mendes."
+    }
+  ],
+  "avisos": [
+    "A denúncia original (10/8/2000) foi oferecida contra Fernando Collor e mais 7 pessoas (Osvaldo Mero Sales, Cláudio Francisco Vieira, Chucre Said/Suaid, Éber Romão de Melo, Homero Pacheco Fernandes Júnior, José Heliton Farias de Vasconcelos e Almir Rodrigues Sales), mas a AP 465 julgada pelo STF Pleno trata exclusivamente de Fernando Collor, por foro por prerrogativa de função — o processo quanto aos demais corréus tramitou desmembrado em Primeira Instância, conforme mencionado pela própria Relatora ('o processo desmembrado que corre em Primeira Instância teve o reconhecimento de prescrição'). Não há, portanto, dado sobre o resultado desses outros corréus neste documento.",
+    "Todos os 8 ministros presentes votaram, na prática, por 'absolve' — nenhum votou por condenar. A divergência registrada na ata ('vencidos, em parte') refere-se ao fundamento jurídico da absolvição (inciso VII vs. V do art. 386 do CPP) e, para 3 ministros (Teori Zavascki, Rosa Weber) e o Presidente Joaquim Barbosa, à preferência por reconhecer a prescrição da pretensão punitiva quanto aos delitos de falsidade ideológica e corrupção passiva em vez de julgar o mérito desses dois delitos — mantendo, quanto ao peculato, a mesma conclusão da Relatora (absolvição por insuficiência de provas). Por isso, o campo 'unanime' foi marcado como false, respeitando a própria caracterização da ata ('por unanimidade' apenas quanto à rejeição das preliminares; 'vencidos, em parte' quanto ao mérito), embora o resultado prático (não condenação) tenha sido unânime.",
+    "O caso ilustra tensão institucional relevante para a pesquisa: há um debate extenso em Plenário (Ministros Barroso, Fux, Teori, Rosa Weber, Lewandowski, Joaquim Barbosa) sobre se, havendo prescrição em abstrato evidente, o Tribunal deveria julgar o mérito ou decretar de imediato a extinção da punibilidade — sem consenso claro sobre a jurisprudência aplicável ('discordar dos Colegas' — Teori; 'impressionado com os argumentos' — Lewandowski mudando de posição durante a sessão). Esse debate pode ser relevante para a análise de estabilidade decisória do STF quanto ao instituto da prescrição em ações penais de corrupção.",
+    "A composição de ministros presentes/ausentes na ata (8 presentes: Joaquim Barbosa, Lewandowski, Cármen Lúcia, Dias Toffoli, Fux, Rosa Weber, Teori Zavascki, Roberto Barroso; 3 ausentes justificadamente: Celso de Mello, Marco Aurélio, Gilmar Mendes) é integralmente consistente com a tabela de composição do STF fornecida para 24/04/2014 — não houve necessidade de dedução D-004, pois a ata nomeia individualmente todos os votantes e ausentes."
+  ]
+}

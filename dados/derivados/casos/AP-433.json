@@ -1,0 +1,212 @@
+{
+  "_validacao_gabarito": "Comparado contra GABARITO_VALIDACAO.md (08/08/2026) após a extração cega: bate quase exatamente. Vencidos = Ellen Gracie (relatora), Cezar Peluso (revisor), Cármen Lúcia, Joaquim Barbosa, Ayres Britto — idêntico ao gabarito. n_votantes=11 (gabarito: 11). votos_condenacao/absolvicao = 5/6 (gabarito: 5/6). A extração identificou corretamente a sessão de 11/03/2010 (não a de 04/03, empatada e inconclusiva) como decisiva, sem qualquer contato com o gabarito — era exatamente a armadilha (g) documentada. Única diferença: gabarito usa a categoria coarse 'Absolvição mérito' (esquema antigo); a extração nova especifica motivo=atipicidade, mais granular, sem conflito (mesmo padrão já resolvido para AP-348/AP-365).",
+  "id_caso": "AP-433",
+  "extraido_em": "2026-08-08",
+  "fontes_lidas": ["dados/corpus/texto/AP-433.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Art. 92, caput e parágrafo único, da Lei 8.666/93 (admitir/possibilitar vantagem indevida em favor de adjudicatário/contratado durante execução de contrato administrativo), combinado com art. 29 do Código Penal",
+      "evidencia": "Ação penal. Réus denunciados por crime previsto no art. 92, caput e parágrafo único, da Lei n° 8.666/93, combinado com o art. 29 do Código Penal.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "Prosseguindo no julgamento, o Tribunal, por maioria, absolveu os réus, vencidos os Senhores Ministros Ellen Gracie (Relatora), Cezar Peluso (Revisor), Cármen Lúcia, Joaquim Barbosa e Ayres Britto. Redigirá o acórdão o Senhor Ministro Dias Toffoli. (...) Plenário, 11.03.2010.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 2,
+      "evidencia": "REU(E)(S): FERNANDO LUCIO GIACOBO (...) REU(É)(S): ALCENI ANGELO GUERRA",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": true,
+      "evidencia": "Sessão de 04.03.2010: 'deliberou aguardar-se o Senhor Ministro Eros Grau, ausente justificadamente, para proferir voto de desempate' (empate 5x5 após retificação do voto do Min. Lewandowski). Sessão de 11.03.2010: 'Prosseguindo no julgamento, o Tribunal, por maioria, absolveu os réus (...)'. A sessão de 04.03.2010 terminou empatada (5x5) sem resolver o mérito; a sessão de 11.03.2010, com a presença adicional do Ministro Eros Grau (voto de desempate), produziu o resultado final e definitivo (6x5, absolvição). Usei a sessão de 11.03.2010 como fonte de resultado, placar e votos.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "modalidade_levcovitz": {"valor": [18], "rotulos": ["Crimes previstos na Lei 8.666/93 (licitações)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-433, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"18 (Lei 8.666/93, art. 92)\"", "regra_aplicada": "inclusao_direta", "fonte": "ementa", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Alceni Ângelo Guerra",
+        "evidencia": "REU (E) (S): ALCENI ANGELO GUERRA",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Prefeito Municipal de Pato Branco/PR à época dos fatos (1998); Deputado Federal à época do processo/julgamento",
+        "evidencia": "autorizou o então Prefeito Municipal, ora 1º denunciado, Alceni Guerra, a licitar e dar concessão à empresa privada, os serviços de exploração do Terminal Rodoviário José Cattani; e: 'tendo em vista que ambos os denunciados exercem mandato de deputado federal'",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "o Tribunal, por maioria, absolveu os réus, vencidos os Senhores Ministros Ellen Gracie (Relatora), Cezar Peluso (Revisor), Cármen Lúcia, Joaquim Barbosa e Ayres Britto.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "Tipicidade da conduta não comprovada. Ausência de adequação entre o fato e a norma. Improcedência da ação penal. (...) absolvendo-os por atipicidade",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não houve condenação transitada em julgado; o resultado final e definitivo foi absolvição por atipicidade da conduta (voto vencedor do Min. Dias Toffoli, seguido pela maioria). A prescrição foi discutida apenas como fundamento subsidiário/alternativo por alguns ministros (ex.: Marco Aurélio) e nas discussões processuais da sessão de 04/03/2010, mas não foi a base do resultado final.",
+        "fonte": "acordao p.29",
+        "confianca": "media"
+      },
+      "crimes": [
+        {"artigo": "art. 92, caput, c/c art. 29", "diploma": "Lei 8.666/93 c/c Código Penal", "evidencia": "incorreu o 1° denunciado nas sanções do art. 92 'caput' (...) ambos da Lei n° 8.666/93, combinado com art. 29 'caput' do Código Penal Brasileiro"}
+      ],
+      "n_votantes": {"valor": 11, "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ricardo Lewandowski, Ellen Gracie, Cezar Peluso, Ayres Britto, Joaquim Barbosa, Eros Grau, Cármen Lúcia e Dias Toffoli [+ Presidência do Senhor Ministro Gilmar Mendes] = 11 ministros votantes.", "fonte": "ata", "confianca": "alta"},
+      "votos_condenacao": {"valor": 5, "evidencia": "vencidos os Senhores Ministros Ellen Gracie (Relatora), Cezar Peluso (Revisor), Cármen Lúcia, Joaquim Barbosa e Ayres Britto", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 6, "evidencia": "11 votantes - 5 vencidos (condenação) = 6 votos pela absolvição (Dias Toffoli, Ricardo Lewandowski, Marco Aurélio, Celso de Mello, Gilmar Mendes e Eros Grau)", "fonte": "ata", "confianca": "alta"},
+      "unanime": {"valor": false, "evidencia": "por maioria, absolveu os réus, vencidos os Senhores Ministros Ellen Gracie (...)", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "nome": {
+        "valor": "Fernando Lúcio Giacobo",
+        "evidencia": "REU(E) (S): FERNANDO LUCIO GIACOBO",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Sócio-gerente da empresa Tartari e Giacobo Ltda. (contratado/adjudicatário) à época dos fatos (1998); Deputado Federal segundo o relatório da Relatora, mas referido como 'atualmente Senador' no voto do Ministro Lewandowski — ver aviso sobre divergência.",
+        "evidencia": "a empresa Tartari e Giacobo Ltda. representada pelo 2º denunciado Fernando Lúcio Giacobo (...) o 2º denunciado na qualidade de sócio gerente da contratada; e no relatório: 'ambos os réus exercem mandatos no Congresso Nacional como deputados federais'; e no voto do Min. Lewandowski: 'com relação ao segundo réu - que é o contratante, Fernando Lúcio Giacobo (...) atualmente Senador FERNANDO GIACOBO'",
+        "fonte": "acordao p.2",
+        "confianca": "media"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "o Tribunal, por maioria, absolveu os réus, vencidos os Senhores Ministros Ellen Gracie (Relatora), Cezar Peluso (Revisor), Cármen Lúcia, Joaquim Barbosa e Ayres Britto.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "Tipicidade da conduta não comprovada. Ausência de adequação entre o fato e a norma. Improcedência da ação penal. (...) absolvendo-os por atipicidade",
+        "fonte": "ementa",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não houve condenação transitada em julgado para este réu; o resultado final foi absolvição por atipicidade. Note-se que o Min. Lewandowski chegou a votar, num primeiro momento (sessão de 04/03/2010), pela condenação isolada deste réu, mas retificou o voto para absolver ambos antes da suspensão da sessão: 'eu reajusto o meu voto para absolver ambos os réus.'",
+        "fonte": "acordao p.83",
+        "confianca": "media"
+      },
+      "crimes": [
+        {"artigo": "art. 92, parágrafo único, c/c art. 29", "diploma": "Lei 8.666/93 c/c Código Penal", "evidencia": "e o 2° denunciado nas sanções do art. 92, parágrafo único, ambos da Lei n° 8.666/93, combinado com art. 29 'caput' do Código Penal Brasileiro"}
+      ],
+      "n_votantes": {"valor": 11, "evidencia": "mesma sessão de 11.03.2010, mesmos 11 ministros votantes.", "fonte": "ata", "confianca": "alta"},
+      "votos_condenacao": {"valor": 5, "evidencia": "vencidos os Senhores Ministros Ellen Gracie (Relatora), Cezar Peluso (Revisor), Cármen Lúcia, Joaquim Barbosa e Ayres Britto", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 6, "evidencia": "11 votantes - 5 vencidos = 6 votos pela absolvição", "fonte": "ata", "confianca": "alta"},
+      "unanime": {"valor": false, "evidencia": "por maioria, absolveu os réus (...)", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Ellen Gracie", "evidencia": "Presentes à sessão os Senhores Ministros (...) Ellen Gracie (...)", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": true, "evidencia": "RELATORA ORIGINÁRIA : MIN. ELLEN GRACIE", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "julgo procedente a pretensão punitiva estatal para condenar os réus Alceni Ângelo Guerra e Fernando Lúcio Giacobo", "fonte": "acordao p.22", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os Senhores Ministros Ellen Gracie (Relatora) (...)", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio, Ellen Gracie, Cezar Peluso (...)", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica - ministra presente e votante", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cezar Peluso", "evidencia": "REVISOR : MIN. CEZAR PELUSO", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "atua como Revisor, não relator", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "acompanho na íntegra o voto da Relatora, também na dosimetria das penas e na sua conversão em restritivas de direito.", "fonte": "acordao p.25", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os Senhores Ministros (...) Cezar Peluso (Revisor) (...)", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão (...) Cezar Peluso (...)", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Dias Toffoli", "evidencia": "REDATOR PARA ACORDÃO (...): MIN. DiAS TOFFOLI", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "figura como Redator para o acórdão (voto vencedor), não como relator originário", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Então, Senhor Presidente, por essas razões, com fundamento no art. 386, inciso III, do Código de Processo Penal, absolvo o réu (...)", "fonte": "acordao p.29", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "Redigirá o acórdão o Senhor Ministro Dias Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão (...) Dias Toffoli.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cármen Lúcia", "evidencia": "Presentes à sessão (...) Cármen Lúcia", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "n/a", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "peço vênia ao Ministro Dias Toffoli para acompanhar a Relatora, nos termos por ela posta e também pelo ministro-revisor.", "fonte": "acordao p.31", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os Senhores Ministros (...) Cármen Lúcia (...)", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão (...) Cármen Lúcia", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ricardo Lewandowski", "evidencia": "Presentes à sessão (...) Ricardo Lewandowski", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "n/a", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "eu reajusto o meu voto para absolver ambos os réus.", "fonte": "acordao p.83", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não consta na lista de vencidos", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão (...) Ricardo Lewandowski", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Joaquim Barbosa", "evidencia": "Presentes à sessão (...) Joaquim Barbosa", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "O texto do voto traz a rubrica 'O SENHOR MINISTRO JOAQUIM BARBOSA - (Relator):', o que diverge da ata (relatora é Ellen Gracie). Tratado como provável erro de transcrição/OCR — ver aviso.", "fonte": "acordao p.50", "confianca": "baixa"},
+      "voto_resultado": {"valor": "condena", "evidencia": "Por todo o exposto, julgo procedente a ação penal e condeno os réus ALCENI GUERRA e FERNANDO GIÁCOBO pela prática do crime previsto no art. 92 da Lei de Licitações.", "fonte": "acordao p.54", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os Senhores Ministros (...) Joaquim Barbosa (...)", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão (...) Joaquim Barbosa", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ayres Britto", "evidencia": "Presentes à sessão (...) Ayres Britto", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "n/a", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "condena", "evidencia": "subscrevo o voto da eminente Relatora, revisado por Vossa Excelência, no sentido de julgar procedente a ação e também concordo com a pena mínima fixada pela Relatora", "fonte": "acordao p.57", "confianca": "alta"},
+      "vencido": {"valor": true, "evidencia": "vencidos os Senhores Ministros (...) Ayres Britto.", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão (...) Ayres Britto", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Marco Aurélio", "evidencia": "Presentes à sessão (...) Marco Aurélio", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "n/a", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Acompanho, Presidente, o Ministro Dias Toffoli, quanto à observância do artigo 386, III, do Código de Processo Penal, absolvendo os acusados", "fonte": "acordao p.59", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não consta na lista de vencidos", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão (...) Marco Aurélio", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Gilmar Mendes", "evidencia": "Presidência do Senhor Ministro Gilmar Mendes.", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "atua como Presidente da sessão, não relator", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Eu também vou pedir vênia à Ministra Ellen Gracie, ao Ministro Peluso, à Ministra Cármen e ao Ministro Britto, para acompanhar a divergência a partir do voto do Ministro Dias Toffoli.", "fonte": "acordao p.63", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não consta na lista de vencidos", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presidência do Senhor Ministro Gilmar Mendes.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Celso de Mello", "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello, Marco Aurélio (...)", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "n/a", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "voto explícito não localizado no corpo de texto do acórdão (o texto registra apenas apartes seus, mencionados por outros ministros, ex.: 'este último argumento enunciado pelo eminente Ministro Celso de Mello, relativamente à unicidade dos delitos e à pluralidade dos agentes'); a ata da sessão de 04/03/2010 o inclui explicitamente no grupo que absolveu: 'os votos dos Senhores Ministros Dias Toffoli, Ricardo Lewandowski, Marco Aurélio, Celso de Mello e Gilmar Mendes (Presidente), absolvendo-os por atipicidade'.", "fonte": "ata", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "não consta na lista de vencidos", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros Celso de Mello (...)", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Eros Grau", "evidencia": "Presentes à sessão os Senhores Ministros (...) Eros Grau (...) — apenas na ata de 11.03.2010", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "n/a", "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "examinei a matéria e na hipótese não há modalidade culposa. Não diviso dolo. Vou acompanhar o voto do Ministro Dias Toffoli.", "fonte": "acordao p.101", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "não consta na lista de vencidos", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "votou nesta sessão (11.03.2010); estava ausente justificadamente na sessão anterior de 04.03.2010: 'deliberou aguardar-se o Senhor Ministro Eros Grau, ausente justificadamente, para proferir voto de desempate.'", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": "não se aplica na sessão de 11.03.2010 (estava presente); na sessão anterior, motivo registrado apenas como 'ausente justificadamente', sem detalhamento da causa.", "fonte": "ata", "confianca": "media"}
+    }
+  ],
+  "avisos": [
+    "O acórdão contém DUAS sessões de julgamento com datas diferentes: 04/03/2010 (10 ministros presentes, sem Eros Grau) terminou empatada em 5x5 após o Ministro Lewandowski retificar seu voto para absolver ambos os réus (antes ele havia absolvido só Alceni Guerra e condenado Fernando Giacobo). O Tribunal rejeitou por maioria a proposta da Relatora Ellen Gracie de aplicar o art. 146, parágrafo único, inciso VI, do RISTF (proclamar a solução contrária à proposta em caso de empate por ausência de ministro) e decidiu aguardar o voto de desempate do Ministro Eros Grau, ausente justificadamente. A sessão de 11/03/2010 (11 ministros, com Eros Grau) prosseguiu o julgamento: Eros Grau votou acompanhando Dias Toffoli (absolve), resultando em 6x5 pela absolvição por atipicidade. Usei a sessão de 11/03/2010 como fonte do resultado final, placar e votos, por ser a que efetivamente resolveu o mérito sem empate.",
+    "A rubrica 'O SENHOR MINISTRO JOAQUIM BARBOSA - (Relator):' aparece no corpo do voto de Joaquim Barbosa (acordao p.50), mas a ata e o cabeçalho do acórdão identificam a relatora como Ellen Gracie e o redator para o acórdão como Dias Toffoli. Tratei essa rubrica como provável erro de OCR/diagramação do documento original, não como indicação de que Joaquim Barbosa fosse relator.",
+    "Há divergência quanto ao cargo do réu Fernando Lúcio Giacobo à época do julgamento: o relatório da Ministra Ellen Gracie (acordao p.2) afirma que 'ambos os réus exercem mandatos no Congresso Nacional como deputados federais', mas o voto do Ministro Lewandowski (acordao p.54) o chama de 'atualmente Senador FERNANDO GIACOBO'. Não resolvi essa divergência — registrei ambas as menções no campo cargo_funcao com confiança média.",
+    "O voto explícito de Celso de Mello não aparece como bloco de texto próprio no corpo do acórdão (apenas apartes seus são citados indiretamente por outros ministros durante o debate da sessão de 04/03/2010). Seu voto de absolvição foi inferido diretamente da ata, que o lista nominalmente no grupo 'absolvendo-os por atipicidade' tanto na ata de 04/03/2010 quanto na de 11/03/2010 (que reproduz o mesmo texto de decisão anterior antes de registrar o prosseguimento). Não usei dedução D-004 pois a ata nomeia seu voto explicitamente.",
+    "Não há ministro ausente, impedido ou suspeito registrado na sessão de 11/03/2010 (a que decidiu o mérito) — os 11 ministros da composição da época (conforme tabela de referência) estão listados como presentes. Não foi necessário aplicar a regra de dedução D-004.",
+    "A discussão processual da sessão de 04/03/2010 girou em torno da iminência da prescrição em abstrato (que ocorreria em 05 ou 06/03/2010): por isso o Tribunal debateu longamente aplicar o art. 146 do RISTF para evitar que a espera pelo voto de Eros Grau resultasse em prescrição, mas por maioria decidiu aguardar o ministro faltante mesmo assim. Isso é uma peculiaridade processual do caso, mas não afeta o resultado de mérito final (absolvição por atipicidade), que foi o que efetivamente se consumou antes de qualquer prescrição incidir.",
+    "Regra do Quadro 1.1 de Levcovitz (2014): este caso enquadra-se no art. 92 da Lei 8.666/93 (crime contra a Administração Pública em licitações/contratos), dentro do recorte de 'casos de corrupção' do TCC. Não identifiquei elementos de lavagem de dinheiro, associação criminosa ou crime eleitoral que justifiquem reclassificação — não é função desta extração reclassificar o caso."
+  ]
+}

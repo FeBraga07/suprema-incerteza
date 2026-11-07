@@ -1,0 +1,16 @@
+id_caso|ordem|peca|ministro|pag_ini|pag_fim|tem_texto|reus_abrangidos|voto_banco|vencido_banco|fonte_voto_banco|obs
+AP-1032|1|ementa||1|2||todos||||cabeçalho das pp.1-3: "Ementa e Acórdão"
+AP-1032|2|acordao||2|3||todos||||sessão virtual de 8 a 20/04/2022, presidência de Luiz Fux; assinado pelo Relator (p.3)
+AP-1032|3|relatorio|Edson Fachin|4|10||todos||||
+AP-1032|4|voto|Edson Fachin|11|52|Sim|todos|Absolve|Não|lido|relator; mesmo valor no banco para R01 e R02; seções: pp.11-12 introdução; 1 (pp.12-24) com 1.1 (pp.12-18) referida só ao réu AP-1032-R02, 1.2 (pp.18-21) e 1.3 (pp.21-24); 2 mérito (pp.24-52) com 2.1 corrupção passiva (pp.24-51) e 2.2 lavagem (pp.51-52); 3 dispositivo (p.52)
+AP-1032|5|voto|Alexandre de Moraes|53|98|Sim|todos|Absolve|Não|lido|revisor; peça rotulada "Voto Vogal" no cabeçalho das páginas; mesmo valor no banco para R01 e R02; pp.53-61 retomada da denúncia e das alegações; seções: 1 (pp.61-66) referida só ao réu AP-1032-R02, 1.2 (pp.66-68), 1.3 (pp.68-70); 2 mérito (pp.70-97) com 2.1 corrupção passiva (pp.70-94) e 2.2 lavagem (pp.94-97); 3 dispositivo (pp.97-98)
+AP-1032|6|extrato_ata||99|99||todos||||sessão virtual; registra só a "Composição", sem presentes ou ausentes
+AP-1032|7|extrato_ata|Luiz Fux|99|99|Nao|todos|Absolve|Não|deduzido|presidente; sem peça no acórdão; contado na unanimidade; consta da composição (p.99) e da presidência no acórdão (p.3)
+AP-1032|8|extrato_ata|Gilmar Mendes|99|99|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; contado na unanimidade; consta da composição (p.99)
+AP-1032|9|extrato_ata|Ricardo Lewandowski|99|99|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; contado na unanimidade; consta da composição (p.99)
+AP-1032|10|extrato_ata|Cármen Lúcia|99|99|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; contado na unanimidade; consta da composição (p.99)
+AP-1032|11|extrato_ata|Dias Toffoli|99|99|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; contado na unanimidade; consta da composição (p.99)
+AP-1032|12|extrato_ata|Rosa Weber|99|99|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; contado na unanimidade; consta da composição (p.99)
+AP-1032|13|extrato_ata|Roberto Barroso|99|99|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; contado na unanimidade; consta da composição (p.99)
+AP-1032|14|extrato_ata|Nunes Marques|99|99|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; contado na unanimidade; consta da composição (p.99)
+AP-1032|15|extrato_ata|André Mendonça|99|99|Nao|todos|Absolve|Não|deduzido|sem peça no acórdão; contado na unanimidade; consta da composição (p.99)

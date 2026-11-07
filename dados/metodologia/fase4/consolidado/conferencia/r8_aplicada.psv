@@ -1,0 +1,28 @@
+id_unidade|indice|ministro|lado|lider|posicao_atribuida|status
+AP-372-R01-I01|0|Celso de Mello|Absolve|Dias Toffoli|nao|aplicada
+AP-372-R01-I01|1|Celso de Mello|Absolve|Dias Toffoli|nao|aplicada
+AP-372-R01-I02|0|Celso de Mello|Absolve|Dias Toffoli|nao|aplicada
+AP-372-R01-I02|1|Celso de Mello|Absolve|Dias Toffoli|nao|aplicada
+AP-372-R02-I01|0|Celso de Mello|Absolve|Dias Toffoli|nao|aplicada
+AP-372-R02-I01|1|Celso de Mello|Absolve|Dias Toffoli|nao|aplicada
+AP-372-R02-I02|0|Celso de Mello|Absolve|Dias Toffoli|nao|aplicada
+AP-372-R02-I02|1|Celso de Mello|Absolve|Dias Toffoli|nao|aplicada
+AP-409-R01-I01|0|Celso de Mello|Absolve|Dias Toffoli|nao|aplicada
+AP-409-R01-I01|1|Celso de Mello|Absolve|Dias Toffoli|nao_enfrentou|aplicada
+AP-441-R01-I01|0|Celso de Mello|Condena|(ata, pela leitura)|sim|mantida da leitura
+AP-441-R01-I02|0|Celso de Mello|Condena|(ata, pela leitura)|nao|mantida da leitura
+AP-441-R01-I02|1|Celso de Mello|Condena|Ayres Britto|nao_enfrentou|aplicada
+AP-441-R02-I01|0|Celso de Mello|Condena|(ata, pela leitura)|sim|mantida da leitura
+AP-441-R02-I02|0|Celso de Mello|Condena|(ata, pela leitura)|nao|mantida da leitura
+AP-441-R02-I02|1|Celso de Mello|Condena|Ayres Britto|nao_enfrentou|aplicada
+AP-503-R01-I01|0|Eros Grau|Condena|Celso de Mello|sim|aplicada
+AP-503-R01-I01|1|Eros Grau|Condena|Celso de Mello|sim|aplicada
+AP-503-R01-I02|0|Marco Aurélio|Condena|Celso de Mello|nao|aplicada
+AP-503-R01-I02|0|Eros Grau|Condena|Celso de Mello|nao|aplicada
+AP-503-R01-I02|1|Eros Grau|Condena|Celso de Mello|nao|aplicada
+AP-503-R01-I03|0|Marco Aurélio|Absolve|Celso de Mello|nao|aplicada
+AP-503-R01-I03|0|Dias Toffoli|Absolve|Celso de Mello|nao|aplicada
+AP-503-R01-I03|0|Ricardo Lewandowski|Absolve|Celso de Mello|nao|aplicada
+AP-503-R01-I03|0|Eros Grau|Absolve|Celso de Mello|nao|aplicada
+AP-527-R01-I01|0|Celso de Mello|Absolve|Dias Toffoli|nao|aplicada
+AP-527-R01-I01|1|Celso de Mello|Absolve|Dias Toffoli|nao|aplicada

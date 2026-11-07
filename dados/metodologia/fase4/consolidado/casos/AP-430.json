@@ -1,0 +1,1187 @@
+{
+ "id_caso": "AP-430",
+ "lido_em": "2026-10-12",
+ "paginas_lidas": "1-25 (todas)",
+ "unidades": [
+  {
+   "id_unidade": "AP-430-R01-I01",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "escopo decidido no banco; copiado conforme instrução, sem busca de evidência",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Cármen Lúcia",
+    "evidencia": "Correto a manifestação da Procuradoria-Geral da República, cujos fundamentos adoto como razão de decidir. Pelo exposto, julgo improcedente a denúncia, por falta de prova suficiente para a condenação (Código de Processo Penal, art. 386, inciso VI), absolvendo o Réu.",
+    "fonte": "p. 18",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "Diante da ausência de provas dos crimes, não há como concluir pela ccorrência de superfaturamento, nem de direcionamento da concorrência pública. No caso concreto, d mera circunstância [...] sem que ficasse comprovada uma ligação efetiva entre os réus ou o necessário ajuste prévio, não é suficiente para ensejar a condenação.",
+      "fonte": "p. 17",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": "Há prova da materialidade do fato denunciado, isto é, de que houve frustração do caráter competitivo da licitação mediante ajuste prévio (direcionamento) e dano ao erário (superfaturamento/desvio)?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "acordam os Ministros [...] por unanimidade, julgou improcedente a ação, absolvendo o acusado, nos termos do voto da Relatora.",
+      "fonte": "p. 1",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "Diante da ausência de provas dos crimes, não há como concluir pela ccorrência de superfaturamento, nem de direcionamento da concorrência pública.",
+      "fonte": "p. 17"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Portanto, é Forçoso concluir que não se conseguiu provar que a conduta do denunciado enquadrou-se nos tipos do art. 1°, inc. l, do DL n° 201/67 e do art. 90, da Lei n°. 8.666/93.",
+      "fonte": "p. 18",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Pelo exposto, julgo improcedente a denúncia, por falta de prova suficiente para a condenação (Código de Processo Penal, art. 386, inciso VI), absolvendo o Réu.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Correto a manifestação da Procuradoria-Geral da República, cujos fundamentos adoto como razão de decidir.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Diante da ausência de provas dos crimes, não há como concluir pela ccorrência de superfaturamento, nem de direcionamento da concorrência pública. [...] sinalizando que não houve a total ausência de competitividade aludida na denúncia (fls. 69).",
+        "fonte": "p. 17; p. 18",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Fundamentação per relationem: transcreve as alegações finais da PGR (p. 14-18) e as adota como razão de decidir; ausência de prova suficiente (art. 386, VI, CPP).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Menezes Direito",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Com isso, impõe-se a improcedência da denúncia e, em consequência, a absolvição do réu.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "E, no caso, asseverou que não há prova dos crimes, com o que \"não há como concluir pela ocorrência de superfaturamento, nem de direcionamento da concorrência pública.\"",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "sem que ficasse comprovada uma ligação efetiva entre os réus ou o necessário ajuste prévio, não é suficiente para ensejar a condenação\" (fl. 1.676).",
+        "fonte": "p. 19",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Abre o voto em linguagem de dolo: 'o cenário traçado não contém elementos suficientes para configurar qualquer atitude dolosa do réu para turvar o procedimento de licitação' (p. 19); a demonstração, porém, é pela ausência de prova de superfaturamento, direcionamento e ajuste prévio.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "E deixou a relatora demonstrado que não há dados para chegar, na espécie, à condenação. [...] Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "media",
+        "inferida_de": "Cármen Lúcia (relatora)"
+       },
+       "posicao_detalhe": "Não examina a prova da questão; remete à demonstração da relatora.",
+       "fundamento_proprio": "Acrescenta premissa própria: a ação penal pública é indisponível, mas, se o Ministério Público pede a absolvição nas alegações finais, presume-se que 'essa absolvição está harmônica com a prova do processo' (p. 20).",
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ayres Britto",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "media",
+        "inferida_de": "Cármen Lúcia (relatora)"
+       },
+       "posicao_detalhe": "Peça intitulada VOTO (grafado 'Carlos Britto'); antes de aderir, apenas confirma com a relatora que o fundamento é o inciso VI do art. 386 do CPP (p. 21).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cezar Peluso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Absolvição. O réu é inocente, é só isso que importa!",
+        "fonte": "p. 22",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Presidiu o julgamento; sem voto escrito. Em debate, sustenta que o fundamento do art. 386 'é absolutamente irrelevante' diante da presunção de inocência (p. 21-22).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ellen Gracie",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Joaquim Barbosa",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Eros Grau",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "tipicidade",
+     "anotacao_tipicidade": "existencia_fato",
+     "anotacoes": [],
+     "questao_outra_evidencia": {
+      "evidencia": "Não havendo provas suficientes de que teria havido a frustração do caráter competitivo do procedimento licitatório, impõe-se a absolvição",
+      "fonte": "p. 1",
+      "confianca": "media"
+     },
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "categoria_v2",
+       "de": "outra",
+       "para": "tipicidade",
+       "regra": "G4-02",
+       "nota": ""
+      }
+     ]
+    },
+    {
+     "questao_decisiva": {
+      "valor": "concorreu",
+      "evidencia": "Em primeiro lugar, ao contrário do que foi afirmado na denúncia, CASSIO TANIGUCHI rão participou diretamente da condução ao procedimento licitatório [...]; do mesmo modo, não coube ao então Prefeito homologar o resultado da concorrência pública, competindo-lhe apenas firmar o contrato",
+      "fonte": "p. 17",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "acordam os Ministros [...] por unanimidade, julgou improcedente a ação, absolvendo o acusado, nos termos do voto da Relatora.",
+      "fonte": "p. 1",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "CASSIO TANIGUCHI rão participou diretamente da condução ao procedimento licitatório, fato relatado nos depoimentos de SILVANA BEATRIZ DE BRITO NASCIMENTO e de PAULO AFONSO SCHIMIDT (fls. 1.604/1.618); do mesmo modo, não coube ao então Prefeito homologar o resultado da concorrência pública, competindo-lhe apenas firmar o contrato",
+      "fonte": "p. 17"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Dessarte, atribuir-lhe responsabilização penal pelo fato implicaria na invocação de uma responsabilidade penal objetiva, o que é vedado no sistema constitucional brasileiro",
+      "fonte": "p. 17",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": {
+      "valor": "nao_dito",
+      "evidencia": "não coube ao então Prefeito homologar o resultado da concorrência pública, competindo-lhe apenas firmar o contrato",
+      "fonte": "p. 17",
+      "confianca": "media"
+     },
+     "posicoes": [
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Pelo exposto, julgo improcedente a denúncia, por falta de prova suficiente para a condenação (Código de Processo Penal, art. 386, inciso VI), absolvendo o Réu.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Correto a manifestação da Procuradoria-Geral da República, cujos fundamentos adoto como razão de decidir.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "CASSIO TANIGUCHI rão participou diretamente da condução ao procedimento licitatório, fato relatado nos depoimentos [...]; do mesmo modo, não coube ao então Prefeito homologar o resultado da concorrência pública, competindo-lhe apenas firmar o contrato",
+        "fonte": "p. 17",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Fundamentação per relationem: transcreve as alegações finais da PGR (p. 14-18) e as adota como razão de decidir; ausência de prova suficiente (art. 386, VI, CPP).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Menezes Direito",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Com isso, impõe-se a improcedência da denúncia e, em consequência, a absolvição do réu.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Não resta dúvida, assim, que o réu não praticou a conduta apontada na denúncia, sendo certo que a prova dos autos indica que ele não participou diretamente da condução do procedimento licitatório.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "o réu não praticou a conduta apontada na denúncia, sendo certo que a prova dos autos indica que ele não participou diretamente da condução do procedimento licitatório. E, como sabido, não há falar em responsabilidade penal objetiva.",
+        "fonte": "p. 19",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Não repete o argumento da competência para homologar; apoia-se na não participação direta e na vedação da responsabilidade penal objetiva.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "E deixou a relatora demonstrado que não há dados para chegar, na espécie, à condenação. [...] Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "media",
+        "inferida_de": "Cármen Lúcia (relatora)"
+       },
+       "posicao_detalhe": "Não examina a prova da questão; remete à demonstração da relatora.",
+       "fundamento_proprio": "Acrescenta premissa própria: a ação penal pública é indisponível, mas, se o Ministério Público pede a absolvição nas alegações finais, presume-se que 'essa absolvição está harmônica com a prova do processo' (p. 20).",
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ayres Britto",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "media",
+        "inferida_de": "Cármen Lúcia (relatora)"
+       },
+       "posicao_detalhe": "Peça intitulada VOTO (grafado 'Carlos Britto'); antes de aderir, apenas confirma com a relatora que o fundamento é o inciso VI do art. 386 do CPP (p. 21).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cezar Peluso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Absolvição. O réu é inocente, é só isso que importa!",
+        "fonte": "p. 22",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Presidiu o julgamento; sem voto escrito. Em debate, sustenta que o fundamento do art. 386 'é absolutamente irrelevante' diante da presunção de inocência (p. 21-22).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ellen Gracie",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Joaquim Barbosa",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Eros Grau",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "concorreu",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "sim_favorece": "acusacao"
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Cármen Lúcia",
+     "tipo": "precedente_citado",
+     "referencia": "INQ 1690/PE, Rel. Min. Carlos Velloso, DJ 30/4/2004",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "atribuir-lhe responsabilização penal pelo fato implicaria na invocação de uma responsabilidade penal objetiva, o que é vedado no sistema constitucional brasileiro (INO 1690/PE, Rel. Min. Carlos Velloso, DJ 30/4/2004)",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": true
+    }
+   ],
+   "obs": "O acórdão não separa os fatos: relatora (via PGR) e revisor tratam as duas imputações em conjunto ('não se conseguiu provar que a conduta do denunciado enquadrou-se nos tipos do art. 1°, inc. l, do DL n° 201/67 e do art. 90', p. 18); as questões e posições são as mesmas nas duas unidades. A fundamentação da relatora é per relationem (adota as alegações finais da PGR, p. 18); o acórdão decide 'nos termos do voto da Relatora' (p. 1, p. 25). Votos lidos coincidem com o banco (9 Absolve; Celso de Mello e Gilmar Mendes ausentes, p. 25, não incluídos em posicoes).",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": [
+    {
+     "ministro": "Cármen Lúcia",
+     "tipo": "precedente_citado",
+     "referencia": "INQ 1690/PE, Rel. Min. Carlos Velloso, DJ 30/4/2004",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "atribuir-lhe responsabilização penal pelo fato implicaria na invocação de uma responsabilidade penal objetiva, o que é vedado no sistema constitucional brasileiro (INO 1690/PE, Rel. Min. Carlos Velloso, DJ 30/4/2004)",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": true
+    }
+   ]
+  },
+  {
+   "id_unidade": "AP-430-R01-I02",
+   "escopo_levcovitz": {
+    "valor": "Sim",
+    "evidencia": "escopo decidido no banco; copiado conforme instrução, sem busca de evidência",
+    "fonte": "banco",
+    "confianca": "alta"
+   },
+   "ajuste_unidade": null,
+   "voto_condutor": {
+    "valor": "Cármen Lúcia",
+    "evidencia": "Correto a manifestação da Procuradoria-Geral da República, cujos fundamentos adoto como razão de decidir. Pelo exposto, julgo improcedente a denúncia, por falta de prova suficiente para a condenação (Código de Processo Penal, art. 386, inciso VI), absolvendo o Réu.",
+    "fonte": "p. 18",
+    "confianca": "alta"
+   },
+   "questoes": [
+    {
+     "questao_decisiva": {
+      "valor": "outra",
+      "evidencia": "Diante da ausência de provas dos crimes, não há como concluir pela ccorrência de superfaturamento, nem de direcionamento da concorrência pública. No caso concreto, d mera circunstância [...] sem que ficasse comprovada uma ligação efetiva entre os réus ou o necessário ajuste prévio, não é suficiente para ensejar a condenação.",
+      "fonte": "p. 17",
+      "confianca": "media"
+     },
+     "questao_outra_descricao": "Há prova da materialidade do fato denunciado, isto é, de que houve frustração do caráter competitivo da licitação mediante ajuste prévio (direcionamento) e dano ao erário (superfaturamento/desvio)?",
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "acordam os Ministros [...] por unanimidade, julgou improcedente a ação, absolvendo o acusado, nos termos do voto da Relatora.",
+      "fonte": "p. 1",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "Não havendo provas suficientes de que teria havido a frustração do caráter competitivo do procedimento licitatório, impõe-se a absolvição",
+      "fonte": "p. 1"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Portanto, é Forçoso concluir que não se conseguiu provar que a conduta do denunciado enquadrou-se nos tipos do art. 1°, inc. l, do DL n° 201/67 e do art. 90, da Lei n°. 8.666/93.",
+      "fonte": "p. 18",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": null,
+     "posicoes": [
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Pelo exposto, julgo improcedente a denúncia, por falta de prova suficiente para a condenação (Código de Processo Penal, art. 386, inciso VI), absolvendo o Réu.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Correto a manifestação da Procuradoria-Geral da República, cujos fundamentos adoto como razão de decidir.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Diante da ausência de provas dos crimes, não há como concluir pela ccorrência de superfaturamento, nem de direcionamento da concorrência pública. [...] sinalizando que não houve a total ausência de competitividade aludida na denúncia (fls. 69).",
+        "fonte": "p. 17; p. 18",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Fundamentação per relationem: transcreve as alegações finais da PGR (p. 14-18) e as adota como razão de decidir; ausência de prova suficiente (art. 386, VI, CPP).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Menezes Direito",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Com isso, impõe-se a improcedência da denúncia e, em consequência, a absolvição do réu.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "E, no caso, asseverou que não há prova dos crimes, com o que \"não há como concluir pela ocorrência de superfaturamento, nem de direcionamento da concorrência pública.\"",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "sem que ficasse comprovada uma ligação efetiva entre os réus ou o necessário ajuste prévio, não é suficiente para ensejar a condenação\" (fl. 1.676).",
+        "fonte": "p. 19",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Abre o voto em linguagem de dolo: 'o cenário traçado não contém elementos suficientes para configurar qualquer atitude dolosa do réu para turvar o procedimento de licitação' (p. 19); a demonstração, porém, é pela ausência de prova de superfaturamento, direcionamento e ajuste prévio.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "E deixou a relatora demonstrado que não há dados para chegar, na espécie, à condenação. [...] Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "media",
+        "inferida_de": "Cármen Lúcia (relatora)"
+       },
+       "posicao_detalhe": "Não examina a prova da questão; remete à demonstração da relatora.",
+       "fundamento_proprio": "Acrescenta premissa própria: a ação penal pública é indisponível, mas, se o Ministério Público pede a absolvição nas alegações finais, presume-se que 'essa absolvição está harmônica com a prova do processo' (p. 20).",
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ayres Britto",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "media",
+        "inferida_de": "Cármen Lúcia (relatora)"
+       },
+       "posicao_detalhe": "Peça intitulada VOTO (grafado 'Carlos Britto'); antes de aderir, apenas confirma com a relatora que o fundamento é o inciso VI do art. 386 do CPP (p. 21).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cezar Peluso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Absolvição. O réu é inocente, é só isso que importa!",
+        "fonte": "p. 22",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Presidiu o julgamento; sem voto escrito. Em debate, sustenta que o fundamento do art. 386 'é absolutamente irrelevante' diante da presunção de inocência (p. 21-22).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ellen Gracie",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Joaquim Barbosa",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Eros Grau",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "tipicidade",
+     "anotacao_tipicidade": "existencia_fato",
+     "anotacoes": [],
+     "questao_outra_evidencia": {
+      "evidencia": "Não havendo provas suficientes de que teria havido a frustração do caráter competitivo do procedimento licitatório, impõe-se a absolvição",
+      "fonte": "p. 1",
+      "confianca": "media"
+     },
+     "sim_favorece": "acusacao",
+     "edicoes": [
+      {
+       "campo": "categoria_v2",
+       "de": "outra",
+       "para": "tipicidade",
+       "regra": "G4-02",
+       "nota": ""
+      }
+     ]
+    },
+    {
+     "questao_decisiva": {
+      "valor": "concorreu",
+      "evidencia": "Em primeiro lugar, ao contrário do que foi afirmado na denúncia, CASSIO TANIGUCHI rão participou diretamente da condução ao procedimento licitatório [...]; do mesmo modo, não coube ao então Prefeito homologar o resultado da concorrência pública, competindo-lhe apenas firmar o contrato",
+      "fonte": "p. 17",
+      "confianca": "alta"
+     },
+     "questao_outra_descricao": null,
+     "principal": {
+      "valor": "Sim",
+      "evidencia": "acordam os Ministros [...] por unanimidade, julgou improcedente a ação, absolvendo o acusado, nos termos do voto da Relatora.",
+      "fonte": "p. 1",
+      "confianca": "media"
+     },
+     "formulacao": {
+      "valor": "CASSIO TANIGUCHI rão participou diretamente da condução ao procedimento licitatório, fato relatado nos depoimentos de SILVANA BEATRIZ DE BRITO NASCIMENTO e de PAULO AFONSO SCHIMIDT (fls. 1.604/1.618); do mesmo modo, não coube ao então Prefeito homologar o resultado da concorrência pública, competindo-lhe apenas firmar o contrato",
+      "fonte": "p. 17"
+     },
+     "resposta_tribunal": {
+      "valor": "nao",
+      "evidencia": "Dessarte, atribuir-lhe responsabilização penal pelo fato implicaria na invocação de uma responsabilidade penal objetiva, o que é vedado no sistema constitucional brasileiro",
+      "fonte": "p. 17",
+      "confianca": "alta"
+     },
+     "padrao_dolo_exigido": null,
+     "modo_concurso": {
+      "valor": "nao_dito",
+      "evidencia": "não coube ao então Prefeito homologar o resultado da concorrência pública, competindo-lhe apenas firmar o contrato",
+      "fonte": "p. 17",
+      "confianca": "media"
+     },
+     "posicoes": [
+      {
+       "ministro": "Cármen Lúcia",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Pelo exposto, julgo improcedente a denúncia, por falta de prova suficiente para a condenação (Código de Processo Penal, art. 386, inciso VI), absolvendo o Réu.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Correto a manifestação da Procuradoria-Geral da República, cujos fundamentos adoto como razão de decidir.",
+        "fonte": "p. 18",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "CASSIO TANIGUCHI rão participou diretamente da condução ao procedimento licitatório, fato relatado nos depoimentos [...]; do mesmo modo, não coube ao então Prefeito homologar o resultado da concorrência pública, competindo-lhe apenas firmar o contrato",
+        "fonte": "p. 17",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Fundamentação per relationem: transcreve as alegações finais da PGR (p. 14-18) e as adota como razão de decidir; ausência de prova suficiente (art. 386, VI, CPP).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Menezes Direito",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Com isso, impõe-se a improcedência da denúncia e, em consequência, a absolvição do réu.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Sim",
+        "evidencia": "Não resta dúvida, assim, que o réu não praticou a conduta apontada na denúncia, sendo certo que a prova dos autos indica que ele não participou diretamente da condução do procedimento licitatório.",
+        "fonte": "p. 19",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "o réu não praticou a conduta apontada na denúncia, sendo certo que a prova dos autos indica que ele não participou diretamente da condução do procedimento licitatório. E, como sabido, não há falar em responsabilidade penal objetiva.",
+        "fonte": "p. 19",
+        "confianca": "alta",
+        "inferida_de": null
+       },
+       "posicao_detalhe": "Não repete o argumento da competência para homologar; apoia-se na não participação direta e na vedação da responsabilidade penal objetiva.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Marco Aurélio",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "E deixou a relatora demonstrado que não há dados para chegar, na espécie, à condenação. [...] Acompanho integralmente a relatora no voto proferido.",
+        "fonte": "p. 20",
+        "confianca": "media",
+        "inferida_de": "Cármen Lúcia (relatora)"
+       },
+       "posicao_detalhe": "Não examina a prova da questão; remete à demonstração da relatora.",
+       "fundamento_proprio": "Acrescenta premissa própria: a ação penal pública é indisponível, mas, se o Ministério Público pede a absolvição nas alegações finais, presume-se que 'essa absolvição está harmônica com a prova do processo' (p. 20).",
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ayres Britto",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "alta"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "Senhor Presidente, também acompanho a relatora.",
+        "fonte": "p. 21",
+        "confianca": "media",
+        "inferida_de": "Cármen Lúcia (relatora)"
+       },
+       "posicao_detalhe": "Peça intitulada VOTO (grafado 'Carlos Britto'); antes de aderir, apenas confirma com a relatora que o fundamento é o inciso VI do art. 386 do CPP (p. 21).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Cezar Peluso",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "Absolvição. O réu é inocente, é só isso que importa!",
+        "fonte": "p. 22",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Presidiu o julgamento; sem voto escrito. Em debate, sustenta que o fundamento do art. 386 'é absolutamente irrelevante' diante da presunção de inocência (p. 21-22).",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ellen Gracie",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Joaquim Barbosa",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Ricardo Lewandowski",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      },
+      {
+       "ministro": "Eros Grau",
+       "voto_resultado": {
+        "valor": "Absolve",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado. Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.",
+        "fonte": "p. 25",
+        "confianca": "alta"
+       },
+       "enfrentou_a_questao": {
+        "valor": "Adesao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "media"
+       },
+       "posicao": {
+        "valor": "nao",
+        "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.",
+        "fonte": "p. 25",
+        "confianca": "baixa",
+        "inferida_de": "Cármen Lúcia (relatora), pela unanimidade 'nos termos do voto da relatora' no extrato de ata"
+       },
+       "posicao_detalhe": "Sem voto escrito nem intervenção no texto; adesão inferida do extrato de ata.",
+       "fundamento_proprio": null,
+       "voto_resultado_original": "Absolve"
+      }
+     ],
+     "status": "ativa",
+     "motivo_status": null,
+     "categoria_v2": "concorreu",
+     "anotacao_tipicidade": null,
+     "anotacoes": [],
+     "sim_favorece": "acusacao"
+    }
+   ],
+   "precedentes": [
+    {
+     "ministro": "Cármen Lúcia",
+     "tipo": "precedente_citado",
+     "referencia": "INQ 1690/PE, Rel. Min. Carlos Velloso, DJ 30/4/2004",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "atribuir-lhe responsabilização penal pelo fato implicaria na invocação de uma responsabilidade penal objetiva, o que é vedado no sistema constitucional brasileiro (INO 1690/PE, Rel. Min. Carlos Velloso, DJ 30/4/2004)",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": true
+    }
+   ],
+   "obs": "O acórdão não separa os fatos: relatora (via PGR) e revisor tratam as duas imputações em conjunto ('não se conseguiu provar que a conduta do denunciado enquadrou-se nos tipos do art. 1°, inc. l, do DL n° 201/67 e do art. 90', p. 18); as questões e posições são as mesmas nas duas unidades. A fundamentação da relatora é per relationem (adota as alegações finais da PGR, p. 18); o acórdão decide 'nos termos do voto da Relatora' (p. 1, p. 25). Votos lidos coincidem com o banco (9 Absolve; Celso de Mello e Gilmar Mendes ausentes, p. 25, não incluídos em posicoes).",
+   "status": "ativa",
+   "motivo_status": null,
+   "precedentes_lidos": [
+    {
+     "ministro": "Cármen Lúcia",
+     "tipo": "precedente_citado",
+     "referencia": "INQ 1690/PE, Rel. Min. Carlos Velloso, DJ 30/4/2004",
+     "sentido": "para_seguir",
+     "proprio_ministro": "Nao",
+     "evidencia": "atribuir-lhe responsabilização penal pelo fato implicaria na invocação de uma responsabilidade penal objetiva, o que é vedado no sistema constitucional brasileiro (INO 1690/PE, Rel. Min. Carlos Velloso, DJ 30/4/2004)",
+     "fonte": "p. 17",
+     "na_pagina_da_evidencia": true
+    }
+   ]
+  }
+ ],
+ "avisos": [
+  "Questão 'outra' (materialidade: houve frustração da competitividade / direcionamento / superfaturamento?) e 'concorreu' marcadas ambas como principais por R5b: caso unânime, ambas respondidas 'nao'. A ementa (p. 1) ancora a absolvição só na falta de prova da frustração do caráter competitivo; o voto adota também a não participação do réu e a falta de competência para homologar (p. 17).",
+  "Candidato descartado a questão: 'dolo'. O revisor abre com 'não contém elementos suficientes para configurar qualquer atitude dolosa do réu' (p. 19) e a PGR afirma que os tipos exigem 'comprovação do dolo, bem como do prévio ajuste' (p. 16), mas nenhum voto examina a prova do dolo em si; registrei como posicao_detalhe do revisor. Padrão de dolo não dito.",
+  "O 'ajuste prévio' entre réu e empresários (p. 17) foi posto dentro da questão 'outra' (elemento do tipo do art. 90, 'mediante ajuste'); poderia também ser lido como 'concorreu' (participação no acordo). Ponto para validação.",
+  "Art. 386, VI, CPP: a peça que o cita (alegações finais da PGR, out/2007) e o voto definem o inciso pela própria redação ('quando não existir prova suficiente para a condenação', p. 18), então não foi preciso recorrer à numeração; a renumeração da Lei 11.690/2008 não afeta a leitura.",
+  "Marco Aurélio classificado como Adesao (acompanha 'integralmente' a relatora) com fundamento_proprio sobre a presunção de que o pedido de absolvição do MP está em harmonia com a prova; poderia ser lido como 'Nao' (votou por outra razão).",
+  "Cezar Peluso, Ellen Gracie, Joaquim Barbosa, Lewandowski e Eros Grau: adesão inferida do extrato de ata (unanimidade 'nos termos do voto da relatora', p. 25); confiança baixa na posição.",
+  "O debate da p. 23-24 menciona um julgamento do STF 'de ontem' (vida pregressa/elegibilidade); não é usado na fundamentação desta unidade e não foi registrado como precedente. O ADI 2.797 aparece só no relatório (competência) e também não foi registrado.",
+  "Texto é OCR com erros ('rão participou', 'ccorrência', 'INO 1690'); as transcrições mantêm o texto como está no arquivo."
+ ],
+ "consolidado_em": "2026-10-18",
+ "base": "leitura A; decisões do gate (D-048, D-049) aplicadas por consolidar_fase4.py"
+}

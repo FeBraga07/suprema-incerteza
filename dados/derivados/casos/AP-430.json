@@ -1,0 +1,65 @@
+{
+  "id_caso": "AP-430",
+  "extraido_em": "2026-08-08",
+  "fontes_lidas": ["dados/corpus/texto/AP-430.txt"],
+  "metodo_validacao": "dupla extração independente (L2-b) — concordância total nos campos estruturados entre AP-430_A.json e AP-430_B.json, preservados em dados/derivados/casos/_dupla/",
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Frustração/fraude do caráter competitivo de licitação (art. 90, Lei 8.666/93) c/c crime de responsabilidade de prefeito (art. 1º, I, Decreto-Lei 201/67)",
+      "evidencia": "AÇÃO PENAL. FRUSTRAÇÃO DOLOSA DO CARÁTER COMPETITIVO DE LICITAÇÃO. AUSÊNCIA DE PROVAS. ABSOLVIÇÃO.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {"valor": true, "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.", "fonte": "ata", "confianca": "alta"},
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "determinei o desmembramento do presente processo (art. 80 do CPP), para que tão-somente o denunciado CASSIO TANIGUCHI fosse processado e julgado perante este Supremo Tribunal Federal; extração e remessa de cópias à Justiça do Paraná quanto aos co-réus sem prerrogativa de foro.",
+      "fonte": "acordao p.8",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {"valor": false, "evidencia": "Decisão única, Plenário, 07.08.2008.", "fonte": "ata", "confianca": "media"},
+    "modalidade_levcovitz": {"valor": [18], "rotulos": ["Crimes previstos na Lei 8.666/93 (licitações)"], "evidencia": "Classificação já decidida em dados/derivados/classificacao_105.psv (linha AP-430, protocolo em dados/metodologia/PROTOCOLO_CLASSIFICACAO.md): \"18 (Lei 8.666/93)\"", "regra_aplicada": "inclusao_direta", "fonte": "ementa", "confianca": "alta"}
+  },
+  "reus": [
+    {
+      "nome": {"valor": "Cassio Taniguchi", "evidencia": "RÉU (É ) (S) : CASSIO TANIGUCHI", "fonte": "acordao p.2", "confianca": "alta"},
+      "cargo_funcao": {
+        "valor": "Prefeito Municipal de Curitiba-PR à época dos fatos (2000); Deputado Federal pelo Paraná (eleito em 2006) na data do julgamento",
+        "evidencia": "no exercício do cargo de Prefeito Municipal de Curitiba-PR, teria frustrado dolosamente o caráter competitivo de processo licitatório [...] ocupante do cargo de Deputado Federal pelo Estado do Paraná pelo resultado nas eleições de 2006",
+        "fonte": "acordao p.2",
+        "confianca": "alta"
+      },
+      "resultado": {"valor": "Absolvição", "evidencia": "julgou improcedente a ação, absolvendo o acusado, nos termos do voto da Relatora.", "fonte": "ata", "confianca": "alta"},
+      "motivo": {"valor": "mérito", "evidencia": "Pelo exposto, julgo improcedente a denúncia, por falta de prova suficiente para a condenação (Código de Processo Penal, art. 386, inciso VI), absolvendo o Réu.", "fonte": "acordao p.18", "confianca": "alta"},
+      "prescricao_pos_condenacao": {"valor": false, "evidencia": "Não houve condenação; absolvição por falta de provas, sem qualquer menção a prescrição no acórdão, votos ou ata.", "fonte": "acordao p.18", "confianca": "alta"},
+      "crimes": [
+        {"artigo": "art. 1º, inciso I", "diploma": "Decreto-Lei n. 201/67", "evidencia": "pela suposta prática dos crimes previstos no art. 1º, inciso I, do Decreto-Lei n. 201/67 e no art. 90, da Lei n. 8.666/93"},
+        {"artigo": "art. 90", "diploma": "Lei n. 8.666/93", "evidencia": "pela suposta prática dos crimes previstos no art. 1º, inciso I, do Decreto-Lei n. 201/67 e no art. 90, da Lei n. 8.666/93"}
+      ],
+      "n_votantes": {"valor": 9, "evidencia": "Presentes à sessão os Senhores Ministros Marco Aurélio, Ellen Gracie, Cezar Peluso, Carlos Britto, Joaquim Barbosa, Ricardo Lewandowski, Eros Grau, Cármen Lúcia e Menezes Direito.", "fonte": "ata", "confianca": "alta"},
+      "votos_condenacao": {"valor": 0, "evidencia": "por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.", "fonte": "ata", "confianca": "alta"},
+      "votos_absolvicao": {"valor": 9, "evidencia": "por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.", "fonte": "ata", "confianca": "alta"},
+      "unanime": {"valor": true, "evidencia": "O Tribunal, por unanimidade e nos termos do voto da relatora, julgou improcedente a ação, absolvendo o acusado.", "fonte": "ata", "confianca": "alta"}
+    }
+  ],
+  "votos": [
+    {"ministro": {"valor": "Cármen Lúcia"}, "eh_relator": {"valor": true}, "voto_resultado": {"valor": "absolve", "evidencia": "Pelo exposto, julgo improcedente a denúncia [...] absolvendo o Réu. É o meu voto.", "fonte": "acordao p.18", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Menezes Direito"}, "eh_relator": {"valor": false, "evidencia": "Revisor"}, "voto_resultado": {"valor": "absolve", "evidencia": "impõe-se a improcedência da denúncia e, em consequência, a absolvição do réu.", "fonte": "acordao p.19", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Marco Aurélio"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "Acompanho integralmente a relatora no voto proferido.", "fonte": "acordao p.20", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ayres Britto (Carlos Britto)"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "também acompanho a relatora.", "fonte": "acordao p.21", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Cezar Peluso"}, "eh_relator": {"valor": false, "evidencia": "presidiu este julgamento como Vice-Presidente, na ausência justificada de Gilmar Mendes"}, "voto_resultado": {"valor": "absolve", "evidencia": "Absolvição. O réu é inocente, é só isso que importa!", "fonte": "acordao p.22", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ellen Gracie"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "voto individual não transcrito; presença nominal na ata + unanimidade declarada.", "fonte": "ata", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Joaquim Barbosa"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "voto individual não transcrito; presença nominal na ata + unanimidade declarada.", "fonte": "ata", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Ricardo Lewandowski"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "voto individual não transcrito; presença nominal na ata + unanimidade declarada.", "fonte": "ata", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Eros Grau"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "absolve", "evidencia": "voto individual não transcrito; presença nominal na ata + unanimidade declarada.", "fonte": "ata", "confianca": "media"}, "vencido": {"valor": false}, "ausente": {"valor": false}, "motivo_ausencia": {"valor": "n/a"}},
+    {"ministro": {"valor": "Celso de Mello"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, o Senhor Ministro Celso de Mello e, neste julgamento, o Senhor Ministro Gilmar Mendes (Presidente).", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": true}, "motivo_ausencia": {"valor": "ausência justificada", "fonte": "ata", "confianca": "alta"}},
+    {"ministro": {"valor": "Gilmar Mendes"}, "eh_relator": {"valor": false}, "voto_resultado": {"valor": "não votou", "evidencia": "ausente, justificadamente, neste julgamento específico (embora Presidente da Corte/sessão em geral; quem presidiu este caso foi Cezar Peluso, Vice-Presidente)", "fonte": "ata", "confianca": "alta"}, "vencido": {"valor": false}, "ausente": {"valor": true}, "motivo_ausencia": {"valor": "ausência justificada neste julgamento", "fonte": "ata", "confianca": "alta"}}
+  ],
+  "avisos": [
+    "Dupla extração concorde em todos os campos estruturados (resultado, motivo, n_votantes, placar, unanimidade, ausentes, votos individuais, cargo, crimes). Nenhuma divergência a escalar.",
+    "Processo originalmente tinha 3 denunciados; desmembrado em 2007 (art. 80 CPP) — só Cássio Taniguchi (foro por prerrogativa) foi julgado pelo STF nesta AP. n_reus=1 refere-se só ao efetivamente julgado aqui.",
+    "Gilmar Mendes consta como 'Presidente' da sessão/Corte em geral na ata, mas ausente especificamente 'neste julgamento' — Cezar Peluso (Vice-Presidente) presidiu este caso. Ambas as extrações seguiram essa leitura.",
+    "Termo 'prescrição' não aparece em nenhum momento do texto — sem risco de confusão com o padrão do D-018 neste caso.",
+    "Votos de Ellen Gracie, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski não têm transcrição individual — inferidos por presença nominal na ata + unanimidade (não é dedução D-004 baseada em tabela, já que a própria ata nomeia os presentes)."
+  ]
+}

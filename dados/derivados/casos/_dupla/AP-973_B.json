@@ -1,0 +1,217 @@
+{
+  "id_caso": "AP-973",
+  "extraido_em": "2026-08-09",
+  "fontes_lidas": ["dados/corpus/texto/AP-973.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Peculato (Decreto-Lei n. 201/1967, art. 1º, I e II — desvio, apropriação e utilização indevida de bens, rendas ou serviços públicos, por uso indevido de linhas/aparelhos telefônicos municipais)",
+      "evidencia": "AÇÃO PENAL ORIGINÁRIA. PENAL. PROCESSUAL PENAL. PREFEITO. PECULATO. DECRETO-LEI N. 201/1967, ART. 1º, I E II. COAUTORIA (CP, ART. 29). CRIME CONTINUADO (CP, ART. 71). [...] USO DE LINHAS CELULARES.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, por maioria, julgou procedente a pretensão punitiva deduzida nas APs 973 e 974, para condenar o réu André Luiz Dantas Ferreira, conhecido como deputado federal André Moura, nas penas do art. 1º, I e II, do Decreto-Lei n. 201/1967, c/c os arts. 29 e 71 do Código Penal [...] vencidos os Ministros Gilmar Mendes (Relator), Ricardo Lewandowski (Revisor), Dias Toffoli e Alexandre de Moraes.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 1,
+      "evidencia": "RÉU(É)(S) : ANDRÉ LUIZ DANTAS FERREIRA",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": true,
+      "evidencia": "Decisão: Após a leitura do relatório e a realização das sustentações orais, o julgamento foi suspenso. [...] Presidência do Ministro Luiz Fux. Plenário, 23.9.2021 [...] Decisão: O Tribunal, por maioria, julgou procedente a pretensão punitiva deduzida nas APs 973 e 974 [...] Plenário, 29.9.2021 [...] RETIFICAÇÃO DE ATA [...] 30/09/2021",
+      "fonte": "ata",
+      "confianca": "alta"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "André Luiz Dantas Ferreira (conhecido como André Moura)",
+        "evidencia": "RÉU(É)(S) : ANDRÉ LUIZ DANTAS FERREIRA [...] para condenar o réu André Luiz Dantas Ferreira, conhecido como deputado federal André Moura",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "À época dos fatos (2005-2007) não exercia cargo público formal; era ex-Prefeito de Pirambu/SE (mandatos 1997-2000 e 2001-2004) e, segundo a acusação, atuava informalmente como 'Prefeito de fato' enquanto Juarez Batista dos Santos, o titular do cargo, era o 'Prefeito de direito'. À data do julgamento (2021) era Deputado Federal.",
+        "evidencia": "que ocupara o referido cargo durante os mandatos de 1997 a 2000 e 2001 a 2004 [...] Segundo consta, na época indicada na exordial, Juarez considerava ser o Prefeito de direito, enquanto ANDRÉ MOURA seria o Prefeito de fato. [...] para condenar o réu André Luiz Dantas Ferreira, conhecido como deputado federal André Moura",
+        "fonte": "acordao p.4-90",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Condenação",
+        "evidencia": "O Tribunal, por maioria, julgou procedente a pretensão punitiva deduzida nas APs 973 e 974, para condenar o réu André Luiz Dantas Ferreira [...] nas penas do art. 1º, I e II, do Decreto-Lei n. 201/1967, c/c os arts. 29 e 71 do Código Penal, e pela prática do crime previsto no art. 288, também do Código Penal, ficando o réu condenado à pena total de 08 (oito) anos e 3 (três) meses de reclusão",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "mérito",
+        "evidencia": "Em conclusão, ante todo o exposto, e pedindo vênia para divergir em parte do eminente Relator, julgo procedente a pretensão punitiva deduzida nas APs 973 e 974, para condenar o réu ANDRÉ LUIZ DANTAS FERREIRA [...] nas penas do art. 1º, I e II, do Decreto-Lei n. 201/1967 [...]. Em relação à AP 969, julgo improcedente a pretensão contida na denúncia e absolvo o réu [...] (voto do Redator, Min. Nunes Marques)",
+        "fonte": "acordao p.125",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "O resultado de todo este esforço culminou nesta sessão de julgamento, em que essas três ações penais se encontram prontas para uma manifestação definitiva desta Corte, sem a incidência de causas obstativas, como a prescrição. [Nota: a prescrição foi suscitada pela defesa apenas quanto ao crime de quadrilha do art. 288 do CP, exclusivo da AP-974, e foi rejeitada em decisão monocrática anterior ao julgamento: 'Em decisão de fls. 3015/3017 (eDOC 174), não reconheci a prescrição e deneguei o pedido de perícia'. Não há menção de prescrição relativa ao crime de peculato de linhas telefônicas objeto da AP-973.]",
+        "fonte": "acordao p.14 / p.11",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "1º, I e II, c/c arts. 29 (coautoria) e 71 (crime continuado) do Código Penal",
+          "diploma": "Decreto-Lei n. 201/1967",
+          "evidencia": "Segundo a acusação, no período de 1º.1.2005 a 31.7.2007, JUAREZ BATISTA DOS SANTOS, então Prefeito de Pirambu/SE, desviou e utilizou em proveito do denunciado ANDRÉ LUIZ DANTAS FERREIRA, de sua mãe, ALICE MARIA DANTAS FERREIRA, e de sua irmã, CLÁUDIA PATRÍCIA DANTAS FERREIRA, com conhecimento e contribuição relevante desses, telefones móveis com contas pagas pela Administração Pública Municipal, para servir a fins particulares e políticos dos beneficiados, que não tinham vínculo com a Prefeitura."
+        }
+      ],
+      "n_votantes": {
+        "valor": 10,
+        "evidencia": "Presidência do Senhor Ministro Luiz Fux. Presentes à sessão os Senhores Ministros Gilmar Mendes, Ricardo Lewandowski, Cármen Lúcia, Dias Toffoli, Rosa Weber, Roberto Barroso, Edson Fachin, Alexandre de Moraes e Nunes Marques.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_condenacao": {
+        "valor": 6,
+        "evidencia": "por maioria, julgou procedente a pretensão punitiva deduzida nas APs 973 e 974 [...] vencidos os Ministros Gilmar Mendes (Relator), Ricardo Lewandowski (Revisor), Dias Toffoli e Alexandre de Moraes. (10 votantes − 4 vencidos = 6 votos pela condenação: Nunes Marques, Edson Fachin, Roberto Barroso, Rosa Weber, Cármen Lúcia e Luiz Fux, cada um com voto individual explícito de condenação nos autos.)",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 4,
+        "evidencia": "vencidos os Ministros Gilmar Mendes (Relator), Ricardo Lewandowski (Revisor), Dias Toffoli e Alexandre de Moraes.",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "unanime": {
+        "valor": false,
+        "evidencia": "O Tribunal, por maioria, julgou procedente a pretensão punitiva deduzida nas APs 973 e 974 [...] vencidos os Ministros Gilmar Mendes (Relator), Ricardo Lewandowski (Revisor), Dias Toffoli e Alexandre de Moraes.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": "Gilmar Mendes",
+      "eh_relator": true,
+      "voto_resultado": "absolve",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Ante o exposto, afasto as preliminares e julgo improcedentes as denúncias apresentadas nas Ações Penais 969, 973 e 974, para absolver o acusado André Luis Dantas Ferreira de todas as imputações contidas nas referidas peças, em virtude da ausência de provas suficientes para a condenação, nos termos do art. 386, inciso VII, do CPP.",
+      "fonte": "acordao p.66",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Ricardo Lewandowski",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Também decreto a absolvição do réu André Luiz Dantas Ferreira, o chamado André Moura, de todas as imputações contidas nas três ações, nas Ações Penais 969, 973 e 974, com fundamento no art. 386, VII, do Código de Processo Penal.",
+      "fonte": "acordao p.67",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Cármen Lúcia",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Pelo exposto, voto no sentido de julgar procedentes os pedidos formulados nas Ações Penais ns. 974 e 973, nos termos do voto do Ministro Nunes Marques, e julgar procedente a Ação Penal n. 969, nos termos do voto do Ministro Edson Fachin.",
+      "fonte": "acordao p.205",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Dias Toffoli",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "vencidos os Ministros Gilmar Mendes (Relator), Ricardo Lewandowski (Revisor), Dias Toffoli e Alexandre de Moraes. [O texto individual do voto do Ministro Dias Toffoli não consta deste documento; sua posição foi inferida por ele constar como 'vencido' na ata, junto de três ministros cujo voto explícito foi pela absolvição, em votação binária condena/absolve.]",
+      "fonte": "ata",
+      "confianca": "media"
+    },
+    {
+      "ministro": "Rosa Weber",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Ante o exposto, acompanho a divergência na extensão inaugurada pelo eminente Ministro Edson Fachin, para julgar procedente a pretensão punitiva estatal e condenar o acusado ANDRÉ LUIZ DANTAS FERREIRA como incurso nas penas do artigo 1º, inciso I, do Decreto-Lei 201/67 e do art. 288 do Código Penal [...] art. 1º, inciso I, do Decreto-Lei 201/67 (uso de linhas telefônicas) e art. 1°, incisos I e II, do Decreto-Lei n° 201/67 (uso de veículos e de servidores)",
+      "fonte": "acordao p.175-176",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Roberto Barroso",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Deste modo, estou julgando procedente o pedido, a acusação, nas três ações penais, na linha, como disse, do Ministro Nunes Marques, com a extensão dada pelo Ministro Edson Fachin.",
+      "fonte": "acordao p.159",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Edson Fachin",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "DO DISPOSITIVO: Forte nas razões acima expostas, JULGO PROCEDENTE A PRETENSÃO PUNITIVA ESTATAL para condenar ANDRÉ LUIZ DANTAS FERREIRA, como incurso nas penas do artigo 1º, inciso I, do Decreto-Lei 201/67 [...]; art. 1º, inciso I, do Decreto-Lei 201/67 (uso de linhas telefônicas móveis); art. 1°, incisos I e II, do Decreto-Lei n° 201/67 (uso de veículos e de servidores).",
+      "fonte": "acordao p.148",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Alexandre de Moraes",
+      "eh_relator": false,
+      "voto_resultado": "absolve",
+      "vencido": true,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Ante o exposto, ACOMPANHANDO INTEGRALMENTE o voto do Min. Relator e do Min. Revisor, AFASTO AS PRELIMINARES e JULGO IMPROCEDENTE as Ações Penais promovidas contra ANDRÉ LUIZ DANTAS FERREIRA (APs 969, 973 e 974) para absolvê-lo da prática de todos os crimes que lhe foram imputados, com fundamento legal no art. 386, VII, do Código de Processo Penal.",
+      "fonte": "acordao p.97",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Nunes Marques",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "Em conclusão, ante todo o exposto, e pedindo vênia para divergir em parte do eminente Relator, julgo procedente a pretensão punitiva deduzida nas APs 973 e 974, para condenar o réu ANDRÉ LUIZ DANTAS FERREIRA [...] nas penas do art. 1º, I e II, do Decreto-Lei n. 201/1967, c/c os arts. 29 e 71 do Código Penal, e pela prática do crime previsto no art. 288, também do Código Penal. Em relação à AP 969, julgo improcedente a pretensão [...] e absolvo o réu.",
+      "fonte": "acordao p.125 (Redator do acórdão)",
+      "confianca": "alta"
+    },
+    {
+      "ministro": "Luiz Fux",
+      "eh_relator": false,
+      "voto_resultado": "condena",
+      "vencido": false,
+      "ausente": false,
+      "motivo_ausencia": null,
+      "evidencia": "(3) Relativamente ao crime de uso de veículos e de motoristas pagos pela Prefeitura [...] Ex positis, julgo procedente a Ação Penal.",
+      "fonte": "acordao p.211",
+      "confianca": "alta"
+    }
+  ],
+  "avisos": [
+    "Este acórdão é um julgamento CONJUNTO de três ações penais contra o mesmo réu (AP 969, AP 973 e AP 974). O dispositivo da ata separa os resultados: AP 973 e AP 974 foram julgadas procedentes por maioria de 6x4 (mesmo placar, mesmos vencidos para ambas); AP 969 (uso de veículos/servidores) terminou empatada em 5x5 segundo debate registrado nas páginas finais do documento, e por indicação do Ministro Lewandowski o empate deveria beneficiar o réu (in dubio pro reo), resultando em absolvição da AP 969 — este caso extraído (AP-973) refere-se apenas à imputação de uso indevido de linhas telefônicas, que foi CONDENADA.",
+    "A pena total (8 anos e 3 meses de reclusão) fixada no voto do Redator, Ministro Nunes Marques, é uma pena ÚNICA que soma a reprimenda pelo art. 1º, I e II, do DL 201/1967 (que abrange, sem distinção numérica no voto, tanto a conduta da AP-973 — linhas telefônicas — quanto a da AP-974 — alimentos/bebidas, totalizando 6 anos e 9 meses) mais 1 ano e 6 meses pelo crime de quadrilha do art. 288 do CP (exclusivo da AP-974). O documento NÃO fornece uma dosimetria individualizada apenas para a conduta da AP-973.",
+    "O texto do voto individual do Ministro Dias Toffoli não está presente neste documento (não há seção 'Voto - MIN. DIAS TOFFOLI'). Sua classificação como 'absolve' foi inferida exclusivamente por ele constar nomeado como 'vencido' na ata final, ao lado de três ministros (Gilmar Mendes, Lewandowski, Alexandre de Moraes) cujos votos de absolvição são explícitos no corpo do acórdão — não é dedução D-004 (que se aplica a quem vota com a maioria), mas inferência lógica sobre um vencido em votação binária.",
+    "No dia seguinte ao julgamento (30/9/2021), consta 'Retificação de Ata' e seção 'Debate' em que o Ministro Ricardo Lewandowski suscita que o julgamento não estaria formalmente encerrado, pois os 4 ministros vencidos no mérito não teriam votado a dosimetria da pena (citando precedente da AP 470); o Ministro Gilmar Mendes concordou. O Ministro Barroso contestou, afirmando que 'a maioria votou, seis pessoas votaram'. O Presidente Luiz Fux disse que iria 'verificar, à luz do Regimento'. Não há, neste documento, evidência de que uma nova sessão tenha de fato reaberto ou alterado o mérito da condenação registrado na ata de 29/9/2021 — trata-se de uma controvérsia processual pós-julgamento sobre a dosimetria, registrada para documentação, sem elemento textual que reverta o resultado do mérito.",
+    "O réu não ocupava cargo público formal durante o período dos fatos (2005-2007); é descrito nos votos como 'Prefeito de fato' de Pirambu/SE, tendo sido o Prefeito eleito e empossado formalmente ('Prefeito de direito') o coautor/colaborador Juarez Batista dos Santos, que não é réu nesta ação (é citado como colaborador espontâneo cuja cooperação fundamentou a condenação, conforme a ementa).",
+    "A prescrição mencionada nos autos (fls. 3015/3017, decisão monocrática do Relator) refere-se exclusivamente ao crime de quadrilha (art. 288 CP) da AP-974 e foi rejeitada antes do julgamento de mérito; não há prescrição relacionada ao crime de peculato de linhas telefônicas (art. 1º, I e II, DL 201/1967) objeto da AP-973 propriamente dita.",
+    "Instituto jurídico enquadrado como 'peculato' (nos termos da própria ementa do STF) — compatível com as 19 modalidades de Levcovitz (2014), mas cabe conferência na consolidação do banco quanto à categoria específica (desvio/apropriação de bens públicos por prefeito, DL 201/1967, art. 1º, I)."
+  ]
+}

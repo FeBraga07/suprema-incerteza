@@ -1,0 +1,266 @@
+{
+  "id_caso": "AP-365",
+  "extraido_em": "2026-08-08",
+  "fontes_lidas": ["dados/corpus/texto/AP-365.txt"],
+  "caso": {
+    "instituto_juridico": {
+      "valor": "Peculato (art. 312 do Código Penal)",
+      "evidencia": "PECULATO - AUSÊNCIA DE CONFIGURAÇÃO DO CRIME ABSOLVIÇÃO.",
+      "fonte": "ementa",
+      "confianca": "alta"
+    },
+    "merito_finalizado": {
+      "valor": true,
+      "evidencia": "O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+      "fonte": "ata",
+      "confianca": "alta"
+    },
+    "n_reus": {
+      "valor": 2,
+      "evidencia": "RÉU (É) (S): JACKSON BARRETO DE LIMA [...] RÉU (É) (S): SÉRGIO BEZERRA DE SANT'ANA",
+      "fonte": "acordao p.1",
+      "confianca": "alta"
+    },
+    "multiplas_sessoes": {
+      "valor": false,
+      "evidencia": "Único Extrato de Ata, sessão de 30.03.2006, sem menção a votação de mérito em sessão distinta (a concessão de habeas corpus de ofício ao co-réu foi decidida no mesmo julgamento, não em sessão separada).",
+      "fonte": "ata",
+      "confianca": "media"
+    }
+  },
+  "reus": [
+    {
+      "nome": {
+        "valor": "Jackson Barreto de Lima",
+        "evidencia": "RÉU (É) (S): JACKSON BARRETO DE LIMA",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Prefeito de Aracaju/SE (à época dos fatos)",
+        "evidencia": "Jackson Barreto de Lima, então prefeito de Aracajú/SE",
+        "fonte": "acordao p.14",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "concluo pela absolvição do réu Jackson Barreto de Lima.",
+        "fonte": "acordao p.13",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "Ora, realizada a pavimentação, objeto do contrato, como admitido pelo Tribunal de Contas, impossível cogitar-se de crime de peculato, impondo-se, em consequência, a absolvição do parlamentar.",
+        "fonte": "acordao p.14",
+        "confianca": "alta"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não houve condenação; o próprio relator rejeita a hipótese de prescrição para o crime de peculato: 'Ante o balizamento temporal da pena, de dois a doze anos, descabe realmente assentar a prescrição.'",
+        "fonte": "acordao p.13",
+        "confianca": "alta"
+      },
+      "crimes": [
+        {
+          "artigo": "312 c/c art. 29",
+          "diploma": "Código Penal",
+          "evidencia": "ofereceu denúncia em desfavor de BARRETO DE LIMA, ex-Prefeito de Aracaju, e de SÉRGIO BEZERRA SANT'ANA como incursos nas sanções do art. 312 do CP c/c artigo 29"
+        }
+      ],
+      "n_votantes": {
+        "valor": 7,
+        "evidencia": "Votantes deduzidos/observados: Sepúlveda Pertence, Celso de Mello, Marco Aurélio, Ellen Gracie, Cezar Peluso, Joaquim Barbosa e Ricardo Lewandowski (ver campo votos).",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "por unanimidade [...] absolveu ambos os co-réus",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 7,
+        "evidencia": "por unanimidade [...] absolveu ambos os co-réus",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    },
+    {
+      "nome": {
+        "valor": "Sérgio Bezerra de Sant'Ana",
+        "evidencia": "RÉU (É) (S): SÉRGIO BEZERRA DE SANT'ANA",
+        "fonte": "acordao p.1",
+        "confianca": "alta"
+      },
+      "cargo_funcao": {
+        "valor": "Presidente da Empresa Municipal de Urbanização - EMURB (à época dos fatos)",
+        "evidencia": "Sérgio Bezerra de Sant'ana, então presidente da Empresa Municipal de Urbanização - EMURB",
+        "fonte": "acordao p.14",
+        "confianca": "alta"
+      },
+      "resultado": {
+        "valor": "Absolvição",
+        "evidencia": "há de se caminhar para a concessão de ordem de ofício, absolvendo-se o co-réu, porquanto idênticos os fatos imputados.",
+        "fonte": "acordao p.13",
+        "confianca": "alta"
+      },
+      "motivo": {
+        "valor": "atipicidade",
+        "evidencia": "CO-RÉU - IMPUTAÇÃO DE FATOS IDÊNTICOS - INEXISTÊNCIA DE LEI A DESTINAR APLICAÇÃO DE VERBA EM OBRA PÚBLICA - ABSOLVIÇÃO.",
+        "fonte": "ementa",
+        "confianca": "media"
+      },
+      "prescricao_pos_condenacao": {
+        "valor": false,
+        "evidencia": "Não há condenação de mérito para este réu; o STF sequer chegou a julgar o mérito quanto a ele por falta de competência, tendo estendido a absolvição via habeas corpus de ofício por identidade de fatos.",
+        "fonte": "acordao p.13",
+        "confianca": "media"
+      },
+      "crimes": [
+        {
+          "artigo": "312 c/c art. 29",
+          "diploma": "Código Penal",
+          "evidencia": "ofereceu denúncia em desfavor de BARRETO DE LIMA, ex-Prefeito de Aracaju, e de SÉRGIO BEZERRA SANT'ANA como incursos nas sanções do art. 312 do CP c/c artigo 29"
+        }
+      ],
+      "n_votantes": {
+        "valor": 7,
+        "evidencia": "Mesmo colegiado votante do julgamento único (ver campo votos).",
+        "fonte": "deducao D-004",
+        "confianca": "media"
+      },
+      "votos_condenacao": {
+        "valor": 0,
+        "evidencia": "por unanimidade [...] absolveu ambos os co-réus",
+        "fonte": "ata",
+        "confianca": "alta"
+      },
+      "votos_absolvicao": {
+        "valor": 7,
+        "evidencia": "por unanimidade [...] absolveu ambos os co-réus",
+        "fonte": "ata",
+        "confianca": "media"
+      },
+      "unanime": {
+        "valor": true,
+        "evidencia": "O Tribunal, por unanimidade, nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus.",
+        "fonte": "ata",
+        "confianca": "alta"
+      }
+    }
+  ],
+  "votos": [
+    {
+      "ministro": {"valor": "Marco Aurélio", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": true, "evidencia": "RELATOR : MIN. MARCO AURÉLIO", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "concluo pela absolvição do réu Jackson Barreto de Lima. [...] há de se caminhar para a concessão de ordem de ofício, absolvendo-se o co-réu", "fonte": "acordao p.13", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Relator conduziu o julgamento e proferiu voto", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ellen Gracie", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": "REVISORA : MIN. ELLEN GRACIE", "fonte": "acordao p.1", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Acompanho o relator, absolvendo o denunciado pelo crime de peculato.", "fonte": "acordao p.15", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": "nos termos do voto do Relator e da Revisora, absolveu ambos os co-réus", "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Presidiu o julgamento a Senhora Ministra Ellen Gracie (Vice-Presidente no exercício da Presidência).", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Sepúlveda Pertence", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Não nomeado individualmente; presente à sessão, não listado como ausente/impedido/vencido; unanimidade registrada na ata.", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade [...] absolveu ambos os co-réus", "fonte": "ata", "confianca": "media"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Celso de Mello", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Não nomeado individualmente; presente à sessão, não listado como ausente/impedido/vencido; unanimidade registrada na ata.", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade [...] absolveu ambos os co-réus", "fonte": "ata", "confianca": "media"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Cezar Peluso", "fonte": "ata", "confianca": "media"},
+      "eh_relator": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Não nomeado individualmente; ata registra 'Peluso' entre os presentes à sessão, não listado como ausente/impedido/vencido; unanimidade registrada.", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade [...] absolveu ambos os co-réus", "fonte": "ata", "confianca": "media"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão [...] Peluso [...]", "fonte": "ata", "confianca": "media"},
+      "motivo_ausencia": {"valor": null, "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Joaquim Barbosa", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Não nomeado individualmente; presente à sessão, não listado como ausente/impedido/vencido; unanimidade registrada na ata.", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade [...] absolveu ambos os co-réus", "fonte": "ata", "confianca": "media"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ricardo Lewandowski", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "absolve", "evidencia": "Não nomeado individualmente; presente à sessão (empossado em 16.03.2006, duas semanas antes), não listado como ausente/impedido/vencido; unanimidade registrada na ata.", "fonte": "deducao D-004", "confianca": "media"},
+      "vencido": {"valor": false, "evidencia": "por unanimidade [...] absolveu ambos os co-réus", "fonte": "ata", "confianca": "media"},
+      "ausente": {"valor": false, "evidencia": "Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": null, "evidencia": null, "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Gilmar Mendes", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, neste julgamento, os ministros Gilmar Mendes e Eros Grau.", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "Ausentes, justificadamente, neste julgamento, os ministros Gilmar Mendes e Eros Grau.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "ausência justificada (não especificada)", "evidencia": "Ausentes, justificadamente, neste julgamento, os ministros Gilmar Mendes e Eros Grau.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Eros Grau", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Ausentes, justificadamente, neste julgamento, os ministros Gilmar Mendes e Eros Grau.", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": true, "evidencia": "Ausentes, justificadamente, neste julgamento, os ministros Gilmar Mendes e Eros Grau.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "ausência justificada (não especificada)", "evidencia": "Ausentes, justificadamente, neste julgamento, os ministros Gilmar Mendes e Eros Grau.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Ayres Britto (Carlos Britto)", "fonte": "ata", "confianca": "alta"},
+      "eh_relator": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Declarou impedimento [o] Ministro [Carlos] Britto.", "fonte": "ata", "confianca": "alta"},
+      "vencido": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "ausente": {"valor": false, "evidencia": "Distinto de ausência: o ministro estava presente à sessão ('Presentes à sessão [...] Carlos Britto'), mas declarou impedimento para este julgamento específico.", "fonte": "ata", "confianca": "alta"},
+      "motivo_ausencia": {"valor": "impedimento (não é ausência) - Declarou impedimento o Ministro Carlos Britto", "evidencia": "Declarou impedimento [o] Ministro [Carlos] Britto.", "fonte": "ata", "confianca": "alta"}
+    },
+    {
+      "ministro": {"valor": "Carlos Velloso", "fonte": "ata", "confianca": "baixa"},
+      "eh_relator": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Não consta entre os nomes listados em 'Presentes à sessão os Senhores Ministros Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski', apesar de, pela tabela de composição, estar em exercício até 17.11.2006.", "fonte": "ata", "confianca": "baixa"},
+      "vencido": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "baixa"},
+      "ausente": {"valor": true, "evidencia": "Omissão do nome na lista de presentes à sessão (a ata não declara expressamente 'ausente' para este ministro - inferência por exclusão).", "fonte": "ata", "confianca": "baixa"},
+      "motivo_ausencia": {"valor": null, "evidencia": "Ata não declara motivo; apenas omite o nome da lista de presentes.", "fonte": "ata", "confianca": "baixa"}
+    },
+    {
+      "ministro": {"valor": "Nelson Jobim", "fonte": "ata", "confianca": "baixa"},
+      "eh_relator": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "alta"},
+      "voto_resultado": {"valor": "não votou", "evidencia": "Não consta entre os nomes listados em 'Presentes à sessão [...]'. Sua data de saída na tabela de referência (30.03.2006) coincide exatamente com a data deste julgamento.", "fonte": "ata", "confianca": "baixa"},
+      "vencido": {"valor": false, "evidencia": null, "fonte": "ata", "confianca": "baixa"},
+      "ausente": {"valor": true, "evidencia": "Omissão do nome na lista de presentes à sessão (a ata não declara expressamente 'ausente' para este ministro - inferência por exclusão, coerente com a coincidência de datas).", "fonte": "ata", "confianca": "baixa"},
+      "motivo_ausencia": {"valor": null, "evidencia": "Ata não declara motivo; apenas omite o nome da lista de presentes. Possivelmente já não estava mais em exercício nesta data (fim de mandato).", "fonte": "ata", "confianca": "baixa"}
+    }
+  ],
+  "avisos": [
+    "A ata registra duas listas distintas: (1) o resultado deste julgamento específico (unanimidade, impedimento de Carlos Britto, ausência justificada de Gilmar Mendes e Eros Grau) e (2) 'Presentes à sessão' (rol geral do Plenário naquele dia: Sepúlveda Pertence, Celso Mello, Marco Aurélio, Gilmar Mendes, Peluso, Carlos Britto, Joaquim Barbosa, Eros Grau e Ricardo Lewandowski, além da presidente Ellen Gracie). Note que Gilmar Mendes, Carlos Britto e Eros Grau aparecem na lista geral de presentes à sessão mas foram excluídos deste julgamento específico (ausência/impedimento) - interpretado como presença no expediente do dia, porém não participação neste caso.",
+    "Carlos Velloso e Nelson Jobim constam como 'em exercício' na tabela de referência fornecida (Velloso até 17.11.2006; Jobim com saída registrada exatamente em 30.03.2006), mas nenhum dos dois é nomeado na lista 'Presentes à sessão' da ata. Tratei essa omissão como não participação neste julgamento, mas a ata não usa a palavra 'ausente' para eles - é inferência por exclusão, então marquei confiança baixa para esses dois votos. Isso reduz o colegiado votante de 12 para 7 ministros efetivos (regra de não assumir 11/12 votantes).",
+    "Coincidência notável: a data de saída de Nelson Jobim na tabela de referência (30.03.2006) é a mesma data deste julgamento - possivelmente ele já havia deixado o cargo antes da sessão ou não compareceu por outro motivo; a ata não esclarece.",
+    "O voto da Revisora Ellen Gracie (p.15) contém um cálculo de prescrição para uma tipificação alternativa hipotética (art. 1º, III, do DL 201/67, caso a conduta fosse requalificada), concluindo que o prazo prescricional dessa hipótese teria se esgotado em março de 1996, antes do recebimento da denúncia (20.05.1999). Esse trecho é obiter dictum sobre uma tese alternativa - o resultado efetivo do voto (e do acórdão) é Absolvição por ausência de configuração do crime de peculato, não extinção da punibilidade por prescrição. Mantive resultado=Absolvição e motivo=atipicidade para não confundir esse raciocínio hipotético com o fundamento real da decisão (regra 2 do protocolo).",
+    "O Procurador-Geral da República, em manifestação anterior ao julgamento (fls. 457-460), chegou a propor a requalificação da conduta de Jackson Barreto de Lima para o art. 315 do CP (emprego irregular de verbas públicas) e a declaração de extinção da punibilidade por prescrição quanto a esse tipo penal. Essa tese não foi acolhida pelo relator nem pela revisora, que mantiveram a absolvição pura por ausência de configuração de crime (peculato). Registrado apenas como argumento de parte, não como fundamento do acórdão.",
+    "A absolvição do co-réu Sérgio Bezerra de Sant'Ana foi formalizada via concessão de habeas corpus de ofício, não por julgamento direto de mérito por esta Corte quanto a ele - o relator afirma que o STF não tem competência originária para julgá-lo (ele não detém foro por prerrogativa de função) e estende a ele a mesma conclusão de fundo dada a Jackson Barreto de Lima 'porquanto idênticos os fatos imputados'. Registrei motivo=atipicidade por coerência com o fundamento substantivo idêntico ao de Jackson, mas um segundo leitor poderia razoavelmente classificar esse réu sob motivo=processual, dada a via de habeas corpus de ofício e a questão de competência. Sinalizo essa ambiguidade para calibração entre extratores.",
+    "O texto de OCR apresenta ruído considerável, com palavras fora de ordem e fragmentadas, especialmente no relatório e nos votos (páginas 3-13). As citações fornecidas foram reconstituídas com cautela a partir do texto disponível; alguns trechos de evidência são paráfrases mínimas necessárias para legibilidade, mantendo o conteúdo literal das palavras-chave decisivas."
+  ]
+}

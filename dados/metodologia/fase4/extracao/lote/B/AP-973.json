@@ -1,0 +1,393 @@
+{
+  "id_caso": "AP-973",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-3, 8-9, 14-16, 47-57, 65-68, 82-86, 89-106, 108-110, 121-124, 126-128, 130-132, 142-144, 148-149, 151-167, 175-178, 197-200, 204-225 (de 225; foram lidas as partes de cada voto que tratam da AP 973 e as partes comuns, conforme o mapa de peças)",
+  "unidades": [
+    {
+      "id_unidade": "AP-973-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Nunes Marques",
+        "evidencia": "nos termos do voto do ministro Nunes Marques, Redator do acórdão, vencidos os ministros Gilmar Mendes (Relator), Ricardo Lewandowski (Revisor), Dias Toffoli e Alexandre de Moraes.",
+        "fonte": "p. 3",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "concorreu",
+            "evidencia": "O ponto controverso restringe-se a averiguar se há prova efetiva da utilização dessas linhas após o período em que ANDRÉ MOURA deixou de exercer o mandato de Prefeito. [Cármen Lúcia, p. 200:] Está comprovado, assim, que o réu concorreu para a prática do crime previsto nos incs. I e II do art. 1º do Decreto-Lei n. 201/1967.",
+            "fonte": "p. 51",
+            "confianca": "media"
+          },
+          "questao_outra_descricao": null,
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "A questão central consiste em saber se há prova efetiva da utilização das referidas linhas após o período em que o acusado deixou de exercer o mandato de Prefeito do citado Município.",
+            "fonte": "p. 83",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "O ponto controverso restringe-se a averiguar se há prova efetiva da utilização dessas linhas após o período em que ANDRÉ MOURA deixou de exercer o mandato de Prefeito.",
+            "fonte": "p. 51"
+          },
+          "resposta_tribunal": {
+            "valor": "sim",
+            "evidencia": "resulta comprovado o teor da colaboração espontânea do ex-prefeito do Município de Pirambu/SE JUAREZ BATISTA DOS SANTOS, no sentido de ANDRÉ LUIZ DANTAS FERREIRA (ANDRÉ MOURA) haver utilizado, ilicitamente, as linhas telefônicas mencionadas, cujas contas ficaram a cargo do Município",
+            "fonte": "p. 124",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": {
+            "valor": "autor",
+            "evidencia": "São crimes praticados por prefeitos, contudo podem ser cometidos por terceiro em coautoria, o que ocorre na espécie (CP, art. 29), e em continuidade delitiva (CP, art. 71).",
+            "fonte": "p. 127",
+            "confianca": "media"
+          },
+          "posicoes": [
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Por esses motivos, entendo que o réu deve ser absolvido em relação a esses crimes com base no art. 386, VII, do CPP.",
+                "fonte": "p. 57",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "O ponto controverso restringe-se a averiguar se há prova efetiva da utilização dessas linhas após o período em que ANDRÉ MOURA deixou de exercer o mandato de Prefeito.",
+                "fonte": "p. 51",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Portanto, concluo que a acusação não comprovou a prática dos crimes por parte do réu para além da denominada dúvida razoável. No âmbito da instrução processual, a tese defensiva demonstrou-se mais robusta e amparada nas provas dos autos.",
+                "fonte": "p. 57",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Lista de linhas 'absolutamente precária e pouco confiável' (p. 49); testemunhas de acusação sem conhecimento direto; testemunhas de defesa e interrogatório indicam devolução das linhas aos secretários após 2004 (p. 52-56); art. 386, VII, CPP.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ricardo Lewandowski",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Em outras palavras, a PGR não se desvencilhou do ônus de comprovar a prática criminosa, razão pela qual o réu deve ser absolvido, nos termos do art. 386, VII, do Código de Processo Penal.",
+                "fonte": "p. 86",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "A questão central consiste em saber se há prova efetiva da utilização das referidas linhas após o período em que o acusado deixou de exercer o mandato de Prefeito do citado Município.",
+                "fonte": "p. 83",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "o conjunto probatório é claramente insuficiente para a decretação do édito condenatório.",
+                "fonte": "p. 83",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Em sessão, declarou adesão integral ao Relator e dispensou a leitura (p. 67-68); o voto escrito juntado (p. 69-89) fundamenta, em grande parte reproduzindo trechos do voto do Relator (p. 83-86). Classificado como 'Sim' pelo voto escrito.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Alexandre de Moraes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "JULGO IMPROCEDENTE as Ações Penais promovidas contra ANDRÉ LUIZ DANTAS FERREIRA (APs 969, 973 e 974) para absolvê-lo da prática de todos os crimes que lhe foram imputados, com fundamento legal no art. 386, VII, do Código de Processo Penal.",
+                "fonte": "p. 97",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Relativamente à AP 973 (INQ 3.221), o Relator reforçou que o denunciado confirmou a versão apresentada pelas testemunhas quanto à desnecessidade de manter as linhas telefônicas da Prefeitura de Pirambu/SE",
+                "fonte": "p. 93-94",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Existem circunstâncias fáticas compatíveis com a acusação a ele imputada, os denominados “indícios\". Entretanto, não há prova da sua participação nos fatos, apenas suspeitas sérias, as quais bem justificaram o recebimento das denúncias.",
+                "fonte": "p. 95",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Fundamentação conjunta para as três APs, apoiada na síntese do Relator; declara acompanhar 'na íntegra' o Relator (p. 91), mas desenvolve fundamentação própria sobre insuficiência da prova judicial e presunção de inocência (p. 92-97).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Nunes Marques",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "julgo procedente a pretensão punitiva deduzida nas APs 973 e 974, para condenar o réu ANDRÉ LUIZ DANTAS FERREIRA, conhecido como deputado federal ANDRÉ MOURA, nas penas do art. 1º, I e II, do Decreto-Lei n. 201/1967, c/c os arts. 29 e 71 do Código Penal",
+                "fonte": "p. 126",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Esse argumento somente tem comprovação se for considerado período posterior a 23 de março de 2007. Logo, houve utilização irregular de bem público municipal.",
+                "fonte": "p. 124",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "resulta comprovado o teor da colaboração espontânea do ex-prefeito do Município de Pirambu/SE JUAREZ BATISTA DOS SANTOS, no sentido de ANDRÉ LUIZ DANTAS FERREIRA (ANDRÉ MOURA) haver utilizado, ilicitamente, as linhas telefônicas mencionadas, cujas contas ficaram a cargo do Município",
+                "fonte": "p. 124",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Apoia-se na lista de telefones entregue por Juarez, nas informações da VIVO (linhas em nome da Prefeitura até 23/03/2007) e no diálogo de 05/03/2007 captado na linha (79) 99822500 (p. 122-123).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Edson Fachin",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "JULGO PROCEDENTE A PRETENSÃO PUNITIVA ESTATAL para condenar ANDRÉ LUIZ DANTAS FERREIRA, como incurso nas penas [...] art. 1º, inciso I, do Decreto-Lei 201/67 (uso de linhas telefônicas móveis)",
+                "fonte": "p. 148",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Pelo que verifico dos autos, a materialidade e autoria estão devidamente comprovadas. Consta dos autos, documento que contém uma “lista de telefones que são pagos pela Prefeitura” (fls. 460-461, anexo 1), entre os quais constam os números utilizados pelo réu.",
+                "fonte": "p. 142",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Assim, não remanescem dúvidas acerca da utilização, pelo réu, de linhas de telefonia móvel de titularidade do Município de Pirambu, cujas despesas foram custeadas pela municipalidade durante o período de 10/1/2005 a 31/7/2007",
+                "fonte": "p. 144",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Em sessão ('Observação', p. 130-131) declarou adesão a Nunes Marques nas APs 973 e 974; o voto escrito fundamenta (p. 142-144). Capitula o fato da AP 973 apenas no art. 1º, I, do DL 201/67 (p. 142, 148).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Roberto Barroso",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Deste modo, estou julgando procedente o pedido, a acusação, nas três ações penais, na linha, como disse, do Ministro Nunes Marques, com a extensão dada pelo Ministro Edson Fachin.",
+                "fonte": "p. 159",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "o segundo depoimento, igualmente colhido em juízo e que, a meu ver, corrobora o que consta das denúncias, foi prestado por Adilton da Cunha Lustosa, servidor da prefeitura de Pirambu, em Sergipe, que confirmou [...] que o nome de André Moura figurava na lista de telefones pagos pela prefeitura.",
+                "fonte": "p. 157",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Portanto, Senhor Presidente e Senhores Ministros, penso que esses depoimentos colhidos judicialmente corroboram os depoimentos iniciais prestados pelas testemunhas e corroboram, na minha visão, o que foi deduzido na denúncia.",
+                "fonte": "p. 159",
+                "confianca": "media",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Voto oral não dividido por AP; acompanha a divergência de Nunes Marques e acrescenta depoimentos judiciais como corroboração que afasta o 'exclusivamente' do art. 155 do CPP (p. 153). A única passagem específica sobre o fato da AP 973 é a da lista de telefones (p. 157-158). Reservou a manifestação sobre dosimetria (p. 159).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Rosa Weber",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "acompanho a divergência na extensão inaugurada pelo eminente Ministro Edson Fachin, para julgar procedente a pretensão punitiva estatal e condenar o acusado ANDRÉ LUIZ DANTAS FERREIRA como incurso nas penas [...] art. 1º, inciso I, do Decreto-Lei 201/67 (uso de linhas telefônicas)",
+                "fonte": "p. 175-176",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "A prova é indicativa de que, mesmo depois do fim de sua gestão, em 31 de dezembro de 2004, o acusado manteve a utilização de linha telefônica arcada com recursos públicos municipais.",
+                "fonte": "p. 164",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "A fragilidade e os conflitos entre versões inviabilizam a tese defensiva. Em verdade, reforçam a inferência extraída da prova documental oriunda de registros da própria empresa de telefonia, corroborando a manutenção de linhas telefônicas arcadas pelo erário municipal, mesmo depois do fim do mandato do acusado como prefeito municipal.",
+                "fonte": "p. 167",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Enfrenta e rejeita a tese defensiva de transferência das linhas a secretários (p. 164-167). Fundamenta a tipicidade no art. 1º, II ('utilizar-se, indevidamente') e a participação de terceiro não prefeito pelo art. 29 do CP (p. 167), mas o dispositivo, seguindo Fachin, cita o art. 1º, I (p. 176).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cármen Lúcia",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Pelo exposto, voto no sentido de julgar procedentes os pedidos formulados nas Ações Penais ns. 974 e 973, nos termos do voto do Ministro Nunes Marques",
+                "fonte": "p. 205",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Está comprovado, assim, que o réu concorreu para a prática do crime previsto nos incs. I e II do art. 1º do Decreto-Lei n. 201/1967.",
+                "fonte": "p. 200",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "As provas dos autos demonstram que, entre 2005 e 2007, período no qual não ocupava qualquer cargo público no Município de Pirambu/SE, André Moura utilizou linhas telefônicas custeadas pelo Município.",
+                "fonte": "p. 200",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Em sessão ('Antecipação ao Voto', p. 177-178) acompanhou a divergência na extensão de Fachin e juntou voto escrito sem leitura; o voto escrito fundamenta (p. 197-200): Ofício 459/2007, depoimento de Adilton confirmado em juízo, dados da VIVO e quebra de sigilo de 05/03/2007.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Luiz Fux",
+              "voto_resultado": {
+                "valor": "Condena",
+                "evidencia": "Com a vênia do eminente Relator, acompanho a divergência inaugurada pelo Ministro Nunes Marques, para julgar procedente a acusação, na linha do aprofundado voto de Sua Excelência e dos ministros que o acompanharam.",
+                "fonte": "p. 208-209",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Nada obstante, os registros telefônicos juntados aos autos revelam que o terminal estava no nome do réu André Moura, que foi quem atendeu diretamente à ligação, tornando implausível sua alegação.",
+                "fonte": "p. 210",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "sim",
+                "evidencia": "Demais disso, foi o réu, titular da linha, o beneficiário final dos pagamentos das faturas, realizados pela prefeitura.",
+                "fonte": "p. 210",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Rejeita a tese defensiva de que o réu só atendeu ligação no aparelho de Cláudio Rangel (p. 210). O dispositivo final diz 'julgo procedente a Ação Penal' (singular, p. 211).",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Dias Toffoli",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "vencidos os Ministros Gilmar Mendes (Relator), Ricardo Lewandowski (Revisor), Dias Toffoli e Alexandre de Moraes.",
+                "fonte": "p. 224",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": null,
+                "evidencia": null,
+                "fonte": null,
+                "confianca": null
+              },
+              "posicao": {
+                "valor": null,
+                "evidencia": null,
+                "fonte": null,
+                "confianca": null,
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Sem nenhuma peça própria no acórdão; aparece apenas como presente e entre os vencidos (acórdão p. 3; extrato de ata p. 224-225). Não há texto dizendo a quem acompanhou, por isso 'enfrentou' e 'posicao' ficam null (não inferido).",
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Nunes Marques",
+          "tipo": "precedente_citado",
+          "referencia": "RHC 117.192, Primeira Turma, Relatora a ministra Rosa Weber, j. em 3 de setembro de 2013",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "O art. 155 do Código de Processo Penal não impede que o juiz, para a formação de sua livre convicção, considere elementos informativos colhidos na fase de investigação criminal, vedada a condenação fundamentada exclusivamente em tais provas.",
+          "fonte": "p. 103"
+        },
+        {
+          "ministro": "Nunes Marques",
+          "tipo": "precedente_citado",
+          "referencia": "HC 185744 AgR, Primeira Turma, Relator o ministro Luiz Fux, j. em 22 de junho de 2020",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "O juízo condenatório lastreado em outros elementos de prova, além das informações constantes do inquérito policial, guarda consonância com o artigo 155 do Código de Processo Penal.",
+          "fonte": "p. 104"
+        },
+        {
+          "ministro": "Nunes Marques",
+          "tipo": "precedente_citado",
+          "referencia": "RHC 192.283 AgR, Segunda Turma, Relator o ministro Ricardo Lewandowski, j. em 11 de novembro de 2020",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "os elementos do inquérito podem influir na formação do livre convencimento do juiz para a decisão da causa quando complementam outros indícios e provas que passam pelo crivo do contraditório em juízo",
+          "fonte": "p. 105"
+        },
+        {
+          "ministro": "Alexandre de Moraes",
+          "tipo": "distincao",
+          "referencia": "AP 470/MG (votos dos Min. Cezar Peluso e Luiz Fux, RTJ 225, Tomo II)",
+          "sentido": "para_afastar",
+          "proprio_ministro": "Nao",
+          "evidencia": "os indícios, quando congruentes e harmônicos com provas judiciais encartadas aos autos, autorizam, por vezes, a conclusão acerca da autoria criminosa, conforme ensinamento deste SUPREMO TRIBUNAL FEDERAL, na famosa AP 470/MG [...] Entretanto, no caso concreto em julgamento, os elementos indiciários que serviram para o recebimento das denúncias não foram confirmados pela prova produzida sob o crivo do contraditório",
+          "fonte": "p. 94"
+        },
+        {
+          "ministro": "Alexandre de Moraes",
+          "tipo": "precedente_citado",
+          "referencia": "STF, HC 89.501/GO, Rel. Min. CELSO DE MELLO, Segunda Turma; HC 97.701/MS, Rel. Min. AYRES BRITTO, Segunda Turma; HC 88.875/AM, Rel. Min. CELSO DE MELLO, Segunda Turma",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Há a necessidade de o Estado-acusador comprovar a culpabilidade do indivíduo mediante o contraditório, que é constitucionalmente presumido inocente",
+          "fonte": "p. 96"
+        },
+        {
+          "ministro": "Alexandre de Moraes",
+          "tipo": "precedente_citado",
+          "referencia": "HC 121.405/MG, em 19/3/2014, de relatoria da Min. ROSA WEBER",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "\"ser reconhecida a presença de prova acima de qualquer dúvida razoável. (...) A presunção de inocência, ou de não culpabilidade, é princípio cardeal no processo penal em um Estado Democrático de Direito.\"",
+          "fonte": "p. 96-97"
+        },
+        {
+          "ministro": "Alexandre de Moraes",
+          "tipo": "precedente_citado",
+          "referencia": "AP 858/DF, Pleno, trecho do voto do Min. Celso de Mello",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "\"nenhuma acusação penal se presume provada.",
+          "fonte": "p. 97"
+        },
+        {
+          "ministro": "Alexandre de Moraes",
+          "tipo": "precedente_citado",
+          "referencia": "AP 869/AL, Segunda Turma, Rel. Min. TEORI ZAVASCKI, j. 29/9/2015, e HC 73.338-7/RJ, Primeira Turma, Rel. Min. CELSO DE MELLO",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Com efeito, o estado de dúvida obstaculiza o juízo condenatório",
+          "fonte": "p. 97"
+        },
+        {
+          "ministro": "Rosa Weber",
+          "tipo": "precedente_citado",
+          "referencia": "Recebimento da denúncia pela Segunda Turma nestes autos (fls. 2671-99)",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "Por ocasião do recebimento da denúncia, a Segunda Turma enfrentou o argumento e reputou que ele não tem o condão de afastar a prática delitiva, ali analisada ainda em tese (fls. 2671-99)",
+          "fonte": "p. 166"
+        }
+      ],
+      "obs": "Voto condutor: Nunes Marques, Redator do acórdão (p. 3), que também fundamenta a razão de decidir sobre o fato da AP 973 (p. 121-124); a atribuição do acórdão e a fundamentação coincidem. Placar 6 x 4 (condenação), idêntico ao do banco para todos os 10 votantes; nenhuma divergência de voto_resultado. Julgamento conjunto das APs 969, 973 e 974 com ementa, relatório e votos comuns; o acórdão e o extrato de ata (p. 3, 224) referem-se às APs 973 e 974 em conjunto, com pena única por continuidade (sem dosimetria isolada da AP 973, p. 127-128). Em 30/09/2021 (p. 212-223), Lewandowski e Gilmar Mendes registraram que os vencidos no mérito não votaram a dosimetria das APs 973 e 974; o ponto não toca a questão decisiva."
+    }
+  ],
+  "avisos": [
+    "Dias Toffoli não tem nenhuma peça no acórdão. O resultado (Absolve) vem só da lista de vencidos (p. 3, 224). 'enfrentou_a_questao' e 'posicao' ficaram null porque não há texto dizendo a quem ele acompanhou; inferir adesão ao Relator violaria a regra de evidência.",
+    "Classifiquei como 'concorreu' (confiança média): a pergunta que separou o placar é se o réu efetivamente usou as linhas pagas pelo Município depois de deixar a prefeitura (quem usou: o réu ou os secretários a quem as linhas teriam passado). Fachin a chama de 'materialidade e autoria' (p. 142), o que mistura materialidade com autoria. Nenhum voto discute dolo.",
+    "O valor da prova do inquérito (art. 155 do CPP) foi arguido como preliminar e rejeitado por todos (Relator p. 16-24; Moraes p. 91-92; Nunes Marques p. 102-106), por isso não foi registrado como questão (R6). Mesmo assim, é o eixo pelo qual Barroso (p. 152-153), Cármen Lúcia (p. 177) e Moraes (p. 92-95) explicam a divergência: os depoimentos do inquérito foram ou não corroborados em juízo ou por documentos? Pode ser candidata a categoria 'outra' (corroboração judicial de prova inquisitorial) numa revisão do codebook. Os precedentes de Nunes Marques sobre o art. 155 (p. 103-105) foram listados por servirem de base à valoração da prova desta unidade, embora estejam na seção de preliminar.",
+    "Capitulação: o acórdão e Nunes Marques condenam pelo art. 1º, I e II, do DL 201/67. Fachin (p. 142, 148) e Rosa Weber no dispositivo (p. 176) citam só o inciso I para o fato dos telefones, mas Rosa fundamenta a tipicidade no inciso II (p. 167).",
+    "Lewandowski e Cármen Lúcia declararam adesão oralmente (p. 67-68; p. 177-178) e juntaram votos escritos não lidos que fundamentam; foram classificados como 'Sim' pelo voto escrito. Fachin também declarou adesão oral (p. 130-131) antes do voto escrito.",
+    "Barroso não divide o voto por AP; a passagem específica sobre a AP 973 se limita ao depoimento de Adilton sobre a lista de telefones (p. 157-158). Por isso, enfrentamento e posição têm confiança média.",
+    "Inconsistências materiais do original, sem efeito na classificação: Moraes grafa '(RELATOR)' (p. 90) e 'portabilidade ... em 2017' (p. 94), enquanto o Relator diz 2007 (p. 54); o prejuízo aparece como R$ 40.837,65 (relatório p. 9; Fux p. 207) e como R$ 21.718,17 (Gilmar p. 48; Nunes Marques p. 121); o dispositivo de Fux fala em 'a Ação Penal' no singular (p. 211).",
+    "padrao_dolo_exigido ficou null porque a única questão é 'concorreu'. modo_concurso = 'autor' segue a 'coautoria' de Nunes Marques (p. 127); Rosa Weber fala em 'participação de terceiros, na forma do art. 29' (p. 167) e Cármen em 'concorreu', o que deixa margem para 'participe'."
+  ]
+}

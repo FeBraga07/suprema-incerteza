@@ -1,0 +1,760 @@
+{
+  "id_caso": "AP-375",
+  "lido_em": "2026-10-12",
+  "paginas_lidas": "1-9 (todas)",
+  "unidades": [
+    {
+      "id_unidade": "AP-375-R01-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Marco Aurélio",
+        "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+        "fonte": "p. 2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "O denunciado JACKSON BARRETO efetuou destinação diversa da prevista no contrato firmado com a Sociedade JACUARACY CONSTRUÇÕES E SANEAMENTO LTDA, mas esta foi revertida a favor da própria municipalidade. Tal conduta não se amolda aos preceitos do art. 312 do",
+            "fonte": "p. 6",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": "A conduta provada preenche as elementares do peculato (art. 312 CP), isto é, houve apropriação ou desvio da verba pública em proveito próprio ou alheio, ou o emprego da verba em destinação diversa da programada, revertido em favor do próprio ente público, é atípico como peculato?",
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "É como voto, ou seja, absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal",
+            "fonte": "p. 8",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Longe fica de configurar crime peculato. o emprego de verba pública em obra diversa da programada, fazendo-se ausente quer a apropriação, quer o desvio em proveito próprio ou alheio.",
+            "fonte": "p. 1"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "É como voto, ou seja, absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal",
+            "fonte": "p. 8",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "É como voto, ou seja, absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal",
+                "fonte": "p. 8",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Valho-me do que assentado pelo titular da ação penal para concluir pela absolvição do acusado Jackson Barreto:",
+                "fonte": "p. 5",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "O denunciado JACKSON BARRETO efetuou destinação diversa da prevista no contrato firmado com a Sociedade JACUARACY CONSTRUÇÕES E SANEAMENTO LTDA, mas esta foi revertida a favor da própria municipalidade. Tal conduta não se amolda aos preceitos do art. 312 do",
+                "fonte": "p. 6",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "O relator fundamenta adotando como razão de decidir a manifestação do MPF (p. 5-7): 'mera irregularidade administrativa', desvio 'em favor do próprio ente público'; absolvição pelo art. 386, III, CPP.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Revisora (p. 3, p. 9), sem peça própria no acórdão; contada na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Sepúlveda Pertence",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Carlos Velloso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Nelson Jobim",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "baixa",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Presidiu o julgamento (p. 9) e assina o acórdão como presidente (p. 2); o texto não diz se votou — inclusão como votante segue o banco.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Marco Aurélio",
+          "tipo": "precedente_citado",
+          "referencia": "TJSP: RT 490/293",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "\"Quando o desvio de verba se verifica em favor do próprio ente público, com utilização diversa da prevista [...] ocorre o emprego irregular de verba e não o peculato, delito que não pode mais ser apurado se prescrito\" (TJSP: RT 490/293).",
+          "fonte": "p. 6"
+        }
+      ],
+      "obs": "O relator não redige fundamentação própria: 'Valho-me do que assentado pelo titular da ação penal' (p. 5) e transcreve a manifestação do MPF (p. 5-7), que pede absolvição pelo art. 386, III, CPP. A questão é de tipicidade (fato provado não constitui peculato), não de dolo nem de autoria: o próprio texto admite que o réu deu destinação diversa à verba. Precedente citado dentro do parecer do MPF adotado pelo relator."
+    },
+    {
+      "id_unidade": "AP-375-R01-I02",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": "O art. 315 não aparece como imputação da denúncia no texto legível; surge no parecer do MPF adotado pelo relator como tipificação alternativa, afastada por ausência de lei prevendo a destinação (p. 6). O dispositivo da decisão (p. 8-9) não separa as tipificações.",
+      "voto_condutor": {
+        "valor": "Marco Aurélio",
+        "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+        "fonte": "p. 2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "conduta poderia caracterizar o crime descrito no artigo 315 CP - Emprego irregular de verbas públicas - se a destinação fosse prevista em LEI; o que não é o caso.",
+            "fonte": "p. 6",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": "Havia lei, em sentido formal e material, prevendo a destinação da verba pública empregada de modo diverso, como exige a configuração do emprego irregular de verba pública (art. 315 CP)?",
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "A configuração do crime tipificado no artigo 315 Código penal não prescinde da existência de lei, em sentido formal e material, a prever a destinação da verba.",
+            "fonte": "p. 1",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "conduta poderia caracterizar o crime descrito no artigo 315 CP - Emprego irregular de verbas públicas - se a destinação fosse prevista em LEI; o que não é o caso.",
+            "fonte": "p. 6"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "conduta poderia caracterizar o crime descrito no artigo 315 CP - Emprego irregular de verbas públicas - se a destinação fosse prevista em LEI; o que não é o caso.",
+            "fonte": "p. 6",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "É como voto, ou seja, absolvendo Jackson Barreto de Lima, considerado o disposto no artigo 386, inciso III, do Código de Processo Penal",
+                "fonte": "p. 8",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "Valho-me do que assentado pelo titular da ação penal para concluir pela absolvição do acusado Jackson Barreto:",
+                "fonte": "p. 5",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "conduta poderia caracterizar o crime descrito no artigo 315 CP - Emprego irregular de verbas públicas - se a destinação fosse prevista em LEI; o que não é o caso.",
+                "fonte": "p. 6",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Fundamentação por adoção da manifestação do MPF, que transcreve Mirabete: o crime exige 'destinação preceituada em lei'. No caso a destinação estava prevista em contrato de empreitada, não em lei.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Revisora (p. 3, p. 9), sem peça própria no acórdão; contada na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Sepúlveda Pertence",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Carlos Velloso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Nelson Jobim",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "baixa",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Presidiu o julgamento (p. 9) e assina o acórdão como presidente (p. 2); o texto não diz se votou — inclusão como votante segue o banco.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Absolve",
+                "evidencia": "Tribunal, por unanimidade, julgou improcedente a ação penal contra o réu Jackson Barreto de Lima, absolvendo-o,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [
+        {
+          "ministro": "Marco Aurélio",
+          "tipo": "precedente_citado",
+          "referencia": "TJSP: RT 490/293",
+          "sentido": "para_seguir",
+          "proprio_ministro": "Nao",
+          "evidencia": "\"Quando o desvio de verba se verifica em favor do próprio ente público, com utilização diversa da prevista [...] ocorre o emprego irregular de verba e não o peculato, delito que não pode mais ser apurado se prescrito\" (TJSP: RT 490/293).",
+          "fonte": "p. 6"
+        }
+      ],
+      "obs": "Resultado da unidade é o mesmo da R01-I01 (absolvição, art. 386, III, CPP); a ementa (p. 1) registra a tese sobre o art. 315 separadamente. O precedente TJSP é usado para dizer que o desvio em favor do ente público seria emprego irregular, e não peculato; o afastamento do 315 vem em seguida, pela falta de lei."
+    },
+    {
+      "id_unidade": "AP-375-R02-I01",
+      "escopo_levcovitz": {
+        "valor": "Sim",
+        "evidencia": null,
+        "fonte": "banco",
+        "confianca": "alta"
+      },
+      "ajuste_unidade": null,
+      "voto_condutor": {
+        "valor": "Marco Aurélio",
+        "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+        "fonte": "p. 2",
+        "confianca": "alta"
+      },
+      "questoes": [
+        {
+          "questao_decisiva": {
+            "valor": "outra",
+            "evidencia": "seja concedido habeas de ofício para assentar a inexistência de justa causa, presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima.",
+            "fonte": "p. 7",
+            "confianca": "alta"
+          },
+          "questao_outra_descricao": "A conduta provada preenche as elementares do peculato (art. 312 CP), isto é, houve apropriação ou desvio da verba pública em proveito próprio ou alheio, ou o emprego da verba em destinação diversa da programada, revertido em favor do próprio ente público, é atípico como peculato?",
+          "principal": {
+            "valor": "Sim",
+            "evidencia": "seja concedido habeas de ofício para assentar a inexistência de justa causa, presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima.",
+            "fonte": "p. 7",
+            "confianca": "alta"
+          },
+          "formulacao": {
+            "valor": "Longe fica de configurar crime peculato. o emprego de verba pública em obra diversa da programada, fazendo-se ausente quer a apropriação, quer o desvio em proveito próprio ou alheio.",
+            "fonte": "p. 1"
+          },
+          "resposta_tribunal": {
+            "valor": "nao",
+            "evidencia": "seja concedido habeas de ofício para assentar a inexistência de justa causa, presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima.",
+            "fonte": "p. 7",
+            "confianca": "alta"
+          },
+          "padrao_dolo_exigido": null,
+          "modo_concurso": null,
+          "posicoes": [
+            {
+              "ministro": "Marco Aurélio",
+              "voto_resultado": {
+                "valor": "Concede habeas corpus de ofício e tranca a ação penal (não absolve)",
+                "evidencia": "o caso não sugere a absolvição no julgamento da ação penal. [...] e, no tocante ao co-réu, concedendo o habeas de ofício, trancando a ação penal por falta de justa causa",
+                "fonte": "p. 7-8",
+                "confianca": "alta"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Sim",
+                "evidencia": "seja concedido habeas de ofício para assentar a inexistência de justa causa, presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima.",
+                "fonte": "p. 7",
+                "confianca": "alta"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "seja concedido habeas de ofício para assentar a inexistência de justa causa, presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima.",
+                "fonte": "p. 7",
+                "confianca": "alta",
+                "inferida_de": null
+              },
+              "posicao_detalhe": "Mesma atipicidade reconhecida para Jackson, estendida ao corréu 'ante a identidade de fato'; o meio processual é o HC de ofício (trancamento), e não a absolvição, por dúvida sobre a validade da citação.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Ellen Gracie",
+              "voto_resultado": {
+                "valor": "Concede habeas corpus de ofício e tranca a ação penal (não absolve)",
+                "evidencia": "relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Revisora (p. 3, p. 9), sem peça própria no acórdão; contada na unanimidade da ata.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Sepúlveda Pertence",
+              "voto_resultado": {
+                "valor": "Concede habeas corpus de ofício e tranca a ação penal (não absolve)",
+                "evidencia": "relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Carlos Velloso",
+              "voto_resultado": {
+                "valor": "Concede habeas corpus de ofício e tranca a ação penal (não absolve)",
+                "evidencia": "relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Nelson Jobim",
+              "voto_resultado": {
+                "valor": "Concede habeas corpus de ofício e tranca a ação penal (não absolve)",
+                "evidencia": "relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa,",
+                "fonte": "p. 9",
+                "confianca": "baixa"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "baixa"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "baixa",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Presidiu o julgamento (p. 9) e assina o acórdão como presidente (p. 2); o texto não diz se votou — inclusão como votante segue o banco.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Gilmar Mendes",
+              "voto_resultado": {
+                "valor": "Concede habeas corpus de ofício e tranca a ação penal (não absolve)",
+                "evidencia": "relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Cezar Peluso",
+              "voto_resultado": {
+                "valor": "Concede habeas corpus de ofício e tranca a ação penal (não absolve)",
+                "evidencia": "relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            },
+            {
+              "ministro": "Joaquim Barbosa",
+              "voto_resultado": {
+                "valor": "Concede habeas corpus de ofício e tranca a ação penal (não absolve)",
+                "evidencia": "relação ao co-réu Arnaldo Arcanjo da Silva, concedeu habeas corpus de ofício para trancar a ação penal por falta de justa causa,",
+                "fonte": "p. 9",
+                "confianca": "media"
+              },
+              "enfrentou_a_questao": {
+                "valor": "Adesao",
+                "evidencia": "trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media"
+              },
+              "posicao": {
+                "valor": "nao",
+                "evidencia": "Inferida: acompanhou o relator (unanimidade, 'nos termos do voto do relator'). trancar a ação penal por falta de justa causa, tudo nos termos do voto do relator.",
+                "fonte": "p. 2",
+                "confianca": "media",
+                "inferida_de": "Marco Aurélio"
+              },
+              "posicao_detalhe": "Sem peça própria no acórdão; contado na unanimidade da ata; acórdão decide 'nos termos do voto do relator'.",
+              "fundamento_proprio": null
+            }
+          ]
+        }
+      ],
+      "precedentes": [],
+      "obs": "DIVERGÊNCIA COM O BANCO: o banco registra 'Absolve' para todos os votantes quanto a Arnaldo Arcanjo da Silva, mas o texto não absolve: concede habeas corpus de ofício e tranca a ação penal por falta de justa causa (voto p. 7-8; acórdão p. 1-2; ata p. 9). O relator diz expressamente que 'o caso não sugere a absolvição' por haver dúvida quanto à validade da citação por edital (p. 7). A razão material do trancamento é a mesma atipicidade reconhecida para Jackson ('presente a atipicidade da conduta, tal como aduzido pelo titular da ação penal quanto a Jackson Barreto de Lima', p. 7). O vício de citação foi tratado como questão processual (R6) e não registrado como questão decisiva. Lista de precedentes vazia porque o voto, para este réu, remete à fundamentação de Jackson sem citar decisão anterior própria."
+    }
+  ],
+  "avisos": [
+    "AP-375-R02-I01: voto_resultado registrado como 'Concede habeas corpus de ofício e tranca a ação penal (não absolve)', fora do par Condena/Absolve do schema, porque é o que o texto diz; o banco registra Absolve.",
+    "Ministros que não o relator: sem peça própria; posição registrada como Adesao inferida do relator a partir de 'por unanimidade' e 'tudo nos termos do voto do relator' (p. 1-2, p. 9).",
+    "Nelson Jobim: presidiu o julgamento e não consta da lista de 'Presentes' além da presidência; o texto não diz se votou. Mantido como votante (Adesao, confiança baixa) porque o banco o lista com voto.",
+    "Ayres Britto (suspeição, grafado 'Britto'), Eros Grau (ausente neste julgamento) e Celso de Mello (ausente justificadamente) não votaram (p. 9); sem entrada em posicoes.",
+    "As duas questões (tipicidade do peculato e ausência de lei para o art. 315) não cabem em dolo nem concorreu: são questões de tipicidade (art. 386, III, CPP — 'não constituir o fato infração penal'). Sugere-se ao codebook uma categoria 'tipicidade' (o fato provado configura o tipo penal imputado?).",
+    "O parecer do MPF adotado pelo relator também afasta o art. 1º, I, do Decreto-Lei 201/67 (p. 6), que não está entre as unidades a preencher.",
+    "Texto com OCR muito fragmentado nas p. 3-7 (palavras e linhas omitidas); as transcrições literais preservam o texto como extraído, unindo apenas quebras de linha. O artigo da imputação de Arnaldo não é legível no relatório (p. 3), coerente com a nota do banco.",
+    "O relatório (p. 4) registra que o MPF pediu desmembramento quanto a Arnaldo; o relator rejeitou por celeridade e economia processuais (p. 7) e decidiu pelo HC de ofício."
+  ]
+}
