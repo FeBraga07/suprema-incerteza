@@ -1,6 +1,6 @@
 # Codebook da leitura da fundamentação dos votos
 
-Este documento reproduz o instrumento da leitura da fundamentação descrita na seção 3.5 do trabalho, na versão aplicada à base final. As categorias e as regras foram definidas pelo autor a partir da leitura de três acórdãos (AP 426, AP 416 e AP 409) e revistas depois da primeira leitura do conjunto, quando foram acrescentadas as categorias de tipicidade e de ato de ofício e as regras 8, 9 e 11 a 21 abaixo. A numeração das regras segue a ordem temática; o arquivo de trabalho, neste repositório, preserva a numeração e a data originais de cada regra.
+Este documento reproduz o instrumento da leitura da fundamentação descrita na seção 3.5 do trabalho, tal como foi aplicado à base final. As categorias e as regras foram definidas pelo autor a partir da leitura de três acórdãos (AP 426, AP 416 e AP 409) e revistas depois da primeira leitura do conjunto, quando foram acrescentadas as categorias de tipicidade e de ato de ofício e as regras 8, 9 e 11 a 21 abaixo. A numeração das regras segue a ordem temática; o arquivo de trabalho, neste repositório, preserva a numeração e a data originais de cada regra.
 
 ## B.1 Unidade e registro
 
@@ -41,7 +41,7 @@ Em todas as categorias a resposta é sim ou não, e o "sim" significa que o elem
 | 8 | Quando as duas perguntas separam o placar exatamente do mesmo modo, as duas são principais. | R5c |
 | 9 | Quando nenhum fundamento, sozinho, reúne os votos necessários para formar o resultado, as duas questões que o formam são principais, e registram-se o fundamento do voto condutor e o do desempate. | R12 |
 | 10 | Preliminares afastadas por todos, como a prescrição rejeitada no início do voto, não são questão decisiva. | R6 |
-| 11 | Quando os votos se separam na própria preliminar, por exemplo parte declara a prescrição e parte examina o mérito, ela é a pergunta principal pela regra 6. | R6b |
+| 11 | Quando os votos se separam na própria preliminar, por exemplo, quando parte declara a prescrição e parte examina o mérito, ela é a pergunta principal pela regra 6. | R6b |
 | 12 | Quando a única questão enfrentada é a prescrição, declarada por todos, a unidade fica sem questão decisiva, pois não há posição de mérito a comparar. | R6c |
 | 13 | A questão declarada prejudicada pelo voto condutor não é questão decisiva. | R10 |
 | | **Registro do voto de cada ministro** | |
